@@ -19,7 +19,7 @@ pygmentsCodeFences = true
 
 # Site Params
 [params]
-logo = "images/logo_pmi_kuj_pom_resized.png"
+logo = "images/pmcc_logo_bar_small.png"
 logo_pmi = "images/logo_pmi_kuj_pom_50.png"
 logo_umk = "images/logo_WNEiZ_UMK_50.png"
 
