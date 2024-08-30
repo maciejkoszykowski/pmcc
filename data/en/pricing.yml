@@ -4,6 +4,28 @@ title   : Bilety
 subtitle : Do 30 września masz możliwość zakupić bilety w promocji Early Birds. 
 
 item  :
+  - name        : Bilet Standard Early Bird
+    price       : 249 PLN
+    description :
+    featurelist :
+      - item: cena tylko do 30 września 2024
+      - item: udział we wszystkich prelekcjach podczas konferencji w dniu 26 października
+      - item: poczęstunek w trakcie przerw
+      - item: warsztat oddzielnie płatny 
+    btnText     : Kup Bilet
+    btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pmconnectconf/
+
+  - name        : Bilet Standard 
+    price       : 349 PLN
+    description :
+    featurelist :
+      - item: cena od 1 października 2024 
+      - item: udział we wszystkich prelekcjach podczas konferencji w dniu 26 października
+      - item: poczęstunek w trakcie przerw
+      - item: warsztat oddzielnie płatny 
+    btnText     : Kup Bilet
+    btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pmconnectconf/
+    
   - name        : Absolwent UMK Project Management
     price       : O PLN
     description : 
@@ -29,17 +51,7 @@ item  :
     btnText     : Kup Bilet
     btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pmconnectconf/
 
-  - name        : Bilet Standard Early Bird
-    price       : 249 PLN
-    description :
-    featurelist :
-      - item: cena tylko do 30 września 2024
-      - item: udział we wszystkich prelekcjach podczas konferencji w dniu 26 października
-      - item: poczęstunek w trakcie przerw
-      - item: warsztat oddzielnie płatny 
-    btnText     : Kup Bilet
-    btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pmconnectconf/
-  
+
   - name        : Bilet Zniżkowy 
     price       : 249 PLN
     description : 
@@ -54,14 +66,5 @@ item  :
     btnText     : Kup Bilet
     btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pmconnectconf/
 
-  - name        : Bilet Standard 
-    price       : 349 PLN
-    description :
-    featurelist :
-      - item: cena od 1 października 2024 
-      - item: udział we wszystkich prelekcjach podczas konferencji w dniu 26 października
-      - item: poczęstunek w trakcie przerw
-      - item: warsztat oddzielnie płatny 
-    btnText     : Kup Bilet
-    btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pmconnectconf/
+
 
