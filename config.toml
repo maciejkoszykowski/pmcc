@@ -143,7 +143,7 @@ weight = 5
 
 [[menu.nav]]
 name = "Regulamin"
-url = "service/"
+url = "regulamin"
 weight = 5
 
 
@@ -174,5 +174,5 @@ url = "Polityka-ciasteczek.pdf"
 weight = 2
 [[menu.quicklink]]
 name = "Regulamin"
-url = "service"
+url = "regulamin"
 weight = 3
