@@ -1,3 +1,178 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://pmcc.pmi.org.pl"
+languageCode = "en-us"
+title = "PM Connect Conf"
+theme = "navigator-hugo"
+summaryLength = 10
+
+# Build robots.txt file
+enableRobotsTXT = true
+# google analytics tracking id
+googleAnalytics = "" # your analitics ID
+
+enableGitInfo = false
+pygmentsCodeFences = true
+
+# Multilangues setup
+# Renders the default content language in subdir, e.g. /en/. The root directory / will redirect to /en/
+# defaultContentLanguageInSubdir = true
+# DefaultContentLanguage = "en"
+
+# Site Params
+[params]
+logo = "images/logo_pmi_kuj_pom_resized.png"
+logo_pmi = "images/logo_pmi_kuj_pom_50.png"
+logo_umk = "images/logo_WNEiZ_UMK_50.png"
+
+# Gestion des langues : FR / EN / NL / DE
+# [[Params.listeLangues]]
+# code = "fr"
+# [[Params.listeLangues]]
+#code = "en"
+
+# meta data
+author = "Themefisher"
+description = "This is meta description"
+
+############# 2 - Site en ENGLISH
+
+languageCode = "pl"
+title = "Example site multi-language"
+dateFormat = "January 2, 2006"
+home = "Home"
+menufixed = false
+
+footerServiceTitle = "images/poland_logo-small.png"
+footerQuicklinkTitle = "Mapa Strony"
+footerAboutTitle = "Organizator"
+PMI_PC="PMI Poland Chapter"
+PMI_PC_pl="(PMI Oddział Polski)"
+PMI_PC_address_ul="ul. Domaniewska 47/10"
+PMI_PC_address_code="02-672 Warszawa"
+PMI_PC_NIP= "NIP: 525-227-89-73"
+
+footerSubscribeTitle = "Subscribe"
+
+
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
+
+# Hero Area Section
+[params.hero]
+enable = true
+heading = "PM Connect Conf 2024"
+description = "Sztuczna inteligencja w zarządzaniu projektami to już rzeczywistość"
+button = true
+btnText = "Kup Bilet"
+btnURL = "https://pmipolandchapter.ticketbutler.io/en/e/pmconnectconf/"
+#videoThumb = "images/slider/video-player-thumb.jpg"
+videoThumb = "images/DSC_3214_slider.jpg"
+videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
+
+# About 2 Section
+[params.aboutSm]
+enable = true
+title = "Szansa na poszerzenie praktycznej wiedzy i poznanie ciekawych ludzi"
+description = "**PM Connect Conf** to dynamiczna inicjatywa współorganizowana przez **kujawsko-pomorski oddział PMI Poland Chapter** oraz **Wydział Nauk Ekonomicznych i Zarządzania UMK w Toruniu.**"
+
+description2 = "Tegoroczna edycja odbywa się pod hasłem **„sztuczna inteligencja w zarządzaniu projektami to już rzeczywistość”**, które stanowi punkt wyjścia do eksploracji nowoczesnych transformacji w zarządzaniu projektami. Podczas konferencji uczestnicy będą mieli okazję zgłębić najnowsze trendy, technologie i rozwiązania związane z AI, które rewolucjonizują branżę."
+
+description3 = "PM Connect Conf to nie tylko wyjątkowa szansa na poszerzenie praktycznej wiedzy z zakresu project managementu, ale także okazja do inspirującego networkingu w gronie profesjonalistów. Dzięki spotkaniu z ekspertami i liderami branży, uczestnicy będą mogli wymienić się doświadczeniami i nawiązać wartościowe kontakty, które mogą przyczynić się do dalszego rozwoju ich kariery zawodowej."
+
+# Blog Section On Homepage
+[params.blog]
+enable = false
+topTitle = "OUR UNTOLD STORY"
+title = "Blog."
+subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+
+# Contact Section
+[params.contact]
+enable = true
+topTitle = "PM Connnect Conf"
+title = "Miejsce konferencji"
+subtitle = " "
+address = "Wydział Nauk Ekonomicznych i Zarządzania"
+address_line2 = "UMK w Toruniu"
+address_line3 = "ul. Gagarina 13a, 87-100 Toruń"
+phone = "+48 790 778 940"
+#fax = "+61 3827 3590"
+facebook = "https://www.facebook.com/"
+#twitter = "https://twitter.com/"
+linkedin = "https://www.linkedin.com/"
+#dribbble = "https://dribbble.com/"
+#instagram = "https://www.instagram.com/"
+mapLatitude =  "53.02148"
+mapLongitude = "18.57073"
+mapMarker = "images/marker.png"
+
+# Call to Action Section on About Page
+[params.cta]
+enable = false
+bg = "images/call-to-action/call-to-action-bg-2.jpg"
+title = "Let's Create Something Together"
+subtitle = "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
+btnText = "Contact Us"
+
+# We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
+
+# Site Menus
+[menu]
+# Navbar Menus
+[[menu.nav]]
+name = "Prelegenci"
+url = "#Prelegenci"
+weight = 2
+[[menu.nav]]
+name = "Agenda"
+url = "#Agenda"
+weight = 3
+[[menu.nav]]
+name = "Bilety"
+url = "#Bilety"
+weight = 3
+[[menu.nav]]
+name = "Partnerzy"
+url = "#Partnerzy"
+weight = 4
+[[menu.nav]]
+name = "Zespół"
+url = "#Zespol"
+weight = 5
+
+[[menu.nav]]
+name = "Regulamin"
+url = "service/"
+weight = 5
+
+
+# Footer Service Menu
+[[menu.service]]
+name = "graphicdesign"
+url = "service/"
+weight = 1
+[[menu.service]]
+name = "webdesign"
+url = "service/"
+weight = 2
+[[menu.service]]
+name = "webdevelopment"
+url = "service/"
+weight = 3
+
+
+
+# Footer Quick links Menu
+[[menu.quicklink]]
+name = "Polityka prywatności"
+url = "Polityka-prywatnosci.pdf"
+weight = 1
+[[menu.quicklink]]
+name = "Polityka ciasteczek"
+url = "Polityka-ciasteczek.pdf"
+weight = 2
+[[menu.quicklink]]
+name = "Regulamin"
+url = "service"
+weight = 3

@@ -1,0 +1,29 @@
+enable  : true
+
+topTitle: PM Connect Conf
+title   : Prelegenci
+
+item    :
+  - positionRight : false
+    image : images/prelegent/prof_duch.jpg
+    title : prof. Włodzisław Duch
+    description : >
+      Profesor Włodzisław Duch oprócz kierowania Laboratorium Neurokognitywnego jest też kierownikiem zespołu Neuroinformatics and Artificial Intelligence w University Centre of Excellence Dynamics, Mathematical Analysis and Artificial Intelligence, oraz pracownikiem Katedry Informatyki Stosowanej na Uniwersytecie Mikołaja Kopernika w Toruniu. Pracował też na Wydziale Inżynierii Komputerowej (School of Computer Engineering), Uniwersytetu Technologiczego Nanyang (Nanyang Technological University) w Singapurze jako Nanyang Visiting Professor i visiting professor (2003-2012). Przez dwie kadencje piastował stanowisko prezesa Europejskiego Towarzystwa Sieci Neuronowych (European Neural Networks Society, 2006-2008-2011), w 2013 roku wybrany do College of Fellows of the International Neural Networks Society. Był wiceministrem odpowiedzialnym za naukę w Polsce (2014-15) i prorektorem ds. badań naukowych i informatyzacji na UMK (2012-14).
+
+  - positionRight : true
+    image : images/about/about-2.jpg
+    title : Maciej Mróz
+    description : >
+      Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.
+
+  - positionRight : false
+    image : images/about/about-1.jpg
+    title : dr Maciej Chrzanowski
+    description : >
+      Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.
+
+  - positionRight : true
+    image : images/about/about-2.jpg
+    title : Maciej Mróz
+    description : >
+      Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FRANCAIS Blog on FRANCAIS Example site multi-language</title>
+    <link>https://demo.gethugothemes.com/navigator/examplesite/fr/blog/</link>
+    <description>Recent content in FRANCAIS Blog on FRANCAIS Example site multi-language</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 07 Jul 2018 18:23:33 +0600</lastBuildDate><atom:link href="https://demo.gethugothemes.com/navigator/examplesite/fr/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FRANCAIS Are You Doing the Right Way</title>
+      <link>https://demo.gethugothemes.com/navigator/examplesite/fr/blog/are-you-doing-the-right-way/</link>
+      <pubDate>Sat, 07 Jul 2018 17:04:41 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/navigator/examplesite/fr/blog/are-you-doing-the-right-way/</guid>
+      <description>Introduction Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>
