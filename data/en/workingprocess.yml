@@ -8,7 +8,7 @@ item    :
     end     : 10:00
     title   : Rejestracja
     description : >
-      Przyjdź zarejestruj się, uniknij kolejki i skorzystać z nieformalnego networking przed wydarzeniem. 
+      Przyjdź zarejestruj się, uniknij kolejki i skorzystaj z nieformalnego networkingu przed wydarzeniem. 
 
   - number  : 2
     start   : 10:00
@@ -21,22 +21,22 @@ item    :
     start   : 10:20
     end     : 11:05
     who     : "Keynote: prof. Włodzisław Duch"
-    title   : "Blaski i cienie sztucznej inteligencji S. "
+    title   : "Blaski i cienie sztucznej inteligencji S."
     description : >
-      Fascynująca prelekcję odkryje przed nami zarówno możliwości, jak i wyzwania związane z rozwojem AI.
+      Fascynująca prelekcja, która odkryje przed nami zarówno możliwości, jak i wyzwania związane z rozwojem AI.
 
   - number  : 4
     start   : 11:05
     end     : 11:50
     who     : "Maciej Mróz"
-    title   : "Etyka w AI - tytuł do uzupełnienia "
+    title   : "Krótki przewodnik po polisemii, czyli o wartościach i postępie w świecie sztucznej inteligencji."
     description : >
-      ważnym i niestety często pominjanym w nowych technologiach są zagadania zakresu etyki. 
+      Sztuczna inteligencja to technologia zdolna do bezprecedensowych osiągnięć. W kontekście jej gwałtownego rozwoju pojawia się wiele pytań o naturę postępu, wartość ludzkich wyborów oraz sposoby kształtowania rozwoju technologii. Co znaczy “dobry algorytm”? Kto wygra wyścig rozwoju AI? Gdzie znajdują się granice możliwości technologii?  Filozofia i etyka dostarczają nam kluczowych narzędzi do namysłu nad tymi zagadnieniami, pomagając nawigować przez wieloznaczności i nowe zjawiska, które sztuczna inteligencja wprowadza w nasze życie.  
 
   - number  : 5
     start   : 11:50
     end     : 12:30
-    title   : "Lunch z networkigiem"
+    title   : "Lunch z networkingiem"
     description : >
       w przerwie lunchowiej warto porozmawiać z jeszcze niepoznaną osobą, przychodząc na konferencje chcemy poznawać wartościowych ludzi. 
 
@@ -52,7 +52,7 @@ item    :
     start   : 13:30
     end     : 14:30
     who     : dr Maciej Chrzanowski 
-    title   : "Nowoczesny warsztat narzędzi AI"
+    title   : "Wydajny człowiek = Wydajna firma, czyli jak zoptymalizować codzienne procesy dzięki AI i strategiom produktywności"
     description : >
       dr Maciej przedstawi nam narzędzia AI, z których możemy skorzystać już dziś w swojej pracy i organizacji.
 
