@@ -87,12 +87,13 @@ itemDay2:
         end     : 10:00
         who     : Rejestracja
         description : >
-          Przyjdź zarejestruj się, uniknij kolejki i skorzystaj z nieformalnego networkingu przed wydarzeniem. 
+          Przyjdź i zarejestruj się, uniknij kolejki i skorzystaj z nieformalnego networkingu przed wydarzeniem. 
 
       - number  : 2
         start   : 10:00
         end     : 10:20
-        who   : Otwarcie
+        who   : prof. UMK Marlena Ciechan-Kujawa oraz Maciek Koszykowski
+        title: Rozpoczęcie konferencji
         description : >
           Krótkie przemowy powitalne organizatorów WNEiZ UMK oraz PMI PC Kujawsko-Pomorskie
 
@@ -160,7 +161,7 @@ itemDay2:
 
       - number  : 10
         start   : 15:40
-        end     : 16:00
+        end     : 16:10
         who     : Zakończenie roku akademickiego oraz inaguracja kolejnej edycji studiów 
         title   : UMK Project Management
         description : >
