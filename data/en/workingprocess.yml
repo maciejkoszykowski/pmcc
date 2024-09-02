@@ -1,9 +1,9 @@
 enable  : true
 topTitle: PM Connect Conf 
 title   : Agenda
-sections:
-  - subtitle: 25 pażdziernika - warsztaty 
-    item:
+
+day1: "25 pażdziernika - Warsztaty" 
+itemDay1:
       - number  : 1
         start   : 15:00
         end     : 19:00
@@ -31,8 +31,9 @@ sections:
         title   : "Klub Absolwenta - nieformalne spotkanie"
         description : >
           Nieformalne spotkanie absolwentów oraz uczestników konferencji.
-  - subtitle: 26 pażdziernika - głowny dzień konferencji z prelekcjami 
-    item:
+
+day2: "26 pażdziernika - głowny dzień konferencji z prelekcjami" 
+itemDay2:
       - number  : 1
         start   : 9:30
         end     : 10:00
