@@ -69,7 +69,7 @@ btnText = "Kup Bilet"
 btnURL = "https://pmipolandchapter.ticketbutler.io/en/e/pmconnectconf/"
 #videoThumb = "images/slider/video-player-thumb.jpg"
 videoThumb = "images/DSC_3214_slider.jpg"
-videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
+#videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
 
 # About 2 Section
 [params.aboutSm]
