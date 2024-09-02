@@ -2,7 +2,7 @@ enable  : true
 topTitle: PM Connect Conf 
 title   : Agenda
 
-day1_title: "Dzień Warsztatów Inspiracyjnych" 
+day1_title: "Dzień Inspiracyjnych Warsztatów" 
 day1_date: "[ 25 pażdziernika 2024 ]" 
 
 itemDay1:
@@ -23,31 +23,33 @@ itemDay1:
       - number  : 3
         start   : 15:00
         end     : 19:00
-        who     : TBA
+        who     : "[Do ogłoszenia ]"
         title   : "Warsztat - temat w trakcie uzgadniania"
         description : >
           Warsztat niespodzianka.
       - number  : 4
         start   : 20:00
         end     : 24:00
-        title   : "Klub Absolwenta"
+        who     : "Klub Absolwenta"
+        title   : "'Alumni & Friends Night'"
         description : >
           Nieformalne spotkanie absolwentów oraz uczestników konferencji.
 
-day2_title: "Dzień Konferencyjny: Prelekcje i Dyskusje "
+day2_title: "Dzień Konferencyjny: "
+day2_title_part2: "Prelekcje i Dyskusje "
 day2_date: "[ 26 pażdziernika 2024 ]  "
 itemDay2:
       - number  : 1
         start   : 9:30
         end     : 10:00
-        title   : Rejestracja
+        who     : Rejestracja
         description : >
           Przyjdź zarejestruj się, uniknij kolejki i skorzystaj z nieformalnego networkingu przed wydarzeniem. 
 
       - number  : 2
         start   : 10:00
         end     : 10:20
-        title   : Otwarcie
+        who   : Otwarcie
         description : >
           Krótkie przemowy powitalne organizatorów WNEiZ UMK oraz PMI PC Kujawsko-Pomorskie
 
@@ -70,7 +72,7 @@ itemDay2:
       - number  : 5
         start   : 11:50
         end     : 12:30
-        title   : "Lunch z networkingiem"
+        who     : "Lunch z networkingiem"
         description : >
           w przerwie lunchowiej warto porozmawiać z jeszcze niepoznaną osobą, przychodząc na konferencje chcemy poznawać wartościowych ludzi. 
 
@@ -86,7 +88,7 @@ itemDay2:
         start   : 12:55
         end     : 13:55
         who     : "prowadzący: Maciej Koszykowski"
-        title   : "Panel Dyskusyjny"
+        title   : "Panel Dyskusyjny - o wdrożeniach AI w organizacjach"
         description : >
           zaproszeni goście opowiedzą o wdrożeniach AI w polskich firmach. 
 
@@ -94,28 +96,30 @@ itemDay2:
         start   : 13:55
         end     : 14:40
         who     : dr Maciej Chrzanowski 
-        title   : "Wydajny człowiek = Wydajna firma, czyli jak zoptymalizować codzienne procesy dzięki AI i strategiom produktywności"
+        title   : "Wydajny człowiek ~ Wydajna firma, czyli jak zoptymalizować codzienne procesy dzięki AI i strategiom produktywności"
         description : >
           dr Maciej przedstawi nam narzędzia AI, z których możemy skorzystać już dziś w swojej pracy i organizacji.
 
       - number  : 8
         start   : 14:40
         end     : 15:00
-        title   : "Przerwa kawowa & Networking"
+        who     : "Przerwa kawowa & Networking"
         description : >
           czas na networking przy kawie i wymianę myśli dot. prelecji 
 
       - number  : 9
         start   : 15:00
         end     : 15:40
-        title   : Prezentacja najlepszych prac dyplomowych absolwentów UMK Project Management
+        who     : Prezentacja najlepszych prac dyplomowych absolwentów 
+        title   : UMK Project Management
         description : >
           Tutaj będzie się działo, gdyż kreatywność naszych studentów kierunku zarządzania projektami zaskakuje każdego roku. 
 
       - number  : 10
         start   : 15:40
         end     : 16:00
-        title : Zakończenie roku akademickiego UMK Project Management oraz inaguracja kolejnej edycji studiów. 
+        who     : Zakończenie roku akademickiego oraz inaguracja kolejnej edycji studiów 
+        title   : UMK Project Management
         description : >
           Zakończenie UMK Project Management edycji XII Online i XIII Toruń oraz inaguracja edycji XIV Online i XV Toruń
 
