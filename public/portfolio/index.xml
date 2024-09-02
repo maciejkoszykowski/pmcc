@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on PM Connect Conf</title>
-    <link>https://pmcc.pmi.org.pl/portfolio/</link>
+    <link>http://pmcc.pmi.org.pl/portfolio/</link>
     <description>Recent content in Portfolio on PM Connect Conf</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 07 Jul 2018 15:45:06 +0600</lastBuildDate><atom:link href="https://pmcc.pmi.org.pl/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <language>pl</language>
+    <lastBuildDate>Sat, 07 Jul 2018 15:45:06 +0600</lastBuildDate><atom:link href="http://pmcc.pmi.org.pl/portfolio/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
