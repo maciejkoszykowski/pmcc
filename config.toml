@@ -76,11 +76,11 @@ videoThumb = "images/DSC_3214_slider.jpg"
 [params.aboutSm]
 enable = true
 title = "Szansa na poszerzenie praktycznej wiedzy i poznanie ciekawych ludzi"
-description = "**PM Connect Conf** to dynamiczna inicjatywa współorganizowana przez **kujawsko-pomorski oddział PMI Poland Chapter** oraz **Wydział Nauk Ekonomicznych i Zarządzania UMK w Toruniu.**"
+#description = "**PM Connect Conf** to dynamiczna inicjatywa współorganizowana przez **kujawsko-pomorski oddział PMI Poland Chapter** oraz **Wydział Nauk Ekonomicznych i Zarządzania UMK w Toruniu.**"
 
-description2 = "Tegoroczna edycja odbywa się pod hasłem **„sztuczna inteligencja w zarządzaniu projektami to już rzeczywistość”**, które stanowi punkt wyjścia do eksploracji nowoczesnych transformacji w zarządzaniu projektami. Podczas konferencji uczestnicy będą mieli okazję zgłębić najnowsze trendy, technologie i rozwiązania związane z AI, które rewolucjonizują branżę."
+#description2 = "Tegoroczna edycja odbywa się pod hasłem **„sztuczna inteligencja w zarządzaniu projektami to już rzeczywistość”**, które stanowi punkt wyjścia do eksploracji nowoczesnych transformacji w zarządzaniu projektami. Podczas konferencji uczestnicy będą mieli okazję zgłębić najnowsze trendy, technologie i rozwiązania związane z AI, które rewolucjonizują branżę."
 
-description3 = "PM Connect Conf to nie tylko wyjątkowa szansa na poszerzenie praktycznej wiedzy z zakresu project managementu, ale także okazja do inspirującego networkingu w gronie profesjonalistów. Dzięki spotkaniu z ekspertami i liderami branży, uczestnicy będą mogli wymienić się doświadczeniami i nawiązać wartościowe kontakty, które mogą przyczynić się do dalszego rozwoju ich kariery zawodowej."
+#description3 = "PM Connect Conf to nie tylko wyjątkowa szansa na poszerzenie praktycznej wiedzy z zakresu project managementu, ale także okazja do inspirującego networkingu w gronie profesjonalistów. Dzięki spotkaniu z ekspertami i liderami branży, uczestnicy będą mogli wymienić się doświadczeniami i nawiązać wartościowe kontakty, które mogą przyczynić się do dalszego rozwoju ich kariery zawodowej."
 
 # Blog Section On Homepage
 [params.blog]
