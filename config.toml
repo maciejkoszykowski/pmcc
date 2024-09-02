@@ -125,7 +125,7 @@ btnText = "Contact Us"
 name = "Prelegenci"
 url = "#Prelegenci"
 weight = 2
-[[menu.nav]]
+[[menu.nav]]c
 name = "Agenda"
 url = "#Agenda"
 weight = 3
