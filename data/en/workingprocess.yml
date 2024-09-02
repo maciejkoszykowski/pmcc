@@ -1,81 +1,112 @@
 enable  : true
 topTitle: PM Connect Conf 
 title   : Agenda
-subtitle: 26 pażdziernika - głowny dzień konferencji z prelekcjami 
-item    :
-  - number  : 1
-    start   : 9:30
-    end     : 10:00
-    title   : Rejestracja
-    description : >
-      Przyjdź zarejestruj się, uniknij kolejki i skorzystać z nieformalnego networking przed wydarzeniem. 
+sections:
+  - subtitle: 25 pażdziernika - warsztaty 
+    item:
+      - number  : 1
+        start   : 15:00
+        end     : 19:00
+        who     : "Dariusz Ciechan & Jerzy Stawicki"
+        title   : Flow4Results Professional
+        description : >
+          Warsztat z symulacją. 
+      - number  : 2
+        start   : 15:00
+        end     : 19:00
+        who     : Wojciech Ożga
+        title   : Gra Rura
+        description : >
+          Warsztat - gra zespołowa
+      - number  : 3
+        start   : 15:00
+        end     : 19:00
+        who     : TBA
+        title   : "Warsztat nr 3 - TBA"
+        description : >
+          Warsztat niespodzianka.
+      - number  : 4
+        start   : 20:00
+        end     : 24:00
+        title   : "Klub Absolwenta - nieformalne spotkanie"
+        description : >
+          Nieformalne spotkanie absolwentów oraz uczestników konferencji.
+  - subtitle: 26 pażdziernika - głowny dzień konferencji z prelekcjami 
+    item:
+      - number  : 1
+        start   : 9:30
+        end     : 10:00
+        title   : Rejestracja
+        description : >
+          Przyjdź zarejestruj się, uniknij kolejki i skorzystaj z nieformalnego networkingu przed wydarzeniem. 
 
-  - number  : 2
-    start   : 10:00
-    end     : 10:20
-    title   : Otwarcie
-    description : >
-      Krótkie przemowy powitalne organizatorów WNEiZ UMK oraz PMI PC Kujawsko-Pomorskie
+      - number  : 2
+        start   : 10:00
+        end     : 10:20
+        title   : Otwarcie
+        description : >
+          Krótkie przemowy powitalne organizatorów WNEiZ UMK oraz PMI PC Kujawsko-Pomorskie
 
-  - number  : 3
-    start   : 10:20
-    end     : 11:05
-    who     : "Keynote: prof. Włodzisław Duch"
-    title   : "Blaski i cienie sztucznej inteligencji S. "
-    description : >
-      Fascynująca prelekcję odkryje przed nami zarówno możliwości, jak i wyzwania związane z rozwojem AI.
+      - number  : 3
+        start   : 10:20
+        end     : 11:05
+        who     : "Keynote: prof. Włodzisław Duch"
+        title   : "Blaski i cienie sztucznej inteligencji S."
+        description : >
+          Fascynująca prelekcja, która odkryje przed nami zarówno możliwości, jak i wyzwania związane z rozwojem AI.
 
-  - number  : 4
-    start   : 11:05
-    end     : 11:50
-    who     : "Maciej Mróz"
-    title   : "Etyka w AI - tytuł do uzupełnienia "
-    description : >
-      ważnym i niestety często pominjanym w nowych technologiach są zagadania zakresu etyki. 
+      - number  : 4
+        start   : 11:05
+        end     : 11:50
+        who     : "Maciej Mróz"
+        title   : "Krótki przewodnik po polisemii, czyli o wartościach i postępie w świecie sztucznej inteligencji."
+        description : >
+          Sztuczna inteligencja to technologia zdolna do bezprecedensowych osiągnięć. W kontekście jej gwałtownego rozwoju pojawia się wiele pytań o naturę postępu, wartość ludzkich wyborów oraz sposoby kształtowania rozwoju technologii. Co znaczy “dobry algorytm”? Kto wygra wyścig rozwoju AI? Gdzie znajdują się granice możliwości technologii?  Filozofia i etyka dostarczają nam kluczowych narzędzi do namysłu nad tymi zagadnieniami, pomagając nawigować przez wieloznaczności i nowe zjawiska, które sztuczna inteligencja wprowadza w nasze życie.  
 
-  - number  : 5
-    start   : 11:50
-    end     : 12:30
-    title   : "Lunch z networkigiem"
-    description : >
-      w przerwie lunchowiej warto porozmawiać z jeszcze niepoznaną osobą, przychodząc na konferencje chcemy poznawać wartościowych ludzi. 
+      - number  : 5
+        start   : 11:50
+        end     : 12:30
+        title   : "Lunch z networkingiem"
+        description : >
+          w przerwie lunchowiej warto porozmawiać z jeszcze niepoznaną osobą, przychodząc na konferencje chcemy poznawać wartościowych ludzi. 
 
-  - number  : 6
-    start   : 12:30
-    end     : 13:30
-    who     : "Panel Dyskusyjny"
-    title   : "prowadzący: Maciej Koszykowski"
-    description : >
-      zaproszeni goście opowiedzą o wdrożeniach AI w polskich firmach. 
+      - number  : 6
+        start   : 12:30
+        end     : 13:30
+        who     : "Panel Dyskusyjny"
+        title   : "prowadzący: Maciej Koszykowski"
+        description : >
+          zaproszeni goście opowiedzą o wdrożeniach AI w polskich firmach. 
 
-  - number  : 7
-    start   : 13:30
-    end     : 14:30
-    who     : dr Maciej Chrzanowski 
-    title   : "Nowoczesny warsztat narzędzi AI"
-    description : >
-      dr Maciej przedstawi nam narzędzia AI, z których możemy skorzystać już dziś w swojej pracy i organizacji.
+      - number  : 7
+        start   : 13:30
+        end     : 14:30
+        who     : dr Maciej Chrzanowski 
+        title   : "Wydajny człowiek = Wydajna firma, czyli jak zoptymalizować codzienne procesy dzięki AI i strategiom produktywności"
+        description : >
+          dr Maciej przedstawi nam narzędzia AI, z których możemy skorzystać już dziś w swojej pracy i organizacji.
 
-  - number  : 8
-    start   : 14:30
-    end     : 15:00
-    title   : "Przerwa kawowa"
-    description : >
-      czas na networking przy kawie i wymianę myśli dot. prelecji 
+      - number  : 8
+        start   : 14:30
+        end     : 15:00
+        title   : "Przerwa kawowa"
+        description : >
+          czas na networking przy kawie i wymianę myśli dot. prelecji 
 
-  - number  : 9
-    start   : 15:00
-    end     : 15:40
-    titlelong : Prezentacja najlepszych prac 
-    title   : dyplomowych absolwentów UMK Project Management
-    description : >
-      Tutaj będzie się działo, gdyż kreatywność naszych studentów kierunku zarządzania projektami zaskakuje każdego roku. 
+      - number  : 9
+        start   : 15:00
+        end     : 15:40
+        titlelong : Prezentacja najlepszych prac 
+        title   : dyplomowych absolwentów UMK Project Management
+        description : >
+          Tutaj będzie się działo, gdyż kreatywność naszych studentów kierunku zarządzania projektami zaskakuje każdego roku. 
 
-  - number  : 10
-    start   : 15:40
-    end     : 16:00
-    titlelong : Zakończenie roku akademickiego  
-    title   : UMK Project Management oraz inaguracja kolejnej edycji studiów. 
-    description : >
-      Zakończenie UMK Project Management edycji XII Online i XIII Toruń oraz inaguracja edycji XIV Online i XV Toruń
+      - number  : 10
+        start   : 15:40
+        end     : 16:00
+        titlelong : Zakończenie roku akademickiego  
+        title   : UMK Project Management oraz inaguracja kolejnej edycji studiów. 
+        description : >
+          Zakończenie UMK Project Management edycji XII Online i XIII Toruń oraz inaguracja edycji XIV Online i XV Toruń
+
 
