@@ -100,16 +100,14 @@ itemDay2:
       - number  : 9
         start   : 15:00
         end     : 15:40
-        titlelong : Prezentacja najlepszych prac 
-        title   : dyplomowych absolwentów UMK Project Management
+        title   : Prezentacja najlepszych prac dyplomowych absolwentów UMK Project Management
         description : >
           Tutaj będzie się działo, gdyż kreatywność naszych studentów kierunku zarządzania projektami zaskakuje każdego roku. 
 
       - number  : 10
         start   : 15:40
         end     : 16:00
-        titlelong : Zakończenie roku akademickiego  
-        title   : UMK Project Management oraz inaguracja kolejnej edycji studiów. 
+        title : Zakończenie roku akademickiego UMK Project Management oraz inaguracja kolejnej edycji studiów. 
         description : >
           Zakończenie UMK Project Management edycji XII Online i XIII Toruń oraz inaguracja edycji XIV Online i XV Toruń
 
