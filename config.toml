@@ -63,7 +63,7 @@ expire_days = 2
 # Hero Area Section
 [params.hero]
 enable = true
-heading = "PMI CONNECT CONF 2024"
+heading = "PM CONNECT CONF 2024"
 description = "Sztuczna inteligencja w zarządzaniu projektami to już rzeczywistość"
 button = true
 btnText = "Kup Bilet"
