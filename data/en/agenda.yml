@@ -8,18 +8,36 @@ day1_date: "[ 25 pażdziernika 2024 ]"
 itemDay1:
       - number  : 1
         start   : 15:00
-        end     : 19:00
+        end     : 18:15
         who     : "Dariusz Ciechan & Jerzy Stawicki"
         title   : Flow4Results Professional
         description : >
-          Warsztat z symulacją. 
+          **Liczba uczestników:** 6–15 osób
+
+          Warsztat Flow4Results Professional jest skierowany do profesjonalistów pragnących **skutecznie łączyć cele biznesowe z zarządzaniem projektami**. Podczas symulacji uczestnicy nauczą się, jak efektywnie współpracować w zespole projektowym, przewidywalnie dostarczać wartościowe produkty klientom oraz w spójny sposób łączyć cele firmy z zarządzaniem projektami oraz jak przy pomocy analizy usprawniać  system pracy. Warsztat skupia się na poznaniu i stosowaniu podstawowych zasad Flow Managementu, pozwala przetestować zdobyte umiejętności w praktyce, naucza elementów efektywnej współpracy między różnymi szczeblami zarządzania w firmie
+          Warsztat jest przeznaczony dla kadry zarządzającej, kierowników projektów, członków zespołów projektowych, a także dla menedżerów odpowiedzialnych za optymalizację procesów i zarządzanie zmianami. 
+          Warsztat to zarówno praktyczne zarządzanie, poszukiwanie efektywnych rozwiązań, wymiana doświadczeń, jak i spora dawka zabawy. 😊
+          Zachęcamy do dołączenia do grona profesjonalistów, którzy skutecznie zarządzają projektami w dynamicznie zmieniającym się środowisku biznesowym.
       - number  : 2
-        start   : 15:00
-        end     : 19:00
+        start   : 16:00
+        end     : 18:00
         who     : Wojciech Ożga
         title   : Gra Rura
         description : >
-          Warsztat - gra zespołowa
+          **Liczba uczestników:** 6–15 osób
+          Warsztaty mają na celu symulację działań związanych z planowaniem, realizacją oraz utrzymaniem inwestycji. Uczestnicy wcielą się w rolę budowniczych sieci rurociągów, których zadaniem będzie zaplanowanie, zbudowanie oraz eksploatacja infrastruktury transportującej kule energii do reaktorów. Celem jest zdobycie jak największej liczby punktów, poprzez efektywne zarządzanie projektem na trzech poziomach: organizacyjnym, grupowym oraz indywidualnym.
+          Przebieg warsztatów:
+            1.	Wprowadzenie i logowanie :
+            Uczestnicy otrzymują indywidualne karty logowania i wprowadzają swoje dane w aplikacji warsztatowej. Prowadzący wyjaśnia cel gry oraz zasady.
+            2.	Tworzenie zespołów i wybór inwestycji :
+            Uczestnicy dzielą się na zespoły i wybierają inwestycję do realizacji. Następnie planują budżet i czas realizacji projektu oraz dokonują wstępnych zamówień materiałów.
+            3.	Realizacja projektu :
+            Zespoły przystępują do budowy rurociągu, który będzie transportował kule energii. W trakcie budowy muszą zarządzać zasobami, kontrolować koszty oraz czas realizacji. Mogą dokonywać dodatkowych zamówień materiałów, jeśli zajdzie taka potrzeba, ale po wyższych cenach.
+            4.	Testowanie i odbiór projektu :
+            Po zakończeniu budowy zespoły przeprowadzają testy rurociągu. Projekt uznaje się za zakończony, gdy kula energii pokona całą trasę od centrum dystrybucji do reaktora. Po pozytywnym teście zespoły zgłaszają projekt do odbioru.
+            5.	Eksploatacja i podsumowanie:
+            Rozpoczyna się faza eksploatacji, gdzie zespoły muszą regularnie transportować kule energii, zachowując zadeklarowane wcześniej odstępy czasowe. Na zakończenie warsztatów prowadzący podsumowuje wyniki zespołów i wręcza nagrody za najlepszą realizację projektu.
+          Warsztaty są interaktywnym i angażującym sposobem na rozwijanie umiejętności związanych z zarządzaniem projektami w kontekście symulacji rzeczywistych wyzwań.
       - number  : 3
         start   : 15:00
         end     : 19:00
