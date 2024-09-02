@@ -17,7 +17,7 @@ description: "This is meta description"
 
 1. Konferencja PM Connect Conf – zwana w dalszej części Regulaminu „konferencją” lub „wydarzeniem” odbędzie się w dniu 25.10.2024 i 26.10.2024 roku na Wydziale Nauk Ekonomicznych i Zarządzania UMK w Toruniu, zlokalizowanym przy ul. Gagarina 13a, 87-100 Toruń. 
 2.	Organizatorem wydarzenia jest PMI Poland Chapter (PMI Oddział Polski) z siedzibą w Warszawie (02-672), przy ul. Domaniewskiej 47/10, KRS 0000-167-986, NIP 525-227-89-73, REGON 0155-4342-4, zwany w dalszej części Regulaminu „Organizatorem”. 
-3.	Oficjalny serwis internetowy konferencji PMMania znajduje się pod adresem: pmcc.pmi.org.pl, a oficjalnym kanałem komunikacji pomiędzy uczestnikiem a organizatorem jest adres e-mail: kuj-pom@pmi.org.pl
+3.	Oficjalny serwis internetowy konferencji PMMania znajduje się pod adresem: pmcc.pmi.org.pl, a oficjalnym kanałem komunikacji pomiędzy uczestnikiem a organizatorem jest adres e-mail: kujawsko-pomorskie@pmi.org.pl
 4.	Organizator zastrzega sobie prawo do zmiany prelegentów i programu Konferencji z przyczyn niezależnych od Organizatora.
 5.	Strona internetowa konferencji znajduje się pod adresem pmcc.pmi.org.pl – w dalszej części Regulamin nazywaną „stroną internetową wydarzenia”. 
 
@@ -141,7 +141,7 @@ Ja, uczestnik X-tej edycja konferencji PMMania Increase your impact na podstawie
 
 1\. wprowadzenie utworu do pamięci komputera i sieci multimedialnych, Internetu, jak również przesyłanie utworu w ramach ww. sieci;
 
-2\. utrwalanie/zwielokrotnianie/rozpowszechnianie utworu bez ograniczeń ilościowych, dowolną techniką i metodą, w tym formie analogowej lub cyfrowej, w celu umieszczenia zdjęć w mediach elektronicznych (w tym w social mediach) i papierowych oraz w materiałach promocyjnych, marketingowych oraz w innych materiałach, dokumentach, ulotkach, oraz korespondencji stworzonych lub rozpowszechnianych przez Project Management Institute Poland Chapter niezależnie od nośnika i formy zapisu tych materiałów (tj. w formie publikacji papierowej, jak i elektronicznej), w tym szczególności w ramach strony internetowej http://pmmania.pmi.org.pl
+2\. utrwalanie/zwielokrotnianie/rozpowszechnianie utworu bez ograniczeń ilościowych, dowolną techniką i metodą, w tym formie analogowej lub cyfrowej, w celu umieszczenia zdjęć w mediach elektronicznych (w tym w social mediach) i papierowych oraz w materiałach promocyjnych, marketingowych oraz w innych materiałach, dokumentach, ulotkach, oraz korespondencji stworzonych lub rozpowszechnianych przez Project Management Institute Poland Chapter niezależnie od nośnika i formy zapisu tych materiałów (tj. w formie publikacji papierowej, jak i elektronicznej), w tym szczególności w ramach strony internetowej http://pmcc.pmi.org.pl
 
 Oświadczam, że niniejsza zgoda do ww. celów następuje bez ograniczeń terytorialnych na okres nieograniczony. Jestem świadoma/y, że przysługuje mi prawo do odwołania mojej zgody. 
 
