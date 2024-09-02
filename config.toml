@@ -1,4 +1,4 @@
-baseURL = "http://pmcc.pmi.org.pl"
+baseURL = "https://pmcc.pmi.org.pl"
 languageCode = "pl"
 title = "PM Connect Conf"
 theme = "navigator-hugo"
