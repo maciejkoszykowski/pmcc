@@ -92,8 +92,8 @@ itemDay2:
       - number  : 2
         start   : 10:00
         end     : 10:20
-        who   : prof. UMK Marlena Ciechan-Kujawa oraz Maciek Koszykowski
-        title: Rozpoczęcie konferencji
+        who   : Rozpoczęcie konferencji
+        title: prof. UMK Marlena Ciechan-Kujawa oraz Maciej Koszykowski
         description : >
           Krótkie przemowy powitalne organizatorów WNEiZ UMK oraz PMI PC Kujawsko-Pomorskie
 
@@ -144,14 +144,14 @@ itemDay2:
         description : >
           dr Maciej przedstawi nam narzędzia AI, z których możemy skorzystać już dziś w swojej pracy i organizacji.
 
-      - number  : 8
+      - number  : 9
         start   : 14:40
         end     : 15:00
         who     : "Przerwa kawowa & Networking"
         description : >
           czas na networking przy kawie i wymianę myśli dot. prelecji 
 
-      - number  : 9
+      - number  : 10
         start   : 15:00
         end     : 15:40
         who     : Prezentacja najlepszych prac dyplomowych absolwentów 
@@ -159,7 +159,7 @@ itemDay2:
         description : >
           Tutaj będzie się działo, gdyż kreatywność naszych studentów kierunku zarządzania projektami zaskakuje każdego roku. 
 
-      - number  : 10
+      - number  : 11
         start   : 15:40
         end     : 16:10
         who     : Zakończenie roku akademickiego oraz inaguracja kolejnej edycji studiów 
