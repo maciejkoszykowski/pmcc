@@ -1,5 +1,5 @@
-baseURL = "https://pmcc.pmi.org.pl"
-languageCode = "en-us"
+baseURL = "http://pmcc.pmi.org.pl"
+languageCode = "pl"
 title = "PM Connect Conf"
 theme = "navigator-hugo"
 summaryLength = 10
@@ -20,6 +20,7 @@ pygmentsCodeFences = true
 # Site Params
 [params]
 logo = "images/pmcc_logo_bar_small.png"
+logo_xsmall = "images/pmcc_logo_bar_xsmall.png"
 logo_large = "images/pmcc_logo_large.png"
 logo_pmi = "images/logo_pmi_kuj_pom_50.png"
 logo_umk = "images/logo_WNEiZ_UMK_50.png"
@@ -40,7 +41,7 @@ languageCode = "pl"
 title = "Example site multi-language"
 dateFormat = "January 2, 2006"
 home = "Home"
-menufixed = false
+menufixed = true
 
 footerServiceTitle = "images/poland_logo-small.png"
 footerQuicklinkTitle = "Mapa Strony"

@@ -85,8 +85,8 @@ itemDay2:
       - number  : 7
         start   : 12:55
         end     : 13:55
-        who     : "Panel Dyskusyjny"
-        title   : "prowadzący: Maciej Koszykowski"
+        who     : "prowadzący: Maciej Koszykowski"
+        title   : "Panel Dyskusyjny"
         description : >
           zaproszeni goście opowiedzą o wdrożeniach AI w polskich firmach. 
 
@@ -101,7 +101,7 @@ itemDay2:
       - number  : 8
         start   : 14:40
         end     : 15:00
-        title   : "Przerwa kawowa"
+        title   : "Przerwa kawowa & Networking"
         description : >
           czas na networking przy kawie i wymianę myśli dot. prelecji 
 
