@@ -2,7 +2,9 @@ enable  : true
 topTitle: PM Connect Conf 
 title   : Agenda
 
-day1: "25 pażdziernika - Warsztaty" 
+day1_title: "Dzień Warsztatów Inspiracyjnych" 
+day1_date: "[ 25 pażdziernika 2024 ]" 
+
 itemDay1:
       - number  : 1
         start   : 15:00
@@ -32,7 +34,8 @@ itemDay1:
         description : >
           Nieformalne spotkanie absolwentów oraz uczestników konferencji.
 
-day2: "26 pażdziernika - głowny dzień konferencji z prelekcjami" 
+day2_title: "Dzień Konferencyjny: Prelekcje i Dyskusje "
+day2_date: "[ 26 pażdziernika 2024 ]  "
 itemDay2:
       - number  : 1
         start   : 9:30
