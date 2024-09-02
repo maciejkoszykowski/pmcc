@@ -40,7 +40,7 @@ description = "This is meta description"
 languageCode = "pl"
 title = "Example site multi-language"
 dateFormat = "January 2, 2006"
-home = "Home"
+home = "Start"
 menufixed = true
 
 footerServiceTitle = "images/poland_logo-small.png"
