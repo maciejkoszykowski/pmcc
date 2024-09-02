@@ -130,23 +130,30 @@ weight = 2
 name = "Agenda"
 url = "#Agenda"
 weight = 3
+
 [[menu.nav]]
 name = "Bilety"
 url = "#Bilety"
-weight = 3
+weight = 6
 [[menu.nav]]
 name = "Partnerzy"
 url = "#Partnerzy"
-weight = 4
+weight = 8
+
+[[menu.nav]]
+name = "Lokalizacja"
+url = "#Lokalizacja"
+weight = 10
+
 [[menu.nav]]
 name = "Zespół"
 url = "#Zespol"
-weight = 5
+weight = 20
 
 [[menu.nav]]
 name = "Regulamin"
 url = "regulamin"
-weight = 5
+weight = 26
 
 
 # Footer Service Menu
