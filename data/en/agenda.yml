@@ -24,13 +24,13 @@ itemDay1:
         start   : 15:00
         end     : 19:00
         who     : TBA
-        title   : "Warsztat nr 3 - TBA"
+        title   : "Warsztat - temat w trakcie uzgadniania"
         description : >
           Warsztat niespodzianka.
       - number  : 4
         start   : 20:00
         end     : 24:00
-        title   : "Klub Absolwenta - nieformalne spotkanie"
+        title   : "Klub Absolwenta"
         description : >
           Nieformalne spotkanie absolwentów oraz uczestników konferencji.
 
@@ -55,7 +55,7 @@ itemDay2:
         start   : 10:20
         end     : 11:05
         who     : "Keynote: prof. Włodzisław Duch"
-        title   : "Blaski i cienie sztucznej inteligencji S."
+        title   : "Blaski i cienie sztucznej inteligencji"
         description : >
           Fascynująca prelekcja, która odkryje przed nami zarówno możliwości, jak i wyzwania związane z rozwojem AI.
 
@@ -76,22 +76,30 @@ itemDay2:
 
       - number  : 6
         start   : 12:30
-        end     : 13:30
+        end     : 12:55
+        who     : "SOWA"
+        title   : "SOWA"
+        description : >
+          SOWA 
+
+      - number  : 7
+        start   : 12:55
+        end     : 13:55
         who     : "Panel Dyskusyjny"
         title   : "prowadzący: Maciej Koszykowski"
         description : >
           zaproszeni goście opowiedzą o wdrożeniach AI w polskich firmach. 
 
-      - number  : 7
-        start   : 13:30
-        end     : 14:30
+      - number  : 8
+        start   : 13:55
+        end     : 14:40
         who     : dr Maciej Chrzanowski 
         title   : "Wydajny człowiek = Wydajna firma, czyli jak zoptymalizować codzienne procesy dzięki AI i strategiom produktywności"
         description : >
           dr Maciej przedstawi nam narzędzia AI, z których możemy skorzystać już dziś w swojej pracy i organizacji.
 
       - number  : 8
-        start   : 14:30
+        start   : 14:40
         end     : 15:00
         title   : "Przerwa kawowa"
         description : >
