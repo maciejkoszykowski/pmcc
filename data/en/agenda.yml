@@ -24,19 +24,28 @@ itemDay1:
         who     : Wojciech Ożga
         title   : Gra Rura
         description : >
-          **Liczba uczestników:** 6–15 osób
+          **Liczba uczestników:** 6–15 osób.
+
+
           Warsztaty mają na celu symulację działań związanych z planowaniem, realizacją oraz utrzymaniem inwestycji. Uczestnicy wcielą się w rolę budowniczych sieci rurociągów, których zadaniem będzie zaplanowanie, zbudowanie oraz eksploatacja infrastruktury transportującej kule energii do reaktorów. Celem jest zdobycie jak największej liczby punktów, poprzez efektywne zarządzanie projektem na trzech poziomach: organizacyjnym, grupowym oraz indywidualnym.
+          
           Przebieg warsztatów:
-            1.	Wprowadzenie i logowanie :
+          
+            1\.	Wprowadzenie i logowanie :
             Uczestnicy otrzymują indywidualne karty logowania i wprowadzają swoje dane w aplikacji warsztatowej. Prowadzący wyjaśnia cel gry oraz zasady.
-            2.	Tworzenie zespołów i wybór inwestycji :
+            
+            2\.	Tworzenie zespołów i wybór inwestycji :
             Uczestnicy dzielą się na zespoły i wybierają inwestycję do realizacji. Następnie planują budżet i czas realizacji projektu oraz dokonują wstępnych zamówień materiałów.
-            3.	Realizacja projektu :
+            
+            3\.	Realizacja projektu :
             Zespoły przystępują do budowy rurociągu, który będzie transportował kule energii. W trakcie budowy muszą zarządzać zasobami, kontrolować koszty oraz czas realizacji. Mogą dokonywać dodatkowych zamówień materiałów, jeśli zajdzie taka potrzeba, ale po wyższych cenach.
-            4.	Testowanie i odbiór projektu :
+            
+            4\.	Testowanie i odbiór projektu :
             Po zakończeniu budowy zespoły przeprowadzają testy rurociągu. Projekt uznaje się za zakończony, gdy kula energii pokona całą trasę od centrum dystrybucji do reaktora. Po pozytywnym teście zespoły zgłaszają projekt do odbioru.
-            5.	Eksploatacja i podsumowanie:
+            
+            5\.	Eksploatacja i podsumowanie:
             Rozpoczyna się faza eksploatacji, gdzie zespoły muszą regularnie transportować kule energii, zachowując zadeklarowane wcześniej odstępy czasowe. Na zakończenie warsztatów prowadzący podsumowuje wyniki zespołów i wręcza nagrody za najlepszą realizację projektu.
+          
           Warsztaty są interaktywnym i angażującym sposobem na rozwijanie umiejętności związanych z zarządzaniem projektami w kontekście symulacji rzeczywistych wyzwań.
       - number  : 3
         start   : 15:00
