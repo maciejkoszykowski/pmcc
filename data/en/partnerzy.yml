@@ -1,0 +1,25 @@
+enable  : true
+topTitle: PM Connect Conf
+title   : Partnerzy  
+subtitle: "  "
+
+# filtermenu :
+# - name      : Photography
+#  category  : photography
+#
+# - name      : Ios App
+#   category  : ios
+#
+# - name      : Development
+#   category  : development
+# - name      : Design
+#   category  : design
+
+item   :
+  - title : SOWA i Partnerzy
+    image : images/partnerzy/logo-sowa.svg
+    category  : Partner
+
+  # - title : D Design
+  # image : images/portfolio/portfolio-2.jpg
+  #  category  : ios, design
