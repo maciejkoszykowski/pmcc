@@ -2,8 +2,8 @@
 title: "Regulamin"
 date: 2024-09-01T14:53:13+06:00
 draft: false
-description: "This is meta description"
-layout: "single"
+description: "Regulamin Konferencji"
+layout: "regulamin"
 ---
 
 # Konferencja PM Connect Conf
@@ -11,13 +11,13 @@ layout: "single"
 #### Edycja 2024
 #### REGULAMIN UDZIAŁU UCZESTNIKÓW
 #### z dnia 30.08.2024
-#### Project Management Institute Poland Chapter
-
+##### Project Management Institute Poland Chapter Oddział Kujawsko-Pomorskie
+##### Wydziale Nauk Ekonomicznych i Zarządzania UMK w Toruniu,
 
 ## I Postanowienia ogólne
 
 1. Konferencja PM Connect Conf – zwana w dalszej części Regulaminu „konferencją” lub „wydarzeniem” odbędzie się w dniu 25.10.2024 i 26.10.2024 roku na Wydziale Nauk Ekonomicznych i Zarządzania UMK w Toruniu, zlokalizowanym przy ul. Gagarina 13a, 87-100 Toruń. 
-2.	Organizatorem wydarzenia jest PMI Poland Chapter (PMI Oddział Polski) z siedzibą w Warszawie (02-672), przy ul. Domaniewskiej 47/10, KRS 0000-167-986, NIP 525-227-89-73, REGON 0155-4342-4, zwany w dalszej części Regulaminu „Organizatorem”. 
+2.	Organizatorem wydarzenia jest PMI Poland Chapter (PMI Oddział Polski) z siedzibą w Warszawie (02-672), przy ul. Domaniewskiej 47/10, KRS 0000-167-986, NIP 525-227-89-73, REGON 0155-4342-4 oraz Wydział Nauk Ekonomicznych i Zarządzania, Uniwersytet Mikołaja Kopernika w Toruniu, ul. Gagarina 13a, 87-100 Toruń, zwanymi w dalszej części Regulaminu „Organizatorem”. 
 3.	Oficjalny serwis internetowy konferencji PMMania znajduje się pod adresem: pmcc.pmi.org.pl, a oficjalnym kanałem komunikacji pomiędzy uczestnikiem a organizatorem jest adres e-mail: kujawsko-pomorskie@pmi.org.pl
 4.	Organizator zastrzega sobie prawo do zmiany prelegentów i programu Konferencji z przyczyn niezależnych od Organizatora.
 5.	Strona internetowa konferencji znajduje się pod adresem pmcc.pmi.org.pl – w dalszej części Regulamin nazywaną „stroną internetową wydarzenia”. 
@@ -44,7 +44,7 @@ layout: "single"
     -  Dla uczestników zarejestrowanych od 10.08.2024 do 25.09.2024 włącznie (Standard) cena wynosi 349 PLN brutto za osobę.
     -  W celu zakupu biletów grupowych Uczestnik może zwrócić się z zapytaniem za pośrednictwem poczty elektronicznej z organizatorem. 
 3.	Organizator zastrzega sobie prawo do indywidualnego obniżenia kwoty opłaty za uczestnictwo. 
-4.	Organizator zastrzega sobie prawo do obniżenia opłaty dla członków PMI PC, partnerów wydarzenia oraz do udzielania innych zniżek według swojego uznania. 
+4.	Organizator zastrzega sobie prawo do obniżenia opłaty dla członków PMI PC, partnerów wydarzenia, absolwentów UMK kierunku studiów Project Management oraz do udzielania innych zniżek według swojego uznania. 
 5.	Po zarejestrowaniu się poprzez formularz zgłoszeniowy dostępny na stronie internetowej wydarzenia oraz po uiszczeniu opłaty za uczestnictwo, Organizator wyśle pod wskazany w formularzu zgłoszeniowym adres e-mail Uczestnika potwierdzenie rejestracji. 
 6.	Płatnikiem (adresatem faktury) jest podmiot zamawiający poszczególne usługi związane z uczestnictwem w wydarzeniu. Faktura zostanie wystawiona na zasadach ogólnych do 15 dnia miesiąca po miesiącu, w którym nastąpił zakup.
 7.	Wysokość opłaty konferencyjnej uzależniona jest od daty rejestracji Uczestnika i ewentualnych rabatów udzielonych Uczestnikowi indywidualnemu lub grupom Uczestników. Ostateczna cena jest ustalana przez Organizatora. Bilety Early Birds można zakupić do dnia 30.09.2024. Od dnia 01.10.2024 obowiązuje cena regularna.
@@ -104,7 +104,7 @@ layout: "single"
     -  przetwarzane będą na podstawie realizacji prawnie uzasadnionych celów administratora oraz wykonania umowy, a więc realizacji celów statutowych Stowarzyszenia, tj. promowania profesjonalizmu w zarządzaniu projektami w biznesie, organizacjach i ośrodkach akademickich oraz wspierania, przyjmowania i rozpowszechniania w Polsce najlepszych praktyk zarządzania projektami, oraz pobudzania świadomości społeczeństwa w tej dziedzinie, 
     -  dane będą udostępniane osobom zaangażowanym w organizację wydarzenia oraz zajmującym się profesjonalnym nagrywaniem, fotografowaniem i obróbką materiałów. 
 
-## VIII.2 Dane pozyskiwane w celach marketingowych i handlowych
+## VIII.2. Dane pozyskiwane w celach marketingowych i handlowych
 
 1.	Dane, w których wyrażono zgodę na cele marketingowe lub handlowe: 
     -  przetwarzane będą na podstawie wyrażonej zgody w formularzu, 
