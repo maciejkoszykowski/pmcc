@@ -6,7 +6,7 @@ theme = "navigator-hugo"
 enableRobotsTXT = true
 
 # google analytics tracking id
-googleAnalytics = "" # your analitics ID
+googleAnalytics = "DIFFRENT" # NOT USED HARDCODED IN THEME ###
 
 enableGitInfo = false
 pygmentsCodeFences = true
