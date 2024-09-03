@@ -138,7 +138,7 @@ weight = 20
 
 [[menu.nav]]
 name = "Regulamin"
-url = "regulamin"
+url = "regulaminy/regulamin-konferencji/"
 weight = 26
 
 
