@@ -138,7 +138,13 @@ layout: "regulamin"
 
 ###### Akceptacja regulaminu jest równoważna z wyrażeniem zgody na wykorzystanie wizerunku:
 
-Ja, uczestnik X-tej edycja konferencji PM CONNECT CONF 2024 na podstawie art. 81 ust. 1 ustawy o prawie autorskim i prawach pokrewnych z dnia 4 kwietnia 1994 r. (Dz. U. Dz.U.2022.2509 t.j.) oraz art. 6 ust. 1 lit. a) RODO wyrażam zgodę na utrwalanie, publiczne wykorzystanie i rozpowszechnianie mojego wizerunku w formie ujęć zdjęciowych i video przez Project Management Institute Poland Chapter (PMI Oddział Polski) z siedzibą w Warszawie (02-672), przy ul. Domaniewskiej 47/10, KRS 0000167986, NIP 525-227-89-73, REGON 015543424 utrwalonych na rzecz konferencji PM CONNECT CONF 2024 na potrzeby komunikacji promującej działania Project Management Institute Poland Chapter oraz promocji wydarzenia tj. I-wszej  edycji konferencji PM CONNECT CONF 2024 w PMI Poland Chapter. Zgoda obejmuje również dokonywanie obróbki, opracowań, powielanie i publikowanie wykonanych ujęć zdjęciowych, na następujących polach eksploatacji: 
+Ja, uczestnik X-tej edycja konferencji PM CONNECT CONF 2024 na podstawie art. 81 ust. 1 ustawy o prawie autorskim i prawach pokrewnych z dnia 4 kwietnia 1994 r. (Dz. U. Dz.U.2022.2509 t.j.) oraz art. 6 ust. 1 lit. a) RODO wyrażam zgodę na utrwalanie, publiczne wykorzystanie i rozpowszechnianie mojego wizerunku w formie ujęć zdjęciowych i video przez:
+
+- Project Management Institute Poland Chapter (PMI Oddział Polski) z siedzibą w Warszawie (02-672), przy ul. Domaniewskiej 47/10, KRS 0000167986, NIP 525-227-89-73, REGON 015543424 oraz 
+
+- Wydział Nauk Ekonomicznych i Zarządzania Uniwersytetu Mikołaja Kopernika w Toruniu, ul. Gagarina 13a, 87-100 Toruń, NIP 879-017-72-91, REGON 000001324, 
+
+utrwalonych na rzecz konferencji PM CONNECT CONF 2024 na potrzeby komunikacji promującej działania Project Management Institute Poland Chapter i Wydział Nauk Ekonomicznych i Zarządzania Uniwersytetu Mikołaja Kopernika w Toruniu oraz promocji wydarzenia tj. konferencji PM CONNECT CONF 2024 w PMI Poland Chapter. Zgoda obejmuje również dokonywanie obróbki, opracowań, powielanie i publikowanie wykonanych ujęć zdjęciowych, na następujących polach eksploatacji: 
 
 1\. wprowadzenie utworu do pamięci komputera i sieci multimedialnych, Internetu, jak również przesyłanie utworu w ramach ww. sieci;
 
