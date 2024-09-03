@@ -18,7 +18,7 @@ layout: "regulamin"
 
 1. Konferencja PM Connect Conf – zwana w dalszej części Regulaminu „konferencją” lub „wydarzeniem” odbędzie się w dniu 25.10.2024 i 26.10.2024 roku na Wydziale Nauk Ekonomicznych i Zarządzania UMK w Toruniu, zlokalizowanym przy ul. Gagarina 13a, 87-100 Toruń. 
 2.	Organizatorem wydarzenia jest PMI Poland Chapter (PMI Oddział Polski) z siedzibą w Warszawie (02-672), przy ul. Domaniewskiej 47/10, KRS 0000-167-986, NIP 525-227-89-73, REGON 0155-4342-4 oraz Wydział Nauk Ekonomicznych i Zarządzania, Uniwersytet Mikołaja Kopernika w Toruniu, ul. Gagarina 13a, 87-100 Toruń, zwanymi w dalszej części Regulaminu „Organizatorem”. 
-3.	Oficjalny serwis internetowy konferencji PMMania znajduje się pod adresem: pmcc.pmi.org.pl, a oficjalnym kanałem komunikacji pomiędzy uczestnikiem a organizatorem jest adres e-mail: kujawsko-pomorskie@pmi.org.pl
+3.	Oficjalny serwis internetowy konferencji PM CONNECT CONF znajduje się pod adresem: pmcc.pmi.org.pl, a oficjalnym kanałem komunikacji pomiędzy uczestnikiem a organizatorem jest adres e-mail: kujawsko-pomorskie@pmi.org.pl
 4.	Organizator zastrzega sobie prawo do zmiany prelegentów i programu Konferencji z przyczyn niezależnych od Organizatora.
 5.	Strona internetowa konferencji znajduje się pod adresem pmcc.pmi.org.pl – w dalszej części Regulamin nazywaną „stroną internetową wydarzenia”. 
 
@@ -138,7 +138,7 @@ layout: "regulamin"
 
 ###### Akceptacja regulaminu jest równoważna z wyrażeniem zgody na wykorzystanie wizerunku:
 
-Ja, uczestnik X-tej edycja konferencji PMMania Increase your impact na podstawie art. 81 ust. 1 ustawy o prawie autorskim i prawach pokrewnych z dnia 4 kwietnia 1994 r. (Dz. U. Dz.U.2022.2509 t.j.) oraz art. 6 ust. 1 lit. a) RODO wyrażam zgodę na utrwalanie, publiczne wykorzystanie i rozpowszechnianie mojego wizerunku w formie ujęć zdjęciowych i video przez Project Management Institute Poland Chapter (PMI Oddział Polski) z siedzibą w Warszawie (02-672), przy ul. Domaniewskiej 47/10, KRS 0000167986, NIP 525-227-89-73, REGON 015543424 utrwalonych na rzecz konferencji PMMania Increase your impact  na potrzeby komunikacji promującej działania Project Management Institute Poland Chapter oraz promocji wydarzenia tj. X-tej  edycji konferencji Konferencja PMMania Increase your impact w PMI Poland Chapter. Zgoda obejmuje również dokonywanie obróbki, opracowań, powielanie i publikowanie wykonanych ujęć zdjęciowych, na następujących polach eksploatacji: 
+Ja, uczestnik X-tej edycja konferencji PM CONNECT CONF 2024 na podstawie art. 81 ust. 1 ustawy o prawie autorskim i prawach pokrewnych z dnia 4 kwietnia 1994 r. (Dz. U. Dz.U.2022.2509 t.j.) oraz art. 6 ust. 1 lit. a) RODO wyrażam zgodę na utrwalanie, publiczne wykorzystanie i rozpowszechnianie mojego wizerunku w formie ujęć zdjęciowych i video przez Project Management Institute Poland Chapter (PMI Oddział Polski) z siedzibą w Warszawie (02-672), przy ul. Domaniewskiej 47/10, KRS 0000167986, NIP 525-227-89-73, REGON 015543424 utrwalonych na rzecz konferencji PM CONNECT CONF 2024 na potrzeby komunikacji promującej działania Project Management Institute Poland Chapter oraz promocji wydarzenia tj. I-wszej  edycji konferencji PM CONNECT CONF 2024 w PMI Poland Chapter. Zgoda obejmuje również dokonywanie obróbki, opracowań, powielanie i publikowanie wykonanych ujęć zdjęciowych, na następujących polach eksploatacji: 
 
 1\. wprowadzenie utworu do pamięci komputera i sieci multimedialnych, Internetu, jak również przesyłanie utworu w ramach ww. sieci;
 
