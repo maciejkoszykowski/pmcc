@@ -1,6 +1,7 @@
 baseURL = "https://pmcc.pmi.org.pl"
 title = "PM Connect Conf"
 theme = "navigator-hugo"
+languageCode = "pl"
 
 # Build robots.txt file
 enableRobotsTXT = true
@@ -8,7 +9,7 @@ enableRobotsTXT = true
 # google analytics tracking id
 googleAnalytics = "DIFFRENT" # NOT USED HARDCODED IN THEME ###
 
-enableGitInfo = false
+enableGitInfo = false #TODO
 pygmentsCodeFences = true
 
 
@@ -25,11 +26,10 @@ author = "PMI and UMK"
 description =  "PM Connect Conf to dynamiczna inicjatywa współorganizowana przez kujawsko-pomorski oddział PMI Poland Chapter oraz Wydział Nauk Ekonomicznych i Zarządzania UMK w Toruniu. PM Connect Conf to nie tylko wyjątkowa szansa na poszerzenie praktycznej wiedzy z zakresu project managementu, ale także okazja do inspirującego networkingu w gronie profesjonalistów. Dzięki spotkaniu z ekspertami i liderami branży, uczestnicy będą mogli wymienić się doświadczeniami i nawiązać wartościowe kontakty, które mogą przyczynić się do dalszego rozwoju ich kariery zawodowej."
 
 
+dateFormat = "January 2, 2006" #TODO: this is not Polish date format
 
-languageCode = "pl"
-dateFormat = "January 2, 2006"
+# menu - first option # navbar 
 home = "Start"
-
 menufixed = true
 
 footerServiceTitle = "images/poland_logo-small.png"
@@ -41,6 +41,7 @@ PMI_PC_address_ul="ul. Domaniewska 47/10"
 PMI_PC_address_code="02-672 Warszawa"
 PMI_PC_NIP= "NIP: 525-227-89-73"
 
+# TODO: not used, probably to remove later 
 footerSubscribeTitle = "Subscribe"
 
 
@@ -49,7 +50,7 @@ footerSubscribeTitle = "Subscribe"
 enable = true
 expire_days = 2
 
-# Hero Area Section
+# Hero Area Section - Top strony 
 [params.hero]
 enable = true
 heading = "PM CONNECT CONF 2024"
@@ -61,16 +62,16 @@ btnURL = "https://pmipolandchapter.ticketbutler.io/en/e/pmconnectconf/"
 videoThumb = "images/DSC_3214_slider.jpg"
 #videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
 
-# About 2 Section
+# About 2 Section - Opis konferencji 
 [params.aboutSm]
 enable = true
 title = "Szansa na poszerzenie praktycznej wiedzy i poznanie ciekawych ludzi"
 
-#description2 = "Tegoroczna edycja odbywa się pod hasłem **„sztuczna inteligencja w zarządzaniu projektami to już rzeczywistość”**, które stanowi punkt wyjścia do eksploracji nowoczesnych transformacji w zarządzaniu projektami. Podczas konferencji uczestnicy będą mieli okazję zgłębić najnowsze trendy, technologie i rozwiązania związane z AI, które rewolucjonizują branżę."
+# reszta opisu, czyli blok tekstu znajduje się w about_sm.md w folderze content
 
 # Blog Section On Homepage
 [params.blog]
-enable = false
+enable = false #TODO: maybe the next year to use ? 
 topTitle = "OUR UNTOLD STORY"
 title = "Blog."
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
@@ -85,27 +86,31 @@ address = "Wydział Nauk Ekonomicznych i Zarządzania"
 address_line2 = "UMK w Toruniu"
 address_line3 = "ul. Gagarina 13a, 87-100 Toruń"
 phone = "+48 790 778 940"
-#fax = "+61 3827 3590"
+
 facebook = "https://www.facebook.com/events/997899829013535/?ref=newsfeed"
 #twitter = "https://twitter.com/"
 linkedin = "https://www.linkedin.com/events/pmconnectconf2024-zarz-dzaniepr7236639081965731840"
 #dribbble = "https://dribbble.com/"
 #instagram = "https://www.instagram.com/"
+
+# TODO: not used, probably to remove later 
 mapLatitude =  "53.02148"
 mapLongitude = "18.57073"
 mapMarker = "images/marker.png"
+### end of TODO
 
 # Call to Action Section on About Page
+# TODO: not used, probably to remove later 
 [params.cta]
 enable = false
 bg = "images/call-to-action/call-to-action-bg-2.jpg"
 title = "Let's Create Something Together"
 subtitle = "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
 btnText = "Contact Us"
-
-# We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
+## end of TODO
 
 # Site Menus
+
 [menu]
 # Navbar Menus
 [[menu.nav]]
@@ -141,23 +146,6 @@ name = "Regulamin"
 url = "regulaminy/regulamin-konferencji/"
 weight = 26
 
-
-# Footer Service Menu
-[[menu.service]]
-name = "graphicdesign"
-url = "service/"
-weight = 1
-[[menu.service]]
-name = "webdesign"
-url = "service/"
-weight = 2
-[[menu.service]]
-name = "webdevelopment"
-url = "service/"
-weight = 3
-
-
-
 # Footer Quick links Menu
 [[menu.quicklink]]
 name = "Polityka prywatności"
@@ -171,3 +159,4 @@ weight = 2
 name = "Regulamin"
 url = "regulamin"
 weight = 3
+
