@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ENGLISH Blog on PM Connect Conf</title>
+    <link>https://pmcc.pmi.org.pl/blog/</link>
+    <description>Recent content in ENGLISH Blog on PM Connect Conf</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Jul 2018 12:22:40 +0600</lastBuildDate>
+    <atom:link href="https://pmcc.pmi.org.pl/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Setup Navigator Hugo</title>
+      <link>https://pmcc.pmi.org.pl/blog/installation/</link>
+      <pubDate>Sun, 08 Jul 2018 12:22:40 +0600</pubDate>
+      <guid>https://pmcc.pmi.org.pl/blog/installation/</guid>
+      <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer. hugo install documentation&#xA;STEP-2 : Create your project Hugo provides a new command to create a new website.&#xA;hugo new site &amp;lt;new_project&amp;gt; STEP-3 : Install the theme Run this command&#xA;hugo new site navigator-hugo and then go to the themes folder inside of navigator-hugo folder. You can also use this command cd navigator-hugo/themes for going to this folder.</description>
+    </item>
+  </channel>
+</rss>

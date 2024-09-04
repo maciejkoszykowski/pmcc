@@ -3,7 +3,7 @@ topTitle: PM Connect Conf
 title   : Agenda
 
 day1_title: "Dzień Inspiracyjnych Warsztatów" 
-day1_date: "[ 25 pażdziernika 2024 ]" 
+day1_date: "[ 25 października 2024 ]" 
 
 itemDay1:
       - number  : 1
@@ -80,7 +80,7 @@ itemDay1:
 
 day2_title: "Dzień Konferencyjny: "
 day2_title_part2: "Prelekcje i Dyskusje "
-day2_date: "[ 26 pażdziernika 2024 ]  "
+day2_date: "[ 26 października 2024 ]  "
 itemDay2:
       - number  : 1
         start   : 9:30
@@ -92,8 +92,8 @@ itemDay2:
       - number  : 2
         start   : 10:00
         end     : 10:20
-        who   : Rozpoczęcie konferencji
-        title: prof. UMK Marlena Ciechan-Kujawa oraz Maciej Koszykowski
+        who   : "Rozpoczęcie konferencji"
+        title: "prof. UMK Marlena Ciechan-Kujawa oraz Maciej Koszykowski"
         description : >
           Krótkie przemowy powitalne organizatorów WNEiZ UMK oraz PMI PC Kujawsko-Pomorskie
 
@@ -123,8 +123,8 @@ itemDay2:
       - number  : 6
         start   : 12:30
         end     : 12:55
-        who     : "adw. Tomasz Sowa"
-        title   : "AI Act (akt w sprawie sztucznej inteligencji) a zarządzanie projektami – wpływ nowych regulacji na prace dotyczące modeli i systemów AI. "
+        who     : "Tomasz Sowa"
+        title   : "AI Act (akt w sprawie sztucznej inteligencji) a zarządzanie projektami – wpływ nowych regulacji na prace dotyczące modeli i systemów AI."
         description : >
           Podczas prelekcji uczestnicy poznają podstawy AI Act – nowego rozporządzenia UE dotyczącego systemów sztucznej inteligencji. Omówimy, kiedy AI Act będzie miał zastosowanie do projektów oraz jak kwalifikacja systemu AI do klasy ryzyka wpływa na obowiązki prawne. Przedstawimy kluczowe obowiązki, które należy uwzględnić podczas pracy nad projektem, aby uniknąć problemów z komercjalizacją. Skupimy się na ochronie praw własności intelektualnej oraz zarządzaniu danymi. Celem prelekcji jest przygotowanie uczestników na wyzwania prawne związane z AI Act.
 
@@ -139,7 +139,7 @@ itemDay2:
       - number  : 8
         start   : 13:55
         end     : 14:40
-        who     : dr Maciej Chrzanowski 
+        who     : "dr Maciej Chrzanowski"
         title   : "Wydajny człowiek ~ Wydajna firma, czyli jak zoptymalizować codzienne procesy dzięki AI i strategiom produktywności"
         description : >
           dr Maciej przedstawi nam narzędzia AI, z których możemy skorzystać już dziś w swojej pracy i organizacji.
@@ -154,16 +154,16 @@ itemDay2:
       - number  : 10
         start   : 15:00
         end     : 15:40
-        who     : Prezentacja najlepszych prac dyplomowych absolwentów 
-        title   : UMK Project Management
+        who     : "Prezentacja najlepszych prac dyplomowych absolwentów"
+        title   : "UMK Project Management"
         description : >
           Tutaj będzie się działo, gdyż kreatywność naszych studentów kierunku zarządzania projektami zaskakuje każdego roku. 
 
       - number  : 11
         start   : 15:40
         end     : 16:10
-        who     : Zakończenie roku akademickiego oraz inaguracja kolejnej edycji studiów 
-        title   : UMK Project Management
+        who     : "Zakończenie roku akademickiego oraz inaguracja kolejnej edycji studiów"
+        title   : "UMK Project Management"
         description : >
           Zakończenie UMK Project Management edycji XII Online i XIII Toruń oraz inaguracja edycji XIV Online i XV Toruń
 
