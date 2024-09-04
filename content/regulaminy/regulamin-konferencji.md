@@ -138,7 +138,7 @@ layout: "regulamin"
 
 ###### Akceptacja regulaminu jest równoważna z wyrażeniem zgody na wykorzystanie wizerunku:
 
-Ja, uczestnik X-tej edycja konferencji PM CONNECT CONF 2024 na podstawie art. 81 ust. 1 ustawy o prawie autorskim i prawach pokrewnych z dnia 4 kwietnia 1994 r. (Dz. U. Dz.U.2022.2509 t.j.) oraz art. 6 ust. 1 lit. a) RODO wyrażam zgodę na utrwalanie, publiczne wykorzystanie i rozpowszechnianie mojego wizerunku w formie ujęć zdjęciowych i video przez:
+Ja, uczestnik konferencji PM CONNECT CONF 2024 na podstawie art. 81 ust. 1 ustawy o prawie autorskim i prawach pokrewnych z dnia 4 kwietnia 1994 r. (Dz. U. Dz.U.2022.2509 t.j.) oraz art. 6 ust. 1 lit. a) RODO wyrażam zgodę na utrwalanie, publiczne wykorzystanie i rozpowszechnianie mojego wizerunku w formie ujęć zdjęciowych i video przez:
 
 - Project Management Institute Poland Chapter (PMI Oddział Polski) z siedzibą w Warszawie (02-672), przy ul. Domaniewskiej 47/10, KRS 0000167986, NIP 525-227-89-73, REGON 015543424 oraz 
 
