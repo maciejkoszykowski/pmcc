@@ -6,68 +6,68 @@ description: "Regulamin Konferencji"
 layout: "regulamin"
 ---
 
-# Konferencja PM Connect Conf
+# Konferencja PM CONNECT CONF
 
 #### Edycja 2024
 #### REGULAMIN UDZIAŁU UCZESTNIKÓW
 #### z dnia 30.08.2024
 ##### Project Management Institute Poland Chapter Oddział Kujawsko-Pomorskie
-##### Wydziale Nauk Ekonomicznych i Zarządzania UMK w Toruniu,
+##### Wydział Nauk Ekonomicznych i Zarządzania UMK w Toruniu
 
 ## I Postanowienia ogólne
 
-1. Konferencja PM Connect Conf – zwana w dalszej części Regulaminu „konferencją” lub „wydarzeniem” odbędzie się w dniu 25.10.2024 i 26.10.2024 roku na Wydziale Nauk Ekonomicznych i Zarządzania UMK w Toruniu, zlokalizowanym przy ul. Gagarina 13a, 87-100 Toruń. 
-2.	Organizatorem wydarzenia jest PMI Poland Chapter (PMI Oddział Polski) z siedzibą w Warszawie (02-672), przy ul. Domaniewskiej 47/10, KRS 0000-167-986, NIP 525-227-89-73, REGON 0155-4342-4 oraz Wydział Nauk Ekonomicznych i Zarządzania, Uniwersytet Mikołaja Kopernika w Toruniu, ul. Gagarina 13a, 87-100 Toruń, zwanymi w dalszej części Regulaminu „Organizatorem”. 
-3.	Oficjalny serwis internetowy konferencji PM CONNECT CONF znajduje się pod adresem: pmcc.pmi.org.pl, a oficjalnym kanałem komunikacji pomiędzy uczestnikiem a organizatorem jest adres e-mail: kujawsko-pomorskie@pmi.org.pl
+1. Konferencja PM CONNECT CONF – zwana w dalszej części Regulaminu „konferencją” lub „wydarzeniem” odbędzie się w dniach 25.10.2024 i 26.10.2024 roku na Wydziale Nauk Ekonomicznych i Zarządzania UMK w Toruniu, zlokalizowanym przy ul. Gagarina 13a, 87-100 Toruń. 
+2.	Organizatorem wydarzenia jest PMI Poland Chapter (PMI Oddział Polski) z siedzibą w Warszawie (02-672), przy ul. Domaniewskiej 47/10, KRS 0000-167-986, NIP 525-227-89-73, REGON 015543424 oraz Wydział Nauk Ekonomicznych i Zarządzania, Uniwersytet Mikołaja Kopernika w Toruniu, ul. Gagarina 13a, 87-100 Toruń, zwanymi w dalszej części Regulaminu „Organizatorem”. 
+3.	Oficjalny serwis internetowy Konferencji PM CONNECT CONF znajduje się pod adresem: https://pmcc.pmi.org.pl/, a oficjalnym kanałem komunikacji pomiędzy Uczestnikiem a Organizatorem jest adres e-mail: kujawsko-pomorskie@pmi.org.pl.
 4.	Organizator zastrzega sobie prawo do zmiany prelegentów i programu Konferencji z przyczyn niezależnych od Organizatora.
-5.	Strona internetowa konferencji znajduje się pod adresem pmcc.pmi.org.pl – w dalszej części Regulamin nazywaną „stroną internetową wydarzenia”. 
+5.	Strona internetowa konferencji znajduje się pod adresem https://pmcc.pmi.org.pl/ – w dalszej części Regulaminu nazywaną „stroną internetową wydarzenia”. 
 
 ## II Zasady uczestnictwa
 
-1.	Podstawą uczestnictwa w konferencji jest zakup biletu dostępnego na stronie internetowej pmcc.pmi.org.pl wypełnienie formularza rejestracji oraz uiszczenie opłaty za uczestnictwo do dnia wymienionego w formularzu zgłoszeniowym. Liczy się data zaksięgowania wpłaty na konto Organizatora. Uczestnik ponosi koszty połączenia Internetowego związane z rejestracją na konferencję.
-2.	Uczestnik zobowiązany jest do uiszczenia opłaty w terminie 3 dni od przesłania formularza (najpóźniej na dzień przed konferencją tj. 25.10.2024), a w przypadku niedokonania opłaty w tym terminie zgłoszenie będzie anulowane.
+1.	Podstawą uczestnictwa w konferencji jest zakup biletu dostępnego na stronie internetowej https://pmcc.pmi.org.pl/ poprzez wypełnienie formularza rejestracji oraz uiszczenie opłaty za uczestnictwo do dnia wymienionego w formularzu zgłoszeniowym. Liczy się data zaksięgowania wpłaty na konto Organizatora. Uczestnik ponosi koszty połączenia Internetowego związane z rejestracją na konferencję.
+2.	Uczestnik zobowiązany jest do uiszczenia opłaty w terminie 3 dni od przesłania formularza (najpóźniej na dzień przed konferencją, tj. 25.10.2024), a w przypadku niedokonania opłaty w tym terminie zgłoszenie będzie anulowane.
     -  Organizator zastrzega sobie prawo do wydłużenia terminu płatności za udział w konferencji, poprzez wskazanie nowego terminu płatności na wystawionej fakturze VAT.
 3.	Organizator w ramach opłaty za uczestnictwo nie zapewnia dojazdu na miejsce wydarzenia ani noclegu. 
 4.	Warunkiem udziału w wydarzeniu jest zapoznanie się i zaakceptowanie Regulaminu. 
-5.	Dozwolone jest fotografowanie, nagrywanie oraz filmowanie tylko za uprzednią pisemną zgodą Organizatora i tylko w miejscach przez niego wskazanych. Wszelkie materiały, nagrania, publikacje, znaki towarowe, handlowe oraz inne treści i dzieła publikowane, prezentowane, retransmitowane, rozpowszechniane w czasie trwania Konferencji podlegają i są objęte ochroną prawa autorskiego w rozumieniu Ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych. Korzystanie z nich bez zgody właściciela jest zabronione, chyba że niniejszy Regulamin stanowi inaczej.
-6.	Jeśli Uczestnik zamierza rejestrować, udostępniać i archiwizować treść Konferencji, zobowiązany jest do uprzedniego kontaktu z Organizatorem w celu określenia warunków wykorzystania treści Konferencji.
-7.	Zgłoszenia uczestnictwa przyjmowane będą do dnia 25.10.2024 lub wyczerpania miejsc
+5.	Dozwolone jest fotografowanie, nagrywanie oraz filmowanie tylko za uprzednią pisemną zgodą Organizatora i tylko w miejscach przez niego wskazanych. Wszelkie materiały, nagrania, publikacje, znaki towarowe, handlowe oraz inne treści i dzieła publikowane, prezentowane, retransmitowane, rozpowszechniane w czasie trwania konferencji podlegają i są objęte ochroną prawa autorskiego w rozumieniu Ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych. Korzystanie z nich bez zgody właściciela jest zabronione, chyba że niniejszy Regulamin stanowi inaczej.
+6.	Jeśli Uczestnik zamierza rejestrować, udostępniać i archiwizować treść konferencji, zobowiązany jest do uprzedniego kontaktu z Organizatorem w celu określenia warunków wykorzystania treści konferencji.
+7.	Zgłoszenia uczestnictwa przyjmowane będą do dnia 25.10.2024 lub wyczerpania miejsc.
 8.	Organizator ma prawo do niedopuszczenia uczestnika do udziału w konferencji bez podania przyczyny. W przypadku dokonania opłaty za uczestnictwo Organizator zwróci Uczestnikowi wysokość dokonanej wpłaty w ciągu 7 dni na konto, z którego dokonano wpłaty.
-9.	Uczestnik zawiera umowę uczestnictwa w Konferencji z chwilą rejestracji. 
+9.	Uczestnik zawiera umowę uczestnictwa w konferencji z chwilą rejestracji. 
 
 ## III Opłata za uczestnictwo
 
-1.	Uczestnictwo w Konferencji jest odpłatne, a koszt udziału obejmuje uczestnictwo w wykładach i networkingu, materiały konferencyjne i pokonferencyjne, przerwy kawowe oraz lunch.
-    -  Koszt udziału w bloku wykładowym tj. 26.10.2024 nie obejmuje możliwość uczestnictwa w warsztatach, które odbędą się 25.10.2024. Warsztaty są oddzielnie płatne. Liczba uczestników biorących udział w warsztatach jest ograniczona, a o udziale decyduje kolejność zgłoszeń.
+1.	Uczestnictwo w konferencji jest odpłatne, a koszt udziału obejmuje uczestnictwo w wykładach i networkingu, materiały konferencyjne i pokonferencyjne, przerwy kawowe oraz lunch.
+    -  Koszt udziału w bloku wykładowym, tj. 26.10.2024, nie obejmuje możliwości uczestnictwa w warsztatach, które odbędą się 25.10.2024. Warsztaty są oddzielnie płatne. Liczba uczestników biorących udział w warsztatach jest ograniczona, a o udziale decyduje kolejność zgłoszeń.
 2.	Cennik opłat konferencyjnych dostępny jest na stronie internetowej wydarzenia: 
-    -  Dla uczestników zarejestrowanych do 30.09.2024 włącznie (Early Bird) cena wynosi 249PLN brutto za osobę. 
-    -  Dla uczestników zarejestrowanych od 10.08.2024 do 25.09.2024 włącznie (Standard) cena wynosi 349 PLN brutto za osobę.
-    -  W celu zakupu biletów grupowych Uczestnik może zwrócić się z zapytaniem za pośrednictwem poczty elektronicznej z organizatorem. 
+    -  Dla uczestników zarejestrowanych do 30.09.2024 włącznie (Early Bird) cena wynosi 249 PLN brutto za osobę. 
+    -  Dla uczestników zarejestrowanych od 01.10.2024 do 25.10.2024 włącznie (Standard) cena wynosi 349 PLN brutto za osobę.
+    -  W celu zakupu biletów grupowych Uczestnik może zwrócić się z zapytaniem za pośrednictwem poczty elektronicznej z Organizatorem. 
 3.	Organizator zastrzega sobie prawo do indywidualnego obniżenia kwoty opłaty za uczestnictwo. 
 4.	Organizator zastrzega sobie prawo do obniżenia opłaty dla członków PMI PC, partnerów wydarzenia, absolwentów UMK kierunku studiów Project Management oraz do udzielania innych zniżek według swojego uznania. 
 5.	Po zarejestrowaniu się poprzez formularz zgłoszeniowy dostępny na stronie internetowej wydarzenia oraz po uiszczeniu opłaty za uczestnictwo, Organizator wyśle pod wskazany w formularzu zgłoszeniowym adres e-mail Uczestnika potwierdzenie rejestracji. 
 6.	Płatnikiem (adresatem faktury) jest podmiot zamawiający poszczególne usługi związane z uczestnictwem w wydarzeniu. Faktura zostanie wystawiona na zasadach ogólnych do 15 dnia miesiąca po miesiącu, w którym nastąpił zakup.
-7.	Wysokość opłaty konferencyjnej uzależniona jest od daty rejestracji Uczestnika i ewentualnych rabatów udzielonych Uczestnikowi indywidualnemu lub grupom Uczestników. Ostateczna cena jest ustalana przez Organizatora. Bilety Early Birds można zakupić do dnia 30.09.2024. Od dnia 01.10.2024 obowiązuje cena regularna.
+7.	Wysokość opłaty konferencyjnej uzależniona jest od daty rejestracji Uczestnika i ewentualnych rabatów udzielonych Uczestnikowi indywidualnemu lub grupom Uczestników. Ostateczna cena jest ustalana przez Organizatora. Bilety Early Birds można zakupić do dnia 30.09.2024. Od dnia 01.10.2024 obowiązuje cena regularna (Standard).
 8.	Rabaty promocyjne i grupowe nie łączą się.
-9.	Niezależnie od uprawnień przyznanych w przepisach obowiązującego prawa, Uczestnik może zrezygnować z uczestnictwa w Konferencji. Rezygnacja Uczestnika z udziału w Konferencji winna być dokonana w formie pisemnej na adres Organizatora wskazany w pkt. I lub poprzez wysłanie wiadomości e-mail na adres poczty elektronicznej Organizatora.
-10.	W przypadku rezygnacji uczestnika z udziału w konferencji Organizator zastrzega sobie prawo do zatrzymania części lub całości opłaty konferencyjnej/za uczestnictwo:
+9.	Niezależnie od uprawnień przyznanych w przepisach obowiązującego prawa, Uczestnik może zrezygnować z uczestnictwa w konferencji. Rezygnacja Uczestnika z udziału w Konferencji winna być dokonana w formie pisemnej na adres Organizatora wskazany w pkt. I § 2 lub poprzez wysłanie wiadomości e-mail na adres poczty elektronicznej Organizatora wskazany w pkt. I § 3.
+10.	W przypadku rezygnacji Uczestnika z udziału w konferencji Organizator zastrzega sobie prawo do zatrzymania części lub całości opłaty konferencyjnej/za uczestnictwo:
     -  gdy Organizator otrzyma od Uczestnika oświadczenie o rezygnacji do 30 dnia przed rozpoczęciem konferencji lub wcześniej, Organizator zwróci Uczestnikowi wpłaconą kwotę, zatrzymując odstępne w wysokości 50% wartości całości opłaty, pod warunkiem wcześniejszego otrzymania wpłaty za udział; 
     -  gdy Organizator otrzyma od Uczestnika oświadczenie o rezygnacji pomiędzy 29 a 15 dniem przed rozpoczęciem konferencji, Organizator ma prawo zatrzymać odstępne w wysokości 75% wartości całości opłaty, pod warunkiem wcześniejszego otrzymania wpłaty za udział; 
     -  gdy Organizator otrzyma od Uczestnika oświadczenie o rezygnacji w 14 dniu przed rozpoczęciem konferencji lub później, Organizator ma prawo zatrzymać całą otrzymaną wpłatę;
     -  każdy przypadek rezygnacji będzie rozpatrywany indywidualnie.
-11.	W przypadku odwołania wydarzenia przez Organizatora wszystkie wpłaty wniesione przez uczestników zostaną im zwrócone w pełnej wysokości. 
+11.	W przypadku odwołania wydarzenia przez Organizatora wszystkie wpłaty wniesione przez Uczestników zostaną im zwrócone w pełnej wysokości. 
 12.	Organizator dokonuje zwrotu płatności przy użyciu takiego samego sposobu zapłaty, jakiego użył Uczestnik, chyba że Uczestnik wyraźnie zgodził się na inny sposób zwrotu, który nie wiąże się dla niego z żadnymi kosztami.
 
 ## IV Odstąpienie od umowy i reklamacje
 
-1.	Organizator informuje, że Uczestnik będący konsumentem może odstąpić od umowy zawieranej na odległość drogą elektroniczną bez podania przyczyny, przy czym z uwagi na to, że Uczestnik zawiera umowę w której wskazany jest konkretny dzień i miejsce konferencji PM Connect Conf to zastosowanie znajdzie art. 38 pkt. 12 Ustawy o prawach konsumenta, który stanowi, że w takim przypadku – w związku z poinformowaniem Uczestnika – prawo do odstąpienia od umowy w terminie 14 dni bez podania powodu nie przysługuje.
-2.	Wszelkie reklamacje Uczestników konferencji PM Connect Conf wobec Organizatora powinny być zgłaszane drogą elektroniczną na adres wskazany powyżej. Prawidłowo złożona reklamacja powinna zawierać co najmniej następujące dane: imię i nazwisko, adres poczty elektronicznej, przedmiot reklamacji, okoliczności uzasadniające reklamację. Ustosunkowanie się do reklamacji przez Organizatora nastąpi niezwłocznie, nie później niż w terminie 14 dni od dnia jej złożenia. Decyzja dotycząca reklamacji zostanie przekazana Uczestnikowi na wskazany przez niego adres poczty elektronicznej. 
+1.	Organizator informuje, że Uczestnik będący konsumentem może odstąpić od umowy zawieranej na odległość drogą elektroniczną bez podania przyczyny, przy czym z uwagi na to, że Uczestnik zawiera umowę w której wskazany jest konkretny dzień i miejsce Konferencji PM CONNECT CONF, to zastosowanie znajdzie art. 38 pkt. 12 Ustawy o prawach konsumenta, który stanowi, że w takim przypadku – w związku z poinformowaniem Uczestnika – prawo do odstąpienia od umowy w terminie 14 dni bez podania powodu nie przysługuje.
+2.	Wszelkie reklamacje Uczestników Konferencji PM CONNECT CONF wobec Organizatora powinny być zgłaszane drogą elektroniczną na adres poczty elektronicznej Organizatora wskazany w pkt. I § 3. Prawidłowo złożona reklamacja powinna zawierać co najmniej następujące dane: imię i nazwisko, adres poczty elektronicznej, przedmiot reklamacji, okoliczności uzasadniające reklamację. Ustosunkowanie się do reklamacji przez Organizatora nastąpi niezwłocznie, nie później niż w terminie 14 dni od dnia jej złożenia. Decyzja dotycząca reklamacji zostanie przekazana Uczestnikowi na wskazany przez niego adres poczty elektronicznej. 
 
 ## V Formy płatności
 
 1. Akceptowane formy płatności to płatność online przetwarzana za pośrednictwem platformy Ticketbutler.
     -  Organizator nie ponosi odpowiedzialności za prawidłową obsługę płatności przez operatorów tych płatności: Przelewy24, BLIK oraz akceptantów kart kredytowych.
-2.	W przypadku biletu grupowego lub sytacjach wyjątkowych płatność przelewem na wskazane przez Organizatora konto (PMI Poland Chapter Ul. Domaniewska 47/10 02-672 Warszawa). Numer konta zostanie wskazany w mailu potwierdzającym rejestrację i/lub na fakturze. Wymagany jest uprzedni, bezpośredni kontakt z organizatorem w celu omówienia szczegółów płatności. Z organizatorem należy kontaktować się za pośrednictwem adresu e-mail wskazanego w formularzu rejestracyjnym.
+2.	W przypadku biletu grupowego lub w sytacjach wyjątkowych płatność przelewem na wskazane przez Organizatora konto (PMI Poland Chapter, Ul. Domaniewska 47/10 02-672 Warszawa). Numer konta zostanie wskazany w mailu potwierdzającym rejestrację i/lub na fakturze. Wymagany jest uprzedni, bezpośredni kontakt z Organizatorem w celu omówienia szczegółów płatności. Z Organizatorem należy kontaktować się za pośrednictwem adresu poczty elektronicznej Organizatora wskazanego w pkt. I § 3.
 
 ## VI Bezpieczeństwo
 
@@ -87,7 +87,7 @@ layout: "regulamin"
     -  wniesienia sprzeciwu, 
     -  przeniesienia danych, 
     -  wniesienia skargi do organu nadzoru. 
-4.	Szczegółowe zasady dotyczące zbierania i przetwarzana danych Uczestników Konferencji, opisane są w Polityce Prywatności: http://pmi.org.pl/polityka-prywatnosci
+4.	Szczegółowe zasady dotyczące zbierania i przetwarzana danych Uczestników Konferencji, opisane są w Polityce Prywatności: http://pmi.org.pl/polityka-prywatnosci.
 
 ## VIII.1. Dane pozyskiwane w celu realizacji konferencji
 
@@ -108,27 +108,27 @@ layout: "regulamin"
 
 1.	Dane, w których wyrażono zgodę na cele marketingowe lub handlowe: 
     -  przetwarzane będą na podstawie wyrażonej zgody w formularzu, 
-    -  przechowywane będą do czasu cofnięcia zgody; 
-    -  rzekazywane będą podmiotom wskazanym w składanych oświadczeniach. 
+    -  przechowywane będą do czasu cofnięcia zgody, 
+    -  przekazywane będą podmiotom wskazanym w składanych oświadczeniach. 
 
 ## IX Informacje o partnerach i sponsorach
 
 1.	Partnerzy oraz Sponsorzy mogą prowadzić działania marketingowe podczas sesji i warsztatów, pod warunkiem, że Uczestnicy są o tym poinformowani, a pomieszczenia wykładowe przeznaczone na te działania są wyraźnie oznaczone.
-2.	Partnerzy oraz Sponsorzy są poinformowani przez Organizatora, iż nie mogą prowadzić działań marketingowych wobec Uczestników Konferencji, które są nieetyczne lub naruszają normy prawne i obyczajowe.
-
+2.	Partnerzy oraz Sponsorzy są poinformowani przez Organizatora, iż nie mogą prowadzić działań marketingowych wobec Uczestników konferencji, które są nieetyczne lub naruszają normy prawne i obyczajowe.
+ 
 ## X Postanowienia końcowe
 
 1.	Wydarzenie może być nagrywane i fotografowane przez Organizatora. 
 2.	Udział w konferencji jest równoznaczny z przeniesieniem na Organizatora autorskich praw majątkowych do nagrań i zdjęć oraz z wyrażeniem zgody na komercyjne ich wykorzystanie w przypadku: 
-    -  gdy Uczestnik zostanie sfilmowany lub sfotografowany na terenie obiektu 
+    -  gdy Uczestnik zostanie sfilmowany lub sfotografowany na terenie obiektu, 
     -  gdy uczestnik dobrowolnie wyrazi zgodę na udzielenie wywiadu przed kamerą, bądź pozowanie do zdjęcia. 
 3.	Przetwarzanie danych podczas wydarzenia, w tym poprzez udostępnianie nagrań i zdjęć jest zgodne z przepisami ochrony danych osobowych. 
 4.	Wszelkie kwestie sporne dotyczące organizacji zapisów rozstrzyga lider oddziału PMI PC Kujawsko-Pomorskie maciej.koszykowski@pmi.org.pl, a dotyczące realizacji umowy sąd powszechny.
-5.	Wszelkie spory będą rozstrzygane w przypadku Użytkowników będących konsumentami przez właściwy sąd powszechny, przy czym konsument ma możliwość skorzystania z pozasądowych sposobów rozpatrywania reklamacji i dochodzenia roszczeń, w szczególności może on: 
+5.	Wszelkie spory będą rozstrzygane w przypadku Uczestników będących konsumentami przez właściwy sąd powszechny, przy czym konsument ma możliwość skorzystania z pozasądowych sposobów rozpatrywania reklamacji i dochodzenia roszczeń, w szczególności może on: 
     -  złożyć wniosek o rozstrzygnięcie sporu do stałego polubownego sądu konsumenckiego działającego przy Inspekcji Handlowej, 
     -  złożyć wniosek o wszczęcie postępowania mediacyjnego w sprawie polubownego zakończenia sporu między konsumentem, a Usługodawcą do wojewódzkiego inspektora Inspekcji Handlowej, 
     -  skorzystać z pomocy powiatowego lub miejskiego rzecznika konsumentów lub organizacji społecznej, do której zadań statutowych należy ochrona konsumentów. 
-6.	Przepisy niniejszego Regulaminu stanowią integralną część zgłoszenia uczestnictwa w konferencji i obowiązują wszystkich uczestników. 
+6.	Przepisy niniejszego Regulaminu stanowią integralną część zgłoszenia uczestnictwa w konferencji i obowiązują wszystkich Uczestników. 
 7.	Organizator ma prawo do zmiany miejsca i terminu konferencji, o czym Uczestnicy zostaną powiadomieni e-mailowo. 
 8.	Organizator ma prawo do zmian w niniejszym Regulaminie, o których Uczestnicy zostaną powiadomieni e-mailowo.
 9.	Regulamin wchodzi w życie 01.09.2024.
@@ -138,23 +138,23 @@ layout: "regulamin"
 
 ###### Akceptacja regulaminu jest równoważna z wyrażeniem zgody na wykorzystanie wizerunku:
 
-Ja, uczestnik konferencji PM CONNECT CONF 2024 na podstawie art. 81 ust. 1 ustawy o prawie autorskim i prawach pokrewnych z dnia 4 kwietnia 1994 r. (Dz. U. Dz.U.2022.2509 t.j.) oraz art. 6 ust. 1 lit. a) RODO wyrażam zgodę na utrwalanie, publiczne wykorzystanie i rozpowszechnianie mojego wizerunku w formie ujęć zdjęciowych i video przez:
+Ja, uczestnik Konferencji PM CONNECT CONF 2024 na podstawie art. 81 ust. 1 ustawy o prawie autorskim i prawach pokrewnych z dnia 4 kwietnia 1994 r. (Dz. U. Dz.U.2022.2509 t.j.) oraz art. 6 ust. 1 lit. a) RODO wyrażam zgodę na utrwalanie, publiczne wykorzystanie i rozpowszechnianie mojego wizerunku w formie ujęć zdjęciowych i video przez:
 
 - Project Management Institute Poland Chapter (PMI Oddział Polski) z siedzibą w Warszawie (02-672), przy ul. Domaniewskiej 47/10, KRS 0000167986, NIP 525-227-89-73, REGON 015543424 oraz 
 
 - Wydział Nauk Ekonomicznych i Zarządzania Uniwersytetu Mikołaja Kopernika w Toruniu, ul. Gagarina 13a, 87-100 Toruń, NIP 879-017-72-91, REGON 000001324, 
 
-utrwalonych na rzecz konferencji PM CONNECT CONF 2024 na potrzeby komunikacji promującej działania Project Management Institute Poland Chapter i Wydział Nauk Ekonomicznych i Zarządzania Uniwersytetu Mikołaja Kopernika w Toruniu oraz promocji wydarzenia tj. konferencji PM CONNECT CONF 2024 w PMI Poland Chapter. Zgoda obejmuje również dokonywanie obróbki, opracowań, powielanie i publikowanie wykonanych ujęć zdjęciowych, na następujących polach eksploatacji: 
+utrwalonych na rzecz Konferencji PM CONNECT CONF 2024 na potrzeby komunikacji promującej działania Project Management Institute Poland Chapter i Wydziału Nauk Ekonomicznych i Zarządzania Uniwersytetu Mikołaja Kopernika w Toruniu oraz promocji wydarzenia, tj. Konferencji PM CONNECT CONF 2024 w PMI Poland Chapter. Zgoda obejmuje również dokonywanie obróbki, opracowań, powielanie i publikowanie wykonanych ujęć zdjęciowych, na następujących polach eksploatacji: 
 
 1\. wprowadzenie utworu do pamięci komputera i sieci multimedialnych, Internetu, jak również przesyłanie utworu w ramach ww. sieci;
 
-2\. utrwalanie/zwielokrotnianie/rozpowszechnianie utworu bez ograniczeń ilościowych, dowolną techniką i metodą, w tym formie analogowej lub cyfrowej, w celu umieszczenia zdjęć w mediach elektronicznych (w tym w social mediach) i papierowych oraz w materiałach promocyjnych, marketingowych oraz w innych materiałach, dokumentach, ulotkach, oraz korespondencji stworzonych lub rozpowszechnianych przez Project Management Institute Poland Chapter niezależnie od nośnika i formy zapisu tych materiałów (tj. w formie publikacji papierowej, jak i elektronicznej), w tym szczególności w ramach strony internetowej http://pmcc.pmi.org.pl
+2\. utrwalanie/zwielokrotnianie/rozpowszechnianie utworu bez ograniczeń ilościowych, dowolną techniką i metodą, w tym formie analogowej lub cyfrowej, w celu umieszczenia zdjęć w mediach elektronicznych (w tym w social mediach) i papierowych oraz w materiałach promocyjnych, marketingowych oraz w innych materiałach, dokumentach, ulotkach, oraz korespondencji stworzonych lub rozpowszechnianych przez Project Management Institute Poland Chapter niezależnie od nośnika i formy zapisu tych materiałów (tj. w formie publikacji papierowej, jak i elektronicznej), w tym szczególności w ramach strony internetowej https://pmcc.pmi.org.pl.
 
 Oświadczam, że niniejsza zgoda do ww. celów następuje bez ograniczeń terytorialnych na okres nieograniczony. Jestem świadoma/y, że przysługuje mi prawo do odwołania mojej zgody. 
 
 Oświadczam, że posiadam pełną zdolność do czynności prawnych, oraz, że zapoznałem/am się z powyższą treścią i jest dla mnie zrozumiała. Złożone przeze mnie oświadczenie jest dobrowolne. 
 
-Jednocześnie oświadczam, że zostałam poinformowana o zasadach przetwarzania przez administratora danych oraz o przysługujących mi uprawnieniach. Wiem, że:
+Jednocześnie oświadczam, że zostałam/zostałem poinformowana/y o zasadach przetwarzania przez administratora danych oraz o przysługujących mi uprawnieniach. Wiem, że:
 
 1\.	Zgodę mogę wycofać w dowolnym momencie wysyłając wiadomość drogą mailową zawierającą stosowne żądanie, wraz z imieniem i nazwiskiem, na adres wydarzenia@pmi.org.pl.
 
