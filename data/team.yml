@@ -15,7 +15,7 @@ subtitle: "    "
 titleOrg: Organizacja wydarzenia
 titleRada: Rada Programowa
 rada:
-  - image         : images/team/rada/marlena.jpg
+  - image         : images/team/rada/marlena.png
     name          : Marlena Ciechan-Kujawa
     designation   : prof. UMK, Dziekan WNEiZ
     description   : >
@@ -23,21 +23,21 @@ rada:
       Od wielu lat kieruje realizowanymi z partnerami biznesowymi studiami podyplomowymi Business Controlling i Project Management. W swoich badaniach koncentruje się na analizie uwarunkowań i mechanizmów wdrażania strategii cyfrowych i zrównoważonych oraz ich wpływu na wyniki organizacji. Ekspertka w zakresie zintegrowanych systemów zarządzania, a także projektowania modeli pomiaru oraz raportowania finansowych  i niefinansowych generatorów efektywności biznesowej.
     linkedInURL   : https://www.linkedin.com/in/marlena-ciechan-kujawa/
   
-  - image         : images/team/rada/piotr.jpg
+  - image         : images/team/rada/piotr.png
     name          : Piotr Sobolewski
     designation   : Wykładowca UMK
     description   : >
       Z zarządzaniem projektami jest związany od ponad 20 lat. Prowadził projekty w sektorze elektrotechnicznym, automotive oraz IT. Od 2013 roku pracuje w firmie Atos, gdzie obecnie zarządza działem Program and Project Management. Wieloletnie doświadczenie z różnych branż łączy z przygotowaniem teoretycznym. Jest absolwentem studiów MBA oraz posiadaczem wielu certyfikatów m.in.: PMP®, Prince2, Prince2 Agile, Agile PM, MSP, ITIL. Od kilku lat swoją wiedzą i doświadczeniem dzieli się prowadząc szkolenia i wykłady z Zarządzania Projektami na UMK oraz WSB Merito.
     linkedInURL   : https://www.linkedin.com/in/piotrsobolewski/
 
-  - image         : images/team/rada/jakub.jpg
+  - image         : images/team/rada/jakub.png
     name          : Jakub Polaszek
     designation   : Lider Społeczności PMI
     description   : >
       "Menadżer z ponad 24-letnim doświadczeniem w zarządzaniu projektami, programami oraz portfelami projektów. Posiada certyfikaty PMP®, PRINCE2®, MSP®, AgilePM®, Lean Six Sigma Yellow Belt, ITIL® oraz P3O®. Specjalizuje się w sektorach IT, ICT, bezpieczeństwa IT oraz rozwoju oprogramowania. Pełnił funkcje Wiceprezesa ds. Finansów oraz Członka Komisji Rewizyjnej w PMI Poland Chapter. Wykładał na podyplomowych studiach z Zaawansowanego Zarządzania Programami i Projektami na Wyższej Szkole Bankowej w Toruniu. Prowadził także warsztaty w ramach PMO Academy w Atos PGS. Jest recenzentem międzynarodowych standardów PMI oraz korektorem polskiego tłumaczenia Przewodnika PMBOK®. Obecnie prowadzi badania w ramach doktoratu wdrożeniowego na Uniwersytecie Mikołaja Kopernika w Toruniu, koncentrując się na zastosowaniu sztucznej inteligencji w prognozowaniu kluczowych wskaźników wydajności (KPI) projektów. Mentor i trener, pomagający kształtować przyszłych liderów zarządzania projektami.""
     linkedInURL  : https://www.linkedin.com/in/polaszek/
 
-  - image         : images/team/rada/maciej.jpg
+  - image         : images/team/rada/maciej.png
     name          : Maciej Koszykowski
     designation   : Lider Społeczności PMI
     description   : >
@@ -45,7 +45,7 @@ rada:
     linkedInURL   : https://www.linkedin.com/in/maciejkoszykowski/
 
 member  :
-  - image         : images/team/mariusz.jpg
+  - image         : images/team/mariusz.png
     name          : Mariusz Lewandowski
     designation   : Zespół ds. Marketingu
     description   : >
@@ -57,7 +57,7 @@ member  :
     linkedInURL   : https://www.linkedin.com/in/panodmarketingu/
     instagramURL   : https://www.instagram.com/panodmarketingu/
     
-  - image         : images/team/kamila.jpg
+  - image         : images/team/kamila.png
     name          : Kamila Kłosowska
     designation   : Zespół ds. Marketingu
     description   : >
@@ -68,7 +68,7 @@ member  :
       W PMI czerpie satysfakcję z możliwości rozwoju nowych kompetencji oraz współpracy z profesjonalistami.
     linkedInURL  : https://www.linkedin.com/in/kamila-k%C5%82osowska-10658b12b/
 
-  - image         : images/team/emilia.jpg
+  - image         : images/team/emilia.png
     name          : Emilia Kucharska
     designation   : Koordynator ds. Relacji z Uczestnikami
     description   : >
@@ -78,7 +78,7 @@ member  :
       Od 15 lat zawodowo związana z branżą IT, gdzie pracuje jako Project Manager. 
     linkedInURL  : https://www.linkedin.com/in/emilia-kucharska-34a7a398/
 
-  - image         : images/team/agnieszka.jpg
+  - image         : images/team/agnieszka.png
     name          : Agnieszka Stanisławska
     designation   : Zespół ds. Relacji z Uczestnikami
     description   : >
@@ -89,20 +89,20 @@ member  :
       Jako mama bliźniąt, byłam agile, zanim spisano Manifest Zwinności :)
     linkedInURL  : https://www.linkedin.com/in/agastan/
 
-  - image         : images/team/nina.jpg
+  - image         : images/team/nina.png
     name          : Nina Żwak
     designation   : Administracja programu Project Management UMK Toruń
     description   : >
       Administracja programu Project Management UMK Toruń
 
-  - image         : images/team/basia.jpg
+  - image         : images/team/basia.png
     name          : Barbara Polaszek
     designation   : Administracja programu Project Management UMK Online
     description   : >
       Administracja programu Project Management UMK Online
     linkedInURL  : https://www.linkedin.com/in/barbara-polaszek-4b6529286/
 
-  - image         : images/team/grzegorz.jpg
+  - image         : images/team/grzegorz.png
     name          : Grzegorz Wyrzykowski
     designation   : Koordynator ds. technicznych
     description   : >
