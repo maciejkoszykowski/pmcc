@@ -121,6 +121,10 @@ weight = 2
 name = "Agenda"
 url = "#Agenda"
 weight = 3
+[[menu.nav]]
+name = "Panel"
+url = "#Panel"
+weight = 4
 
 [[menu.nav]]
 name = "Bilety"

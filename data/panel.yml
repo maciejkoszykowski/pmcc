@@ -1,0 +1,46 @@
+enable  : true
+
+topTitle: PM Connect Conf
+title   : Panel Dyskusyjny
+subtitle: AI jako Klucz do Innowacji
+
+message: >
+        Podczas konferencji uczestnicy będą mieli możliwość zadawania pytań na koniec wystąpienia zaproszonych gości. 
+        Zachęcamy do aktywnego udziału i dzielenia się swoimi pytaniami. 
+
+moderator: Maciej Koszykowski
+
+panelists : Uczestnicy Panelu 
+item    :
+  - id : 1
+    name  : Remigiusz Kinas 
+    image : images/panel/remek.jpg
+    description : >
+      Informatyk z wykształcenia (komputerowe systemy wspomagania decyzji). 
+      Projektuje, tworzy i wdraża rozwiązania wykorzystujące sztuczną inteligencję. 
+      Specjalizuje się w wizji komputerowej i uczeniu głębokim. 
+      Zaangażowany w projekty badawczo-rozwojowe w zakresie AI - wizja komputerowa (wysokowydajne systemy kontroli wizualnej, monitoring satelitarny), 
+      generatywna sztuczna inteligencja (tworzenie modeli LLM/vLLM, specjalizacja w zakresie treningu i finetuningu).
+      Aktywnie uczestniczy w życiu społeczności SpeakLeash – inicjatywa tworzenia polskiego modelu językowego (LLM), 
+      gdzie wspiera zespół w zakresie finetuningu modelu Bielik, kwantyzacji oraz benchmarkingu. 
+      Lider obszaru modelu multimodalnego. 
+      Posiada tytuł podwójnego Grand Mastera Kaggle na największej platformie społecznościowej AI.
+  - id : 2
+    name : adw. Tomasz Sowa, LL.M.
+    image : images/panel/tomasz.jpg
+    description : >
+      adwokat, założyciel kancelarii Sowa i Partnerzy – Adwokaci i Radcowie Prawni, 
+      ekspert z zakresu prawnej ochrony danych, AI oraz rozwiązywania sporów. 
+      Pasjonat nowych technologii. 
+      Doradza w szeroko rozumianych sprawach związanych z branżą IT. 
+      Ukończył prawo na Uniwersytecie Jagiellońskim w Krakowie, uzyskał tytuł Master of Laws (LL.M.) na Uniwersytecie w Melbourne (Australia), 
+      którego wydział prawa zajmuje 8 pozycję na świecie (Times Higher Education World University Rankings by Subject, 2024). 
+      Jest arbitrem wpisanym na listę grona arbitrów Sądu Arbitrażowego przy Konfederacji Lewiatan rekomendowanych ds. rynku kreatywnego i kultury. 
+      Stały mediator przy Sądzie Okręgowym w Warszawie.
+
+  - id : 3
+    name  : Uczestnik Panelu 
+    image : images/no_photo.jpg
+    description : >
+       Informacje o tej osobie będą dostępne niebawem
+ 
