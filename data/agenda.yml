@@ -132,10 +132,14 @@ itemDay2:
         start   : 12:55
         end     : 13:55
         who     : "prowadzący: Maciej Koszykowski"
-        title   : "Panel Dyskusyjny - o wdrożeniach AI w organizacjach"
+        title   : "Panel Dyskusyjny - AI jako Klucz do Innowacji"
+        # podwójna linia / enter/ poniżej jest celowy, w markdown to rodzielenie zdań 
         description : >
-          zaproszeni goście opowiedzą o wdrożeniach AI w polskich firmach. 
+          Omówienie wyzwań, sukcesów, porażek, możliwości i zastosowań sztucznej inteligencji w organizacjach, a w szczególności w zarządzaniu projektami. 
+          
 
+          Przenieś się do sekcji [Panelu](#Panel), aby dowiedzieć się więcej, lub kliknij w menu, aby przejść do panelu.”
+          
       - number  : 8
         start   : 13:55
         end     : 14:40
