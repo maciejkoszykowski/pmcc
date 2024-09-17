@@ -1,45 +1,118 @@
 enable  : true
-topTitle: TEAM MEMBER
-title   : Our Team.
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle: PM Connect Conf
+title   : Zespół konferencji 
+# subtitle może być użyty w przyszłości jeśli do konferencji będzie rekrutacja 
+subtitle: "    "
+
+# opcje linków
+# linkedInURL   : https://www.linkedin.com/
+# facebookURL   : https://www.facebook.com/
+# instagramURL  : https://www.instagram.com/
+# twitterURL    : https://twitter.com/
+# gplusURL      : https://plus.google.com/
+# dribbbleURL   : https://dribbble.com/
+
+titleOrg: Organizacja wydarzenia
+titleRada: Rada Programowa
+rada:
+  - image         : images/team/rada/marlena.jpg
+    name          : Marlena Ciechan-Kujawa
+    designation   : prof. UMK, Dziekan WNEiZ
+    description   : >
+      Profesor w Uniwersytecie Mikołaja Kopernika w Toruniu, Dziekan Wydziału Nauk Ekonomicznych i Zarządzania UMK. 
+      Od wielu lat kieruje realizowanymi z partnerami biznesowymi studiami podyplomowymi Business Controlling i Project Management. W swoich badaniach koncentruje się na analizie uwarunkowań i mechanizmów wdrażania strategii cyfrowych i zrównoważonych oraz ich wpływu na wyniki organizacji. Ekspertka w zakresie zintegrowanych systemów zarządzania, a także projektowania modeli pomiaru oraz raportowania finansowych  i niefinansowych generatorów efektywności biznesowej.
+    linkedInURL   : https://www.linkedin.com/in/marlena-ciechan-kujawa/
+  
+  - image         : images/team/rada/piotr.jpg
+    name          : Piotr Sobolewski
+    designation   : Wykładowca UMK
+    description   : >
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    linkedInURL   : https://www.linkedin.com/in/piotrsobolewski/
+
+  - image         : images/team/rada/jakub.jpg
+    name          : Jakub Polaszek
+    designation   : Lider Społeczności PMI
+    description   : >
+      "Menadżer z ponad 24-letnim doświadczeniem w zarządzaniu projektami, programami oraz portfelami projektów. Posiada certyfikaty PMP®, PRINCE2®, MSP®, AgilePM®, Lean Six Sigma Yellow Belt, ITIL® oraz P3O®. Specjalizuje się w sektorach IT, ICT, bezpieczeństwa IT oraz rozwoju oprogramowania. Pełnił funkcje Wiceprezesa ds. Finansów oraz Członka Komisji Rewizyjnej w PMI Poland Chapter. Wykładał na podyplomowych studiach z Zaawansowanego Zarządzania Programami i Projektami na Wyższej Szkole Bankowej w Toruniu. Prowadził także warsztaty w ramach PMO Academy w Atos PGS. Jest recenzentem międzynarodowych standardów PMI oraz korektorem polskiego tłumaczenia Przewodnika PMBOK®. Obecnie prowadzi badania w ramach doktoratu wdrożeniowego na Uniwersytecie Mikołaja Kopernika w Toruniu, koncentrując się na zastosowaniu sztucznej inteligencji w prognozowaniu kluczowych wskaźników wydajności (KPI) projektów. Mentor i trener, pomagający kształtować przyszłych liderów zarządzania projektami.""
+    linkedInURL  : https://www.linkedin.com/in/polaszek/
+
+  - image         : images/team/rada/maciej.jpg
+    name          : Maciej Koszykowski
+    designation   : Lider Społeczności PMI
+    description   : >
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    linkedInURL   : https://www.linkedin.com/in/maciejkoszykowski/
 
 member  :
-  - image         : images/team/member-1.jpg
-    name          : Shawshank Redemption
-    designation   : Head Of Marketing
+  - image         : images/team/mariusz.jpg
+    name          : Mariusz Lewandowski
+    designation   : Zespół ds. Marketingu
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+      Specjalista z zakresu digital marketingu. Wykładowca akademicki, szkoleniowiec, konsultant biznesowy. 
+      Od kilku lat wspiera lokalne środowisko start-upowe, organizator cyklicznych spotkań networkingowdych dla marketerów i przedstawicieli MSP. 
+      Twórca kursu video poświęconego wykorzystaniu serwisu LinkedIn w budowaniu marki osobistej, wydanego przez grupę Helion. 
+      Prywatnie fan dobrej kawy i spędzania czasu na łonie natury. 
+      Na Instagramie popularyzuje wiedzę ze swoich obszarów jako @panodmarketingu.
+    linkedInURL   : https://www.linkedin.com/in/panodmarketingu/
+    instagramURL   : https://www.instagram.com/panodmarketingu/
+    
+  - image         : images/team/kamila.jpg
+    name          : Kamila Kłosowska
+    designation   : Zespół ds. Marketingu
+    description   : >
+      Z światem zarządzania projektami zawodowo związana od 6 lat. Swoje doświadczenie buduje w Project Management Office, które zostało wyróżnione The most mature PMO 2018 Portfolio Experience, PMO Award. 
+      Od roku rozwija się jako Project Managerka. Świetnie czuje się w obecnej roli, która pozwala jej na ciągłe doskonalenie. 
+      Absolwentka zarządzania sp. inwestycje i nieruchomości oraz studiów podyplomowych Project Management na Wydziale Nauk Ekonomicznych i Zarządzania, 
+      na Uniwersytecie Mikołaja Kopernika w Toruniu. Posiada certyfikacje Prince2, Agile PM, P3O, Management 3.0. 
+      W PMI czerpie satysfakcję z możliwości rozwoju nowych kompetencji oraz współpracy z profesjonalistami.
+    linkedInkURL   : https://www.linkedin.com/in/kamila-k%C5%82osowska-10658b12b/
 
-  - image         : images/team/member-2.jpg
-    name          : Leo Departure
-    designation   : Web Developer
+  - image         : images/team/emilia.jpg
+    name          : Emilia Kucharska
+    designation   : Koordynator ds. Relacji z Uczestnikami
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+      Wolontariuszka PMI PC Kujawsko-Pomorskie Branch od 2019 roku. 
+      W latach 2020-2022 pełniła rolę Dyrektora Zarządzającego oddziałem. 
+      Z wykształcenia historyk. 
+      Od 15 lat zawodowo związana z branżą IT, gdzie pracuje jako Project Manager. 
+    linkedInkURL  : https://www.linkedin.com/in/emilia-kucharska-34a7a398/
 
-  - image         : images/team/member-3.jpg
-    name          : Remoni Rio
-    designation   : Senior Developer
+  - image         : images/team/agnieszka.jpg
+    name          : Agnieszka Stanisławska
+    designation   : Zespół ds. Relacji z Uczestnikami
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+      Jako  Project Managerka  koordynuję projekty związane z wprowadzaniem nowoczesnych systemów mających na celu optymalizację i automatyzację procesów biznesowych. 
+      Moim celem jest przekuwanie „user stories” w „sucess stories” naszych klientów. 
+      Uważam, że kluczem do sukcesu w projektach są - nie tylko narzędzia i bogaty warsztat project managera - lecz przede wszystkim umiejętność budowy dobrych relacji i komunikacja - tych tak łatwo AI nie zastąpi 😉 
+      Interesuje mnie tematyka rozwoju osobistego, jobcraftingu i kompetencje przyszłości. 
+      Jako mama bliźniąt, byłam agile, zanim spisano Manifest Zwinności :)
+    linkedInkURL  : https://www.linkedin.com/in/agastan/
 
-  - image         : images/team/member-4.jpg
-    name          : Lawandeski Roma
-    designation   : Designer
+  - image         : images/team/nina.jpg
+    name          : Nina Żwak
+    designation   : Administracja programu Project Management UMK Toruń
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+      Administracja programu Project Management UMK Toruń
+
+  - image         : images/team/basia.jpg
+    name          : Barbara Polaszek
+    designation   : Administracja programu Project Management UMK Online
+    description   : >
+      Administracja programu Project Management UMK Online
+    linkedInkURL  : https://www.linkedin.com/in/barbara-polaszek-4b6529286/
+
+  - image         : images/team/grzegorz.jpg
+    name          : Grzegorz Wyrzykowski
+    designation   : Koordynator ds. technicznych
+    description   : >
+      Project Menager z 15-letnim doświadczaniem w branży IT. 
+      Prowadzi projekty w branży e-government oraz e-commerce. 
+      Od 2019 roku jest aktywnym wolontariuszem w organizacji PMI Poland Chapter. 
+      Od 2019 posiada certyfikaty: PRINCE2 oraz Certyfikat PMI POLAND CHAPTER. 
+      W 2019 zakończył studia podyplomowe: Zarządzanie projektami “Project Management” na Wydziale Nauk Ekonomicznych i Zarządzania UMK w Toruniu. 
+      Zainteresowania:  www / WCAG, e-commerce, nieruchomości, akwarystyka.
+    linkedInkURL   : https://www.linkedin.com/in/grzegorz-wyrzykowski-3a8424107/
+
+
+  
