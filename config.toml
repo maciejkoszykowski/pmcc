@@ -54,7 +54,8 @@ expire_days = 2
 [params.hero]
 enable = true
 heading = "PM CONNECT CONF 2024"
-description = "Sztuczna inteligencja w zarządzaniu projektami to już rzeczywistość"
+#description = "Sztuczna inteligencja w zarządzaniu projektami to już rzeczywistość"
+description = "Zarządzanie projektami w dobie AI"
 button = true
 btnText = "Kup Bilet"
 btnURL = "https://pmipolandchapter.ticketbutler.io/en/e/pmconnectconf/"
