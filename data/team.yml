@@ -94,6 +94,7 @@ member  :
     designation   : Administracja programu Project Management UMK Toruń
     description   : >
       Administracja programu Project Management UMK Toruń
+    noLink        : true 
 
   - image         : images/team/basia.png
     name          : Barbara Polaszek
@@ -113,6 +114,18 @@ member  :
       W 2019 zakończył studia podyplomowe: Zarządzanie projektami “Project Management” na Wydziale Nauk Ekonomicznych i Zarządzania UMK w Toruniu. 
       Zainteresowania:  www / WCAG, e-commerce, nieruchomości, akwarystyka.
     linkedInURL   : https://www.linkedin.com/in/grzegorz-wyrzykowski-3a8424107/
+    noLink        : true 
 
-
+  - image         : images/team/rafal.jpg
+    name          : Rafał Młotek
+    designation   : Lider ds. finansów
+    description   : >
+      Kierownik Projektów z doświadczeniem w prowadzeniu projektów z zakresu Business Intelligence,
+      Platform Danych, Hurtowni Danych, Zarządzania Danymi oraz CRM. 
+      Certyfikowany w zakresie PMP, PRINCE2, AgilePM, ITIL oraz ISTQB.
+      Wspierał obszary biznesowe Sprzedaży, Marketingu, Kontrolingu oraz IT.  
+      Wykształcony w obszarze prawdopodobieństwa i statystyki. 
+      Posiada wieloletnie doświadczenie w zarządzaniu zespołami IT pracującymi w metodykach zwinnych.  
+    linkedInURL   : https://www.linkedin.com/in/rafalmlotek/
+    noLink        : true 
   
