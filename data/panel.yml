@@ -29,7 +29,7 @@ item    :
     name : adw. Tomasz Sowa, LL.M.
     image : images/panel/tomasz.jpg
     description : >
-      adwokat, założyciel kancelarii Sowa i Partnerzy – Adwokaci i Radcowie Prawni, 
+      Adwokat, założyciel kancelarii Sowa i Partnerzy – Adwokaci i Radcowie Prawni, 
       ekspert z zakresu prawnej ochrony danych, AI oraz rozwiązywania sporów. 
       Pasjonat nowych technologii. 
       Doradza w szeroko rozumianych sprawach związanych z branżą IT. 
@@ -39,8 +39,14 @@ item    :
       Stały mediator przy Sądzie Okręgowym w Warszawie.
 
   - id : 3
-    name  : Uczestnik Panelu 
-    image : images/no_photo.jpg
+    name  : Janusz Marcinkowski 
+    image : images/panel/janusz.jpg
     description : >
-       Informacje o tej osobie będą dostępne niebawem
+      Od ponad 20 lat współpracuje z globalnymi liderami w różnych sektorach, wspierając ich w rozwoju technologicznym i cyfrowej transformacji. 
+      Łącząc prywatne pasje z zawodowymi zainteresowaniami, szczególnie ceni sobie współpracę z MKOL i UEFA, 
+      gdzie bada możliwości wykorzystania sztucznej inteligencji do zwiększenia zaangażowania widowni oraz poprawy wyników zawodników.  
+      Jako Atos Research Community Domain Lead for People Experience, Janusz angażuje się w badania nad wpływem AI na środowisko pracy oraz procesy decyzyjne. 
+      Współpracuje z czołowymi ośrodkami badawczymi, liderami opinii, wiodącymi organizacjami analitycznymi i konsultingowymi, liderami branży AI oraz niezliczoną siecią startupów, 
+      które rozwiązują konkretne problemy z wykorzystaniem technologii AI. 
+      Regularnie uczestniczy w konferencjach poświęconych sztucznej inteligencji, wspierając inicjatywy związane z open science i open collaboration.
  
