@@ -28,3 +28,5 @@ media  :
   - title : Strefa PMI
     image : images/partnerzy/logo_strefa.png
     category  : Partner Medialny 
+    small_support: True
+    image_small : images/partnerzy/logo_strefa_small.png
