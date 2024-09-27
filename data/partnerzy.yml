@@ -1,7 +1,7 @@
 enable  : true
 topTitle: PM Connect Conf
 title   : Partnerzy  
-subtitle: "  "
+titleMedia   : Patronat Medialny
 
 # filtermenu :
 # - name      : Photography
@@ -20,6 +20,11 @@ item   :
     image : images/partnerzy/logo-sowa.png
     category  : Partner
 
-  # - title : D Design
-  # image : images/portfolio/portfolio-2.jpg
-  #  category  : ios, design
+  - title : Sii Sp. z o.o.
+    image : images/partnerzy/logo_sii_10003.png
+    category  : Partner
+
+media  :
+  - title : Strefa PMI
+    image : images/partnerzy/logo_strefa.png
+    category  : Partner Medialny 
