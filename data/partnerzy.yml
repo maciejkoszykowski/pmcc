@@ -1,8 +1,8 @@
 enable  : true
 topTitle: PM Connect Conf
-title   : Partnerzy  
+title   : Partnerzy Konferencji
 titleMedia   : Patronat Medialny
-
+titleHonorowi : Patronat Honorowy
 # filtermenu :
 # - name      : Photography
 #  category  : photography
@@ -30,3 +30,10 @@ media  :
     category  : Partner Medialny 
     small_support: True
     image_small : images/partnerzy/logo_strefa_small.png
+
+honorowi:
+  - title : Patronat Prezydenta Miasta toruniua
+    image : images/partnerzy/logo_torun.png
+    category  : Patronat Honorowy
+    small_support: True
+    image_small : images/partnerzy/logo_torun.png
