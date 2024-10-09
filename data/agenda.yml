@@ -65,11 +65,25 @@ itemDay1:
           Warsztaty są interaktywnym i angażującym sposobem na rozwijanie umiejętności związanych z zarządzaniem projektami w kontekście symulacji rzeczywistych wyzwań.
       - number  : 3
         start   : 15:00
-        end     : 19:00
-        who     : "[Do ogłoszenia ]"
-        title   : "Warsztat - temat w trakcie uzgadniania"
+        end     : 18:30
+        who     : Szymon Jankowski
+        title   : Praktyczne warsztaty z ChatGPT
         description : >
-          Warsztat niespodzianka.
+          Praktyczne warsztaty z ChatGPT – odkryj moc sztucznej inteligencji!
+          Podczas warsztatu dowiesz się, jak AI może zrewolucjonizować Twoją pracę. Poznasz najlepsze praktyki komunikacji z ChatGPT, a także odkryjesz, jak w pełni wykorzystać jego potencjał – od efektywnych poleceń po praktyczne rozszerzenia, takie jak LI BOOSTER v2.
+          Nie zabraknie też okazji do networkingu – porozmawiasz z innymi uczestnikami, zadasz pytania i dołączysz do naszej grupy na WhatsApp. A na koniec – niespodzianka: zobaczysz, jak generować obrazy za pomocą ChatGPT i DALLE i to wszystko na żywo!
+          To praktyczna wiedza, kreatywne inspiracje i świetna zabawa! Dołącz już teraz 
+
+           Podczas warsztatu uczestnicy:
+
+            1\. Otrzymają wprowadzenie do AI i nauczą się, jak skutecznie komunikować się z ChatGPT.
+
+            2\. Poznają praktyczne narzędzia, takie jak GPTs oraz LI BOOSTER v2.
+
+            3\. Nauczą się efektywnych technik tworzenia promptów.
+
+            4\. Dowiedzą się, jak wykorzystać genAI do innych celów, takich jak generowanie obrazów.
+
       - number  : 4
         start   : 20:00
         end     : 23:00
