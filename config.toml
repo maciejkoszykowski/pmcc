@@ -162,6 +162,6 @@ url = "Polityka-ciasteczek.pdf"
 weight = 2
 [[menu.quicklink]]
 name = "Regulamin"
-url = "regulamin"
+url = "regulaminy/regulamin-konferencji/"
 weight = 3
 
