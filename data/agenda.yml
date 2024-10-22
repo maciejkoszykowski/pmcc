@@ -141,10 +141,32 @@ itemDay2:
         title   : "AI Act (akt w sprawie sztucznej inteligencji) a zarządzanie projektami – wpływ nowych regulacji na projekty dotyczące modeli i systemów AI."
         description : >
           Podczas prelekcji uczestnicy poznają podstawy AI Act – nowego rozporządzenia UE dotyczącego systemów sztucznej inteligencji. Omówimy, kiedy AI Act będzie miał zastosowanie do projektów oraz jak kwalifikacja systemu AI do klasy ryzyka wpływa na obowiązki prawne. Przedstawimy kluczowe obowiązki, które należy uwzględnić podczas pracy nad projektem, aby uniknąć problemów z ich komercjalizacją. Poruszymy problemy związane z ochroną praw własności intelektualnej, ochroną danych osobowych oraz zarządzaniu danymi. Celem prelekcji jest zbudowanie świadomości uczestników co do konieczności uwzględnienia nowych obowiązków wynikających ze zmiany otoczenia prawnego na etapie zarządzania projektami.
-      
-      - number  : 7
+
+      - number  : 9
         start   : 12:55
+        end     : 13:20
+        who     : "Damian Walczak"
+        title   : "Case Study: Jak wznieść pracę HR i działu prawnego na wyższy poziom dzięki AI?"
+        description : >
+          Dzięki AI organizacje mogą usprawnić działania, poprawić efektywność operacyjną i lepiej dostosować swoje usługi do potrzeb pracowników oraz klientów. 
+          W tym case study przyjrzymy się zastosowaniu AI w działach HR i prawnym, aby zrozumieć, jak te technologie wspierają codzienne procesy.
+                
+      - number  : 10
+        start   : 13:20
         end     : 13:55
+        who     : "Janusz Marcinkowski"
+        title   : AI w 2025 roku
+        # podwójna linia / enter/ poniżej jest celowy, w markdown to rodzielenie zdań 
+        description : >
+          Dynamika rozwoju AI uniemożliwia precyzyjne przewidywania długoterminowe, więc skupimy się na kluczowych obszarach rozwoju w 2025 roku. 
+          W tym wystąpieniu przyjrzymy się najważniejszym technologiom, które wkrótce zmienią sposób, w jaki firmy korzystają z AI.
+          Omnimodalność, świadomość przestrzenna i komunikacja na ekranie - czyli łączenie różnych sposobów komunikacji z AI, streaming - współpraca z AI w czasie rzeczywistym, data fabric - dostęp do firmowych danych w czasie rzeczywistym, oraz agenci AI - inteligencja zdolna do samodzielnych decyzji.
+          Porozmawiamy też o rozwoju osobistej AI, czyli sztucznej inteligencji wbudowanej w nasze codzienne urządzenia, takie jak te od Apple i Samsunga. 
+          Ten typ AI może pomóc w zarządzaniu kalendarzem, przypomnieniami, automatyzacją zadań domowych, a także dostosowywać się do naszych preferencji, by poprawić komfort użytkowania.
+
+      - number  : 15
+        start   : 13:55
+        end     : 14:40
         who     : "prowadzący: Maciej Koszykowski"
         title   : "Panel Dyskusyjny - AI jako Klucz do Innowacji"
         # podwójna linia / enter/ poniżej jest celowy, w markdown to rodzielenie zdań 
@@ -152,24 +174,16 @@ itemDay2:
           Omówienie wyzwań, sukcesów, porażek, możliwości i zastosowań sztucznej inteligencji w organizacjach, a w szczególności w zarządzaniu projektami. 
           
 
-          Przenieś się do sekcji [Panelu](#Panel), aby dowiedzieć się więcej, lub kliknij w menu, aby przejść do panelu.”
+          Przenieś się do sekcji [Panelu](#Panel), aby dowiedzieć się więcej, lub kliknij w menu, aby przejść do panelu.
           
-      - number  : 8
-        start   : 13:55
-        end     : 14:40
-        who     : "dr Maciej Chrzanowski"
-        title   : "Wydajny człowiek ~ Wydajna firma, czyli jak zoptymalizować codzienne procesy dzięki AI i strategiom produktywności"
-        description : >
-          dr Maciej przedstawi nam narzędzia AI, z których możemy skorzystać już dziś w swojej pracy i organizacji.
-
-      - number  : 9
+      - number  : 20
         start   : 14:40
         end     : 15:00
         who     : "Przerwa kawowa & Networking"
         description : >
           czas na networking przy kawie i wymianę myśli dot. prelecji 
 
-      - number  : 10
+      - number  : 21
         start   : 15:00
         end     : 15:40
         who     : "Prezentacja najlepszych prac dyplomowych absolwentów"
@@ -177,7 +191,7 @@ itemDay2:
         description : >
           Tutaj będzie się działo, gdyż kreatywność naszych studentów kierunku zarządzania projektami zaskakuje każdego roku. 
 
-      - number  : 11
+      - number  : 22
         start   : 15:40
         end     : 16:10
         who     : "Zakończenie roku akademickiego oraz inaguracja kolejnej edycji studiów"
