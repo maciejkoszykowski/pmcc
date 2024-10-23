@@ -1,0 +1,33 @@
+enable  : true
+
+topTitle: PM Connect Conf
+title   : Prowadzący
+
+item    :
+  - id : 1
+    image : images/speakers/kamila.jpg
+    name : Kamila Skrzypczyńska
+    linkedInURL   : https://www.linkedin.com/in/kamila-skrzypczynska-272a0887/
+
+    description : >
+      Dr Kamila Skrzypczyńska jest adiunktem w Katedrze Doskonałości Biznesowej na Wydziale Nauk Ekonomicznych i Zarządzania Uniwersytetu Mikołaja Kopernika w Toruniu oraz kierownikiem studiów podyplomowych EMBA oraz MBA w ochronie zdrowia.  
+      
+      Specjalizuje się w strategii i przywództwie, skutecznie łącząc wieloletnie doświadczenie w konsultingu z najnowszymi osiągnięciami naukowymi. Współpracując z przedsiębiorstwami z sektora produkcyjnego i usługowego oraz jednostkami ochrony zdrowia, wspiera organizacje w zakresie rozwoju strategii oraz doskonalenia procesów zarządzania. 
+      
+      Dr Skrzypczyńska realizuje projekty doradcze i szkoleniowe, które pomagają firmom w optymalizacji działań oraz wdrażaniu innowacyjnych rozwiązań. Jako ekspertka w dziedzinie przywództwa, jest autorką licznych publikacji naukowych dotyczących przywództwa w biznesie, a także projektantką i realizatorką programów rozwojowych dla menedżerów.  
+      
+      Specjalizuje się również w szkoleniu umiejętności miękkich oraz coachingu, dzięki czemu skutecznie wspiera kadrę zarządzającą w budowaniu efektywnych zespołów i struktur organizacyjnych. 
+
+  - id : 3
+    image : images/speakers/pawel.jpg
+    name : Paweł Andersohn
+    linkedInURL   : https://www.linkedin.com/in/pawelandersohn/
+    description : >
+      Paweł Anderson to doświadczony inżynier i menedżer, specjalizujący się w zarządzaniu projektami, rozwoju biznesu oraz zarządzaniu sprzedażą. Ukończył studia magisterskie na Politechnice Gdańskiej w dziedzinie inżynierii mechanicznej, a także zdobył międzynarodowy tytuł MBA w zakresie strategii, programów oraz zarządzania projektami. Jego kariera zawodowa obejmuje wiele lat doświadczenia w różnych branżach, w tym w przemyśle tworzyw sztucznych i energetyce.
+
+      Obecnie pełni funkcję Application Managera w Plastic Service Group, gdzie odpowiada za rozwój aplikacji i relacje z klientami w Polsce. Wcześniej pracował m.in. jako Project Manager i Business Development Manager, rozwijając rynek wynajmu tymczasowych instalacji energetycznych oraz prowadząc projekty w branży automotive.
+
+      Paweł jest również aktywnym wolontariuszem w PMI Poland Chapter, promując dobre praktyki zarządzania projektami w regionie kujawsko-pomorskim.
+
+      Dzięki swoim szerokim kompetencjom w zakresie komunikacji, negocjacji oraz zarządzania projektami, skutecznie realizuje zadania związane z rozwojem biznesu i zarządzaniem zespołami.
+  
