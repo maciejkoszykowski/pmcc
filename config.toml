@@ -118,19 +118,26 @@ btnText = "Contact Us"
 name = "Prelegenci"
 url = "#Prelegenci"
 weight = 2
+
+[[menu.nav]]
+name = "Prowadzący"
+url = "#Prowadzacy"
+weight = 2
+
+
 [[menu.nav]]
 name = "Agenda"
 url = "#Agenda"
-weight = 3
+weight = 4
 [[menu.nav]]
 name = "Panel"
 url = "#Panel"
-weight = 4
+weight = 5
 
 [[menu.nav]]
 name = "Bilety"
 url = "#Bilety"
-weight = 6
+weight = 7
 [[menu.nav]]
 name = "Partnerzy"
 url = "#Partnerzy"
