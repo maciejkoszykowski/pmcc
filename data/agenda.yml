@@ -10,7 +10,7 @@ itemDay1:
         start   : 15:00
         end     : 18:15
         who     : "Dariusz Ciechan & Jerzy Stawicki"
-        title   : Flow4Results Professional
+        title   : Flow4Results Professional [sala 24A ]
         description : >
           **Liczba uczestników:** 6–15 osób
 
@@ -37,7 +37,7 @@ itemDay1:
         start   : 16:00
         end     : 18:00
         who     : Wojciech Ożga
-        title   : Gra Rura
+        title   : Gra Rura [sala 26]
         description : >
           **Liczba uczestników:** 6–15 osób.
 
@@ -67,7 +67,7 @@ itemDay1:
         start   : 15:00
         end     : 18:30
         who     : Szymon Jankowski
-        title   : Praktyczne warsztaty z ChatGPT
+        title   : Praktyczne warsztaty z ChatGPT [sala 29A]
         description : >
           Praktyczne warsztaty z ChatGPT – odkryj moc sztucznej inteligencji!
           Podczas warsztatu dowiesz się, jak AI może zrewolucjonizować Twoją pracę. Poznasz najlepsze praktyki komunikacji z ChatGPT, a także odkryjesz, jak w pełni wykorzystać jego potencjał – od efektywnych poleceń po praktyczne rozszerzenia, takie jak LI BOOSTER v2.
@@ -88,9 +88,11 @@ itemDay1:
         start   : 20:00
         end     : 23:00
         who     : "Klub Absolwenta"
-        title   : "'Alumni & Friends Night'"
+        title   : "'Alumni & Friends Night' [Lizard King]"
         description : >
           Nieformalne spotkanie absolwentów oraz uczestników konferencji.
+
+          Lizard King, ul. Mikołaja Kopernika 3, 87-100 Toruń.
 
 day2_title: "Dzień Konferencyjny: "
 day2_title_part2: "Prelekcje i Dyskusje "
