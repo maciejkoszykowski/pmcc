@@ -1,4 +1,12 @@
-baseURL = "https://pmcc.pmi.org.pl"
+# this page is done in Hugo with theme
+# dev: Maciej Koszykowski 
+
+baseURL = "https://pmcc.pmi.org.pl/2024" #this is always clean like one below, but when adding new edition, then follow this format "https://pmcc.pmi.org.pl/2024"
+homeURL = "https://pmcc.pmi.org.pl" # added to allow going back from previous edition to the current one 
+#editions in order to keep them easier in case if theme is changed or web dev tools, 
+# are going to be kept as static pages /2024, in github they will be branched, but you never know who is going to do development
+# and to avoid dev challenges, the prevous editions are going to be kept static in any case of transition to other tools or dev env
+
 title = "PM Connect Conf"
 theme = "navigator-hugo"
 languageCode = "pl"
@@ -134,19 +142,19 @@ name = "Panel"
 url = "#Panel"
 weight = 5
 
-[[menu.nav]]
-name = "Bilety"
-url = "#Bilety"
-weight = 7
+#[[menu.nav]]
+#name = "Bilety"
+#url = "#Bilety"
+#weight = 7
 [[menu.nav]]
 name = "Partnerzy"
 url = "#Partnerzy"
 weight = 8
 
-[[menu.nav]]
-name = "Lokalizacja"
-url = "#Lokalizacja"
-weight = 10
+#[[menu.nav]]
+#name = "Lokalizacja"
+#url = "#Lokalizacja"
+#weight = 10
 
 [[menu.nav]]
 name = "Zespół"
@@ -157,6 +165,11 @@ weight = 20
 name = "Regulamin"
 url = "regulaminy/regulamin-konferencji/"
 weight = 26
+
+[[menu.nav]]
+name = "2025 >>"
+url = "https://pmcc.pmi.org.pl/2025"
+weight = 27
 
 # Footer Quick links Menu
 [[menu.quicklink]]
