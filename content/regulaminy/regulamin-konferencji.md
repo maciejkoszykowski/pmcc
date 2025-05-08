@@ -1,6 +1,6 @@
 ---
 title: "Regulamin"
-date: 2024-09-01T14:53:13+06:00
+date: 2025-05-08T14:53:13+06:00
 draft: false
 description: "Regulamin Konferencji"
 layout: "regulamin"
@@ -8,15 +8,15 @@ layout: "regulamin"
 
 # Konferencja PM CONNECT CONF
 
-#### Edycja 2024
+#### Edycja 2025
 #### REGULAMIN UDZIAŁU UCZESTNIKÓW
-#### z dnia 30.08.2024
+#### z dnia 08.02.2025 (wersja robocza)
 ##### Project Management Institute Poland Chapter Oddział Kujawsko-Pomorskie
 ##### Wydział Nauk Ekonomicznych i Zarządzania UMK w Toruniu
 
 ## I Postanowienia ogólne
 
-1. Konferencja PM CONNECT CONF – zwana w dalszej części Regulaminu „konferencją” lub „wydarzeniem” odbędzie się w dniach 25.10.2024 i 26.10.2024 roku na Wydziale Nauk Ekonomicznych i Zarządzania UMK w Toruniu, zlokalizowanym przy ul. Gagarina 13a, 87-100 Toruń. 
+1. Konferencja PM CONNECT CONF – zwana w dalszej części Regulaminu „konferencją” lub „wydarzeniem” odbędzie się w dniach 25.10.2025 roku na Wydziale Nauk Ekonomicznych i Zarządzania UMK w Toruniu, zlokalizowanym przy ul. Gagarina 13a, 87-100 Toruń. 
 2.	Organizatorem wydarzenia jest PMI Poland Chapter (PMI Oddział Polski) z siedzibą w Warszawie (02-672), przy ul. Domaniewskiej 47/10, KRS 0000-167-986, NIP 525-227-89-73, REGON 015543424 oraz Wydział Nauk Ekonomicznych i Zarządzania, Uniwersytet Mikołaja Kopernika w Toruniu, ul. Gagarina 13a, 87-100 Toruń, zwanymi w dalszej części Regulaminu „Organizatorem”. 
 3.	Oficjalny serwis internetowy Konferencji PM CONNECT CONF znajduje się pod adresem: https://pmcc.pmi.org.pl/, a oficjalnym kanałem komunikacji pomiędzy Uczestnikiem a Organizatorem jest adres e-mail: kujawsko-pomorskie@pmi.org.pl.
 4.	Organizator zastrzega sobie prawo do zmiany prelegentów i programu Konferencji z przyczyn niezależnych od Organizatora.
@@ -25,29 +25,29 @@ layout: "regulamin"
 ## II Zasady uczestnictwa
 
 1.	Podstawą uczestnictwa w konferencji jest zakup biletu dostępnego na stronie internetowej https://pmcc.pmi.org.pl/ poprzez wypełnienie formularza rejestracji oraz uiszczenie opłaty za uczestnictwo do dnia wymienionego w formularzu zgłoszeniowym. Liczy się data zaksięgowania wpłaty na konto Organizatora. Uczestnik ponosi koszty połączenia Internetowego związane z rejestracją na konferencję.
-2.	Uczestnik zobowiązany jest do uiszczenia opłaty w terminie 3 dni od przesłania formularza (najpóźniej na dzień przed konferencją, tj. 25.10.2024), a w przypadku niedokonania opłaty w tym terminie zgłoszenie będzie anulowane.
+2.	Uczestnik zobowiązany jest do uiszczenia opłaty w terminie 3 dni od przesłania formularza (najpóźniej na dzień przed konferencją, tj. 25.10.2025), a w przypadku niedokonania opłaty w tym terminie zgłoszenie będzie anulowane.
     -  Organizator zastrzega sobie prawo do wydłużenia terminu płatności za udział w konferencji, poprzez wskazanie nowego terminu płatności na wystawionej fakturze VAT.
 3.	Organizator w ramach opłaty za uczestnictwo nie zapewnia dojazdu na miejsce wydarzenia ani noclegu. 
 4.	Warunkiem udziału w wydarzeniu jest zapoznanie się i zaakceptowanie Regulaminu. 
 5.	Dozwolone jest fotografowanie, nagrywanie oraz filmowanie tylko za uprzednią pisemną zgodą Organizatora i tylko w miejscach przez niego wskazanych. Wszelkie materiały, nagrania, publikacje, znaki towarowe, handlowe oraz inne treści i dzieła publikowane, prezentowane, retransmitowane, rozpowszechniane w czasie trwania konferencji podlegają i są objęte ochroną prawa autorskiego w rozumieniu Ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych. Korzystanie z nich bez zgody właściciela jest zabronione, chyba że niniejszy Regulamin stanowi inaczej.
 6.	Jeśli Uczestnik zamierza rejestrować, udostępniać i archiwizować treść konferencji, zobowiązany jest do uprzedniego kontaktu z Organizatorem w celu określenia warunków wykorzystania treści konferencji.
-7.	Zgłoszenia uczestnictwa przyjmowane będą do dnia 25.10.2024 lub wyczerpania miejsc.
+7.	Zgłoszenia uczestnictwa przyjmowane będą do dnia 25.10.2025 lub wyczerpania miejsc.
 8.	Organizator ma prawo do niedopuszczenia uczestnika do udziału w konferencji bez podania przyczyny. W przypadku dokonania opłaty za uczestnictwo Organizator zwróci Uczestnikowi wysokość dokonanej wpłaty w ciągu 7 dni na konto, z którego dokonano wpłaty.
 9.	Uczestnik zawiera umowę uczestnictwa w konferencji z chwilą rejestracji. 
 
 ## III Opłata za uczestnictwo
 
 1.	Uczestnictwo w konferencji jest odpłatne, a koszt udziału obejmuje uczestnictwo w wykładach i networkingu, materiały konferencyjne i pokonferencyjne, przerwy kawowe oraz lunch.
-    -  Koszt udziału w bloku wykładowym, tj. 26.10.2024, nie obejmuje możliwości uczestnictwa w warsztatach, które odbędą się 25.10.2024. Warsztaty są oddzielnie płatne. Liczba uczestników biorących udział w warsztatach jest ograniczona, a o udziale decyduje kolejność zgłoszeń.
+    -  Koszt udziału w bloku wykładowym, tj. 26.10.2025, nie obejmuje możliwości uczestnictwa w warsztatach, które odbędą się 25.10.2025. Warsztaty są oddzielnie płatne. Liczba uczestników biorących udział w warsztatach jest ograniczona, a o udziale decyduje kolejność zgłoszeń.
 2.	Cennik opłat konferencyjnych dostępny jest na stronie internetowej wydarzenia: 
-    -  Dla uczestników zarejestrowanych do 30.09.2024 włącznie (Early Bird) cena wynosi 249 PLN brutto za osobę. 
-    -  Dla uczestników zarejestrowanych od 01.10.2024 do 25.10.2024 włącznie (Standard) cena wynosi 349 PLN brutto za osobę.
+    -  Dla uczestników zarejestrowanych do 30.09.2025 włącznie (Early Bird) cena wynosi 249 PLN brutto za osobę. 
+    -  Dla uczestników zarejestrowanych od 01.10.2025 do 25.10.2025 włącznie (Standard) cena wynosi 349 PLN brutto za osobę.
     -  W celu zakupu biletów grupowych Uczestnik może zwrócić się z zapytaniem za pośrednictwem poczty elektronicznej z Organizatorem. 
 3.	Organizator zastrzega sobie prawo do indywidualnego obniżenia kwoty opłaty za uczestnictwo. 
 4.	Organizator zastrzega sobie prawo do obniżenia opłaty dla członków PMI PC, partnerów wydarzenia, absolwentów UMK kierunku studiów Project Management oraz do udzielania innych zniżek według swojego uznania. 
 5.	Po zarejestrowaniu się poprzez formularz zgłoszeniowy dostępny na stronie internetowej wydarzenia oraz po uiszczeniu opłaty za uczestnictwo, Organizator wyśle pod wskazany w formularzu zgłoszeniowym adres e-mail Uczestnika potwierdzenie rejestracji. 
 6.	Płatnikiem (adresatem faktury) jest podmiot zamawiający poszczególne usługi związane z uczestnictwem w wydarzeniu. Faktura zostanie wystawiona na zasadach ogólnych do 15 dnia miesiąca po miesiącu, w którym nastąpił zakup.
-7.	Wysokość opłaty konferencyjnej uzależniona jest od daty rejestracji Uczestnika i ewentualnych rabatów udzielonych Uczestnikowi indywidualnemu lub grupom Uczestników. Ostateczna cena jest ustalana przez Organizatora. Bilety Early Birds można zakupić do dnia 30.09.2024. Od dnia 01.10.2024 obowiązuje cena regularna (Standard).
+7.	Wysokość opłaty konferencyjnej uzależniona jest od daty rejestracji Uczestnika i ewentualnych rabatów udzielonych Uczestnikowi indywidualnemu lub grupom Uczestników. Ostateczna cena jest ustalana przez Organizatora. Bilety Early Birds można zakupić do dnia 30.09.2025. Od dnia 01.10.2025 obowiązuje cena regularna (Standard).
 8.	Rabaty promocyjne i grupowe nie łączą się.
 9.	Niezależnie od uprawnień przyznanych w przepisach obowiązującego prawa, Uczestnik może zrezygnować z uczestnictwa w konferencji. Rezygnacja Uczestnika z udziału w Konferencji winna być dokonana w formie pisemnej na adres Organizatora wskazany w pkt. I § 2 lub poprzez wysłanie wiadomości e-mail na adres poczty elektronicznej Organizatora wskazany w pkt. I § 3.
 10.	W przypadku rezygnacji Uczestnika z udziału w konferencji Organizator zastrzega sobie prawo do zatrzymania części lub całości opłaty konferencyjnej/za uczestnictwo:
@@ -131,20 +131,20 @@ layout: "regulamin"
 6.	Przepisy niniejszego Regulaminu stanowią integralną część zgłoszenia uczestnictwa w konferencji i obowiązują wszystkich Uczestników. 
 7.	Organizator ma prawo do zmiany miejsca i terminu konferencji, o czym Uczestnicy zostaną powiadomieni e-mailowo. 
 8.	Organizator ma prawo do zmian w niniejszym Regulaminie, o których Uczestnicy zostaną powiadomieni e-mailowo.
-9.	Regulamin wchodzi w życie 01.09.2024.
+9.	Regulamin wchodzi w życie 01.09.2025.
 
 
 ## ZGODA NA WYKORZYSTANIE WIZERUNKU 
 
 ###### Akceptacja regulaminu jest równoważna z wyrażeniem zgody na wykorzystanie wizerunku:
 
-Ja, uczestnik Konferencji PM CONNECT CONF 2024 na podstawie art. 81 ust. 1 ustawy o prawie autorskim i prawach pokrewnych z dnia 4 kwietnia 1994 r. (Dz. U. Dz.U.2022.2509 t.j.) oraz art. 6 ust. 1 lit. a) RODO wyrażam zgodę na utrwalanie, publiczne wykorzystanie i rozpowszechnianie mojego wizerunku w formie ujęć zdjęciowych i video przez:
+Ja, uczestnik Konferencji PM CONNECT CONF 2025 na podstawie art. 81 ust. 1 ustawy o prawie autorskim i prawach pokrewnych z dnia 4 kwietnia 1994 r. (Dz. U. Dz.U.2022.2509 t.j.) oraz art. 6 ust. 1 lit. a) RODO wyrażam zgodę na utrwalanie, publiczne wykorzystanie i rozpowszechnianie mojego wizerunku w formie ujęć zdjęciowych i video przez:
 
 - Project Management Institute Poland Chapter (PMI Oddział Polski) z siedzibą w Warszawie (02-672), przy ul. Domaniewskiej 47/10, KRS 0000167986, NIP 525-227-89-73, REGON 015543424 oraz 
 
 - Wydział Nauk Ekonomicznych i Zarządzania Uniwersytetu Mikołaja Kopernika w Toruniu, ul. Gagarina 13a, 87-100 Toruń, NIP 879-017-72-91, REGON 000001324, 
 
-utrwalonych na rzecz Konferencji PM CONNECT CONF 2024 na potrzeby komunikacji promującej działania Project Management Institute Poland Chapter i Wydziału Nauk Ekonomicznych i Zarządzania Uniwersytetu Mikołaja Kopernika w Toruniu oraz promocji wydarzenia, tj. Konferencji PM CONNECT CONF 2024 w PMI Poland Chapter. Zgoda obejmuje również dokonywanie obróbki, opracowań, powielanie i publikowanie wykonanych ujęć zdjęciowych, na następujących polach eksploatacji: 
+utrwalonych na rzecz Konferencji PM CONNECT CONF 2025 na potrzeby komunikacji promującej działania Project Management Institute Poland Chapter i Wydziału Nauk Ekonomicznych i Zarządzania Uniwersytetu Mikołaja Kopernika w Toruniu oraz promocji wydarzenia, tj. Konferencji PM CONNECT CONF 2025 w PMI Poland Chapter. Zgoda obejmuje również dokonywanie obróbki, opracowań, powielanie i publikowanie wykonanych ujęć zdjęciowych, na następujących polach eksploatacji: 
 
 1\. wprowadzenie utworu do pamięci komputera i sieci multimedialnych, Internetu, jak również przesyłanie utworu w ramach ww. sieci;
 

@@ -1,9 +1,14 @@
-enable  : true
+enable  : false
 topTitle: PM Connect Conf 
 title   : Agenda
 
-day1_title: "Dzień Inspiracyjnych Warsztatów" 
-day1_date: "[ 25 października 2024 ]" 
+invite_txt : "Zapraszamy praktyków, badaczy oraz naukowców do nadsyłania rozszerzonych abstraktów na Konferencję PM Connect Conf 2025, która odbędzie się 25 października 2025 r. - więcej informacji poniżej. "
+#invite_txt : "Zapraszamy na:"
+
+day1_title: ""
+#"Dzień Inspiracyjnych Warsztatów" 
+day1_date: ""
+# "[ 25 października 2024 ]" 
 
 itemDay1:
       - number  : 1
@@ -94,9 +99,12 @@ itemDay1:
 
           Lizard King, ul. Mikołaja Kopernika 3, 87-100 Toruń.
 
-day2_title: "Dzień Konferencyjny: "
-day2_title_part2: "Prelekcje i Dyskusje "
-day2_date: "[ 26 października 2024 ]  "
+day2_title: ""
+#"Dzień Konferencyjny: "
+day2_title_part2: ""
+#"Prelekcje i Dyskusje "
+day2_date: ""
+#"[ 26 października 2024 ]  "
 itemDay2:
       - number  : 1
         start   : 9:30

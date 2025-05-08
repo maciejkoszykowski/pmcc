@@ -1,7 +1,7 @@
 # this page is done in Hugo with theme
 # dev: Maciej Koszykowski 
 
-baseURL = "https://pmcc.pmi.org.pl/2024" #this is always clean like one below, but when adding new edition, then follow this format "https://pmcc.pmi.org.pl/2024"
+baseURL = "https://pmcc.pmi.org.pl" #this is always clean like one below, but when adding new edition, then follow this format "https://pmcc.pmi.org.pl/2024"
 homeURL = "https://pmcc.pmi.org.pl" # added to allow going back from previous edition to the current one 
 #editions in order to keep them easier in case if theme is changed or web dev tools, 
 # are going to be kept as static pages /2024, in github they will be branched, but you never know who is going to do development
@@ -61,18 +61,25 @@ expire_days = 2
 # Hero Area Section - Top strony 
 [params.hero]
 enable = true
-heading = "PM CONNECT CONF 2024"
+heading = "PM CONNECT CONF 2025"
 #description = "Sztuczna inteligencja w zarządzaniu projektami to już rzeczywistość"
-description = "Zarządzanie projektami w dobie AI"
+description = "Nowa równowaga: AI automatyzuje, PM humanizuje"
 button = true
-btnText = "Kup Bilet"
-btnURL = "https://pmipolandchapter.ticketbutler.io/en/e/pmconnectconf/"
+#btnText = "Kup Bilet"
+btnText = "Zgłoś swój temat"
+#btnURL = "https://pmipolandchapter.ticketbutler.io/en/e/pmconnectconf/"
+btnURL = "mailto:kujawsko-pomorskie@pmi.org.pl?subject=PMCC 2025 zgłoszenie prelekcji: temat wystąpienia&body=Imię i nazwisko: \nTytuł wystąpienia: \nKategoria: \n\nPrzesyłam rozszerzony abstrakt (do 4000 znaków): \n"
 #videoThumb = "images/slider/video-player-thumb.jpg"
 videoThumb = "images/DSC_3214_slider.jpg"
 #videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
 
 # About 2 Section - Opis konferencji 
 [params.aboutSm]
+enable = true
+title = "Szansa na poszerzenie praktycznej wiedzy i poznanie ciekawych ludzi"
+
+# About 2 Section - Opis konferencji 
+[params.call4papers]
 enable = true
 title = "Szansa na poszerzenie praktycznej wiedzy i poznanie ciekawych ludzi"
 
@@ -111,7 +118,7 @@ mapMarker = "images/marker.png"
 # Call to Action Section on About Page
 # TODO: not used, probably to remove later 
 [params.cta]
-enable = false
+enable = true
 bg = "images/call-to-action/call-to-action-bg-2.jpg"
 title = "Let's Create Something Together"
 subtitle = "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
@@ -123,43 +130,50 @@ btnText = "Contact Us"
 [menu]
 # Navbar Menus
 [[menu.nav]]
-name = "Prelegenci"
+name = "Call for papers"
 url = "#Prelegenci"
 weight = 2
 
-[[menu.nav]]
-name = "Prowadzący"
-url = "#Prowadzacy"
-weight = 2
+#[[menu.nav]]
+#name = "Prelegenci"
+#url = "#Prelegenci"
+#weight = 2
+
+#[[menu.nav]]
+#name = "Prowadzący"
+#url = "#Prowadzacy"
+#weight = 2
 
 
-[[menu.nav]]
-name = "Agenda"
-url = "#Agenda"
-weight = 4
-[[menu.nav]]
-name = "Panel"
-url = "#Panel"
-weight = 5
+#[[menu.nav]]
+#name = "Agenda"
+#url = "#Agenda"
+#weight = 4
+
+#[[menu.nav]]
+#name = "Panel"
+#url = "#Panel"
+#weight = 5
 
 #[[menu.nav]]
 #name = "Bilety"
 #url = "#Bilety"
 #weight = 7
-[[menu.nav]]
-name = "Partnerzy"
-url = "#Partnerzy"
-weight = 8
 
 #[[menu.nav]]
-#name = "Lokalizacja"
-#url = "#Lokalizacja"
-#weight = 10
+#name = "Partnerzy"
+#url = "#Partnerzy"
+#weight = 8
 
 [[menu.nav]]
-name = "Zespół"
-url = "#Zespol"
-weight = 20
+name = "Lokalizacja"
+url = "#Lokalizacja"
+weight = 10
+
+#[[menu.nav]]
+#name = "Zespół"
+#url = "#Zespol"
+#weight = 20
 
 [[menu.nav]]
 name = "Regulamin"
@@ -167,8 +181,8 @@ url = "regulaminy/regulamin-konferencji/"
 weight = 26
 
 [[menu.nav]]
-name = "2025 >>"
-url = "https://pmcc.pmi.org.pl/2025"
+name = "2024"
+url = "https://pmcc.pmi.org.pl/2024"
 weight = 27
 
 # Footer Quick links Menu
