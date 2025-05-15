@@ -23,7 +23,8 @@ pygmentsCodeFences = true
 
 # Site Params
 [params]
-logo = "images/pmcc_logo_bar_small.png"
+logo = "images/pmcc_logo.svg"
+
 logo_xsmall = "images/pmcc_logo_bar_xsmall.png"
 logo_large = "images/pmcc_logo_large.png"
 logo_pmi = "images/logo_pmi_kuj_pom_50.png"

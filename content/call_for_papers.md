@@ -8,7 +8,7 @@ draft: false
 
 ## Zaproszenie do nadsyłania abstraktów
 
-UMK w Toruniu oraz PMI Kujawsko-Pomorskie zapraszają praktyków, badaczy oraz naukowców do nadsyłania rozszerzonych abstraktów na Konferencję PM Connect Conf 2025, która odbędzie się 25 października 2025 r. PM CONNECT CONF to wyjątkowe wydarzenie, które w dynamiczny sposób łączy teorię z praktyką w dziedzinie zarządzania projektami. To również okazja do inspirującego networkingu w gronie profesjonalistów. 
+UMK WNEiZ w Toruniu oraz PMI Kujawsko-Pomorskie zapraszają praktyków oraz przedstawicieli świata nauki do nadsyłania rozszerzonych abstraktów na Konferencję PM Connect Conf 2025, która odbędzie się 25 października 2025 r. 
 
 ## Temat przewodni konferencji
 
@@ -43,7 +43,7 @@ Zachęcamy do nadsyłania abstraktów dotyczących, między innymi, następując
 
 <br/><br/><br/><br/>
 
-#### Humanizacja roli Project Managera tzw. tematyka miękka
+#### Obszar: Humanizacja roli Project Managera tzw. tematyka miękka
 
 * Nowa rola Project Managera w erze sztucznej inteligencji
 * Kluczowe kompetencje miękkie przyszłości dla Project Managerów
@@ -65,7 +65,7 @@ Zachęcamy do nadsyłania abstraktów dotyczących, między innymi, następując
 ## Zasady nadsyłania zgłoszeń
 
 Autorzy proszeni są o przesłanie rozszerzonych abstraktów (do 4000 znaków ze spacjami), koncentrując się na treści planowanej prelekcji.
-Abstrakty należy przesyłać w języku apolskim na adres: kujawsko-pomorskie@pmi.org.pl. Można opcjonalnie załączyć roboczą wersję prezentacji w formacie PDF.
+Abstrakty należy przesyłać w języku polskim na adres: kujawsko-pomorskie@pmi.org.pl. Można opcjonalnie załączyć roboczą wersję prezentacji w formacie PDF.
 
 W zgłoszeniu prosimy wskazać obszar tematyczny, wybierając jedną z kategorii: praktyk, student, doktorant, badacz.
 
@@ -77,6 +77,7 @@ W zgłoszeniu prosimy wskazać obszar tematyczny, wybierając jedną z kategorii
 
 Wybrane zagadnienia mogą zostać zarekomendowane do publikacji w czasopiśmie Strefa PMI.
 
+
 <br/><br/><br/><br/>
 
 ## Wsparcie organizacyjne dla prelegentów
@@ -84,3 +85,12 @@ Wybrane zagadnienia mogą zostać zarekomendowane do publikacji w czasopiśmie S
 Udział w konferencji jest bezpłatny dla prelegentów oraz jednej osoby towarzyszącej.
 Organizatorzy zapewniają nocleg dla prelegenta, pokrywają koszty podróży oraz wyżywienia.
 Rozliczenie świadczeń odbywa się na podstawie umowy zawartej z prelegentem, zgodnie z procedurami obowiązującymi w PMI Polska.
+
+## Ty inspirujesz – zgłoś się jako prelegent do jednej ze ścieżek
+
+Prześlij zgłoszenie na adres: kujawsko-pomorskie@pmi.org.pl lub kliknij przycisk poniżej – otworzy się Twój domyślny program pocztowy z gotowym szkicem wiadomości do uzupełnienia.
+Dodaj „PMCC 2025 – zgłoszenie prelekcji” w tytule swojego maila, abyśmy mogli szybko go zidentyfikować.
+
+
+
+
