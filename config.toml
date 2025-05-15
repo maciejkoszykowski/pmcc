@@ -15,7 +15,7 @@ languageCode = "pl"
 enableRobotsTXT = true
 
 # google analytics tracking id
-googleAnalytics = "DIFFRENT" # NOT USED HARDCODED IN THEME ###
+# googleAnalytics = "DIFFRENT" # NOT USED HARDCODED IN THEME ###
 
 enableGitInfo = false #TODO
 pygmentsCodeFences = true
