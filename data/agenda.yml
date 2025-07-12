@@ -2,8 +2,8 @@ enable  : false
 topTitle: PM Connect Conf 
 title   : Agenda
 
-invite_txt : "Zapraszamy praktyków oraz przedstawicieli świata nauki do nadsyłania rozszerzonych abstraktów na Konferencję PM Connect Conf 2025, która odbędzie się 25 października 2025 r. - więcej informacji poniżej. "
-#invite_txt : "Zapraszamy na:"
+#invite_txt : "Zapraszamy praktyków oraz przedstawicieli świata nauki do nadsyłania rozszerzonych abstraktów na Konferencję PM Connect Conf 2025, która odbędzie się 25 października 2025 r. - więcej informacji poniżej. "
+invite_txt : "25 października 2025"
 
 day1_title: ""
 #"Dzień Inspiracyjnych Warsztatów" 

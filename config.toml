@@ -36,6 +36,7 @@ description =  "PM Connect Conf to dynamiczna inicjatywa współorganizowana prz
 
 
 dateFormat = "January 2, 2006" #TODO: this is not Polish date format
+confStartDate = "2025-10-25T10:00:00" #extact date with hrs - this is counting down 
 
 # menu - first option # navbar 
 home = "Start"
@@ -65,13 +66,15 @@ enable = true
 heading = "PM CONNECT CONF 2025"
 #description = "Sztuczna inteligencja w zarządzaniu projektami to już rzeczywistość"
 description = "Nowa równowaga: <br> AI automatyzuje, PM humanizuje"
+
 button = true
-#btnText = "Kup Bilet"
-btnText = "Zgłoś swój temat"
+btnText = "Kup Bilet"
+#btnText = "Zgłoś swój temat"
+
 #btnURL = "https://pmipolandchapter.ticketbutler.io/en/e/pmconnectconf/"
 btnURL = "mailto:kujawsko-pomorskie@pmi.org.pl?subject=PMCC 2025 zgłoszenie prelekcji: temat wystąpienia&body=Imię i nazwisko: \nTytuł wystąpienia: \nKategoria: \n\nPrzesyłam rozszerzony abstrakt (do 4000 znaków): \n"
 #videoThumb = "images/slider/video-player-thumb.jpg"
-videoThumb = "images/DSC_3214_slider.jpg"
+#videoThumb = "images/land_hero.jpg"  this is not used in fact
 #videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
 
 # About 2 Section - Opis konferencji 
