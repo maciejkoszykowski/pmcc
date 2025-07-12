@@ -138,10 +138,10 @@ name = "Galeria"
 url = "/galeria"
 weight = 1
 
-[[menu.nav]]
-name = "Call for papers"
-url = "#Prelegenci"
-weight = 2
+#[[menu.nav]] #call4papers
+#name = "Call for papers"
+#url = "#Prelegenci"
+#weight = 2
 
 #[[menu.nav]]
 #name = "Prelegenci"
@@ -169,10 +169,10 @@ weight = 2
 #url = "#Bilety"
 #weight = 7
 
-#[[menu.nav]]
-#name = "Partnerzy"
-#url = "#Partnerzy"
-#weight = 8
+[[menu.nav]]
+name = "Partnerzy"
+url = "#Partnerzy"
+weight = 8
 
 [[menu.nav]]
 name = "Lokalizacja"
