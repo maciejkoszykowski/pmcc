@@ -1,0 +1,21 @@
+enable  : true
+topTitle: WSPOMNIENIA
+title   : GALERIA WYDARZEŃ
+subtitle: Zobacz, jak wyglądały wcześniejsze edycje naszej konferencji – pełne inspiracji, wiedzy i wyjątkowej atmosfery.
+
+filtermenu :
+  - name      : 2024
+    category  : 2024
+
+  - name      : "2025 (już niedługo)"
+    category  : "2025 (już niedługo)"
+
+
+item   :
+  - title : 2024
+    image_count : 104  # number of file in the gallery folder
+    category  : 2024
+
+  - title : 2025
+    image_count : 0 
+    category  : 2025

@@ -1,5 +1,5 @@
-# this page is done in Hugo with theme
-# dev: Maciej Koszykowski 
+# this page is generated using Hugo with a dedicated theme
+# dev: Maciej Koszykowski
 
 baseURL = "https://pmcc.pmi.org.pl" #this is always clean like one below, but when adding new edition, then follow this format "https://pmcc.pmi.org.pl/2024"
 homeURL = "https://pmcc.pmi.org.pl" # added to allow going back from previous edition to the current one 
@@ -130,6 +130,11 @@ btnText = "Contact Us"
 
 [menu]
 # Navbar Menus
+[[menu.nav]]
+name = "Galeria"
+url = "/galeria"
+weight = 1
+
 [[menu.nav]]
 name = "Call for papers"
 url = "#Prelegenci"
