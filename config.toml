@@ -82,12 +82,6 @@ btnURL = "mailto:kujawsko-pomorskie@pmi.org.pl?subject=PMCC 2025 zgłoszenie pre
 enable = true
 title = "Szansa na poszerzenie praktycznej wiedzy i poznanie ciekawych ludzi"
 
-# About 2 Section - Opis konferencji 
-[params.call4papers]
-enable = true
-title = "Szansa na poszerzenie praktycznej wiedzy i poznanie ciekawych ludzi"
-
-# reszta opisu, czyli blok tekstu znajduje się w about_sm.md w folderze content
 
 # Blog Section On Homepage
 [params.blog]
@@ -164,10 +158,10 @@ weight = 1
 #url = "#Panel"
 #weight = 5
 
-#[[menu.nav]]
-#name = "Bilety"
-#url = "#Bilety"
-#weight = 7
+[[menu.nav]]
+name = "Bilety"
+url = "#Bilety"
+weight = 7
 
 [[menu.nav]]
 name = "Partnerzy"
