@@ -71,8 +71,9 @@ button = true
 btnText = "Kup Bilet"
 #btnText = "Zgłoś swój temat"
 
-#btnURL = "https://pmipolandchapter.ticketbutler.io/en/e/pmconnectconf/"
-btnURL = "mailto:kujawsko-pomorskie@pmi.org.pl?subject=PMCC 2025 zgłoszenie prelekcji: temat wystąpienia&body=Imię i nazwisko: \nTytuł wystąpienia: \nKategoria: \n\nPrzesyłam rozszerzony abstrakt (do 4000 znaków): \n"
+btnURL = "https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2025/"
+#btnURL = "mailto:kujawsko-pomorskie@pmi.org.pl?subject=PMCC 2025 zgłoszenie prelekcji: temat wystąpienia&body=Imię i nazwisko: \nTytuł wystąpienia: \nKategoria: \n\nPrzesyłam rozszerzony abstrakt (do 4000 znaków): \n"
+
 #videoThumb = "images/slider/video-player-thumb.jpg"
 #videoThumb = "images/land_hero.jpg"  this is not used in fact
 #videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"

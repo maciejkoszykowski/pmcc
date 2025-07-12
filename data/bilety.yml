@@ -1,0 +1,70 @@
+enable  : true
+topTitle: PM Connect Conf
+title   : Bilety
+subtitle : Do 30 września masz możliwość zakupić bilety w promocji Early Birds. 
+
+item  :
+  - name        : Early birds - Regular
+    price       : 199 PLN
+    description :
+    featurelist :
+      - item: cena tylko do 20 września 2025
+      - item: udział we wszystkich prelekcjach podczas konferencji w dniu 25 października
+      - item: poczęstunek w trakcie przerw
+      # - item: warsztat oddzielnie płatny 
+    btnText     : Kup Bilet
+    btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2025/
+
+  - name        : Normal Ticket - Regular 
+    price       : 249 PLN
+    description :
+    featurelist :
+      - item: cena od 21 września 2025
+      - item: udział we wszystkich prelekcjach podczas konferencji w dniu 25 października
+      - item: poczęstunek w trakcie przerw
+      # - item: warsztat oddzielnie płatny 
+    btnText     : Kup Bilet
+    btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2025/
+    
+  - name        : Late birds
+    price       : 349 PLN
+    description : 
+    featurelist :
+      - item: cena od 24 października 2025
+      - item: udział we wszystkich prelekcjach podczas konferencji w dniu 25 października
+      - item: poczęstunek w trakcie przerw
+      # - item: warsztat oddzielnie płatny 
+    btnText     : Kup Bilet
+    btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2025/
+
+  - name        : Early birds - Partner/PMI Member
+    price       : 149 PLN
+    description : 
+    featurelist :
+      - item: cena tylko do 20 września 2025
+      - item: potem cena rośnie
+      - item: Bilet dla członka PMI PC
+      - item: Bilet dla pracownika/członka partnera wydarzenia 
+      - item: udział we wszystkich prelekcjach podczas konferencji w dniu 25 października
+      - item: poczęstunek w trakcie przerw
+      # - item: warsztat oddzielnie płatny 
+    btnText     : Kup Bilet
+    btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2025/
+
+
+  - name        : Normal Discounted - Partner/PMI
+    price       : 199 PLN
+    description : 
+    featurelist :
+      - item: cena od 21 września 2025
+      - item: cena do 23 października 2025
+      - item: Bilet dla członka PMI PC
+      - item: Bilet dla pracownika partnera wydarzenia 
+      - item: udział we wszystkich prelekcjach podczas konferencji w dniu 25 października
+      - item: poczęstunek w trakcie przerw
+     #  - item: warsztat oddzielnie płatny 
+    btnText     : Kup Bilet
+    btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2025/
+
+
+
