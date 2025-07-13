@@ -225,7 +225,7 @@ program_per_day:
           - number: 225
             start: 17:05
             end: 17:20
-            who: "Maciej Koszykowski"
-            title: "Zamknięcie konferencji"            
+            who: "Zamknięcie konferencji"
+            title:   "Maciej Koszykowski"          
             description: >
               Oficjalne zakończenie konferencji.
