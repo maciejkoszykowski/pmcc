@@ -180,10 +180,10 @@ name = "Lokalizacja"
 url = "#Lokalizacja"
 weight = 10
 
-#[[menu.nav]]
-#name = "Zespół"
-#url = "#Zespol"
-#weight = 20
+[[menu.nav]]
+name = "Zespół"
+url = "#Zespol"
+weight = 20
 
 [[menu.nav]]
 name = "Regulamin"

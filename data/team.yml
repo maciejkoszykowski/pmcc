@@ -1,4 +1,4 @@
-enable  : false
+enable  : true
 topTitle: PM Connect Conf
 title   : Zespół konferencji 
 # subtitle może być użyty w przyszłości jeśli do konferencji będzie rekrutacja 
@@ -12,7 +12,18 @@ subtitle: "    "
 # gplusURL      : https://plus.google.com/
 # dribbbleURL   : https://dribbble.com/
 
+
 titleOrg: Organizacja wydarzenia
+
+pm:
+  - image         : images/team/wiola.png
+    name          : Wioleta Malec
+    designation   : Kierownik Projektu
+    description   : Opis
+    linkedInURL   : https://www.linkedin.com/in/wiola-borczynska-41b781a1/
+
+
+
 titleRada: Rada Programowa
 rada:
   - image         : images/team/rada/marlena.png
@@ -37,14 +48,33 @@ rada:
       Menadżer z ponad 24-letnim doświadczeniem w zarządzaniu projektami, programami oraz portfelami projektów. Posiada certyfikaty PMP®, PRINCE2®, MSP®, AgilePM®, Lean Six Sigma Yellow Belt, ITIL® oraz P3O®. Specjalizuje się w sektorach IT, ICT, bezpieczeństwa IT oraz rozwoju oprogramowania. Pełnił funkcje Wiceprezesa ds. Finansów oraz Członka Komisji Rewizyjnej w PMI Poland Chapter. Wykładał na podyplomowych studiach z Zaawansowanego Zarządzania Programami i Projektami na Wyższej Szkole Bankowej w Toruniu. Prowadził także warsztaty w ramach PMO Academy w Atos PGS. Jest recenzentem międzynarodowych standardów PMI oraz korektorem polskiego tłumaczenia Przewodnika PMBOK®. Obecnie prowadzi badania w ramach doktoratu wdrożeniowego na Uniwersytecie Mikołaja Kopernika w Toruniu, koncentrując się na zastosowaniu sztucznej inteligencji w prognozowaniu kluczowych wskaźników wydajności (KPI) projektów. Mentor i trener, pomagający kształtować przyszłych liderów zarządzania projektami.
     linkedInURL  : https://www.linkedin.com/in/polaszek/
 
-  - image         : images/team/rada/maciej.png
-    name          : Maciej Koszykowski
+  - image         : images/team/rada/jerzy.png
+    name          : dr Jerzy Stawicki
     designation   : Lider Społeczności PMI
     description   : >
-      Specjalista w zarządzaniu międzynarodowymi projektami z wieloma zespołami. Ekspert w metodach tradycyjnych i zwinnych (agile), nowych technologiach, transformacji cyfrowej oraz IT service transition. Certyfikowany kierownik projektów (PgMP, PMP, PMI-RMP, PSM, AgilePM, PRINCE2, PRINCE2Agile, ITIL, MSP, M_o_R, SixSigma). Mentor, trener i lider społeczności PMI. Recenzent międzynarodowych standardów PMI, w tym PMBOK Guide i Standard for Program Management. Uczestnik merytoryczny projektów tłumaczenia PMBOKa, czy Kodeksu Etyki PMI na język polski. Były dyrektor PMI Kujawsko-Pomorskie i członek zarządu PMI Polska ds. Wolontariuszy. Obecnie doktorant w zakresie zastosowania sztucznej inteligencji w zarządzaniu projektami.
-    linkedInURL   : https://www.linkedin.com/in/maciejkoszykowski/
 
-member  :
+        Ekspert z ponad 25-letnim doświadczeniem w obszarze zarządzania projektami i portfelem projektów, podejścia Kanban i Flow Management, zwinnego przywództwa oraz budowania zwinnych organizacji projektowych. Autor szkoleń i trener oraz konsultant i coach w tych obszarach. Fan praktycznego łączenia metod tradycyjnych, zwinnych (Agile), Lean Management, TOC i łańcucha krytycznego w zarządzaniu projektami oraz skutecznych i efektywnych metod i technik przywództwa i zarządzania. Współprowadzi warsztaty z symulacją „TeamFlow”, dotyczące Kanban oraz Flow Management.
+        Mówi o sobie: „pomagam menedżerom, project managerom, zespołom i firmom pracować i zarządzać efektywniej, mądrzej oraz mieć z pracy więcej fun’u/satysfakcji”.
+        Wykłądowca podyplomowych studiów „Zarządzanie Projektami” na Politechnice Warszawskiej (od 2010 r.) i Uniwersytecie Mikołaja Kopernika (od 2018 r.). W latach 2004-2017 był wykładowcą na studiach podyplomowych „Informatyczne Systemy Zarządzania – strategia, projektowanie, integracja” w Szkole Głównej Handlowej.
+        Asesor konkursu IPMA Project Excellence Award (2005 - 2018).
+        Założyciel PMI Warsaw Poland Chapter (2003), członek PMI oraz IPMA Polska (International Project Management Association).
+        Autor licznych publikacji z zakresu zarządzania projektami, PMO i zarządzania portfelem projektów oraz podejścia Management 3.0 (m.in. Project Perspectives, Project Management Technology, CXO, Strategie Biznesu, itp.), stały felietonista magazynu „Strefa PMI” oraz współautor książki „Strategiczne zarządzanie projektami”.
+        Menadżer z ponad 24-letnim doświadczeniem w zarządzaniu projektami, programami oraz portfelami projektów. Posiada certyfikaty PMP®, PRINCE2®, MSP®, AgilePM®, Lean Six Sigma Yellow Belt, ITIL® oraz P3O®. Specjalizuje się w sektorach IT, ICT, bezpieczeństwa IT oraz rozwoju oprogramowania. Pełnił funkcje Wiceprezesa ds. Finansów oraz Członka Komisji Rewizyjnej w PMI Poland Chapter. Wykładał na podyplomowych studiach z Zaawansowanego Zarządzania Programami i Projektami na Wyższej Szkole Bankowej w Toruniu. Prowadził także warsztaty w ramach PMO Academy w Atos PGS. Jest recenzentem międzynarodowych standardów PMI oraz korektorem polskiego tłumaczenia Przewodnika PMBOK®. Obecnie prowadzi badania w ramach doktoratu wdrożeniowego na Uniwersytecie Mikołaja Kopernika w Toruniu, koncentrując się na zastosowaniu sztucznej inteligencji w prognozowaniu kluczowych wskaźników wydajności (KPI) projektów. Mentor i trener, pomagający kształtować przyszłych liderów zarządzania projektami.
+
+    linkedInURL  : https://www.linkedin.com/in/jerzystawicki/
+
+member  : 
+  - image         : images/team/kamila.png
+    name          : Kamila Kłosowska
+    designation   : Zespół ds. Marketingu
+    description   : >
+      Z światem zarządzania projektami zawodowo związana od 6 lat. Swoje doświadczenie buduje w Project Management Office, które zostało wyróżnione The most mature PMO 2018 Portfolio Experience, PMO Award. 
+      Od roku rozwija się jako Project Managerka. Świetnie czuje się w obecnej roli, która pozwala jej na ciągłe doskonalenie. 
+      Absolwentka zarządzania sp. inwestycje i nieruchomości oraz studiów podyplomowych Project Management na Wydziale Nauk Ekonomicznych i Zarządzania, 
+      na Uniwersytecie Mikołaja Kopernika w Toruniu. Posiada certyfikacje Prince2, Agile PM, P3O, Management 3.0. 
+      W PMI czerpie satysfakcję z możliwości rozwoju nowych kompetencji oraz współpracy z profesjonalistami.
+    linkedInURL  : https://www.linkedin.com/in/kamila-k%C5%82osowska-10658b12b/
+  
   - image         : images/team/mariusz.png
     name          : Mariusz Lewandowski
     designation   : Zespół ds. Marketingu
@@ -56,17 +86,6 @@ member  :
       Na Instagramie popularyzuje wiedzę ze swoich obszarów jako @panodmarketingu.
     linkedInURL   : https://www.linkedin.com/in/panodmarketingu/
     instagramURL   : https://www.instagram.com/panodmarketingu/
-    
-  - image         : images/team/kamila.png
-    name          : Kamila Kłosowska
-    designation   : Zespół ds. Marketingu
-    description   : >
-      Z światem zarządzania projektami zawodowo związana od 6 lat. Swoje doświadczenie buduje w Project Management Office, które zostało wyróżnione The most mature PMO 2018 Portfolio Experience, PMO Award. 
-      Od roku rozwija się jako Project Managerka. Świetnie czuje się w obecnej roli, która pozwala jej na ciągłe doskonalenie. 
-      Absolwentka zarządzania sp. inwestycje i nieruchomości oraz studiów podyplomowych Project Management na Wydziale Nauk Ekonomicznych i Zarządzania, 
-      na Uniwersytecie Mikołaja Kopernika w Toruniu. Posiada certyfikacje Prince2, Agile PM, P3O, Management 3.0. 
-      W PMI czerpie satysfakcję z możliwości rozwoju nowych kompetencji oraz współpracy z profesjonalistami.
-    linkedInURL  : https://www.linkedin.com/in/kamila-k%C5%82osowska-10658b12b/
 
   - image         : images/team/emilia.png
     name          : Emilia Kucharska
@@ -78,16 +97,13 @@ member  :
       Od 15 lat zawodowo związana z branżą IT, gdzie pracuje jako Project Manager. 
     linkedInURL  : https://www.linkedin.com/in/emilia-kucharska-34a7a398/
 
-  - image         : images/team/agnieszka.png
-    name          : Agnieszka Stanisławska
-    designation   : Zespół ds. Relacji z Uczestnikami
+  - image         : images/team/maciej_purpurowe.jpg
+    name          : Maciej Koszykowski
+    designation   : Zespół ds. współpracy z partnerami
     description   : >
-      Jako  Project Managerka  koordynuję projekty związane z wprowadzaniem nowoczesnych systemów mających na celu optymalizację i automatyzację procesów biznesowych. 
-      Moim celem jest przekuwanie „user stories” w „sucess stories” naszych klientów. 
-      Uważam, że kluczem do sukcesu w projektach są - nie tylko narzędzia i bogaty warsztat project managera - lecz przede wszystkim umiejętność budowy dobrych relacji i komunikacja - tych tak łatwo AI nie zastąpi 😉 
-      Interesuje mnie tematyka rozwoju osobistego, jobcraftingu i kompetencje przyszłości. 
-      Jako mama bliźniąt, byłam agile, zanim spisano Manifest Zwinności :)
-    linkedInURL  : https://www.linkedin.com/in/agastan/
+      Specjalista w zarządzaniu międzynarodowymi projektami z wieloma zespołami. Ekspert w metodach tradycyjnych i zwinnych (agile), nowych technologiach, transformacji cyfrowej oraz IT service transition. Certyfikowany kierownik projektów (PgMP, PMP, PMI-RMP, PSM, AgilePM, PRINCE2, PRINCE2Agile, ITIL, MSP, M_o_R, SixSigma). Mentor, trener i lider społeczności PMI. Recenzent międzynarodowych standardów PMI, w tym PMBOK Guide i Standard for Program Management. Uczestnik merytoryczny projektów tłumaczenia PMBOKa, czy Kodeksu Etyki PMI na język polski. Były dyrektor PMI Kujawsko-Pomorskie i członek zarządu PMI Polska ds. Wolontariuszy. Obecnie doktorant w zakresie zastosowania sztucznej inteligencji w zarządzaniu projektami.
+    linkedInURL   : https://www.linkedin.com/in/maciejkoszykowski/
+    noLink        : true
 
   - image         : images/team/nina.png
     name          : Nina Żwak
@@ -129,3 +145,21 @@ member  :
     linkedInURL   : https://www.linkedin.com/in/rafalmlotek/
     noLink        : true 
   
+
+titleKomitet: Komitet Sterujący
+komitet:
+  - image         : images/team/rada/marlena.png
+    name          : Marlena Ciechan-Kujawa
+    designation   : prof. UMK, Dziekan WNEiZ
+    description   : >
+      Profesor w Uniwersytecie Mikołaja Kopernika w Toruniu, Dziekan Wydziału Nauk Ekonomicznych i Zarządzania UMK. 
+      Od wielu lat kieruje realizowanymi z partnerami biznesowymi studiami podyplomowymi Business Controlling i Project Management. W swoich badaniach koncentruje się na analizie uwarunkowań i mechanizmów wdrażania strategii cyfrowych i zrównoważonych oraz ich wpływu na wyniki organizacji. Ekspertka w zakresie zintegrowanych systemów zarządzania, a także projektowania modeli pomiaru oraz raportowania finansowych  i niefinansowych generatorów efektywności biznesowej.
+    linkedInURL   : https://www.linkedin.com/in/marlena-ciechan-kujawa/
+
+  - image         : images/team/rada/maciej.png
+    name          : Maciej Koszykowski
+    designation   : Lider PMI Kujawsko-Pomorskie
+    description   : >
+      Specjalista w zarządzaniu międzynarodowymi projektami z wieloma zespołami. Ekspert w metodach tradycyjnych i zwinnych (agile), nowych technologiach, transformacji cyfrowej oraz IT service transition. Certyfikowany kierownik projektów (PgMP, PMP, PMI-RMP, PSM, AgilePM, PRINCE2, PRINCE2Agile, ITIL, MSP, M_o_R, SixSigma). Mentor, trener i lider społeczności PMI. Recenzent międzynarodowych standardów PMI, w tym PMBOK Guide i Standard for Program Management. Uczestnik merytoryczny projektów tłumaczenia PMBOKa, czy Kodeksu Etyki PMI na język polski. Były dyrektor PMI Kujawsko-Pomorskie i członek zarządu PMI Polska ds. Wolontariuszy. Obecnie doktorant w zakresie zastosowania sztucznej inteligencji w zarządzaniu projektami.
+    linkedInURL   : https://www.linkedin.com/in/maciejkoszykowski/
+    noLink        : true
