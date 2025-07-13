@@ -23,6 +23,7 @@ program_per_day:
     rooms:
       - name: "Nowa Rada Wydziału part 1"
         display_txt: "Główna"
+        color: "#FDFDFB"
         sessions:
           - number: 1
             start: 9:00
@@ -50,7 +51,9 @@ program_per_day:
               Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
               Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
 
-          - number: 5
+      - name: "PODZIAŁ"
+        sessions:
+          - number: 1235
             start: 11:05
             end: 11:15
             who: ""
@@ -121,8 +124,8 @@ program_per_day:
           - number: 43
             start: 12:35
             end: 12:55
-            who: "Wspólna przerwa kawowa z wszystkimi uczestnikami konferencji" ########################
-            title: 
+            who: " "
+            title: "Wspólna przerwa kawowa z wszystkimi uczestnikami konferencji"
             description: >
               w przerwie warto porozmawiać z jeszcze niepoznaną osobą, przychodząc na konferencje chcemy poznawać wartościowych ludzi.
       ################
@@ -185,14 +188,14 @@ program_per_day:
           - number: 83
             start: 14:15
             end: 15:00
-            who: "**Lunch z networkingiem**" ########################
-            title: 
+            who: ""
+            title: Lunch z networkingiem
             description: >
               w przerwie warto porozmawiać z jeszcze niepoznaną osobą, przychodząc na konferencje chcemy poznawać wartościowych ludzi.
       ################
 
       - name: "Nowa Rada Wydziału - part 2"
-
+        color: "#FDFDFB"
         display_txt: "Główna"        
         sessions:
           - number: 221
