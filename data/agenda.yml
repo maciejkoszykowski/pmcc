@@ -1,212 +1,228 @@
-enable  : false
+enable  : true
 topTitle: PM Connect Conf 
 title   : Agenda
 
-#invite_txt : "Zapraszamy praktyków oraz przedstawicieli świata nauki do nadsyłania rozszerzonych abstraktów na Konferencję PM Connect Conf 2025, która odbędzie się 25 października 2025 r. - więcej informacji poniżej. "
-invite_txt : "25 października 2025"
+# markdown is supported in:
+# who
+# description  
+#
+# you can control bold "**text**" double asterix 
+# or italic "*text*" signle asterix
 
-day1_title: ""
-#"Dzień Inspiracyjnych Warsztatów" 
-day1_date: ""
-# "[ 25 października 2024 ]" 
+# this control which day to display
+days:
+  - day_date: "25 października 2025"  # the day one - keep consitent below with date field 
+    day_title: "Sobota"
+#  - day_date: 2025-11-11  # the day two 
+#    day_title: "11"
 
-itemDay1:
-      - number  : 1
-        start   : 15:00
-        end     : 18:15
-        who     : "Dariusz Ciechan & Jerzy Stawicki"
-        title   : Flow4Results Professional [sala 24A ]
-        description : >
-          **Liczba uczestników:** 6–15 osób
+program_per_day:
+  - date: "25 października 2025"
+    label: "Sobota"
+    streams-split: 2
+    rooms:
+      - name: "Nowa Rada Wydziału part 1"
+        display_txt: "Główna"
+        sessions:
+          - number: 1
+            start: 9:00
+            end: 10:00
+            who: "_Rejestracja_"
+            title: >
+              Przyjdź i zarejestruj się, uniknij kolejki i skorzystaj z nieformalnego networkingu przed wydarzeniem. 
+            description: ""
 
+          - number: 2
+            start: 10:00
+            end: 10:20
+            who: "ROZPOCZĘCIE KONFERENCJI"
+            title: "prof. UMK Marlena Ciechan-Kujawa oraz Maciej Koszykowski"
+            description: >
+              Krótkie przemowy powitalne organizatorów WNEiZ UMK oraz PMI PC Kujawsko-Pomorskie.
 
-          Warsztat Flow4Results Professional jest skierowany do profesjonalistów pragnących **skutecznie łączyć cele biznesowe z zarządzaniem projektami**. Podczas symulacji uczestnicy nauczą się, jak efektywnie współpracować w zespole projektowym, przewidywalnie dostarczać wartościowe produkty klientom oraz w spójny sposób łączyć cele firmy z zarządzaniem projektami, a także jak przy pomocy analizy usprawniać  system pracy. 
-          
-          
-          Podczas warsztatu uczestnicy:
-          
-            1\.	Poznają i zastosują podstawowe zasady Flow Managementu,
-            
-            2\.	Wezmą udział w grze symulacyjnej, która pozwoli przetestować zdobyte umiejętności w praktyce,
-            
-            3\.	Nauczą się elementów efektywnej współpracy między różnymi szczeblami zarządzania w firmie,
-            
-            4\.	Przeanalizują i wprowadzą usprawnienia w systemie pracy na podstawie wyników uzyskanych podczas symulacji.
+          - number: 3
+            start: 10:20
+            end: 11:05
+            who: "Opening Keynote: Radosław Kita"
+            title: >
+              Jak stworzyć i zarządzać efektywnie działającym zespołem wdrażającym rozwiązania AI
+            description: >
+              Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
+              Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
 
-           
-          Warsztat to zarówno praktyczne zarządzanie, poszukiwanie efektywnych rozwiązań, wymiana doświadczeń, jak i spora dawka zabawy. 😊
-          
-          
-          Zachęcamy do dołączenia do grona profesjonalistów, którzy skutecznie zarządzają projektami w dynamicznie zmieniającym się środowisku biznesowym.
-      - number  : 2
-        start   : 16:00
-        end     : 18:00
-        who     : Wojciech Ożga
-        title   : Gra Rura [sala 26]
-        description : >
-          **Liczba uczestników:** 6–15 osób.
+          - number: 5
+            start: 11:05
+            end: 11:15
+            who: ""
+            title: "Podział na sale – wybierz prelekcje dla siebie"
+            description: >
+              Po wstępnym rozpoczęciu konferencji uczestnicy będą mogli rozchodzić się na dwie sale według własnego wyboru, 
+              dostosowując udział do tematów, które najbardziej ich interesują. 
+              Wiemy, że wybór może być trudny, ale tematyka jest tak obszerna, że warto było uwzględnić różnorodne zagadnienia, 
+              aby każdy mógł znaleźć coś dla siebie. 
+              Niewątpliwie networking umożliwi wymianę informacji i ciekawe rozmowy. 
+              Zachęcamy również do rozmów o wystąpieniach – to świetna okazja do wymiany wrażeń i pogłębienia wiedzy.
+      ################
+      - name: "----"
+        split_next: true
+        rooms_in_order:
+         - "Ścieżki Twardej"
+         - "Ścieżki Miękkiej"
+      ################
+      - name: "hard-room-part-1"
+        display_txt: "Ścieżki Twardej"
+        color: "#F3FBFE"
+        split: true # only true if yes
+        sessions:
+          - number: 21
+            start: 11:15
+            end: 11:55
+            who: "Krzysztof Zaborowski"
+            title: "AI & Agile = wartość biznesowa <br><br>" #large screen workaround, parallel topic much longer 
+            description: >
+              Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
+              Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
+          - number: 22
+            start: 11:55
+            end: 12:35
+            who: "Katarzyna Dyl"
+            title: Agent AI w projektach – co robi, jak działa, dlaczego warto go znać
+            description: >
+              Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
+              Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
+      - name: "soft-room-part-1"
+        split: true # only true if yes
+        display_txt: "Ścieżki Miękkiej"
+        color: "#FFF0FA"
+        sessions:
+          - number: 31
+            start: 11:15
+            end: 11:55
+            who: "Mariusz Kapusta"
+            title: "Egzoszkielet lidera projektów: jak budować nową równowagę lidera, managera i koordynatora w świecie AI?"
+            description: >
+              Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
+              Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
+          - number: 32
+            start: 11:55
+            end: 12:35
+            who: "Marcin Gora"
+            title: "Humanizowanie projektów wspieranych przez AI: Jak Project Manager moze równoważyć automatyzację z empatią"
+            description: >
+              Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
+              Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
 
+      ################      
+      - name: "----"
+        split_end: true  ### 
+      ################
+      - name: "Hol-KAWA"
+        sessions:
+          - number: 43
+            start: 12:35
+            end: 12:55
+            who: "Wspólna przerwa kawowa z wszystkimi uczestnikami konferencji" ########################
+            title: 
+            description: >
+              w przerwie warto porozmawiać z jeszcze niepoznaną osobą, przychodząc na konferencje chcemy poznawać wartościowych ludzi.
+      ################
+      - name: "----"
+        split_next: true
+        rooms_in_order:
+         - "Ścieżki Twardej"
+         - "Ścieżki Miękkiej"
+      ################
+      - name: "hard-room-part-2"
+        display_txt: "Ścieżki Twardej"
+        color: "#F3FBFE"
+        split: true # only true if yes
+        sessions:
+          - number: 54
+            start: 12:55
+            end: 13:35
+            who: "Wojciech Ozga"
+            title: "temat w opracowaniu <br><br>" #large screen workaround, parallel topic much longer 
+            description: >
+              Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
+              Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
+          - number: 55
+            start: 13:35
+            end: 14:15
+            who: "Dorota Mleczko"
+            title: "Partnerstwo AI-Project Manager: jak zbudować zespół przyszłości"
+            description: >
+              Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
+              Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
+      - name: "soft-room-part-2"
+        display_txt: "Ścieżki Miękkiej"
+        color: "#FFF0FA"
+        split: true # only true if yes        
+        sessions:
+          - number: 64
+            start: 12:55
+            end: 13:35
+            who: "Aleksandra Sylwester-Konofacka"
+            title: "Mindset PM-a przyszłości: W co inwestować, aby prowadzić projekty z pasją i skutecznością?"
+            description: >
+              Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
+              Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
+          - number: 65
+            start: 13:35
+            end: 14:15
+            who: "Grzegorz Sztandera"
+            title: "Ludzie nie zmienią się w AI <br><br>" #large screen workaround, parallel topic much longer 
+            description: >
+              Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
+              Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
+        split_end: true
+      ################      
+      - name: "----"
+        split_end: true  ### 
+      
+      ################
+      - name: "LUNCH"
+        sessions:
+          - number: 83
+            start: 14:15
+            end: 15:00
+            who: "**Lunch z networkingiem**" ########################
+            title: 
+            description: >
+              w przerwie warto porozmawiać z jeszcze niepoznaną osobą, przychodząc na konferencje chcemy poznawać wartościowych ludzi.
+      ################
 
-          Warsztaty mają na celu symulację działań związanych z planowaniem, realizacją oraz utrzymaniem inwestycji. Uczestnicy wcielą się w rolę budowniczych sieci rurociągów, których zadaniem będzie zaplanowanie, zbudowanie oraz eksploatacja infrastruktury transportującej kule energii do reaktorów. Celem jest zdobycie jak największej liczby punktów, poprzez efektywne zarządzanie projektem na trzech poziomach: organizacyjnym, grupowym oraz indywidualnym.
-          
-          
-          Przebieg warsztatów:
-          
-            1\.	Wprowadzenie i logowanie :
-            Uczestnicy otrzymują indywidualne karty logowania i wprowadzają swoje dane w aplikacji warsztatowej. Prowadzący wyjaśnia cel gry oraz zasady.
-            
-            2\.	Tworzenie zespołów i wybór inwestycji :
-            Uczestnicy dzielą się na zespoły i wybierają inwestycję do realizacji. Następnie planują budżet i czas realizacji projektu oraz dokonują wstępnych zamówień materiałów.
-            
-            3\.	Realizacja projektu :
-            Zespoły przystępują do budowy rurociągu, który będzie transportował kule energii. W trakcie budowy muszą zarządzać zasobami, kontrolować koszty oraz czas realizacji. Mogą dokonywać dodatkowych zamówień materiałów, jeśli zajdzie taka potrzeba, ale po wyższych cenach.
-            
-            4\.	Testowanie i odbiór projektu :
-            Po zakończeniu budowy zespoły przeprowadzają testy rurociągu. Projekt uznaje się za zakończony, gdy kula energii pokona całą trasę od centrum dystrybucji do reaktora. Po pozytywnym teście zespoły zgłaszają projekt do odbioru.
-            
-            5\.	Eksploatacja i podsumowanie:
-            Rozpoczyna się faza eksploatacji, gdzie zespoły muszą regularnie transportować kule energii, zachowując zadeklarowane wcześniej odstępy czasowe. Na zakończenie warsztatów prowadzący podsumowuje wyniki zespołów i wręcza nagrody za najlepszą realizację projektu.
-          
-          Warsztaty są interaktywnym i angażującym sposobem na rozwijanie umiejętności związanych z zarządzaniem projektami w kontekście symulacji rzeczywistych wyzwań.
-      - number  : 3
-        start   : 15:00
-        end     : 18:30
-        who     : Szymon Jankowski
-        title   : Praktyczne warsztaty z ChatGPT [sala 29A]
-        description : >
-          Praktyczne warsztaty z ChatGPT – odkryj moc sztucznej inteligencji!
-          Podczas warsztatu dowiesz się, jak AI może zrewolucjonizować Twoją pracę. Poznasz najlepsze praktyki komunikacji z ChatGPT, a także odkryjesz, jak w pełni wykorzystać jego potencjał – od efektywnych poleceń po praktyczne rozszerzenia, takie jak LI BOOSTER v2.
-          Nie zabraknie też okazji do networkingu – porozmawiasz z innymi uczestnikami, zadasz pytania i dołączysz do naszej grupy na WhatsApp. A na koniec – niespodzianka: zobaczysz, jak generować obrazy za pomocą ChatGPT i DALLE i to wszystko na żywo!
-          To praktyczna wiedza, kreatywne inspiracje i świetna zabawa! Dołącz już teraz 
+      - name: "Nowa Rada Wydziału - part 2"
 
-           Podczas warsztatu uczestnicy:
+        display_txt: "Główna"        
+        sessions:
+          - number: 221
+            start: 15:00
+            end: 15:35
+            who: "Prelegent (TBA)"
+            title: "Temat do ogłoszenia"          
+            description: "Informacje w przygotowaniu"     
 
-            1\. Otrzymają wprowadzenie do AI i nauczą się, jak skutecznie komunikować się z ChatGPT.
+          - number: 222
+            start: 15:35
+            end: 16:20
+            who: "prowadzący: Maciej Koszykowski"
+            title: "PANEL w przygotowaniu"
+            description: >
+              Prowadzący Maciej Koszykowski zaprasza na panel dyskusyjny, którego szczegóły są jeszcze w trakcie ustalania. Szczegółowy program i tematy zostaną podane wkrótce.
 
-            2\. Poznają praktyczne narzędzia, takie jak GPTs oraz LI BOOSTER v2.
+          - number: 223
+            start: 16:20
+            end: 17:05
+            who: "Clossing Keynote: Jan Blew"
+            title: "Alchemik sensu: PM jako tłumacz między logiką maszyn a aspiracjami ludzi"
+            description: >
+              Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
+              Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
 
-            3\. Nauczą się efektywnych technik tworzenia promptów.
-
-            4\. Dowiedzą się, jak wykorzystać genAI do innych celów, takich jak generowanie obrazów.
-
-      - number  : 4
-        start   : 20:00
-        end     : 23:00
-        who     : "Klub Absolwenta"
-        title   : "'Alumni & Friends Night' [Lizard King]"
-        description : >
-          Nieformalne spotkanie absolwentów oraz uczestników konferencji.
-
-          Lizard King, ul. Mikołaja Kopernika 3, 87-100 Toruń.
-
-day2_title: ""
-#"Dzień Konferencyjny: "
-day2_title_part2: ""
-#"Prelekcje i Dyskusje "
-day2_date: ""
-#"[ 26 października 2024 ]  "
-itemDay2:
-      - number  : 1
-        start   : 9:30
-        end     : 10:00
-        who     : Rejestracja
-        description : >
-          Przyjdź i zarejestruj się, uniknij kolejki i skorzystaj z nieformalnego networkingu przed wydarzeniem. 
-
-      - number  : 2
-        start   : 10:00
-        end     : 10:20
-        who   : "Rozpoczęcie konferencji"
-        title: "prof. UMK Marlena Ciechan-Kujawa oraz Maciej Koszykowski"
-        description : >
-          Krótkie przemowy powitalne organizatorów WNEiZ UMK oraz PMI PC Kujawsko-Pomorskie
-
-      - number  : 3
-        start   : 10:20
-        end     : 11:05
-        who     : "Keynote: prof. Włodzisław Duch"
-        title   : "Blaski i cienie sztucznej inteligencji"
-        description : >
-          Fascynująca prelekcja, która odkryje przed nami zarówno możliwości, jak i wyzwania związane z rozwojem AI.
-
-      - number  : 4
-        start   : 11:05
-        end     : 11:50
-        who     : "Maciej Mróz"
-        title   : "Krótki przewodnik po polisemii, czyli o wartościach i postępie w świecie sztucznej inteligencji."
-        description : >
-          Sztuczna inteligencja to technologia zdolna do bezprecedensowych osiągnięć. W kontekście jej gwałtownego rozwoju pojawia się wiele pytań o naturę postępu, wartość ludzkich wyborów oraz sposoby kształtowania rozwoju technologii. Co znaczy “dobry algorytm”? Kto wygra wyścig rozwoju AI? Gdzie znajdują się granice możliwości technologii?  Filozofia i etyka dostarczają nam kluczowych narzędzi do namysłu nad tymi zagadnieniami, pomagając nawigować przez wieloznaczności i nowe zjawiska, które sztuczna inteligencja wprowadza w nasze życie.  
-
-      - number  : 5
-        start   : 11:50
-        end     : 12:30
-        who     : "Lunch z networkingiem"
-        description : >
-          w przerwie lunchowiej warto porozmawiać z jeszcze niepoznaną osobą, przychodząc na konferencje chcemy poznawać wartościowych ludzi. 
-
-      - number  : 6
-        start   : 12:30
-        end     : 12:55
-        who     : "Tomasz Sowa"
-        title   : "AI Act (akt w sprawie sztucznej inteligencji) a zarządzanie projektami – wpływ nowych regulacji na projekty dotyczące modeli i systemów AI."
-        description : >
-          Podczas prelekcji uczestnicy poznają podstawy AI Act – nowego rozporządzenia UE dotyczącego systemów sztucznej inteligencji. Omówimy, kiedy AI Act będzie miał zastosowanie do projektów oraz jak kwalifikacja systemu AI do klasy ryzyka wpływa na obowiązki prawne. Przedstawimy kluczowe obowiązki, które należy uwzględnić podczas pracy nad projektem, aby uniknąć problemów z ich komercjalizacją. Poruszymy problemy związane z ochroną praw własności intelektualnej, ochroną danych osobowych oraz zarządzaniu danymi. Celem prelekcji jest zbudowanie świadomości uczestników co do konieczności uwzględnienia nowych obowiązków wynikających ze zmiany otoczenia prawnego na etapie zarządzania projektami.
-
-      - number  : 9
-        start   : 12:55
-        end     : 13:20
-        who     : "Damian Walczak"
-        title   : "Case Study: Jak wznieść pracę HR i działu prawnego na wyższy poziom dzięki AI?"
-        description : >
-          Dzięki AI organizacje mogą usprawnić działania, poprawić efektywność operacyjną i lepiej dostosować swoje usługi do potrzeb pracowników oraz klientów. 
-          W tym case study przyjrzymy się zastosowaniu AI w działach HR i prawnym, aby zrozumieć, jak te technologie wspierają codzienne procesy.
-                
-      - number  : 10
-        start   : 13:20
-        end     : 13:55
-        who     : "Janusz Marcinkowski"
-        title   : AI w 2025 roku
-        # podwójna linia / enter/ poniżej jest celowy, w markdown to rodzielenie zdań 
-        description : >
-          Dynamika rozwoju AI uniemożliwia precyzyjne przewidywania długoterminowe, więc skupimy się na kluczowych obszarach rozwoju w 2025 roku. 
-          W tym wystąpieniu przyjrzymy się najważniejszym technologiom, które wkrótce zmienią sposób, w jaki firmy korzystają z AI.
-          Omnimodalność, świadomość przestrzenna i komunikacja na ekranie - czyli łączenie różnych sposobów komunikacji z AI, streaming - współpraca z AI w czasie rzeczywistym, data fabric - dostęp do firmowych danych w czasie rzeczywistym, oraz agenci AI - inteligencja zdolna do samodzielnych decyzji.
-          Porozmawiamy też o rozwoju osobistej AI, czyli sztucznej inteligencji wbudowanej w nasze codzienne urządzenia, takie jak te od Apple i Samsunga. 
-          Ten typ AI może pomóc w zarządzaniu kalendarzem, przypomnieniami, automatyzacją zadań domowych, a także dostosowywać się do naszych preferencji, by poprawić komfort użytkowania.
-
-      - number  : 15
-        start   : 13:55
-        end     : 14:40
-        who     : "prowadzący: Maciej Koszykowski"
-        title   : "Panel Dyskusyjny - AI jako Klucz do Innowacji"
-        # podwójna linia / enter/ poniżej jest celowy, w markdown to rodzielenie zdań 
-        description : >
-          Omówienie wyzwań, sukcesów, porażek, możliwości i zastosowań sztucznej inteligencji w organizacjach, a w szczególności w zarządzaniu projektami. 
-          
-
-          Przenieś się do sekcji [Panelu](#Panel), aby dowiedzieć się więcej, lub kliknij w menu, aby przejść do panelu.
-          
-      - number  : 20
-        start   : 14:40
-        end     : 15:00
-        who     : "Przerwa kawowa & Networking"
-        description : >
-          czas na networking przy kawie i wymianę myśli dot. prelecji 
-
-      - number  : 21
-        start   : 15:00
-        end     : 15:40
-        who     : "Prezentacja najlepszych prac dyplomowych absolwentów"
-        title   : "UMK Project Management"
-        description : >
-          Tutaj będzie się działo, gdyż kreatywność naszych studentów kierunku zarządzania projektami zaskakuje każdego roku. 
-
-      - number  : 22
-        start   : 15:40
-        end     : 16:10
-        who     : "Zakończenie roku akademickiego oraz inaguracja kolejnej edycji studiów"
-        title   : "UMK Project Management"
-        description : >
-          Zakończenie UMK Project Management edycji XII Online i XIII Toruń oraz inaguracja edycji XIV Online i XV Toruń
-
-
+          - number: 225
+            start: 17:05
+            end: 17:20
+            who: "Maciej Koszykowski"
+            title: "Zamknięcie konferencji"            
+            description: >
+              Oficjalne zakończenie konferencji.

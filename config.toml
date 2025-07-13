@@ -20,6 +20,12 @@ enableRobotsTXT = true
 enableGitInfo = false #TODO
 pygmentsCodeFences = true
 
+#markwodn config  for mardownify etc. 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 
 # Site Params
 [params]
@@ -149,10 +155,10 @@ weight = 1
 #weight = 2
 
 
-#[[menu.nav]]
-#name = "Agenda"
-#url = "#Agenda"
-#weight = 4
+[[menu.nav]]
+name = "Agenda"
+url = "#Agenda"
+weight = 4
 
 #[[menu.nav]]
 #name = "Panel"
