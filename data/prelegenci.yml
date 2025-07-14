@@ -1,7 +1,12 @@
-enable  : false
+enable  : true
 
 topTitle: PM Connect Conf
 title   : Prelegenci
+
+no_message: false
+message: >
+       Sylwetki prelegentów będą sukcesywnie pojawiać się na stronie konferencji po ich wcześniejszym przedstawieniu w mediach społecznościowych. 
+       Zachęcamy do obserwowania naszych kanałów na LinkedIn oraz Facebooku, gdzie na bieżąco publikujemy informacje o programie i prelegentach — linki znajdą Państwo w stopce strony.
 
 item    :
   - id : 1

@@ -17,9 +17,14 @@ titleOrg: Organizacja wydarzenia
 
 pm:
   - image         : images/team/wiola.png
-    name          : Wioleta Malec
+    name          : Wioleta Borczyńska
     designation   : Kierownik Projektu
-    description   : Opis
+    description   : >
+        Wolontariuszka PMI PC Kujawsko - Pomorskie Branch od 2015 roku. 
+        Doświadczony Team Manager z 11 letnim doświadczeniem w branży IT. 
+        Obecnie pracuje na stanowisku Demand Manager w firmie Atos, zarzadząjc grupą specjalistów. 
+        Obecnie rozwija swoje kompetencje i doświadczenie w Zarządzaniu Projektami, z czym wiąże swoją przyszłą ścieżkę zawodową. 
+        Absolwentka studiów podyplomowych na kierunku Zarządzania Projektami, posiadaczka certyfikatów PRINCE2®, AgilePM®, ITIL4®.
     linkedInURL   : https://www.linkedin.com/in/wiola-borczynska-41b781a1/
 
 

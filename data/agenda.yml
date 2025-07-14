@@ -50,7 +50,7 @@ program_per_day:
             description: >
               Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
               Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
-
+      ####################
       - name: "PODZIAŁ"
         sessions:
           - number: 1235
@@ -65,7 +65,7 @@ program_per_day:
               aby każdy mógł znaleźć coś dla siebie. 
               Niewątpliwie networking umożliwi wymianę informacji i ciekawe rozmowy. 
               Zachęcamy również do rozmów o wystąpieniach – to świetna okazja do wymiany wrażeń i pogłębienia wiedzy.
-      ################
+      ####################
       - name: "----"
         split_next: true
         rooms_in_order:
@@ -89,7 +89,7 @@ program_per_day:
             start: 11:55
             end: 12:35
             who: "Katarzyna Dyl"
-            title: Agent AI w projektach – co robi, jak działa, dlaczego warto go znać
+            title: Rola Data Scientist w projektach - dobieranie, obróbka i analiza danych projektowych.
             description: >
               Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
               Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
