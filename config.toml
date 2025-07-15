@@ -45,23 +45,16 @@ pygmentsCodeFences = true    # Might be useful so on. This enables syntax highli
 
 [params]
 
-#### LOG files in one place 
-logo = "images/pmcc_logo.svg" # conf logo, normally we replace the file not setting here
-
-# TODO: are all really used? 
-logo_xsmall = "images/pmcc_logo_bar_xsmall.png"
-logo_large = "images/pmcc_logo_large.png"
-logo_pmi = "images/logo_pmi_kuj_pom_50.png"
-logo_umk = "images/logo_WNEiZ_UMK_50.png"
-
 # paga meta data
 author = "PMI and UMK"
 description =  "PM Connect Conf to dynamiczna inicjatywa współorganizowana przez kujawsko-pomorski oddział PMI Poland Chapter oraz Wydział Nauk Ekonomicznych i Zarządzania UMK w Toruniu. PM Connect Conf to nie tylko wyjątkowa szansa na poszerzenie praktycznej wiedzy z zakresu project managementu, ale także okazja do inspirującego networkingu w gronie profesjonalistów. Dzięki spotkaniu z ekspertami i liderami branży, uczestnicy będą mogli wymienić się doświadczeniami i nawiązać wartościowe kontakty, które mogą przyczynić się do dalszego rozwoju ich kariery zawodowej."
 
-#TODO is it really used ??
-dateFormat = "January 2, 2006" #TODO: this is not Polish date format
+#### LOG files in one place 
+logo = "images/pmcc_logo.svg" # conf logo, normally we replace the file not setting here
+logo_pmi = "images/logo_pmi_kuj_pom_50.png"
+logo_umk = "images/logo_WNEiZ_UMK_50.png"
 
-
+# footer settings 
 footerServiceTitle = "images/poland_logo-small.png"
 footerQuicklinkTitle = "Mapa Strony"
 footerAboutTitle = "Organizator"
@@ -104,11 +97,11 @@ mapMarker = "images/marker.png"
 # Site Menus  / Navabar settings #
 ##################################
 
-# TODO: what about start inconsitency 
 [params.menu]
 is_fixed = true
 only_back_home = "Start"
 
+# hugo menu reserved menu params 
 [menu]
 
 # Navbar Menus
@@ -194,3 +187,7 @@ name = "Regulamin"
 url = "regulamin"
 weight = 3
 
+#########################################################
+# not relevant any more but left, can be useful later 
+[params.menu]
+dateFormat = "January 2, 2006" #TODO: this is not Polish date format
