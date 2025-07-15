@@ -61,9 +61,6 @@ description =  "PM Connect Conf to dynamiczna inicjatywa współorganizowana prz
 #TODO is it really used ??
 dateFormat = "January 2, 2006" #TODO: this is not Polish date format
 
-# menu - first option # navbar 
-home = "Start"
-menufixed = true
 
 footerServiceTitle = "images/poland_logo-small.png"
 footerQuicklinkTitle = "Mapa Strony"
@@ -108,69 +105,80 @@ mapMarker = "images/marker.png"
 ##################################
 
 # TODO: what about start inconsitency 
+[params.menu]
+is_fixed = true
+only_back_home = "Start"
 
 [menu]
+
+# Navbar Menus
+[[menu.nav]]
+name = "Start"
+url = "/"
+weight = 1
+
+
 # Navbar Menus
 [[menu.nav]]
 name = "Galeria"
 url = "/galeria"
-weight = 1
+weight = 5
 
 #[[menu.nav]] #call4papers
 #name = "Call for papers"
-#url = "#Prelegenci"
-#weight = 2
+#url = "#call4papers"
+#weight = 7
 
 [[menu.nav]]
 name = "Prelegenci"
 url = "#Prelegenci"
-weight = 2
+weight = 7
 
 #[[menu.nav]]
 #name = "Prowadzący"
 #url = "#Prowadzacy"
-#weight = 2
+#weight = 10
 
 
 [[menu.nav]]
 name = "Agenda"
 url = "#Agenda"
-weight = 4
+weight = 14
 
 #[[menu.nav]]
 #name = "Panel"
 #url = "#Panel"
-#weight = 5
+#weight = 15
 
 [[menu.nav]]
 name = "Bilety"
 url = "#Bilety"
-weight = 7
+weight = 17
 
 [[menu.nav]]
 name = "Partnerzy"
 url = "#Partnerzy"
-weight = 8
+weight = 18
 
 [[menu.nav]]
 name = "Lokalizacja"
 url = "#Lokalizacja"
-weight = 10
+weight = 22
 
 [[menu.nav]]
 name = "Zespół"
 url = "#Zespol"
-weight = 20
+weight = 25
 
 [[menu.nav]]
 name = "Regulamin"
 url = "regulamin"
-weight = 26
+weight = 28
 
 [[menu.nav]]
 name = "2024"
 url = "https://pmcc.pmi.org.pl/2024"
-weight = 27
+weight = 30
 
 # Footer Quick links Menu
 [[menu.quicklink]]
