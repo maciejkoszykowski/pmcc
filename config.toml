@@ -68,7 +68,8 @@ expire_days = 2
 
 # Hero Area Section - Top strony 
 [params.hero]
-enable = true
+enable = true #doubled with yaml #TODO one only please
+
 heading = "PM CONNECT CONF 2025"
 #description = "Sztuczna inteligencja w zarządzaniu projektami to już rzeczywistość"
 description = "Nowa równowaga: <br> AI automatyzuje, PM humanizuje"

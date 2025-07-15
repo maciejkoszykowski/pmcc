@@ -1,0 +1,9 @@
+enable  : true # this is always on 
+topTitle: PM Connect Conf 
+title   : Hero
+
+show_here_msg: false
+
+invite_txt: " " # w 2026 spradź co było 
+
+
