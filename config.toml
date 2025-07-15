@@ -22,6 +22,12 @@ homeURL = "https://pmcc.pmi.org.pl"  # Allows easy navigation back to the curren
     # On GitHub, editions will be branched separately, but static retention ensures smooth transitions
     # regardless of who manages development or future environment changes.
 
+################
+#  favicon.ico #
+################
+# search for ./images/favicon.ico
+# just replace file
+# implemented in head.html parcial in the theme 
 
 
 ###########################################################
