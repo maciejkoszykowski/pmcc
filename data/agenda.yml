@@ -82,7 +82,7 @@ program_per_day:
 
       ################
       - name: "hard-room-part-1"
-        display_txt: "Ścieżki Twardej"
+        display_txt: "Ścieżki Twardej" #room for mobile screen 
         color: "#F3FBFE"
         split: true # only true if yes
         sessions:
@@ -128,15 +128,19 @@ program_per_day:
       - name: "----"
         split_end: true  ### 
       ################
-      - name: "Hol-KAWA"
+      - name: "KAWA miedzy ścieżkami"
         sessions:
           - number: 43
             start: 12:35
             end: 12:55
             who: " "
-            title: "Wspólna przerwa kawowa z wszystkimi uczestnikami konferencji"
+            title: > 
+                Wspólna przerwa kawowa z wszystkimi uczestnikami konferencji <br><br> 
+                Po przerwie podział na sale – wybierz prelekcje dla siebie <br><br>
             description: >
               w przerwie warto porozmawiać z jeszcze niepoznaną osobą, przychodząc na konferencje chcemy poznawać wartościowych ludzi.
+              a po przerwie kolejną prelekcje dla siebie z jednej z dwóch ścieżek. 
+
       ################
       - name: "----"
         split_next: true
@@ -200,7 +204,7 @@ program_per_day:
             start: 14:15
             end: 15:00
             who: ""
-            title: Lunch z networkingiem
+            title: Lunch z networkingiem <br> <br> 
             description: >
               w przerwie warto porozmawiać z jeszcze niepoznaną osobą, przychodząc na konferencje chcemy poznawać wartościowych ludzi.
       ################
