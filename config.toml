@@ -1,48 +1,66 @@
-# this page is generated using Hugo with a dedicated theme
-# dev: Maciej Koszykowski
-
-baseURL = "https://pmcc.pmi.org.pl" #this is always clean like one below, but when adding new edition, then follow this format "https://pmcc.pmi.org.pl/2024"
-homeURL = "https://pmcc.pmi.org.pl" # added to allow going back from previous edition to the current one 
-#editions in order to keep them easier in case if theme is changed or web dev tools, 
-# are going to be kept as static pages /2024, in github they will be branched, but you never know who is going to do development
-# and to avoid dev challenges, the prevous editions are going to be kept static in any case of transition to other tools or dev env
+############################################################################################
+# Configuration for the PM Connect Conf 2025 website built with Hugo and a custom theme.   #
+# Developed and maintained by Maciej Koszykowski.                                          #
+# Enable or disable sections using the 'enable' parameter as needed in YAML files          #
+# Original theme settings remain here for reference and may be removed in future updates.  #
+############################################################################################
 
 title = "PM Connect Conf"
-theme = "navigator-hugo"
+theme = "navigator-hugo" # TODO: once the theme evolve change the name to more proper 
 languageCode = "pl"
 
-# Build robots.txt file
-enableRobotsTXT = true
-
+## TODO: currenlty hardcoded 
 # google analytics tracking id
 # googleAnalytics = "DIFFRENT" # NOT USED HARDCODED IN THEME ###
 
-enableGitInfo = false #TODO
-pygmentsCodeFences = true
+baseURL = "https://pmcc.pmi.org.pl"  # Main site URL; for old edition archive use "https://pmcc.pmi.org.pl/YYYY" 
+homeURL = "https://pmcc.pmi.org.pl"  # Allows easy navigation back to the current edition from previous ones
 
-#markwodn config  for mardownify etc. 
+# Note from Maciej Koszykowski: 
+    # Previous editions are maintained as static pages (e.g., /2024) for easier management,
+    # especially if the theme or development tools change. We don't need to worry later about these aspects. 
+    # On GitHub, editions will be branched separately, but static retention ensures smooth transitions
+    # regardless of who manages development or future environment changes.
+
+
+
+###########################################################
+## Page params which normally does not need to be changed #
+###########################################################
+
+enableRobotsTXT = true       # This generates robots.txt by Hugo. This file tells search engines how to crawl and index your site.
+enableGitInfo = false        # in Hugo enables inclusion of Git commit metadata (like last modified date) for your content files during site generation.
+pygmentsCodeFences = true    # Might be useful so on. This enables syntax highlighting for code blocks fenced with triple backticks (```) using the Pygments highlighter in Hugo.
+
+#In Hugo, the [markup] section configures how Markdown is processed.
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true
+      unsafe = true # allows HTML tags and raw HTML inside Markdown files to be rendered as-is rather than escaped or stripped out.
 
 
-# Site Params
+###########################################################
+## Other Site Params which are not Hugo built-in          #
+###########################################################
+
 [params]
-logo = "images/pmcc_logo.svg"
+logo = "images/pmcc_logo.svg" # conf logo, normally we replace the file not setting here
 
+# TODO: are all really used? 
 logo_xsmall = "images/pmcc_logo_bar_xsmall.png"
 logo_large = "images/pmcc_logo_large.png"
 logo_pmi = "images/logo_pmi_kuj_pom_50.png"
 logo_umk = "images/logo_WNEiZ_UMK_50.png"
 
-# meta data
+# paga meta data
 author = "PMI and UMK"
 description =  "PM Connect Conf to dynamiczna inicjatywa współorganizowana przez kujawsko-pomorski oddział PMI Poland Chapter oraz Wydział Nauk Ekonomicznych i Zarządzania UMK w Toruniu. PM Connect Conf to nie tylko wyjątkowa szansa na poszerzenie praktycznej wiedzy z zakresu project managementu, ale także okazja do inspirującego networkingu w gronie profesjonalistów. Dzięki spotkaniu z ekspertami i liderami branży, uczestnicy będą mogli wymienić się doświadczeniami i nawiązać wartościowe kontakty, które mogą przyczynić się do dalszego rozwoju ich kariery zawodowej."
 
 
+#TODO is it really used ??
 dateFormat = "January 2, 2006" #TODO: this is not Polish date format
 confStartDate = "2025-10-25T10:00:00" #extact date with hrs - this is counting down 
+
 
 # menu - first option # navbar 
 home = "Start"
@@ -66,6 +84,7 @@ footerSubscribeTitle = "Subscribe"
 enable = true
 expire_days = 2
 
+# TODO: hero to yaml 
 # Hero Area Section - Top strony 
 [params.hero]
 enable = true #doubled with yaml #TODO one only please
@@ -81,9 +100,6 @@ btnText = "Kup Bilet"
 btnURL = "https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2025/"
 #btnURL = "mailto:kujawsko-pomorskie@pmi.org.pl?subject=PMCC 2025 zgłoszenie prelekcji: temat wystąpienia&body=Imię i nazwisko: \nTytuł wystąpienia: \nKategoria: \n\nPrzesyłam rozszerzony abstrakt (do 4000 znaków): \n"
 
-#videoThumb = "images/slider/video-player-thumb.jpg"
-#videoThumb = "images/land_hero.jpg"  this is not used in fact
-#videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
 
 #########################
 # YAML configuration    #
