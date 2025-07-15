@@ -44,6 +44,8 @@ pygmentsCodeFences = true    # Might be useful so on. This enables syntax highli
 ###########################################################
 
 [params]
+
+#### LOG files in one place 
 logo = "images/pmcc_logo.svg" # conf logo, normally we replace the file not setting here
 
 # TODO: are all really used? 
@@ -56,11 +58,8 @@ logo_umk = "images/logo_WNEiZ_UMK_50.png"
 author = "PMI and UMK"
 description =  "PM Connect Conf to dynamiczna inicjatywa współorganizowana przez kujawsko-pomorski oddział PMI Poland Chapter oraz Wydział Nauk Ekonomicznych i Zarządzania UMK w Toruniu. PM Connect Conf to nie tylko wyjątkowa szansa na poszerzenie praktycznej wiedzy z zakresu project managementu, ale także okazja do inspirującego networkingu w gronie profesjonalistów. Dzięki spotkaniu z ekspertami i liderami branży, uczestnicy będą mogli wymienić się doświadczeniami i nawiązać wartościowe kontakty, które mogą przyczynić się do dalszego rozwoju ich kariery zawodowej."
 
-
 #TODO is it really used ??
 dateFormat = "January 2, 2006" #TODO: this is not Polish date format
-confStartDate = "2025-10-25T10:00:00" #extact date with hrs - this is counting down 
-
 
 # menu - first option # navbar 
 home = "Start"
@@ -78,28 +77,10 @@ PMI_PC_NIP= "NIP: 525-227-89-73"
 # TODO: not used, probably to remove later 
 footerSubscribeTitle = "Subscribe"
 
-
 # cookies
 [params.cookies]
 enable = true
 expire_days = 2
-
-# TODO: hero to yaml 
-# Hero Area Section - Top strony 
-[params.hero]
-enable = true #doubled with yaml #TODO one only please
-
-heading = "PM CONNECT CONF 2025"
-#description = "Sztuczna inteligencja w zarządzaniu projektami to już rzeczywistość"
-description = "Nowa równowaga: <br> AI automatyzuje, PM humanizuje"
-
-button = true
-btnText = "Kup Bilet"
-#btnText = "Zgłoś swój temat"
-
-btnURL = "https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2025/"
-#btnURL = "mailto:kujawsko-pomorskie@pmi.org.pl?subject=PMCC 2025 zgłoszenie prelekcji: temat wystąpienia&body=Imię i nazwisko: \nTytuł wystąpienia: \nKategoria: \n\nPrzesyłam rozszerzony abstrakt (do 4000 znaków): \n"
-
 
 #########################
 # YAML configuration    #

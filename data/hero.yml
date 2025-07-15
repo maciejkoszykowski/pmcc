@@ -2,8 +2,26 @@ enable  : true # this is always on
 topTitle: PM Connect Conf 
 title   : Hero
 
-show_here_msg: false
+main_heading: "PM CONNECT CONF 2025"
+subheading: "Nowa równowaga: <br> AI automatyzuje, PM humanizuje"
+
+timer_conf_start_date: "2025-10-25T10:00:00"
+
+
+show_more_msg: false
 
 invite_txt: " " # w 2026 spradź co było 
+day1_title: " " # not used in 2025
+day2_title: " " # not used in 2025
+day2_title_part2: " " # not used in 2025
+
+day1_date: " "
+day2_date: " " # not used in 2025
 
 
+button: true
+btnText: "Kup Bilet"
+#btnText: "Zgłoś swój temat"
+
+btnURL: "https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2025/"
+#btnURL = "mailto:kujawsko-pomorskie@pmi.org.pl?subject=PMCC 2025 zgłoszenie prelekcji: temat wystąpienia&body=Imię i nazwisko: \nTytuł wystąpienia: \nKategoria: \n\nPrzesyłam rozszerzony abstrakt (do 4000 znaków): \n"
