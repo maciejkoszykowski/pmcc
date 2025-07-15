@@ -2,14 +2,13 @@
 # Configuration for the PM Connect Conf 2025 website built with Hugo and a custom theme.   #
 # Developed and maintained by Maciej Koszykowski.                                          #
 # Enable or disable sections using the 'enable' parameter as needed in YAML files          #
-# Original theme settings remain here for reference and may be removed in future updates.  #
 ############################################################################################
 
 title = "PM Connect Conf"
 theme = "navigator-hugo" # TODO: once the theme evolve change the name to more proper 
 languageCode = "pl"
 
-## TODO: currenlty hardcoded 
+## TODO: currenlty hardcoded, maybe in 2027, no time in 2026, and all is moving now 
 # google analytics tracking id
 # googleAnalytics = "DIFFRENT" # NOT USED HARDCODED IN THEME ###
 
@@ -75,7 +74,10 @@ PMI_PC_NIP= "NIP: 525-227-89-73"
 enable = true
 expire_days = 2
 
-# Contact Section
+###################
+# Contact Section #
+###################
+# too static to be yaml ?
 [params.contact]
 enable = true
 topTitle = "PM Connect Conf"
@@ -86,18 +88,15 @@ address_line2 = "UMK w Toruniu"
 address_line3 = "ul. Gagarina 13a, 87-100 Toruń"
 phone = "+48 790 778 940"
 
-facebook = "https://www.facebook.com/events/997899829013535/?ref=newsfeed"
+facebook = "https://www.facebook.com/pmi.kujawskopomorskie/events"
+linkedin = "https://www.linkedin.com/company/pmipckuj-pom/"
 #twitter = "https://twitter.com/"
-linkedin = "https://www.linkedin.com/events/pmconnectconf2024-zarz-dzaniepr7236639081965731840"
 #dribbble = "https://dribbble.com/"
 #instagram = "https://www.instagram.com/"
 
-# TODO: not used, probably to remove later 
-mapLatitude =  "53.02148"
-mapLongitude = "18.57073"
+map_url = "https://www.google.com/maps?q=Wydział+Nauk+Ekonomicznych+i+Zarządzania+UMK+w+Toruniu&output=embed"
+map_pin_url = "https://maps.google.com/maps?q=Wydzia%C5%82+Nauk+Ekonomicznych+i+Zarz%C4%85dzania+UMK+w+Toruniu"
 mapMarker = "images/marker.png"
-### end of TODO
-
 
 ##################################
 # Site Menus  / Navabar settings #
@@ -195,5 +194,5 @@ weight = 3
 
 #########################################################
 # not relevant any more but left, can be useful later 
-[params.menu]
-dateFormat = "January 2, 2006" #TODO: this is not Polish date format
+[params.old.not.used]
+dateFormat = "January 2, 2006"
