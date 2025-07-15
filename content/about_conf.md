@@ -6,6 +6,10 @@ draft: false
 ---
 PM CONNECT CONF to wyjątkowe wydarzenie, które w dynamiczny sposób łączy teorię z praktyką w dziedzinie zarządzania projektami. To również okazja do inspirującego networkingu w gronie profesjonalistów. Dzięki spotkaniu z ekspertami i liderami branży, uczestnicy będą mogli wymienić się doświadczeniami i nawiązać wartościowe kontakty, które przyczynią się do dalszego rozwoju ich kariery zawodowej. **Dołącz do nas, jeśli chcesz czerpać inspirację, zyskać praktyczną wiedzę i poznać ludzi, którzy jak Ty, nieustannie chcą poszerzać swoje horyzonty!**
 
-<!--  TODO: marketing to provide new
-PM CONNECT CONF 2024 stanowi platformę do poszukiwania nowoczesnych sposobów na zarządzanie projektami, skupiając się na roli, jaką sztuczna inteligencja odgrywa w tej branży. W tym roku zapraszamy Cię do Torunia, gdzie wspólnie z absolwentami studiów podyplomowych Project Management na UMK oraz czołowymi ekspertami z branży, stworzymy przestrzeń do wymiany wiedzy i inspiracji w tym zakresie. Podczas PM CONNECT CONF uczestnicy będą mieli okazję zgłębić najnowsze trendy, technologie i rozwiązania związane z AI, które rewolucjonizują branżę. Przygotuj się na fascynujące prelekcje, warsztaty, networking i nieformalne spotkania, które na pewno zaowocują nowymi pomysłami i kontaktami. Niech to będzie Twój czas na rozwój i czerpanie pełnymi garściami z doświadczeń innych!
--->
+Opracowując **program PMCC 2025**, zwróciliśmy także uwagę na człowieka — jego zdolności interpersonalne, umiejętność adaptacji oraz strategiczne myślenie. W czasach, gdy sztuczna inteligencja automatyzuje powtarzalne procesy, rola Project Managera przesuwa się z zadań operacyjnych ku budowaniu relacji i tworzeniu wartości w zespołach.
+
+Tegoroczna edycja konferencji PM Connect Conf analizuje dynamiczny rozwój AI, który w zarządzaniu projektami coraz silniej wspiera automatyzację zadań dotąd realizowanych przez kierowników projektów i biura projektów. W efekcie rola PM ewoluuje w kierunku pracy z ludźmi, a kompetencje miękkie wydają się kluczowe dla przyszłości tego zawodu.
+
+Hasło **„AI automatyzuje, PM humanizuje”** podkreśla równoległe znaczenie wymiaru technologicznego i humanistycznego. **Dlatego przygotowaliśmy dwie ścieżki: „twardą” i „miękką”.** Wiemy, że wybór między równoległymi prelekcjami może być trudny, ale liczymy na networking i wymianę informacji podczas wydarzenia.
+
+**Zapraszamy do zapoznania się z Agendą wydarzenia.**

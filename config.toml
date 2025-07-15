@@ -85,13 +85,17 @@ btnURL = "https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-202
 #videoThumb = "images/land_hero.jpg"  this is not used in fact
 #videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
 
-# About 2 Section - Opis konferencji 
-[params.aboutSm]
-enable = true
-title = "Szansa na poszerzenie praktycznej wiedzy i poznanie ciekawych ludzi"
+#########################
+# YAML configuration    #
+#########################
 
+# Each page section should be configurable via an 'enable' parameter in the YAML config file.
+# Each section should have a corresponding YAML configuration.
+# If an original theme section has not yet been used or modified, this TOML file includes the original configuration just in case; these may be removed later.
 
-# Blog Section On Homepage
+# contact section is left here
+
+# Blog Section On Homepage ####TODO: remove or reuse 
 [params.blog]
 enable = false #TODO: maybe the next year to use ? 
 topTitle = "OUR UNTOLD STORY"
