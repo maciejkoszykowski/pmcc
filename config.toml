@@ -74,30 +74,10 @@ PMI_PC_address_ul="ul. Domaniewska 47/10"
 PMI_PC_address_code="02-672 Warszawa"
 PMI_PC_NIP= "NIP: 525-227-89-73"
 
-# TODO: not used, probably to remove later 
-footerSubscribeTitle = "Subscribe"
-
 # cookies
 [params.cookies]
 enable = true
 expire_days = 2
-
-#########################
-# YAML configuration    #
-#########################
-
-# Each page section should be configurable via an 'enable' parameter in the YAML config file.
-# Each section should have a corresponding YAML configuration.
-# If an original theme section has not yet been used or modified, this TOML file includes the original configuration just in case; these may be removed later.
-
-# contact section is left here
-
-# Blog Section On Homepage ####TODO: remove or reuse 
-[params.blog]
-enable = false #TODO: maybe the next year to use ? 
-topTitle = "OUR UNTOLD STORY"
-title = "Blog."
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
 
 # Contact Section
 [params.contact]
@@ -122,17 +102,12 @@ mapLongitude = "18.57073"
 mapMarker = "images/marker.png"
 ### end of TODO
 
-# Call to Action Section on About Page
-# TODO: not used, probably to remove later 
-[params.cta]
-enable = true
-bg = "images/call-to-action/call-to-action-bg-2.jpg"
-title = "Let's Create Something Together"
-subtitle = "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
-btnText = "Contact Us"
-## end of TODO
 
-# Site Menus
+##################################
+# Site Menus  / Navabar settings #
+##################################
+
+# TODO: what about start inconsitency 
 
 [menu]
 # Navbar Menus
