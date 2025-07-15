@@ -1,7 +1,10 @@
 enable  : true
 topTitle: PM Connect Conf
 title   : Bilety
-subtitle : Do 30 września masz możliwość zakupić bilety w promocji Early Birds. 
+subtitle : >
+     <br> 
+     Uczestnicy mogą dokonywać płatności za pomocą **karty kredytowej**, **BLIK**-a lub przelewu bankowego poprzez **Przelewy24**. <br> <br>
+     Operatorem płatności i rejestracji na wydarzenie jest **TicketButler**.
 
 item  :
   - name        : Early birds - Regular
