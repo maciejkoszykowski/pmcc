@@ -100,7 +100,7 @@ subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reic
 # Contact Section
 [params.contact]
 enable = true
-topTitle = "PM Connnect Conf"
+topTitle = "PM Connect Conf"
 title = "Miejsce konferencji"
 subtitle = " "
 address = "Wydział Nauk Ekonomicznych i Zarządzania"

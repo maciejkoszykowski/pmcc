@@ -8,8 +8,8 @@ item  :
     price       : 199 PLN
     description :
     featurelist :
-      - item: cena miedzy 
-      - item: 14 lipca 2025 – 20 wrzesnia 2025
+      - item: cena obowiązuje w terminie
+      - item: 14 lipca 2025 – 20 września 2025
       - item: " "
       - item: udział we wszystkich prelekcjach podczas konferencji w dniu 25 października
       - item: poczęstunek w trakcie przerw
@@ -21,8 +21,8 @@ item  :
     price       : 249 PLN
     description :
     featurelist :
-      - item: cena miedzy 
-      - item: 21 wrzesnia 2025 – 23 pazdziernika 2025
+      - item: cena obowiązuje w terminie
+      - item: 21 września 2025 – 23 października 2025
       - item: " "
       - item: udział we wszystkich prelekcjach podczas konferencji w dniu 25 października
       - item: poczęstunek w trakcie przerw
@@ -34,8 +34,8 @@ item  :
     price       : 349 PLN
     description : 
     featurelist :
-      - item: cena miedzy 
-      - item: 24-25 pazdziernika 2025
+      - item: cena obowiązuje w terminie 
+      - item: 24-25 października 2025
       - item: " "
       - item: udział we wszystkich prelekcjach podczas konferencji w dniu 25 października
       - item: poczęstunek w trakcie przerw
@@ -47,8 +47,8 @@ item  :
     price       : 149 PLN
     description : 
     featurelist :
-      - item: cena miedzy 
-      - item: 14 lipca 2025 – 20 wrzesnia 2025
+      - item: cena obowiązuje w terminie 
+      - item: 14 lipca 2025 – 20 września 2025
       - item: " "
       - item: cena promocyjna wyłącznie 
       - item: dla czlonków PMI PC oraz dla pracowników, członków i partnerów wydarzania
@@ -63,8 +63,8 @@ item  :
     price       : 199 PLN
     description : 
     featurelist :
-      - item: cena miedzy 
-      - item: 21 wrzesnia 2025 – 23 pazdziernika 2025
+      - item: cena obowiązuje w terminie
+      - item: 21 września 2025 – 23 października 2025
       - item: "  "
       - item: cena promocyjna wyłącznie
       - item: dla czlonków PMI PC oraz dla pracowników, członków i partnerów wydarzania
