@@ -103,13 +103,13 @@ member  :
       Od 15 lat zawodowo związana z branżą IT, gdzie pracuje jako Project Manager. 
     linkedInURL  : https://www.linkedin.com/in/emilia-kucharska-34a7a398/
 
-  - image         : images/team/maciej_purpurowe.jpg
-    name          : Maciej Koszykowski
-    designation   : Zespół ds. współpracy z partnerami
+  - image         : images/team/ania.png
+    name          : Ania Grodzicka 
+    designation   : Koordynator ds. Logistyki wydarzenia
     description   : >
-      Specjalista w zarządzaniu międzynarodowymi projektami z wieloma zespołami. Ekspert w metodach tradycyjnych i zwinnych (agile), nowych technologiach, transformacji cyfrowej oraz IT service transition. Certyfikowany kierownik projektów (PgMP, PMP, PMI-RMP, PSM, AgilePM, PRINCE2, PRINCE2Agile, ITIL, MSP, M_o_R, SixSigma). Mentor, trener i lider społeczności PMI. Recenzent międzynarodowych standardów PMI, w tym PMBOK Guide i Standard for Program Management. Uczestnik merytoryczny projektów tłumaczenia PMBOKa, czy Kodeksu Etyki PMI na język polski. Były dyrektor PMI Kujawsko-Pomorskie i członek zarządu PMI Polska ds. Wolontariuszy. Obecnie doktorant w zakresie zastosowania sztucznej inteligencji w zarządzaniu projektami.
-    linkedInURL   : https://www.linkedin.com/in/maciejkoszykowski/
-    noLink        : true
+      Project Manager w Atos Poland, członek PMO i wolontariusz PMI. Stawiam na nieszablonowe myślenie i kreatywne podejście do zarządzania projektami.
+    linkedInURL   : https://www.linkedin.com/in/anna-grodzicka-171165244/
+    noLink        : true 
 
   - image         : images/team/nina.png
     name          : Nina Żwak
@@ -124,6 +124,25 @@ member  :
     description   : >
       Administracja programu Project Management UMK Online
     linkedInURL  : https://www.linkedin.com/in/barbara-polaszek-4b6529286/
+
+  - image         : images/team/maciej_purpurowe.jpg
+    name          : Maciej Koszykowski
+    designation   : Zespół ds. współpracy z partnerami
+    description   : >
+      Specjalista w zarządzaniu międzynarodowymi projektami z wieloma zespołami. Ekspert w metodach tradycyjnych i zwinnych (agile), nowych technologiach, transformacji cyfrowej oraz IT service transition. Certyfikowany kierownik projektów (PgMP, PMP, PMI-RMP, PSM, AgilePM, PRINCE2, PRINCE2Agile, ITIL, MSP, M_o_R, SixSigma). Mentor, trener i lider społeczności PMI. Recenzent międzynarodowych standardów PMI, w tym PMBOK Guide i Standard for Program Management. Uczestnik merytoryczny projektów tłumaczenia PMBOKa, czy Kodeksu Etyki PMI na język polski. Były dyrektor PMI Kujawsko-Pomorskie i członek zarządu PMI Polska ds. Wolontariuszy. Obecnie doktorant w zakresie zastosowania sztucznej inteligencji w zarządzaniu projektami.
+    linkedInURL   : https://www.linkedin.com/in/maciejkoszykowski/
+    noLink        : true
+  
+  - image         : images/team/darek.png
+    name          : Dariusz Ciechan
+    designation   : Zespół ds. współpracy z partnerami
+    description   : >
+      Zarządza, wprowadza i doskonali zarządzanie projektami oraz zarządzanie portfelami projektów w organizacjach. 
+      Współpracuje z biznesem w celu rozwoju zarządzania projektami w ich organizacjach. 
+      Pasjonuje go podejście Flow Management, łączące Lean, Kanban, TOC oraz psychologię przepływu i motywacji. 
+      Dostarcza praktyczną wiedzę studentom studiów podyplomowych oraz słuchaczom Executive MBA na Uniwersytecie Mikołaja Kopernika, Uniwersytecie WSB, jak również uczestnikom seminariów i warsztatów. Jest oficjalnym recenzentem i współtwórcą międzynarodowych standardów PMI, a także menedżerem projektu i korektorem polskich tłumaczeń Przewodnika PMBOK®. 
+    linkedInURL   : https://www.linkedin.com/in/dariuszciechan/
+    noLink        : true 
 
   - image         : images/team/grzegorz.png
     name          : Grzegorz Wyrzykowski
@@ -150,7 +169,7 @@ member  :
       Posiada wieloletnie doświadczenie w zarządzaniu zespołami IT pracującymi w metodykach zwinnych.  
     linkedInURL   : https://www.linkedin.com/in/rafalmlotek/
     noLink        : true 
-  
+
 
 titleKomitet: Komitet Sterujący
 komitet:
