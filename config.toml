@@ -188,7 +188,7 @@ weight = 20
 
 [[menu.nav]]
 name = "Regulamin"
-url = "regulaminy/regulamin-konferencji/"
+url = "regulamin"
 weight = 26
 
 [[menu.nav]]
@@ -207,6 +207,6 @@ url = "Polityka-ciasteczek.pdf"
 weight = 2
 [[menu.quicklink]]
 name = "Regulamin"
-url = "regulaminy/regulamin-konferencji/"
+url = "regulamin"
 weight = 3
 
