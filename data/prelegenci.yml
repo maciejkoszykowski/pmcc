@@ -3,55 +3,23 @@ enable  : true
 topTitle: PM Connect Conf
 title   : Prelegenci
 
-no_message: false
+show_items: true
+
 message: >
-       Sylwetki prelegentów będą sukcesywnie pojawiać się na stronie konferencji po ich wcześniejszym przedstawieniu w mediach społecznościowych. 
-       Zachęcamy do obserwowania naszych kanałów na LinkedIn oraz Facebooku, gdzie na bieżąco publikujemy informacje o programie i prelegentach — linki znajdą Państwo w stopce strony.
+       Sylwetki prelegentów będą sukcesywnie pojawiać się na stronie konferencji po ich wcześniejszym przedstawieniu w mediach społecznościowych. <br>
+       Zachęcamy do obserwowania naszych kanałów na LinkedIn oraz Facebooku, gdzie na bieżąco publikujemy informacje o programie i prelegentach.  
+       Odnośniki do naszych mediów społecznościowych znajdą Państwo <a href="#Lokalizacja">na dole naszej strony.</a> 
 
 item    :
   - id : 1
-    image : images/prelegenci/prof_duch.jpg
-    title : prof. Włodzisław Duch
+    image : images/prelegenci/radoslawk.png
+    title : Radosław Kita, AI Director w TVN Warner Bros. Discovery.
     description : >
-      Profesor Włodzisław Duch oprócz kierowania Laboratorium Neurokognitywnego jest też kierownikiem zespołu Neuroinformatics and Artificial Intelligence w University Centre of Excellence Dynamics, Mathematical Analysis and Artificial Intelligence, oraz pracownikiem Katedry Informatyki Stosowanej na Uniwersytecie Mikołaja Kopernika w Toruniu. Pracował też na Wydziale Inżynierii Komputerowej (School of Computer Engineering), Uniwersytetu Technologiczego Nanyang (Nanyang Technological University) w Singapurze jako Nanyang Visiting Professor i visiting professor (2003-2012). Przez dwie kadencje piastował stanowisko prezesa Europejskiego Towarzystwa Sieci Neuronowych (European Neural Networks Society, 2006-2008-2011), w 2013 roku wybrany do College of Fellows of the International Neural Networks Society. Był wiceministrem odpowiedzialnym za naukę w Polsce (2014-15) i prorektorem ds. badań naukowych i informatyzacji na UMK (2012-14).
-
-  - id : 3
-    image : images/prelegenci/jerzy-stawicki.jpg
-    title : dr Jerzy Stawicki
-    description : >
-      Ekspert z ponad 25-letnim doświadczeniem w obszarze zarządzania projektami i portfelem projektów, podejścia Kanban i Flow Management, zwinnego przywództwa oraz budowania zwinnych organizacji projektowych. Autor szkoleń i trener oraz konsultant i coach w tych obszarach. Fan praktycznego łączenia metod tradycyjnych, zwinnych (Agile), Lean Management, TOC i łańcucha krytycznego w zarządzaniu projektami oraz skutecznych i efektywnych metod i technik przywództwa i zarządzania.
-      Mówi o sobie: „pomagam menedżerom, project managerom, zespołom i firmom pracować i zarządzać efektywniej, mądrzej oraz mieć z pracy więcej fun’u/satysfakcji”.
-  - id : 4
-    image : images/prelegenci/dariusz-ciechan.jpg
-    title : Dariusz Ciechan
-    description : >
-     Zarządza, wprowadza i doskonali zarządzanie projektami oraz zarządzanie portfelami projektów w organizacjach. 
-     Współpracuje z biznesem w celu rozwoju zarządzania projektami w ich organizacjach. Pasjonuje go podejście Flow Management, łączące Lean, Kanban, TOC oraz psychologię przepływu i motywacji. 
-     Dostarcza praktyczną wiedzę studentom studiów podyplomowych oraz słuchaczom Executive MBA na Uniwersytecie Mikołaja Kopernika, Uniwersytecie WSB, jak również uczestnikom seminariów i warsztatów. Jest oficjalnym recenzentem i współtwórcą międzynarodowych standardów PMI, a także menedżerem projektu i korektorem polskich tłumaczeń Przewodnika PMBOK®.
-
-  - id : 5
-    image : images/prelegenci/maciej-mroz.jpeg
-    title : Maciej Mróz
-    description : >
-      Doktorant w Szkole Doktorskiej Nauk Humanistycznych Uniwersytetu im. Adama Mickiewicza w Poznaniu, dyscyplina: nauki teologiczne. Magister teologii oraz magister informatyki. Zawodowo zajmuje się rozwijaniem systemów przetwarzania dużych zbiorów danych (Big Data) oraz systemów uczenia maszynowego. Przygotowuje rozprawę doktorską z obszaru etyki sztucznej inteligencji pytającą o możliwość moralnej podmiotowości sztucznych agentów.
-
-  - id : 6
-    image : images/prelegenci/wojciech-ozga.jpg
-    title : Wojciech Ożga
-    description : >
-      Ponad 34 lata doświadczenia zawodowego w różnych branżach i na różnych stanowiskach, poparte szeregiem szkoleń, stanowi jego potencjał merytoryczny.  Praktyk zarządzania projektami.  Od ponad 25 lat bierze udział w różnego rodzaju projektach zarówno biznesowych z dużym zakresem i budżetem jak i małych. Zdobywał doświadczenie zawodowe w takich firmach jak: PKO BP,  ORLEN S.A., Agora, UMK Toruń i wielu innych. Od 2005 roku prowadzi własną firmę, której celem jest między innymi wspieranie różnych organizacji w prowadzeniu projektów oraz prowadzenie szkoleń w tym zakresie. Specjalizuje się w szkoleniach przygotowujących wdrożenie metodyk projektowych w organizacjach. Prowadzi również warsztaty dedykowane dla firm. Od kilkunastu lat współpracuje z  uczelniami wyższymi, gdzie pełni funkcję wykładowcy na studiach podyplomowych oraz na studiach MBA. Każdą wolną chwilę poświęca swoim pasjom: turystyce, pieszym wędrówkom, obserwacji przyrody, fotografowaniu ptaków.
-
-  - id : 7
-    image : images/prelegenci/tomasz-sowa.jpg
-    title: adw. Tomasz Sowa, LL.M.
-    description : >
-      Adwokat, założyciel kancelarii Sowa i Partnerzy – Adwokaci i Radcowie Prawni, ekspert z zakresu prawnej ochrony danych, AI oraz rozwiązywania sporów. Pasjonat nowych technologii. Doradza w szeroko rozumianych sprawach związanych z branżą IT. Ukończył prawo na Uniwersytecie Jagiellońskim w Krakowie, uzyskał tytuł Master of Laws (LL.M.) na Uniwersytecie w Melbourne (Australia), którego wydział prawa zajmuje 8 pozycję na świecie (Times Higher Education World University Rankings by Subject, 2024). Jest arbitrem wpisanym na listę grona arbitrów Sądu Arbitrażowego przy Konfederacji Lewiatan rekomendowanych ds. rynku kreatywnego i kultury. Stały mediator przy Sądzie Okręgowym w Warszawie. 
-
-  - id : 8
-    image : images/prelegenci/szymon-jankowski.jpg
-    title: Szymon Jankowski
-    description : >
-      Specjalizuję się w tworzeniu sprytnych rozwiązań, które nie tylko odpowiadają na potrzeby rynku, ale też na unikalne cele i wartości każdej firmy. W biznesie liczą się wyniki – a ja wiem, jak je osiągać dzięki przemyślanej strategii i najnowszym technologiom.
-      Przez ostatnie 8 lat pomogłem przedsiębiorcom skutecznie budować biznesy, szkoliłem pracowników i przeprowadziłem setki godzin indywidualnych rozmów – dzięki czemu wiem, jakie rozwiązania naprawdę działają.
-      Teraz dzielę się wiedzą o AI i ChatGPT, pokazując, jak narzędzia te mogą ułatwić komunikację, tworzenie treści, automatyzowanie procesów i przyspieszyć rozwój biznesu. Ułatwiam przedsiębiorcom osiągać cele i pomagam wycisnąć z technologii maksimum korzyści.
-      Jako przedsiębiorca, stawiam na praktyczne działania, które przynoszą mierzalne efekty. Moim celem jest wspieranie firm w rozwoju na pełnych obrotach – z pomocą innowacji, które są proste w użyciu i skuteczne w działaniu.
+      Mam przyjemność zarządzać zespołami budującymi rozwiązania korzystające z technik uczenia maszynowego oraz sztucznej inteligencji od piętnastu lat. W tym czasie budowałem zespoły od zera oraz przekształcałem zespoły, które miały problemy z efektywnym działaniem. Udało się mi kilka razy wdrożyć rozwiązania, które zmieniły sposób funkcjonowania dużych obszarów firm, w których byłem zatrudniony. Poniosłem również kilka malowniczych porażek. 
+      <br> Chciałbym się podzielić swoim doświadczeniami. 
+      <br> Opowiem o tym czym różni się zespół budujący rozwiązania wykorzystujące techniki sztucznej inteligencji od innych zespołów technicznych. Jaki ma to wpływ na sposób zarządzania takim zespołem. Jak kształtować współpracę z zespołami zewnętrznymi i zleceniodawcami projektów. 
+      <br> Jeśli słuchaczom wystarczy cierpliwości, to chciałbym również opowiedzieć o zestawie narzędzi, które sprawdziły się mojej dotychczasowej pracy. 
+      <br> Z jednej strony wdrażanie rozwiązań wykorzystujących techniki uczenia maszynowego nie rożni się niczym od budowania innych rozwiązań. W gruncie rzeczy chodzi o optymalizację procesów i podniesienie efektywności. 
+      <br> Z drugiej strony, zazwyczaj są rozwiązania mające olbrzymi wpływ na sposób funkcjonowania firmy. Dotykają obszaru, w którym staramy się zbudować i utrzymać przewagę biznesową. 
+      <br> Dodatkowo pojawienie się tanich technik generatywnej sztucznej inteligencji postawiło pod znakiem zapytania dotychczasowe metodyki zarządzania jakością danych i kontroli poprawności używanych rozwiązań. 
+    linkedin-post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2025-pmcc2025-pmconnectconf-activity-7351128567268704257-pU1i?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABsjpsBesX7_3-a3jKl9GtPbminHIt_Ff0 
