@@ -54,8 +54,14 @@ program_per_day:
             title: >
               Jak stworzyć i zarządzać efektywnie działającym zespołem wdrażającym rozwiązania AI
             description: >
-              Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
-              Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
+              Mam przyjemność zarządzać zespołami budującymi rozwiązania korzystające z technik uczenia maszynowego oraz sztucznej inteligencji od piętnastu lat. W tym czasie budowałem zespoły od zera oraz przekształcałem zespoły, które miały problemy z efektywnym działaniem. Udało się mi kilka razy wdrożyć rozwiązania, które zmieniły sposób funkcjonowania dużych obszarów firm, w których byłem zatrudniony. Poniosłem również kilka malowniczych porażek. 
+              <br> Chciałbym się podzielić swoim doświadczeniami. 
+              <br> Opowiem o tym czym różni się zespół budujący rozwiązania wykorzystujące techniki sztucznej inteligencji od innych zespołów technicznych. Jaki ma to wpływ na sposób zarządzania takim zespołem. Jak kształtować współpracę z zespołami zewnętrznymi i zleceniodawcami projektów. 
+              <br> Jeśli słuchaczom wystarczy cierpliwości, to chciałbym również opowiedzieć o zestawie narzędzi, które sprawdziły się mojej dotychczasowej pracy. 
+              <br> Z jednej strony wdrażanie rozwiązań wykorzystujących techniki uczenia maszynowego nie rożni się niczym od budowania innych rozwiązań. W gruncie rzeczy chodzi o optymalizację procesów i podniesienie efektywności. 
+              <br> Z drugiej strony, zazwyczaj są rozwiązania mające olbrzymi wpływ na sposób funkcjonowania firmy. Dotykają obszaru, w którym staramy się zbudować i utrzymać przewagę biznesową. 
+              <br> Dodatkowo pojawienie się tanich technik generatywnej sztucznej inteligencji postawiło pod znakiem zapytania dotychczasowe metodyki zarządzania jakością danych i kontroli poprawności używanych rozwiązań. 
+        
       ####################
       - name: "PODZIAŁ"
         sessions:

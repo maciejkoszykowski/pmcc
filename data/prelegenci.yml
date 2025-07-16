@@ -6,20 +6,16 @@ title   : Prelegenci
 show_items: true
 
 message: >
-       Sylwetki prelegentów będą sukcesywnie pojawiać się na stronie konferencji po ich wcześniejszym przedstawieniu w mediach społecznościowych. <br>
-       Zachęcamy do obserwowania naszych kanałów na LinkedIn oraz Facebooku, gdzie na bieżąco publikujemy informacje o programie i prelegentach.  
-       Odnośniki do naszych mediów społecznościowych znajdą Państwo <a href="#Lokalizacja">na dole naszej strony.</a> 
+       Sylwetki prelegentów będą sukcesywnie pojawiać się na stronie konferencji po ich wcześniejszym przedstawieniu w mediach społecznościowych.
+       <br> Zachęcamy do obserwowania naszych kanałów na LinkedIn oraz Facebooku, gdzie na bieżąco publikujemy informacje o programie i prelegentach.  
+       <br> Odnośniki do naszych mediów społecznościowych znajdą Państwo <a href="#Lokalizacja">na dole naszej strony.</a> 
 
 item    :
   - id : 1
     image : images/prelegenci/radoslawk.png
     title : Radosław Kita, AI Director w TVN Warner Bros. Discovery.
     description : >
-      Mam przyjemność zarządzać zespołami budującymi rozwiązania korzystające z technik uczenia maszynowego oraz sztucznej inteligencji od piętnastu lat. W tym czasie budowałem zespoły od zera oraz przekształcałem zespoły, które miały problemy z efektywnym działaniem. Udało się mi kilka razy wdrożyć rozwiązania, które zmieniły sposób funkcjonowania dużych obszarów firm, w których byłem zatrudniony. Poniosłem również kilka malowniczych porażek. 
-      <br> Chciałbym się podzielić swoim doświadczeniami. 
-      <br> Opowiem o tym czym różni się zespół budujący rozwiązania wykorzystujące techniki sztucznej inteligencji od innych zespołów technicznych. Jaki ma to wpływ na sposób zarządzania takim zespołem. Jak kształtować współpracę z zespołami zewnętrznymi i zleceniodawcami projektów. 
-      <br> Jeśli słuchaczom wystarczy cierpliwości, to chciałbym również opowiedzieć o zestawie narzędzi, które sprawdziły się mojej dotychczasowej pracy. 
-      <br> Z jednej strony wdrażanie rozwiązań wykorzystujących techniki uczenia maszynowego nie rożni się niczym od budowania innych rozwiązań. W gruncie rzeczy chodzi o optymalizację procesów i podniesienie efektywności. 
-      <br> Z drugiej strony, zazwyczaj są rozwiązania mające olbrzymi wpływ na sposób funkcjonowania firmy. Dotykają obszaru, w którym staramy się zbudować i utrzymać przewagę biznesową. 
-      <br> Dodatkowo pojawienie się tanich technik generatywnej sztucznej inteligencji postawiło pod znakiem zapytania dotychczasowe metodyki zarządzania jakością danych i kontroli poprawności używanych rozwiązań. 
+         Odpowiadał za stworzenie systemów korzystających z uczenia maszynowego oraz AI w Ringier Axel Springer Polska, Alior Banku, Allegro, Veon, Showmax i Adform. 
+    
+         Prowadzi zajęcia na studiach executive MBA i MBA prowadzonych na Akademii Leona Koźmińskiego oraz „MBA – Innowacje i Analiza Danych” prowadzonych na SWPS we współpracy z Woodbury School of Business w Utah Valley University (USA) oraz z Instytutem Podstaw Informatyki PAN.
     linkedin-post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2025-pmcc2025-pmconnectconf-activity-7351128567268704257-pU1i?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABsjpsBesX7_3-a3jKl9GtPbminHIt_Ff0 
