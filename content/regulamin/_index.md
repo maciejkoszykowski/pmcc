@@ -10,17 +10,29 @@ layout: "regulamin"
 
 #### Edycja 2025
 #### REGULAMIN UDZIAŁU UCZESTNIKÓW
-#### z dnia 08.02.2025 (wersja robocza)
+#### z dnia 2025-08-30 (wersja finalna)
 ##### Project Management Institute Poland Chapter Oddział Kujawsko-Pomorskie
 ##### Wydział Nauk Ekonomicznych i Zarządzania UMK w Toruniu
 
 ## I Postanowienia ogólne
 
-1. Konferencja PM CONNECT CONF – zwana w dalszej części Regulaminu „konferencją” lub „wydarzeniem” odbędzie się w dniach 25.10.2025 roku na Wydziale Nauk Ekonomicznych i Zarządzania UMK w Toruniu, zlokalizowanym przy ul. Gagarina 13a, 87-100 Toruń. 
-2.	Organizatorem wydarzenia jest PMI Poland Chapter (PMI Oddział Polski) z siedzibą w Warszawie (02-672), przy ul. Domaniewskiej 47/10, KRS 0000-167-986, NIP 525-227-89-73, REGON 015543424 oraz Wydział Nauk Ekonomicznych i Zarządzania, Uniwersytet Mikołaja Kopernika w Toruniu, ul. Gagarina 13a, 87-100 Toruń, zwanymi w dalszej części Regulaminu „Organizatorem”. 
+1. Konferencja PM CONNECT CONF – zwana w dalszej części Regulaminu „konferencją” lub „wydarzeniem” odbędzie się w dniu 25.10.2025 roku na Wydziale Nauk Ekonomicznych i Zarządzania UMK w Toruniu, zlokalizowanym przy ul. Gagarina 13a, 87-100 Toruń. 
+2.	Organizatorem wydarzenia jest PMI Poland Chapter (PMI Oddział Polski) z siedzibą w Warszawie (02-672), przy ul. Domaniewskiej 47/10, KRS 0000-167-986, NIP 525-227-89-73, REGON 015543424 oraz Wydział Nauk Ekonomicznych i Zarządzania, Uniwersytet Mikołaja Kopernika w Toruniu, ul. Gagarina 13a, 87-100 Toruń, zwanymi w dalszej części regulaminu „Organizatorem”. 
 3.	Oficjalny serwis internetowy Konferencji PM CONNECT CONF znajduje się pod adresem: https://pmcc.pmi.org.pl/, a oficjalnym kanałem komunikacji pomiędzy Uczestnikiem a Organizatorem jest adres e-mail: kujawsko-pomorskie@pmi.org.pl.
 4.	Organizator zastrzega sobie prawo do zmiany prelegentów i programu Konferencji z przyczyn niezależnych od Organizatora.
-5.	Strona internetowa konferencji znajduje się pod adresem https://pmcc.pmi.org.pl/ – w dalszej części Regulaminu nazywaną „stroną internetową wydarzenia”. 
+5.	Strona internetowa konferencji znajduje się pod adresem https://pmcc.pmi.org.pl/ – w dalszej części regulaminu nazywaną „stroną internetową wydarzenia”. 
+6. Na potrzeby niniejszego Regulaminu poniższe pojęcia mają następujące znaczenie: 
+
+- **Konferencja / Wydarzenie** – wydarzenie edukacyjno-networkingowe pod nazwą **PM CONNECT CONF**, organizowane przez Project Management Institute Poland Chapter (PMI Poland Chapter) oraz Wydział Nauk Ekonomicznych i Zarządzania Uniwersytetu Mikołaja Kopernika w Toruniu, odbywające się w dniu 25 października 2025 roku w Toruniu.  
+- **Regulamin** – niniejszy dokument określający zasady uczestnictwa, prawa i obowiązki Uczestników oraz Organizatora, zasady płatności, przetwarzania danych osobowych oraz inne warunki związane z organizacją i udziałem w Konferencji.  
+- **Organizator** – Project Management Institute Poland Chapter (PMI Poland Chapter), z siedzibą w Warszawie, ul. Domaniewska 47/10, 02-672 Warszawa, KRS 0000167986, NIP 525-227-89-73, REGON 015543424, oraz Wydział Nauk Ekonomicznych i Zarządzania UMK w Toruniu, ul. Gagarina 13a, 87-100 Toruń.  
+- **Uczestnik** – każda osoba fizyczna, która dokonała zgłoszenia oraz uiściła opłatę za udział w Konferencji zgodnie z zasadami określonymi w Regulaminie.  
+- **Strona internetowa Wydarzenia / Strona internetowa Konferencji** – oficjalna strona informacyjno-rejestracyjna Konferencji PM CONNECT CONF dostępna pod adresem: [https://pmcc.pmi.org.pl](https://pmcc.pmi.org.pl).  
+- **Formularz zgłoszeniowy** – formularz rejestracyjny umieszczony na platformie Ticketbutler, do którego link znajduje się na stronie internetowej Konferencji. Wypełnienie formularza stanowi zgłoszenie udziału w wydarzeniu.  
+- **Bilet / Opłata konferencyjna / Opłata za udział** – należność uiszczana przez Uczestnika zgodnie z cennikiem opublikowanym na stronie internetowej wydarzenia, umożliwiająca udział w Konferencji.  
+- **Prelegent** – osoba zaproszona przez Organizatora do wystąpienia podczas Konferencji, w szczególności w roli wykładowcy, prowadzącego warsztaty, panelistę lub eksperta.  
+- **Partner / Sponsor** – podmiot wspierający organizację Konferencji materialnie lub organizacyjnie, którego nazwa i/lub logo mogą być prezentowane w materiałach promocyjnych wydarzenia.
+
 
 ## II Zasady uczestnictwa
 
@@ -29,34 +41,39 @@ layout: "regulamin"
     -  Organizator zastrzega sobie prawo do wydłużenia terminu płatności za udział w konferencji, poprzez wskazanie nowego terminu płatności na wystawionej fakturze VAT.
 3.	Organizator w ramach opłaty za uczestnictwo nie zapewnia dojazdu na miejsce wydarzenia ani noclegu. 
 4.	Warunkiem udziału w wydarzeniu jest zapoznanie się i zaakceptowanie Regulaminu. 
-5.	Dozwolone jest fotografowanie, nagrywanie oraz filmowanie tylko za uprzednią pisemną zgodą Organizatora i tylko w miejscach przez niego wskazanych. Wszelkie materiały, nagrania, publikacje, znaki towarowe, handlowe oraz inne treści i dzieła publikowane, prezentowane, retransmitowane, rozpowszechniane w czasie trwania konferencji podlegają i są objęte ochroną prawa autorskiego w rozumieniu Ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych. Korzystanie z nich bez zgody właściciela jest zabronione, chyba że niniejszy Regulamin stanowi inaczej.
+5.	Dozwolone jest fotografowanie, nagrywanie oraz filmowanie tylko za uprzednią pisemną zgodą Organizatora i tylko w miejscach przez niego wskazanych. Wszelkie materiały, nagrania, publikacje, znaki towarowe, handlowe oraz inne treści i dzieła publikowane, prezentowane, retransmitowane, rozpowszechniane w czasie trwania konferencji podlegają i są objęte ochroną prawa autorskiego w rozumieniu Ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych. Korzystanie z nich bez zgody właściciela jest zabronione, chyba że niniejszy regulamin stanowi inaczej.
 6.	Jeśli Uczestnik zamierza rejestrować, udostępniać i archiwizować treść konferencji, zobowiązany jest do uprzedniego kontaktu z Organizatorem w celu określenia warunków wykorzystania treści konferencji.
-7.	Zgłoszenia uczestnictwa przyjmowane będą do dnia 25.10.2025 lub wyczerpania miejsc.
-8.	Organizator ma prawo do niedopuszczenia uczestnika do udziału w konferencji bez podania przyczyny. W przypadku dokonania opłaty za uczestnictwo Organizator zwróci Uczestnikowi wysokość dokonanej wpłaty w ciągu 7 dni na konto, z którego dokonano wpłaty.
-9.	Uczestnik zawiera umowę uczestnictwa w konferencji z chwilą rejestracji. 
+7. Organizator nie ponosi odpowiedzialności za treści prezentowane przez prelegentów oraz ich opinie wyrażone podczas konferencji.  
+8. Liczba miejsc na konferencję jest ograniczona. O udziale decyduje kolejność zgłoszeń i zaksięgowania opłat.   
+9. Zgłoszenia uczestnictwa przyjmowane będą do dnia 25.10.2025 lub wyczerpania miejsc.  
+10. Organizator zastrzega sobie prawo do zmiany formy konferencji (np. na wydarzenie online), jej przesunięcia lub odwołania z przyczyn niezależnych (siła wyższa). W takim przypadku Uczestnikom przysługuje zwrot wniesionej opłaty lub możliwość uczestnictwa w wydarzeniu w nowym terminie lub formule.  
+11. Organizator ma prawo do niedopuszczenia uczestnika do udziału w konferencji bez podania przyczyny. W przypadku dokonania opłaty za uczestnictwo Organizator zwróci Uczestnikowi wysokość dokonanej wpłaty w ciągu 7 dni na konto, z którego dokonano wpłaty.  
+12. Uczestnik jest zobowiązany do noszenia Identyfikatora w czasie konferencji.  
+13. Uczestnik zawiera umowę uczestnictwa w konferencji z chwilą rejestracji.
 
 ## III Opłata za uczestnictwo
 
 1.	Uczestnictwo w konferencji jest odpłatne, a koszt udziału obejmuje uczestnictwo w wykładach i networkingu, materiały konferencyjne i pokonferencyjne, przerwy kawowe oraz lunch.
-    -  Koszt udziału w bloku wykładowym, tj. 26.10.2025, nie obejmuje możliwości uczestnictwa w warsztatach, które odbędą się 25.10.2025. Warsztaty są oddzielnie płatne. Liczba uczestników biorących udział w warsztatach jest ograniczona, a o udziale decyduje kolejność zgłoszeń.
-2.	Cennik opłat konferencyjnych dostępny jest na stronie internetowej wydarzenia: 
-    -  Dla uczestników zarejestrowanych do 30.09.2025 włącznie (Early Bird) cena wynosi 249 PLN brutto za osobę. 
-    -  Dla uczestników zarejestrowanych od 01.10.2025 do 25.10.2025 włącznie (Standard) cena wynosi 349 PLN brutto za osobę.
-    -  W celu zakupu biletów grupowych Uczestnik może zwrócić się z zapytaniem za pośrednictwem poczty elektronicznej z Organizatorem. 
-3.	Organizator zastrzega sobie prawo do indywidualnego obniżenia kwoty opłaty za uczestnictwo. 
-4.	Organizator zastrzega sobie prawo do obniżenia opłaty dla członków PMI PC, partnerów wydarzenia, absolwentów UMK kierunku studiów Project Management oraz do udzielania innych zniżek według swojego uznania. 
-5.	Po zarejestrowaniu się poprzez formularz zgłoszeniowy dostępny na stronie internetowej wydarzenia oraz po uiszczeniu opłaty za uczestnictwo, Organizator wyśle pod wskazany w formularzu zgłoszeniowym adres e-mail Uczestnika potwierdzenie rejestracji. 
-6.	Płatnikiem (adresatem faktury) jest podmiot zamawiający poszczególne usługi związane z uczestnictwem w wydarzeniu. Faktura zostanie wystawiona na zasadach ogólnych do 15 dnia miesiąca po miesiącu, w którym nastąpił zakup.
-7.	Wysokość opłaty konferencyjnej uzależniona jest od daty rejestracji Uczestnika i ewentualnych rabatów udzielonych Uczestnikowi indywidualnemu lub grupom Uczestników. Ostateczna cena jest ustalana przez Organizatora. Bilety Early Birds można zakupić do dnia 30.09.2025. Od dnia 01.10.2025 obowiązuje cena regularna (Standard).
-8.	Rabaty promocyjne i grupowe nie łączą się.
-9.	Niezależnie od uprawnień przyznanych w przepisach obowiązującego prawa, Uczestnik może zrezygnować z uczestnictwa w konferencji. Rezygnacja Uczestnika z udziału w Konferencji winna być dokonana w formie pisemnej na adres Organizatora wskazany w pkt. I § 2 lub poprzez wysłanie wiadomości e-mail na adres poczty elektronicznej Organizatora wskazany w pkt. I § 3.
-10.	W przypadku rezygnacji Uczestnika z udziału w konferencji Organizator zastrzega sobie prawo do zatrzymania części lub całości opłaty konferencyjnej/za uczestnictwo:
-    -  gdy Organizator otrzyma od Uczestnika oświadczenie o rezygnacji do 30 dnia przed rozpoczęciem konferencji lub wcześniej, Organizator zwróci Uczestnikowi wpłaconą kwotę, zatrzymując odstępne w wysokości 50% wartości całości opłaty, pod warunkiem wcześniejszego otrzymania wpłaty za udział; 
-    -  gdy Organizator otrzyma od Uczestnika oświadczenie o rezygnacji pomiędzy 29 a 15 dniem przed rozpoczęciem konferencji, Organizator ma prawo zatrzymać odstępne w wysokości 75% wartości całości opłaty, pod warunkiem wcześniejszego otrzymania wpłaty za udział; 
-    -  gdy Organizator otrzyma od Uczestnika oświadczenie o rezygnacji w 14 dniu przed rozpoczęciem konferencji lub później, Organizator ma prawo zatrzymać całą otrzymaną wpłatę;
-    -  każdy przypadek rezygnacji będzie rozpatrywany indywidualnie.
-11.	W przypadku odwołania wydarzenia przez Organizatora wszystkie wpłaty wniesione przez Uczestników zostaną im zwrócone w pełnej wysokości. 
-12.	Organizator dokonuje zwrotu płatności przy użyciu takiego samego sposobu zapłaty, jakiego użył Uczestnik, chyba że Uczestnik wyraźnie zgodził się na inny sposób zwrotu, który nie wiąże się dla niego z żadnymi kosztami.
+2. Cennik opłat konferencyjnych dostępny jest na stronie internetowej wydarzenia:  
+   - Dla uczestników zarejestrowanych do 13.07.2025 włącznie (Summer Sale) cena wynosi 149 PLN brutto za osobę.  
+   - Dla uczestników zarejestrowanych od 14.07.2025 do 20.09.2025 włącznie (Early Birds) cena wynosi 199 PLN brutto za osobę.  
+   - Dla uczestników zarejestrowanych od 21.09.2025 do 23.10.2025 włącznie (Standard) cena wynosi 249 PLN brutto za osobę.  
+   - Dla uczestników zarejestrowanych od 24.09.2025 do 25.10.2025 włącznie (Late Birds) cena wynosi 349 PLN brutto za osobę.  
+   - W celu zakupu biletów grupowych Uczestnik może zwrócić się z zapytaniem za pośrednictwem poczty elektronicznej z Organizatorem.  
+3. Organizator zastrzega sobie prawo do indywidualnego obniżenia kwoty opłaty za uczestnictwo.  
+4. Organizator zastrzega sobie prawo do obniżenia opłaty dla członków PMI PC, partnerów wydarzenia, absolwentów UMK kierunku studiów Project Management oraz do udzielania innych zniżek według swojego uznania.  
+5. Po zarejestrowaniu się poprzez formularz zgłoszeniowy dostępny na stronie internetowej wydarzenia oraz po uiszczeniu opłaty za uczestnictwo, Organizator wyśle pod wskazany w formularzu zgłoszeniowym adres e-mail Uczestnika potwierdzenie rejestracji.  
+6. Płatnikiem (adresatem faktury) jest podmiot zamawiający poszczególne usługi związane z uczestnictwem w wydarzeniu. Faktura zostanie wystawiona na zasadach ogólnych do 15 dnia miesiąca po miesiącu, w którym nastąpił zakup.  
+7. Wysokość opłaty konferencyjnej uzależniona jest od daty rejestracji Uczestnika i ewentualnych rabatów udzielonych Uczestnikowi indywidualnemu lub grupom Uczestników. Ostateczna cena jest ustalana przez Organizatora. Bilety Early Birds można zakupić do dnia 20.09.2025. Od dnia 21.09.2025 obowiązuje cena regularna (Standard).  
+8. Rabaty promocyjne i grupowe nie łączą się.  
+9. Niezależnie od uprawnień przyznanych w przepisach obowiązującego prawa, Uczestnik może zrezygnować z uczestnictwa w konferencji. Rezygnacja Uczestnika z udziału w Konferencji winna być dokonana w formie pisemnej na adres Organizatora wskazany w pkt. I § 2 lub poprzez wysłanie wiadomości e-mail na adres poczty elektronicznej Organizatora wskazany w pkt. I § 3\.  
+10. W przypadku rezygnacji Uczestnika z udziału w konferencji Organizator zastrzega sobie prawo do zatrzymania części lub całości opłaty konferencyjnej/za uczestnictwo:  
+    - gdy Organizator otrzyma od Uczestnika oświadczenie o rezygnacji do 30 dnia przed rozpoczęciem konferencji lub wcześniej, Organizator zwróci Uczestnikowi wpłaconą kwotę, zatrzymując odstępne w wysokości 50% wartości całości opłaty, pod warunkiem wcześniejszego otrzymania wpłaty za udział;  
+    - gdy Organizator otrzyma od Uczestnika oświadczenie o rezygnacji pomiędzy 29 a 15 dniem przed rozpoczęciem konferencji, Organizator ma prawo zatrzymać odstępne w wysokości 75% wartości całości opłaty, pod warunkiem wcześniejszego otrzymania wpłaty za udział;  
+    - gdy Organizator otrzyma od Uczestnika oświadczenie o rezygnacji w 14 dniu przed rozpoczęciem konferencji lub później, Organizator ma prawo zatrzymać całą otrzymaną wpłatę;  
+    - każdy przypadek rezygnacji będzie rozpatrywany indywidualnie.  
+11. W przypadku odwołania wydarzenia przez Organizatora wszystkie wpłaty wniesione przez Uczestników zostaną im zwrócone w pełnej wysokości.  
+12. Organizator dokonuje zwrotu płatności przy użyciu takiego samego sposobu zapłaty, jakiego użył Uczestnik, chyba że Uczestnik wyraźnie zgodził się na inny sposób zwrotu, który nie wiąże się dla niego z żadnymi kosztami.
 
 ## IV Odstąpienie od umowy i reklamacje
 
