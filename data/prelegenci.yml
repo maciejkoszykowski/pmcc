@@ -15,36 +15,87 @@ item    :
     image : images/prelegenci/radoslawk.png
     title : Radosław Kita, AI Director w TVN Warner Bros. Discovery.
     description : >
-         Odpowiadał za stworzenie systemów korzystających z uczenia maszynowego oraz AI w Ringier Axel Springer Polska, Alior Banku, Allegro, Veon, Showmax i Adform. 
+         Odpowiadał za stworzenie systemów korzystających z uczenia maszynowego oraz AI w 
+         Ringier Axel Springer Polska, Alior Banku, Allegro, Veon, Showmax i Adform. 
     
-         Prowadzi zajęcia na studiach executive MBA i MBA prowadzonych na Akademii Leona Koźmińskiego oraz „MBA – Innowacje i Analiza Danych” prowadzonych na SWPS we współpracy z Woodbury School of Business w Utah Valley University (USA) oraz z Instytutem Podstaw Informatyki PAN.
-    linkedin-post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2025-pmcc2025-pmconnectconf-activity-7351128567268704257-pU1i?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABsjpsBesX7_3-a3jKl9GtPbminHIt_Ff0 
+         Prowadzi zajęcia na studiach executive MBA i MBA prowadzonych na Akademii Leona Koźmińskiego oraz 
+         „MBA – Innowacje i Analiza Danych” prowadzonych na SWPS we współpracy z Woodbury School of Business w Utah Valley University (USA) 
+         oraz z Instytutem Podstaw Informatyki PAN.
 
-  - id : 2
+    linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2025-pmcc2025-pmconnectconf-activity-7351128567268704257-pU1i 
+
+  - id : 5
     image : images/prelegenci/janblew.png
     title : Jan Blew
     description : >
-         Doświadczony manager i researcher w zakresie innowacji (obecnie skupionej na wykorzystaniu AI), analityki biznesowej i facylitacji zespołów
-         Jan Blew to doświadczony menedżer i analityk biznesowy z ponad 25-letnim doświadczeniem w branży IT, 
-         specjalizujący się w opracowywaniu oraz wdrażaniu
-         innowacyjnych rozwiązań cyfrowych. Przez ponad 20 lat prowadził projekty z
-         zakresu analityki danych, e-commerce oraz integracji technologicznych, zarządzając
-         rozwojem produktów cyfrowych w dynamicznych środowiskach biznesowych.
-         W swojej karierze z sukcesem współpracował z wieloma firmami — w tym z PwC, czy
-         w zakresie retailu (Answear.com, Bytom, Gino Rossi, House, Coccodrillo, ...), a także
-         realizował projekty dla IBM czy w ramach funduszy badawczych NCBiR (projekty związane z AI).
-         Stara się korzystać w sposób praktyczny z nowoczesnych narzędzi, metodyk i
-         praktyk — AI w kontekście przetwarzania danych, wnioskowania/predykcji czy
-         automatyzacji, DDD w zakresie projektowania architektur systemów IT, czy
-         event-storming w zakresie komunikacji interesariuszy i deweloperów — co pozwala
-         na skuteczne facylitowanie pracy zespołów i osiąganie wysokiej synergii oraz jakości
-         rezultatów prac w realizowanych projektach.
-         Współpracuje z Wrocławską Akademią Biznesu (WAB), gdzie prowadzi zajęcia z
-         zakresu sztucznej inteligencji, analizy danych w biznesie z wykorzystaniem AI oraz
-         innowacji w przedsiębiorstwach. Jego wykłady i warsztaty cieszą się uznaniem,
-         dzięki połączeniu szerokiej wiedzy teoretycznej z wieloletnim doświadczeniem
-         praktycznym — zarówno od strony biznesowej, jak i wdrożeniowej.
-         Jest też inicjatorem największej polskiej społeczności na LinkedIn związanej z AI, w
-         kontekście managerskim i specjalistów domenowych <a href="https://www.linkedin.com/groups/9810710/" target="_blank">“AI vista360 - obiektywnie o
+         Manager i researcher w zakresie innowacji, analityki biznesowej i facylitacji
+         zespołów z 25-letnim doświadczeniem w branży IT.
+         Prowadził projekty z zakresu analityki danych, e-commerce oraz integracji
+         technologicznych — w tym dla PwC, IBM, w zakresie retailu (Answear.com,
+         Bytom, House) oraz w ramach funduszy badawczych NCBiR (projekty
+         związane z AI). Współpracuje z Wrocławską Akademią Biznesu i zainicjował największą polską
+         społeczność na LinkedIn związanej z AI 
+         <a href="https://www.linkedin.com/groups/9810710/" target="_blank">“AI vista360 - obiektywnie o
          AI”</a>.
-    linkedin-post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2025-pmcc2025-pmconnectconf-activity-7353394558853906433-1TiZ?utm_source=share&utm_medium=member_android&rcm=ACoAAB_xftYBOQSUGdIqWuygIiDqazCae9GstRo
+    linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2025-pmcc2025-pmconnectconf-activity-7353394558853906433-1TiZ
+
+
+  - id : 10
+    image : images/prelegenci/Aleksandra-Sylweter-Kanofocka.png
+    title : Aleksandra Sylweter-Kanofocka
+    description : >
+        Trenerka, mentorka oraz menedżerka projektów i programów z ponad 17-letnim doświadczeniem zawodowym. 
+        Prowadziła międzynarodowe, strategiczne projekty m.in. dla Komisji Europejskiej, Ministerstwa Środowiska.
+        Od 2011 roku zarządza projektami technologicznymi dla globalnych korporacji IT.
+        Jej osiągnięcia zostały docenione m.in. nagrodą Top Talent przez Kyndryl Global Project Management Profession.
+        Jest autorką bloga i serii inspiracyjno-edukacyjnej dla liderów „World of Projects”, 
+        a także współautorką książek „Pasja” i „Szansa”. Pasjonuje się górami i fotografią. 
+        Ekspertka współpracująca z PMI, IPMA i Uniwersytetem Ekonomicznym.
+
+    linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2025-pmcc-ai-activity-7366033673093107713-XnoV
+
+
+
+  - id : 12
+    image : images/prelegenci/Katarzyna-Dyl.png
+    title : Katarzyna Dyl
+    description : > 
+          Katarzyna pracuje z danymi od 2018 roku. Zdobywała doświadczenie w 5 różnych formach -  od korporacji, po start-upy i scale-upy - 
+          na stanowiskach takich jak Data Scientist, Machine Learning Engineer oraz Data Analyst. W 2023 roku objęła stanowisko Senior Data Scientist.
+          Od ponad trzech lat prowadzi działalność edukacyjną pod marką Crappy Data, gdzie uczy jak świadomie pracować z danymi, 
+          rozwijać kompetencje techniczne i budować karierę w tej branży. Wspiera również osoby początkujące jako mentorka.        
+    linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2025-pmcc2025-pmconnectconf-activity-7360910602577367041-OdVy
+
+  - id : 15
+    image : images/prelegenci/Marcin-Gora.png
+    title : Marcin Góra
+    description : >
+         Marcin to praktyk zarządzania projektami i programami z ponad 18-letnim doświadczeniem w implementacji systemów ERP 
+         oraz prowadzeniu międzynarodowych programów dla globalnych organizacji. Jego głównym celem jest skuteczne zarządzanie 
+         transformacjami organizacyjnymi i transferem wiedzy, z wykorzystaniem dostosowanych, hybrydowych podejść, które zapewniają sukces projektów.
+         Obecnie pracuje nad rozprawą doktorską na temat transferu wiedzy w projektach oraz tworzenia 
+         dedykowanych hybrydowych metodologii zarządzania projektami.        
+    linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2025-pmcc-ai-activity-7363448384743002113-9TBw
+
+  - id : 25
+    image : images/prelegenci/Krzysztof-Zaborowski.png
+    title : Krzysztof Zaborowski
+    description : >
+        Ekspert w budowaniu zwinnych systemów realizacji strategii; zarządzania zmianą, portfelami, programami, projektami, 
+        rozwojem produktów i profesjonalistów. Zbudował organizacje Enterprise PMO, 
+        które zapewniły skuteczną realizację celów strategicznych. 
+        Zarządzał portfelami setek komponentów w każdym obszarze działalności biznesowej i budżetami setek mEur, 
+        w środowisku międzynarodowym. Lider, mentor, coach, trener, juror PMO Global Awards, recenzent PMI PMO Practice Guide, wykładowca.
+    linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2025-pmcc2025-pmconnectconf-activity-7358353587971731456-KL6B
+
+  - id : 30
+    image : images/prelegenci/Mariusz-Kapusta.png
+    title : Mariusz Kapusta
+    description : >
+        Ekspert, praktyk i pasjonat zarządzania projektami. Jego ponad 20-letnie doświadczenie obejmuje prowadzenie międzynarodowych projektów IT 
+        oraz tworzenie i wdrażanie procesów zarządzania projektami w różnych branżach.
+        Jest uznanym mówcą i mentorem w dziedzinie przywództwa oraz narzędzi projektowych.
+        Prowadzi firmę doradczo-szkoleniową Leadership Center, a także największy w Polsce kanał na YouTube o zarządzaniu projektami – Zarządzanie Projektami – Mariusz Kapusta.
+        Twórca metody 12 pytań KISS PM®, autor książki „Zarządzanie projektami krok po kroku”.
+        Prywatnie pasjonat strzelectwa dynamicznego i intelektualnych wyzwań.        
+    linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2025-pmcc2025-pmconnectconf-activity-7355820631956799488-GVBy
