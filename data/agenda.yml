@@ -2,13 +2,6 @@ enable  : true
 topTitle: PM Connect Conf 
 title   : Agenda
 
-# markdown is supported in:
-# who
-# description  
-#
-# you can control bold "**text**" double asterix 
-# or italic "*text*" signle asterix
-
 # this control which day to display
 days:
   - day_date: "25 października 2025"  # the day one - keep consitent below with date field 
@@ -16,41 +9,63 @@ days:
 #  - day_date: 2025-11-11  # the day two 
 #    day_title: "11"
 
-#not yet used but left 
-colors:
-  main:  "#FDFDFB" ## głowna sala
-  path1: "#F3FBFE" ## twarda
-  path2: "#FFF0FA"  ## soft 
 
 program_per_day:
   - date: "25 października 2025"
     label: "Sobota"
-    streams-split: 2
-    rooms:
-      - name: "Nowa Rada Wydziału part 1"
-        display_txt: "Główna"
-        color: "#FDFDFB"
-        sessions:
+
+    time_slots:
+       - slot: "9:00 - 10:00"  # Registration #THIS IS ID to LINK sessions
+       - slot: "10:00 - 10:20" # Openning
+       - slot: "10:20 - 11:05" # Openning Keynote
+       - slot: "11:05 - 11:15" #### Rooms split
+       - slot: "room split" 
+         hide_timing: true
+         hide_expand: true
+         show_on_desktop: true
+         show_on_mobile: true
+         no_of_sessions: 2
+       - slot: "11:15 - 11:55" # Stream sessions 1
+         no_of_sessions: 2
+       - slot: "11:55 - 12:35" # Stream sessions 2
+         no_of_sessions: 2
+       - slot: "12:35 - 12:55" #### Coffe break 1 
+       - slot: "room split" 
+         hide_timing: true
+         hide_expand: true
+         show_on_desktop: true
+         show_on_mobile: false
+         no_of_sessions: 2
+       - slot: "12:55 - 13:35" # Stream sessions 3
+         no_of_sessions: 2
+       - slot: "13:35 - 14:15" # Stream sessions 4
+         no_of_sessions: 2
+       - slot: "14:15 - 15:00" #### LUNCH
+       - slot: "15:00 - 15:35" # Main session 
+       - slot: "15:35 - 16:20" ## PANEL
+       - slot: "16:20 - 17:05" # Closing Keynote
+       - slot: "17:05 - 17:20" # Conf Closure
+         end: true
+
+    sessions:
+        ### Main Stage sessions - Part 1 
           - number: 1
-            start: 9:00
-            end: 10:00
+            slot: "9:00 - 10:00"
             who: "Rejestracja"
-            title: "  "
+            title:  # null
             description: >
               Przyjdź i zarejestruj się, uniknij kolejki i skorzystaj z nieformalnego networkingu przed wydarzeniem. 
 
-          - number: 2
-            start: 10:00
-            end: 10:20
+          - number: 5
+            slot: "10:00 - 10:20"
             who: "Rozpoczęcie konferencji"
             title: "prof. UMK Marlena Ciechan-Kujawa oraz Maciej Koszykowski"
             description: >
-              Krótkie przemowy powitalne organizatorów WNEiZ UMK oraz PMI PC Kujawsko-Pomorskie.
+              Krótkie przemowy powitalne organizatorów WNEiZ UMK oraz PMI&nbsp;PC&nbsp;Kujawsko-Pomorskie.
 
-          - number: 3
-            start: 10:20
-            end: 11:05
-            who: "Opening Keynote: Radosław Kita"
+          - number: 10
+            slot: "10:20 - 11:05"
+            who: "Opening Keynote: Radosław&nbsp;Kita"
             title: >
               Jak stworzyć i zarządzać efektywnie działającym zespołem wdrażającym rozwiązania AI
             description: >
@@ -61,191 +76,147 @@ program_per_day:
               <br> Z jednej strony wdrażanie rozwiązań wykorzystujących techniki uczenia maszynowego nie rożni się niczym od budowania innych rozwiązań. W gruncie rzeczy chodzi o optymalizację procesów i podniesienie efektywności. 
               <br> Z drugiej strony, zazwyczaj są rozwiązania mające olbrzymi wpływ na sposób funkcjonowania firmy. Dotykają obszaru, w którym staramy się zbudować i utrzymać przewagę biznesową. 
               <br> Dodatkowo pojawienie się tanich technik generatywnej sztucznej inteligencji postawiło pod znakiem zapytania dotychczasowe metodyki zarządzania jakością danych i kontroli poprawności używanych rozwiązań. 
-        
-      ####################
-      - name: "PODZIAŁ"
-        sessions:
-          - number: 1235
-            start: 11:05
-            end: 11:15
+          
+          - number: 15
+            slot: "11:05 - 11:15"
             who: ""
             title: "Podział na sale – wybierz prelekcje dla siebie"
             description: >
-              Po wstępnym rozpoczęciu konferencji uczestnicy będą mogli rozchodzić się na dwie sale według własnego wyboru, 
+              Po rozpoczęciu konferencji uczestnicy będą mogli rozchodzić się na dwie sale według własnego wyboru, 
               dostosowując udział do tematów, które najbardziej ich interesują. 
               Wiemy, że wybór może być trudny, ale tematyka jest tak obszerna, że warto było uwzględnić różnorodne zagadnienia, 
               aby każdy mógł znaleźć coś dla siebie. 
               Niewątpliwie networking umożliwi wymianę informacji i ciekawe rozmowy. 
-              Zachęcamy również do rozmów o wystąpieniach – to świetna okazja do wymiany wrażeń i pogłębienia wiedzy.
-      ####################
-      - name: "----"
-        split_next: true
-        rooms_in_order:
-         - label: "Ścieżki Twardej"
-           color:  "#F3FBFE" ## twarda
-         - label: "Ścieżki Miękkiej"
-           color: "#FFF0FA"
+              Zachęcamy do rozmów o wystąpieniach – to świetna okazja do wymiany wrażeń i pogłębienia wiedzy.
 
-      ################
-      - name: "hard-room-part-1"
-        display_txt: "Ścieżki Twardej" #room for mobile screen 
-        color: "#F3FBFE"
-        split: true # only true if yes
-        sessions:
-          - number: 21
-            start: 11:15
-            end: 11:55
+        ### Hard Sessions 
+          - number: 20
+            slot: "room split" 
+            #room: Sala not used
+            title: Sala Ścieżki Twardej
+            icon: gear.png
+
+          - number: 22
+            slot: "11:15 - 11:55"
             who: "Krzysztof Zaborowski"
-            title: "AI & Agile = wartość biznesowa <br><br>" #large screen workaround, parallel topic much longer 
+            title: "AI & Agile = wartość biznesowa" 
             description: >
               Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
               Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
-          - number: 22
-            start: 11:55
-            end: 12:35
+            icon: gear.png
+
+          - number: 23
+            slot: "11:55 - 12:35"
             who: "Katarzyna Dyl"
             title: Rola Data Scientist w projektach - dobieranie, obróbka i analiza danych projektowych
             description: >
               Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
               Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
-      - name: "soft-room-part-1"
-        split: true # only true if yes
-        display_txt: "Ścieżki Miękkiej"
-        color: "#FFF0FA"
-        sessions:
-          - number: 31
-            start: 11:15
-            end: 11:55
-            who: "Mariusz Kapusta"
-            title: "Egzoszkielet lidera projektów: jak budować nową równowagę lidera, managera i koordynatora w świecie AI?"
-            description: >
-              Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
-              Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
-          - number: 32
-            start: 11:55
-            end: 12:35
-            who: "Marcin Gora"
-            title: "Humanizowanie projektów wspieranych przez AI: Jak Project Manager może równoważyć automatyzację z empatią"
-            description: >
-              Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
-              Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
+            icon: gear.png
 
-      ################      
-      - name: "----"
-        split_end: true  ### 
-      ################
-      - name: "KAWA miedzy ścieżkami"
-        sessions:
-          - number: 43
-            start: 12:35
-            end: 12:55
-            who: " "
-            title: > 
-                Wspólna przerwa kawowa z wszystkimi uczestnikami konferencji <br><br> 
-                Po przerwie podział na sale – wybierz prelekcje dla siebie <br><br>
-            description: >
-              w przerwie warto porozmawiać z jeszcze niepoznaną osobą, przychodząc na konferencje chcemy poznawać wartościowych ludzi.
-              a po przerwie kolejną prelekcje dla siebie z jednej z dwóch ścieżek. 
-
-      ################
-      - name: "----"
-        split_next: true
-        rooms_in_order:
-         - label: "Ścieżki Twardej"
-           color:  "#F3FBFE" ## twarda
-         - label: "Ścieżki Miękkiej"
-           color: "#FFF0FA"
-      ################
-      - name: "hard-room-part-2"
-        display_txt: "Ścieżki Twardej"
-        color: "#F3FBFE"
-        split: true # only true if yes
-        sessions:
-          - number: 54
-            start: 12:55
-            end: 13:35
+          - number: 24
+            slot: "12:55 - 13:35"
             who: "Wojciech Ożga"
-            title: "Temat w opracowaniu <br><br>" #large screen workaround, parallel topic much longer 
+            title: "Temat w opracowaniu"
             description: >
               Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
               Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
-          - number: 55
-            start: 13:35
-            end: 14:15
+            icon: gear.png
+
+          - number: 25
+            slot: "13:35 - 14:15"
             who: "Dorota Mleczko"
             title: "Partnerstwo AI-Project Manager: jak zbudować zespół przyszłości"
             description: >
               Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
               Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
-      - name: "soft-room-part-2"
-        display_txt: "Ścieżki Miękkiej"
-        color: "#FFF0FA"
-        split: true # only true if yes        
-        sessions:
+            icon: gear.png
+
+        ### Soft Sessions 
+          - number: 30
+            slot: "room split" 
+            #room: Sala not used
+            title: Sala Ścieżki Miękkiej 
+            icon: brain.png
+
+          - number: 31
+            slot: "11:15 - 11:55"
+            who: "Mariusz Kapusta"
+            title: "Egzoszkielet lidera projektów: jak budować nową równowagę lidera, managera i koordynatora w świecie AI?"
+            description: >
+              Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
+              Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
+            icon: brain.png
+
+          - number: 32
+            slot: "11:55 - 12:35"
+            who: "Marcin Gora"
+            title: "Humanizowanie projektów wspieranych przez AI: Jak Project Manager może równoważyć automatyzację z empatią"
+            description: >
+              Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
+              Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
+            icon: brain.png
+
           - number: 64
-            start: 12:55
-            end: 13:35
-            who: "Aleksandra Sylwester-Konofacka"
+            slot: "12:55 - 13:35"
+            who: "Aleksandra Sylwester&#8209;Kanofacka"
             title: "Mindset PM-a przyszłości: W co inwestować, aby prowadzić projekty z pasją i skutecznością?"
             description: >
               Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
               Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
+            icon: brain.png
+
           - number: 65
-            start: 13:35
-            end: 14:15
+            slot: "13:35 - 14:15"
             who: "Grzegorz Sztandera"
             title: "Ludzie nie zmienią się w AI <br><br>" #large screen workaround, parallel topic much longer 
             description: >
               Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
               Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
-        split_end: true
-      ################      
-      - name: "----"
-        split_end: true  ### 
-      
-      ################
-      - name: "LUNCH"
-        sessions:
-          - number: 83
-            start: 14:15
-            end: 15:00
-            who: ""
-            title: Lunch z networkingiem <br> <br> 
+            icon: brain.png
+
+        ### Main Stage sessions - Part Various
+          - number: 110
+            slot: "12:35 - 12:55"
+            who: 
+            title: > 
+              Wspólna przerwa kawowa z wszystkimi uczestnikami konferencji <br><br> 
+              Po przerwie podział na sale – wybierz prelekcje dla siebie 
             description: >
               w przerwie warto porozmawiać z jeszcze niepoznaną osobą, przychodząc na konferencje chcemy poznawać wartościowych ludzi.
-      ################
+              a po przerwie kolejną prelekcje dla siebie z jednej z dwóch ścieżek. 
+          
+          - number: 120
+            slot: "14:15 - 15:00"
+            who: ""
+            title: Lunch z networkingiem 
+            description: >
+              w przerwie warto porozmawiać z jeszcze niepoznaną osobą, przychodząc na konferencje chcemy poznawać wartościowych ludzi.
 
-      - name: "Nowa Rada Wydziału - part 2"
-        color: "#FDFDFB"
-        display_txt: "Główna"        
-        sessions:
-          - number: 221
-            start: 15:00
-            end: 15:35
+         ### Main Stage sessions - Part 2 - Closing
+          - number: 220
+            slot: "15:00 - 15:35"
             who: "Prelegent (TBA)"
             title: "Temat do ogłoszenia"          
             description: "Informacje w przygotowaniu"     
 
-          - number: 222
-            start: 15:35
-            end: 16:20
-            who: "prowadzący: Maciej Koszykowski"
+          - number: 225
+            slot: "15:35 - 16:20"
+            who: "prowadzący: Maciej&nbsp;Koszykowski"
             title: "Panel w przygotowaniu"
             description: >
               Prowadzący Maciej Koszykowski zaprasza na panel dyskusyjny, którego szczegóły są jeszcze w trakcie ustalania. Szczegółowy program i tematy zostaną podane wkrótce.
 
-          - number: 223
-            start: 16:20
-            end: 17:05
-            who: "Closing Keynote: Jan Blew"
+          - number: 230
+            slot: "16:20 - 17:05"
+            who: "Closing Keynote: Jan&nbsp;Blew"
             title: "Alchemik sensu: PM jako tłumacz między logiką maszyn a aspiracjami ludzi"
             description: >
               Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
               Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
 
-          - number: 225
-            start: 17:05
-            end: 17:20
+          - number: 250
+            slot: "17:05 - 17:20"
             who: "Zamknięcie konferencji"
             title:   "prof. UMK Marlena Ciechan-Kujawa oraz Maciej Koszykowski"          
             description: >
