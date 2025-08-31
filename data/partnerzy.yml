@@ -1,8 +1,10 @@
 enable  : true
 topTitle: PM Connect Conf
-#title   : Partnerzy Konferencji
-titleMedia   : Patronat Medialny
-titleHonorowi : Patronat Honorowy
+
+#title          : Partnerzy Konferencji
+titleMedia      : Patronat Medialny
+titleHonorowi   : Patronat Honorowy
+titleInstytucje : Patronat Instytucjonalny
 
 # item   :
 #  - title : SOWA i Partnerzy
@@ -19,6 +21,7 @@ media  :
     category  : Partner Medialny 
     small_support: True
     image_small : images/partnerzy/logo_strefa_small.png
+    link: https://strefapmi.pl/
 
 honorowi:
 
@@ -27,9 +30,19 @@ honorowi:
     category  : Patronat Honorowy
     small_support: True
     image_small : images/partnerzy/logo_marszalek.jpg
+    link: https://kujawsko-pomorskie.pl/tag/promocja/
 
   - title : Patronat Prezydenta Miasta Torunia
     image : images/partnerzy/logo_torun.jpg
     category  : Patronat Honorowy
     small_support: True
     image_small : images/partnerzy/logo_torun.jpg
+    link: https://torun.pl/pl
+
+instytucje:
+  - title: PSSI <br> Polskie Stowarzyszenie Sztucznej Inteligencji
+    image: images/partnerzy/pssi.png
+    category : Patronat Instytucjonalny
+    small_support: True
+    image_small : images/partnerzy/pssi.png
+    link: https://www.pssi.pl/
