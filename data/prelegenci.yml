@@ -5,10 +5,11 @@ title   : Prelegenci
 
 show_items: true
 
-message: >
-       Sylwetki prelegentów będą sukcesywnie pojawiać się na stronie konferencji po ich wcześniejszym przedstawieniu w mediach społecznościowych.
-       <br> Zachęcamy do obserwowania naszych kanałów na LinkedIn oraz Facebooku, gdzie na bieżąco publikujemy informacje o programie i prelegentach.  
-       <br> Odnośniki do naszych mediów społecznościowych znajdą Państwo <a href="#Lokalizacja">na dole naszej strony.</a> 
+message: 
+# >
+#       Sylwetki prelegentów będą sukcesywnie pojawiać się na stronie konferencji po ich wcześniejszym przedstawieniu w mediach społecznościowych.
+#       <br> Zachęcamy do obserwowania naszych kanałów na LinkedIn oraz Facebooku, gdzie na bieżąco publikujemy informacje o programie i prelegentach.  
+#        <br> Odnośniki do naszych mediów społecznościowych znajdą Państwo <a href="#Lokalizacja">na dole naszej strony.</a> 
 
 item    :
   - id : 1
