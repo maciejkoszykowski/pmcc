@@ -69,14 +69,15 @@ program_per_day:
             title: >
               Jak stworzyć i zarządzać efektywnie działającym zespołem wdrażającym rozwiązania AI
             description: >
-              Mam przyjemność zarządzać zespołami budującymi rozwiązania korzystające z technik uczenia maszynowego oraz sztucznej inteligencji od piętnastu lat. W tym czasie budowałem zespoły od zera oraz przekształcałem zespoły, które miały problemy z efektywnym działaniem. Udało się mi kilka razy wdrożyć rozwiązania, które zmieniły sposób funkcjonowania dużych obszarów firm, w których byłem zatrudniony. Poniosłem również kilka malowniczych porażek. 
-              <br> Chciałbym się podzielić swoim doświadczeniami. 
-              <br> Opowiem o tym czym różni się zespół budujący rozwiązania wykorzystujące techniki sztucznej inteligencji od innych zespołów technicznych. Jaki ma to wpływ na sposób zarządzania takim zespołem. Jak kształtować współpracę z zespołami zewnętrznymi i zleceniodawcami projektów. 
-              <br> Jeśli słuchaczom wystarczy cierpliwości, to chciałbym również opowiedzieć o zestawie narzędzi, które sprawdziły się mojej dotychczasowej pracy. 
-              <br> Z jednej strony wdrażanie rozwiązań wykorzystujących techniki uczenia maszynowego nie rożni się niczym od budowania innych rozwiązań. W gruncie rzeczy chodzi o optymalizację procesów i podniesienie efektywności. 
-              <br> Z drugiej strony, zazwyczaj są rozwiązania mające olbrzymi wpływ na sposób funkcjonowania firmy. Dotykają obszaru, w którym staramy się zbudować i utrzymać przewagę biznesową. 
-              <br> Dodatkowo pojawienie się tanich technik generatywnej sztucznej inteligencji postawiło pod znakiem zapytania dotychczasowe metodyki zarządzania jakością danych i kontroli poprawności używanych rozwiązań. 
-          
+              Radosław podzieli się swoim doświadczeniem w budowaniu i zarządzaniu zespołami tworzącymi rozwiązania oparte na sztucznej inteligencji. 
+              Wyjaśni, czym różnią się one od tradycyjnych zespołów technicznych i jak te różnice wpływają na sposób zarządzania. 
+              Opowie także o tym, jak skutecznie kształtować współpracę z partnerami zewnętrznymi oraz zleceniodawcami projektów. 
+              Uczestnicy poznają zestaw sprawdzonych narzędzi, które wspierają efektywność pracy w tego typu środowisku. 
+              Radosław pokaże, że choć wdrażanie AI przypomina budowę innych systemów nastawionych na optymalizację procesów, 
+              to często ma ono strategiczny wpływ na przewagę biznesową firmy. 
+              Poruszy również temat nowych wyzwań wynikających z rozwoju generatywnej sztucznej inteligencji, 
+              która zmienia podejście do jakości danych i weryfikacji rozwiązań.
+
           - number: 15
             slot: "11:05 - 11:15"
             who: ""
@@ -101,8 +102,13 @@ program_per_day:
             who: "Krzysztof Zaborowski"
             title: "AI & Agile = wartość biznesowa" 
             description: >
-              Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
-              Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
+              To wystąpienie pokaże, jak połączenie przywództwa, zwinności, 
+              jakości danych i generatywnej sztucznej inteligencji może przełożyć się na realny sukces biznesowy projektu. 
+              Krzysztof  opowie, w jaki sposób odwaga do eksperymentów,
+              inwestycja w rozwój nowych umiejętności oraz zespołowe podejście do przywództwa i zarządzania pozwoliły zbudować architekturę projektu, 
+              która dostarczyła wymierną wartość biznesową. Nie będzie to prezentacja o tworzeniu agentów AI, 
+              lecz praktyczna opowieść o tym, jak łączyć rozwiązania chmurowe, analityczne, sztuczną inteligencję i – przede wszystkim – ludzką inteligencję. 
+              Uczestnicy dowiedzą się, jak skutecznie wykorzystywać te elementy, aby realizować projekty, które nie tylko działają, ale naprawdę zmieniają organizację.
             icon: gear.png
 
           - number: 23
@@ -110,17 +116,29 @@ program_per_day:
             who: "Katarzyna Dyl"
             title: Rola Data Scientist w projektach - dobieranie, obróbka i analiza danych projektowych
             description: >
-              Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
-              Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
+              Rola Data Scientist w środowisku projektowym daleko wykracza poza klasyczne raportowanie, 
+              budowanie dashboardów czy prostą statystykę. Gdzie leży wartość dodana projektów data science, 
+              które potrafią ciągnąć się miesiącami – w dobie generatywnej AI i promptów pisanych w dwie minuty? 
+              Choćby w tym, że zamiast statycznych raportów możemy uzyskać modele predykcyjne, pozwalające na prognozowanie opóźnień, 
+              analizę produktywności zespołu czy automatyczne wykrywanie odchyleń budżetowych. 
+              Prezentacja Katarzyny pokaże, jak skutecznie pracować z danymi projektowymi – 
+              od ich identyfikacji (taski, budżet, ryzyka, zasoby), przez ekstrakcję i czyszczenie, aż po przetwarzanie i inżynierię cech. 
+              Omówione zostaną praktyczne podejścia do radzenia sobie z niespójnościami, 
+              brakami danych historycznych oraz rozbieżnościami między metrykami technicznymi a oczekiwaniami biznesowymi.
+              Data Scientist pozwala przejść od „danych jako raportu” do „danych jako narzędzia decyzyjnego” – co przekłada się na realny wpływ na skuteczność realizacji projektu.
             icon: gear.png
 
           - number: 24
             slot: "12:55 - 13:35"
             who: "Wojciech Ożga"
-            title: "Temat w opracowaniu"
+            title: 'Sztuczna inteligencja przez "małe a"'
             description: >
-              Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
-              Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
+              Już w 2019 roku Gartner ogłosił, że do 2030 r. sztuczna inteligencja przejmie 80% zadań związanych z zarządzaniem projektami. 
+              Co to oznacza dla Project Managerów? W wystąpieniu Wojciech pokaże praktyczne zastosowania ogólnodostępnych, często darmowych narzędzi AI, 
+              które można wykorzystać w codziennej pracy – od automatyzacji powtarzalnych czynności po budowę prostych agentów wspierających PM-a. 
+              Będzie konkretnie i bez marketingowej mgły – narzędzia jako „piły łańcuchowe” dla projektowych drwali, które działają, choć nie zawsze są idealnie dopracowane. 
+              Uczestnicy poznają toolbox gotowych rozwiązań możliwych do wdrożenia nawet w małym zespole. 
+              A także przekonają się, dlaczego mimo postępu technologii Project Managerowie wciąż pozostają niezastąpieni.
             icon: gear.png
 
           - number: 25
@@ -128,8 +146,12 @@ program_per_day:
             who: "Dorota Mleczko"
             title: "Partnerstwo AI-Project Manager: jak zbudować zespół przyszłości"
             description: >
-              Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
-              Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
+              Sztuczna inteligencja w zarządzaniu projektami to dziś coś więcej niż automatyzacja zadań – 
+              staje się strategicznym partnerem Project Managera. 
+              Podczas wystąpienia uczestnicy zobaczą, jak AI wspiera analizę rynku, budowanie strategii zespołowych oraz prowadzenie trudnych rozmów z klientami. 
+              Dorota pokaże, w jaki sposób współpraca człowieka z AI może znacznie zwiększyć efektywność projektów, łącząc moc danych, logiki maszyn z kreatywnością, 
+              doświadczeniem i empatią lidera. W praktyce oznacza to synergiczne podejście, gdzie potencjał zespołu i technologii razem generuje wartość 
+              znacznie przewyższającą sumę ich indywidualnych możliwości. 
             icon: gear.png
 
         ### Soft Sessions 
@@ -144,8 +166,11 @@ program_per_day:
             who: "Mariusz Kapusta"
             title: "Egzoszkielet lidera projektów: jak budować nową równowagę lidera, managera i koordynatora w świecie AI?"
             description: >
-              Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
-              Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
+              W świecie, w którym projekty przyspieszają, a chaos informacyjny rośnie z każdą chwilą, tradycyjne narzędzia Project Managera coraz częściej zamiast pomagać – 
+              przeszkadzają. Czy sztuczna inteligencja może stać się wsparciem, które przywróci równowagę i skuteczność? Podczas wystąpienia Mariusz przedstawi model „egzoszkieletu PM-a” – 
+              unikalne połączenie pięciu poziomów rozwoju AI z czterema filarami zarządzania: procesami, przywództwem, narzędziami i rozwojem osobistym. Uczestnicy dowiedzą się, 
+              jak budować system wspierający lidera, który wykorzystuje moc technologii, a jednocześnie pozwala zachować to, co najważniejsze – sens działań, 
+              klarowny cel i realny wpływ na otoczenie.
             icon: brain.png
 
           - number: 32
@@ -162,17 +187,26 @@ program_per_day:
             who: "Aleksandra Sylwester-Kanofocka"
             title: "Mindset PM-a przyszłości: W co inwestować, aby prowadzić projekty z pasją i skutecznością?"
             description: >
-              Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
-              Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
+              W dobie rosnącego wpływu sztucznej inteligencji na zarządzanie projektami rola Project Managera ewoluuje – od osoby kontrolującej 
+              harmonogramy i budżety do lidera inspirującego, wspierającego i przewodzącego ludziom w czasach niepewności. 
+              Aleksandra opowie, w co warto inwestować na poziomie postaw i mentalności, aby pozostać skutecznym i 
+              zaangażowanym liderem w świecie transformowanym przez AI. Uczestnicy poznają pięć kluczowych cech mindsetu przyszłościowego PM-a – 
+              elastyczność myślenia, inteligencję emocjonalną, refleksyjność, odwagę i zaufanie do siebie – oraz dowiedzą się, jak rozwijać je w praktyce.  
+              Zostanie udzielona odpowiedź na pytanie, jak łączyć potencjał AI z empatycznym, świadomym zarządzaniem zespołem, utrzymując człowieka w centrum projektu
+               i humanizując procesy w środowisku technologicznym.
             icon: brain.png
 
           - number: 65
             slot: "13:35 - 14:15"
             who: "Grzegorz Sztandera"
-            title: "Ludzie nie zmienią się w AI <br><br>" #large screen workaround, parallel topic much longer 
+            title: "Ludzie nie zmienią się w AI"
             description: >
-              Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
-              Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
+              W czasach, gdy sztuczna inteligencja generuje prezentacje, planuje sprinty i pisze kod na poziomie wielu programistów, 
+              łatwo ulec pokusie, by także ludzi traktować jak maszyny. Tymczasem człowiek to nie model językowy – i całe szczęście. 
+              To, co naprawdę decyduje o sukcesie projektów i zespołów, to elementy, których AI nigdy nie posiadała i nie będzie posiadać: empatia, 
+              kreatywność, poczucie sensu i autentyczne relacje. Prelekcja Grzegorza będzie refleksją nad rolą człowieka w świecie zdominowanym przez technologię – 
+              w pracy, w domu i w codziennym życiu. Pokazuje, że nawet w obliczu dynamicznego rozwoju AI największą wartością w projektach pozostaje człowiek z 
+              jego unikalną perspektywą i wrażliwością.
             icon: brain.png
 
         ### Main Stage sessions - Part Various
@@ -212,8 +246,12 @@ program_per_day:
             who: "Closing Keynote: Jan&nbsp;Blew"
             title: "Alchemik sensu: PM jako tłumacz między logiką maszyn a aspiracjami ludzi"
             description: >
-              Szczegółowe opisy wystąpień będą sukcesywnie publikowane po prezentacjach każdego z prelegentów w naszych mediach społecznościowych. 
-              Pełna agenda z opisami planowana jest do udostępnienia do 20 września.
+              W erze, w której sztuczna inteligencja potrafi analizować miliony zmiennych, przewidywać trendy i podejmować decyzje szybciej niż człowiek, 
+              rola Project Managera musi zostać na nowo zdefiniowana. Jan pokaże, dlaczego przyszły PM nie jest już tylko egzekutorem planów, 
+              lecz „alchemikiem” przekuwającym zimną logikę algorytmów w ludzki sens. Opowie, jak tłumaczyć dane na historie, które budują zrozumienie i 
+              motywację w zespole, oraz jak humanizować wyniki pracy AI, by zachować to, czego maszyna nie potrafi – troskę, 
+              odpowiedzialność i poczucie sensu. Uczestnicy dowiedzą się, jakie umiejętności staną się kluczowe w roli PM-a przyszłości i 
+              dlaczego w świecie zdominowanym przez algorytmy najważniejszym pytaniem pozostaje: „Po co?”.
 
           - number: 250
             slot: "17:05 - 17:20"
