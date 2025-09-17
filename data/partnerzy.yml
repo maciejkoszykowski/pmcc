@@ -1,19 +1,19 @@
 enable  : true
 topTitle: PM Connect Conf
 
-#title          : Partnerzy Konferencji
+title          : Partnerzy Konferencji
 titleMedia      : Patronat Medialny
 titleHonorowi   : Patronat Honorowy
 titleInstytucje : Patronat Instytucjonalny
 
-# item   :
-#  - title : SOWA i Partnerzy
-#    image : images/partnerzy/logo-sowa.png
-#    category  : Partner
+item   :
+  - title : Silfra
+    image : images/partnerzy/silfra.jpg
+    category  : Partner
 
-#  - title : Sii Sp. z o.o.
-#    image : images/partnerzy/logo_sii_10003.png
-#    category  : Partner
+  - title : Vobacom
+    image : images/partnerzy/vobacom.svg
+    category  : Partner
 
 media  :
   - title : Strefa PMI
