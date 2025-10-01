@@ -1,19 +1,25 @@
 enable  : true
 topTitle: PM Connect Conf
 
-title          : Partnerzy Konferencji
+title           : Partnerzy Konferencji
 titleMedia      : Patronat Medialny
 titleHonorowi   : Patronat Honorowy
 titleInstytucje : Patronat Instytucjonalny
 
 item   :
-  - title : Silfra
-    image : images/partnerzy/silfra.jpg
+  - title     : Silfra
+    image     : images/partnerzy/silfra.jpg
     category  : Partner
+    link      : https://www.silfra-consulting.com/
 
-  - title : Vobacom
-    image : images/partnerzy/vobacom.svg
+  - title     : Vobacom
+    image     : images/partnerzy/vobacom.svg
     category  : Partner
+    link      : https://vobacom.pl/
+
+  - title     : Com@Com
+    image     : images/partnerzy/com_a_com.png
+    link      : https://www.comacom.pl/
 
 media  :
   - title : Strefa PMI
