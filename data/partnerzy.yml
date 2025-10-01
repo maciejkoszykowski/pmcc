@@ -29,6 +29,14 @@ media  :
     image_small : images/partnerzy/logo_strefa_small.png
     link: https://strefapmi.pl/
 
+  - title : Radio Gra
+    image : images/partnerzy/radio_gra.png
+    category  : Partner Medialny 
+    small_support: True
+    image_small : images/partnerzy/radio_gra.png
+    link: https://gra.fm/
+
+
 honorowi:
 
   - title : Marszałek Województwa Kuj-Pom
