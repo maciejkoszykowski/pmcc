@@ -18,33 +18,34 @@ program_per_day:
        - slot: "9:00 - 10:00"  # Registration #THIS IS ID to LINK sessions
        - slot: "10:00 - 10:20" # Openning
        - slot: "10:20 - 11:05" # Openning Keynote
-       - slot: "11:05 - 11:15" #### Rooms split
+       - slot: "11:05 - 11:25" #### Rooms split
        - slot: "room split" 
          hide_timing: true
          hide_expand: true
          show_on_desktop: true
          show_on_mobile: true
          no_of_sessions: 2
-       - slot: "11:15 - 11:55" # Stream sessions 1
+       - slot: "11:25 - 12:05" # Stream sessions 1
          no_of_sessions: 2
-       - slot: "11:55 - 12:35" # Stream sessions 2
+       - slot: "12:05 - 12:45" # Stream sessions 2
          no_of_sessions: 2
-       - slot: "12:35 - 12:55" #### Coffe break 1 
+       - slot: "12:45 - 13:35" # Stream sessions 3 partners 
+         no_of_sessions: 2
+       - slot: "13:35 - 14:10" #### LUNCH
        - slot: "room split" 
          hide_timing: true
          hide_expand: true
          show_on_desktop: true
          show_on_mobile: false
          no_of_sessions: 2
-       - slot: "12:55 - 13:35" # Stream sessions 3
+       - slot: "14:10 - 14:50" # Stream sessions 4
          no_of_sessions: 2
-       - slot: "13:35 - 14:15" # Stream sessions 4
+       - slot: "14:50 - 15:30" # Stream sessions 5
          no_of_sessions: 2
-       - slot: "14:15 - 15:00" #### LUNCH
-       - slot: "15:00 - 15:35" # Main session 
-       - slot: "15:35 - 16:20" ## PANEL
-       - slot: "16:20 - 17:05" # Closing Keynote
-       - slot: "17:05 - 17:20" # Conf Closure
+       - slot: "15:30 - 16:00"  #### Coffe break 1 
+       - slot: "16:00 - 16:45" ## PANEL
+       - slot: "16:45 - 17:30" # Closing Keynote
+       - slot: "17:30 - 17:45" # Conf Closure
          end: true
 
     sessions:
@@ -79,7 +80,7 @@ program_per_day:
               która zmienia podejście do jakości danych i weryfikacji rozwiązań.
 
           - number: 15
-            slot: "11:05 - 11:15"
+            slot: "11:05 - 11:25"
             who: ""
             title: "Podział na sale – wybierz prelekcje dla siebie"
             description: >
@@ -98,7 +99,7 @@ program_per_day:
             icon: gear.png
 
           - number: 22
-            slot: "11:15 - 11:55"
+            slot: "11:25 - 12:05"
             who: "Krzysztof Zaborowski"
             title: "AI & Agile = wartość biznesowa" 
             description: >
@@ -112,7 +113,7 @@ program_per_day:
             icon: gear.png
 
           - number: 23
-            slot: "11:55 - 12:35"
+            slot: "12:05 - 12:45"
             who: "Katarzyna Dyl"
             title: Rola Data Scientist w projektach - dobieranie, obróbka i analiza danych projektowych
             description: >
@@ -127,9 +128,17 @@ program_per_day:
               brakami danych historycznych oraz rozbieżnościami między metrykami technicznymi a oczekiwaniami biznesowymi.
               Data Scientist pozwala przejść od „danych jako raportu” do „danych jako narzędzia decyzyjnego” – co przekłada się na realny wpływ na skuteczność realizacji projektu.
             icon: gear.png
-
+          
           - number: 24
-            slot: "12:55 - 13:35"
+            slot: "12:45 - 13:35"
+            who: "Partner"
+            title: "Partner"
+            description: >
+              Partner
+            icon: gear.png
+
+          - number: 26
+            slot: "14:10 - 14:50"
             who: "Wojciech Ożga"
             title: 'Sztuczna inteligencja przez "małe a"'
             description: >
@@ -141,8 +150,8 @@ program_per_day:
               A także przekonają się, dlaczego mimo postępu technologii Project Managerowie wciąż pozostają niezastąpieni.
             icon: gear.png
 
-          - number: 25
-            slot: "13:35 - 14:15"
+          - number: 27
+            slot: "14:50 - 15:30"
             who: "Dorota Mleczko"
             title: "Partnerstwo AI-Project Manager: jak zbudować zespół przyszłości"
             description: >
@@ -162,7 +171,7 @@ program_per_day:
             icon: brain.png
 
           - number: 31
-            slot: "11:15 - 11:55"
+            slot: "11:25 - 12:05"
             who: "Mariusz Kapusta"
             title: "Egzoszkielet lidera projektów: jak budować nową równowagę lidera, managera i koordynatora w świecie AI?"
             description: >
@@ -174,15 +183,23 @@ program_per_day:
             icon: brain.png
 
           - number: 32
-            slot: "11:55 - 12:35"
+            slot: "12:05 - 12:45"
             who: "Marcin Gora"
             title: "Humanizowanie projektów wspieranych przez AI: Jak Project Manager może równoważyć automatyzację z empatią"
             description: >
               Dynamiczny rozwój AI i uczenia maszynowego automatyzuje coraz więcej zadań Project Managerów – od planowania i analizy ryzyk po tworzenie dokumentacji. Rola PM-a przesuwa się więc z funkcji operacyjnej w stronę lidera relacyjnego, wspierającego zespół i budującego zaufanie. Wystąpienie Marcina, oparte na badaniach jakościowych w globalnej organizacji, pokaże, że największe wyzwania pojawiają się już na etapie rozpoznawania potrzeb klienta i definiowania zakresu. AI nie zastąpi empatii, mediacji ani autentycznej komunikacji. Prelekcja wskaże, jak równoważyć automatyzację z kompetencjami miękkimi i przedstawi praktyczne rekomendacje dla PM-ów przyszłości – facylitatorów zaufania i architektów relacji.
             icon: brain.png
 
+          - number: 38
+            slot: "12:45 - 13:35"
+            who: "Partner"
+            title: "Partner"
+            description: >
+              Partner
+            icon: brain.png
+
           - number: 64
-            slot: "12:55 - 13:35"
+            slot: "14:10 - 14:50"
             who: "Aleksandra Sylwester-Kanofocka"
             title: "Mindset PM-a przyszłości: W co inwestować, aby prowadzić projekty z pasją i skutecznością?"
             description: >
@@ -196,7 +213,7 @@ program_per_day:
             icon: brain.png
 
           - number: 65
-            slot: "13:35 - 14:15"
+            slot: "14:50 - 15:30"
             who: "Grzegorz Sztandera"
             title: "Ludzie nie zmienią się w AI"
             description: >
@@ -210,38 +227,34 @@ program_per_day:
 
         ### Main Stage sessions - Part Various
           - number: 110
-            slot: "12:35 - 12:55"
+            slot: "13:35 - 14:10"
+            who: ""
+            title: > 
+                   Lunch z networkingiem <br><br> 
+                   Po przerwie podział na sale – wybierz prelekcje dla siebie 
+            description: >
+              w przerwie warto porozmawiać z jeszcze niepoznaną osobą, przychodząc na konferencje chcemy poznawać wartościowych ludzi.
+
+          - number: 120
+            slot: "15:30 - 16:00"
             who: 
             title: > 
               Wspólna przerwa kawowa z wszystkimi uczestnikami konferencji <br><br> 
-              Po przerwie podział na sale – wybierz prelekcje dla siebie 
-            description: >
-              w przerwie warto porozmawiać z jeszcze niepoznaną osobą, przychodząc na konferencje chcemy poznawać wartościowych ludzi.
-              a po przerwie kolejną prelekcje dla siebie z jednej z dwóch ścieżek. 
-          
-          - number: 120
-            slot: "14:15 - 15:00"
-            who: ""
-            title: Lunch z networkingiem 
+              Po przerwie wracamy na sale główną. 
             description: >
               w przerwie warto porozmawiać z jeszcze niepoznaną osobą, przychodząc na konferencje chcemy poznawać wartościowych ludzi.
 
          ### Main Stage sessions - Part 2 - Closing
-          - number: 220
-            slot: "15:00 - 15:35"
-            who: "Prelegent (TBA)"
-            title: "Temat do ogłoszenia"          
-            description: "Informacje w przygotowaniu"     
 
           - number: 225
-            slot: "15:35 - 16:20"
+            slot: "16:00 - 16:45"
             who: "prowadzący: Maciej&nbsp;Koszykowski"
             title: "Panel w przygotowaniu"
             description: >
               Prowadzący Maciej Koszykowski zaprasza na panel dyskusyjny, którego szczegóły są jeszcze w trakcie ustalania. Szczegółowy program i tematy zostaną podane wkrótce.
 
           - number: 230
-            slot: "16:20 - 17:05"
+            slot: "16:45 - 17:30"
             who: "Closing Keynote: Jan&nbsp;Blew"
             title: "Alchemik sensu: PM jako tłumacz między logiką maszyn a aspiracjami ludzi"
             description: >
@@ -253,7 +266,7 @@ program_per_day:
               dlaczego w świecie zdominowanym przez algorytmy najważniejszym pytaniem pozostaje: „Po co?”.
 
           - number: 250
-            slot: "17:05 - 17:20"
+            slot: "17:30 - 17:45"
             who: "Zamknięcie konferencji"
             title:   "prof. UMK Marlena Ciechan-Kujawa oraz Maciej Koszykowski"          
             description: >
