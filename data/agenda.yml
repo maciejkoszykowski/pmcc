@@ -131,10 +131,10 @@ program_per_day:
           
           - number: 24
             slot: "12:45 - 13:35"
-            who: "Partner"
-            title: "Partner"
+            who: "Do Ogłoszenia"
+            title: "Jak być PM-em w erze 'AI native'?"
             description: >
-              Partner
+              "Do Ogłoszenia"
             icon: gear.png
 
           - number: 26
@@ -192,10 +192,13 @@ program_per_day:
 
           - number: 38
             slot: "12:45 - 13:35"
-            who: "Partner"
-            title: "Partner"
+            who: "Paweł Dudek (Silfra) "
+            title: "Wdrożenie AI to zmiana – jak nią dobrze zarządzić?"
             description: >
-              Partner
+               Sztuczna inteligencja coraz silniej wnika w codzienność organizacji – od Copilota po narzędzia wspierające procesy i zespoły. Każde wdrożenie to jednak przede wszystkim zmiana, której doświadczają ludzie. Prelegent omówi, jak zarządzać tym procesem, by skrócić czas adaptacji, ograniczyć frustrację i realnie zwiększyć korzyści biznesowe. Opowie także o praktykach, które pozwalają budować zaufanie, poczucie sensu i zaangażowanie pracowników – bo to one przesądzają o sukcesie transformacji. 
+               W ramach przygotowań polecamy lekturę artykułu w Strefie PMI – wywiadu Pawła Dudka z Aleksandrą Kepką i Mariuszem Świętochowski na temat ich doświadczeń.
+               https://strefapmi.pl/strefa-wywiadu/strategia-dane-ludzie-klucz-do-adopcji-ai-w-organizacji-na-przykladzie-copilota/
+
             icon: brain.png
 
           - number: 64
