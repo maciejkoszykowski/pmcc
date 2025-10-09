@@ -197,8 +197,8 @@ program_per_day:
             description: >
                Sztuczna inteligencja coraz silniej wnika w codzienność organizacji – od Copilota po narzędzia wspierające procesy i zespoły. Każde wdrożenie to jednak przede wszystkim zmiana, której doświadczają ludzie. Prelegent omówi, jak zarządzać tym procesem, by skrócić czas adaptacji, ograniczyć frustrację i realnie zwiększyć korzyści biznesowe. Opowie także o praktykach, które pozwalają budować zaufanie, poczucie sensu i zaangażowanie pracowników – bo to one przesądzają o sukcesie transformacji. 
                W ramach przygotowań polecamy lekturę artykułu w Strefie PMI – wywiadu Pawła Dudka z Aleksandrą Kepką i Mariuszem Świętochowski na temat ich doświadczeń.
-               https://strefapmi.pl/strefa-wywiadu/strategia-dane-ludzie-klucz-do-adopcji-ai-w-organizacji-na-przykladzie-copilota/
-
+               <a target="_blank" rel="noopener noreferrer" style="color: white !important" href="https://strefapmi.pl/strefa-wywiadu/strategia-dane-ludzie-klucz-do-adopcji-ai-w-organizacji-na-przykladzie-copilota/">
+                    <u> Strefa PMI: 'Strategia, dane, ludzie – klucz do adopcji AI w organizacji na przykładzie Copilota </u></a>
             icon: brain.png
 
           - number: 64
