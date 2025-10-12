@@ -21,6 +21,10 @@ item   :
     image     : images/partnerzy/com_a_com.png
     link      : https://www.comacom.pl/
 
+  - title     : Kopernik
+    image     : images/partnerzy/kopernik.png
+    link      : https://sklepkopernika.pl/
+
 media  :
   - title : Strefa PMI
     image : images/partnerzy/logo_strefa.png
