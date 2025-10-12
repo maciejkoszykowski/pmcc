@@ -1,26 +1,29 @@
 enable  : true
 
 topTitle: PM Connect Conf
-title   : Prowadzący
+title   : Prowadzący dzień wydarzenia
 
 item    :
   - id : 1
     image         : images/speakers/Irmina.png
     name          : Irmina Marcinkiewicz
     linkedInURL   : https://www.linkedin.com/in/irminamarcinkiewicz/
+    designation   : Konferansjer
     description   : >
       Od kilkunastu lat związana z marketingiem. Współwłaścicielka agencji MSU Publishing i wykładowczyni UMK. Psycholog zachowań konsumenckich, absolwentka studiów z marketingu, coachingu i zarządzania projektami. Współpracowała z markami takimi jak Procter & Gamble, Tchibo, Polpharma, Maspex czy Jim Beam. Prowadzi zajęcia z copywritingu, psychologii w marketingu i sprzedaży reklamy. Pomysłodawczyni projektu „COPYSPOT. EKSPERCI PO GODZINACH.” Doradca biznesowy Biura Karier UMK i AIP. Wolontariusz PMI. Menedżer Roku 2017 Gazety Pomorskiej.
 
   - id : 3
     image         : images/speakers/Bartek.png
     name          : Bartosz Bagniewski
+    designation   : Konferansjer
     linkedInURL   : https://www.linkedin.com/in/bartosz-bagniewski-90b85924a/
     description   : >
       Konferansjer, keynote speaker i moderator paneli z doświadczeniem na scenach branżowych, samorządowych i komercyjnych. Specjalizuje się w wydarzeniach o różnorodnej tematyce – od fintechu po marketing i PR. Ceniony za kulturę słowa, elastyczność i wszechstronność. Łączy nowoczesne podejście z inspiracjami ze sztuki i technologii. Stawia na autentyczność oraz markę osobistą. Doktorant w Interdyscyplinarnej Szkole Doktorskiej Nauk Społecznych ARS UMK.
 
   - id : 4
     image         : images/speakers/Anna.png
-    name          : Anna Romanowska Specjalistka ds. networkingu
-    linkedInURL   : https://www.linkedin.com/in/aromanowska/
+    name          : Anna Romanowska 
+    linkedInURL   : https://www.linkedin.com/posts/pmipckuj-pom_pm-connect-conf-2025-activity-7382676003929890816-eSvs
+    designation   : Specjalistka ds. networkingu
     description   : >
       Specjalistka ds. networkingu i organizatorka wielu wydarzeń biznesowych z doświadczeniem w marketingu B2B, która nie tylko „robi eventy”, ale tworzy przestrzenie, w których ludzie realnie chcą być i do których chcą wracać. Jej flagowym projektem jest cykl spotkań LinkedIn Local Toruń, który prowadzi w formule non-profit od 2018 roku. Ania jest osobą uśmiechniętą, pełną energii i kreatywności, która łączy ludzi z różnych branż, dbając o atmosferę sprzyjającą współpracy i wymianie doświadczeń.
