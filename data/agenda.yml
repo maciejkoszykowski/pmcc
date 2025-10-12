@@ -131,10 +131,10 @@ program_per_day:
           
           - number: 24
             slot: "12:45 - 13:35"
-            who: "Do Ogłoszenia"
+            who: Marcin Gaborski
             title: "Jak być PM-em w erze 'AI native'?"
             description: >
-              "Do Ogłoszenia"
+              AI zmienia sposób, w jaki tworzymy oprogramowanie i zarządzamy zespołami. Klasyczny, jeden „setup projektowy” przestaje działać – dziś każdy projekt wymaga indywidualnego podejścia. Podczas sesji prelegent opowie, jak elastycznie dobierać procesy i narzędzia do charakteru projektu, jak wykorzystywać agentów AI do automatyzacji pracy inżynierów oraz jak ewoluuje rola Product Managera – z autora specyfikacji w twórcę prototypów. Na przykładzie monday.com pokaże, jak w praktyce łączyć AI z codziennym zarządzaniem: od generowania backlogu i automatyzacji komunikacji po retrospektywy wspierane przez AI. Uczestnicy wyjdą z inspiracją, jak stworzyć „AI-native” setup dopasowany do swojego zespołu i produktu.
             icon: gear.png
 
           - number: 26
