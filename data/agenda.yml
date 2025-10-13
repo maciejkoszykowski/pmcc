@@ -252,9 +252,10 @@ program_per_day:
           - number: 225
             slot: "16:00 - 16:45"
             who: "prowadzący: Maciej&nbsp;Koszykowski"
-            title: "Panel w przygotowaniu"
+            title: "Panel: Humanizacja roli PMa – konieczność, trend czy kaprys?"
             description: >
-              Prowadzący Maciej Koszykowski zaprasza na panel dyskusyjny, którego szczegóły są jeszcze w trakcie ustalania. Szczegółowy program i tematy zostaną podane wkrótce.
+              W czasach, gdy AI przejmuje zadania analityczne i organizacyjne, prawdziwą wartością lidera projektu staje się jego zdolność do rozumienia ludzi, emocji i kontekstu. Czy to rzeczywiście konieczność wynikająca z transformacji świata pracy, czy tylko modny slogan? Uczestnicy panelu poszukają odpowiedzi, rozważając wpływ technologii, zmian pokoleniowych i kulturowych na rolę kierownika projektu. Być może niektóre odpowiedzi na te pytania pojawiłą się już podczas obu ścieżek konferencji PMCC. 
+              Zachęcamy do pytań i komentarzy – ten panel tworzymy wspólnie z publicznością.
 
           - number: 230
             slot: "16:45 - 17:30"
