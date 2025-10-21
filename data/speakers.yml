@@ -1,7 +1,7 @@
 enable  : true
 
 topTitle: PM Connect Conf
-title   : Prowadzący dzień wydarzenia
+title   : Prowadzący Program Dnia
 
 item    :
   - id : 1
