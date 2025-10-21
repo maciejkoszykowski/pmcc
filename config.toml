@@ -120,7 +120,7 @@ weight = 1
 [[menu.nav]]
 name = "Galeria"
 url = "/galeria"
-weight = 5
+weight = 27
 
 #[[menu.nav]] #call4papers
 #name = "Call for papers"
@@ -130,7 +130,7 @@ weight = 5
 [[menu.nav]]
 name = "Prelegenci"
 url = "#Prelegenci"
-weight = 7
+weight = 3
 
 #[[menu.nav]]
 #name = "Prowadzący"
@@ -141,17 +141,17 @@ weight = 7
 [[menu.nav]]
 name = "Agenda"
 url = "#Agenda"
-weight = 14
+weight = 5
 
-#[[menu.nav]]
-#name = "Panel"
-#url = "#Panel"
-#weight = 15
+[[menu.nav]]
+name = "Panel"
+url = "#Panel"
+weight = 6
 
 [[menu.nav]]
 name = "Bilety"
 url = "#Bilety"
-weight = 17
+weight = 28
 
 [[menu.nav]]
 name = "Partnerzy"
@@ -161,7 +161,7 @@ weight = 18
 [[menu.nav]]
 name = "Lokalizacja"
 url = "#Lokalizacja"
-weight = 22
+weight = 7
 
 [[menu.nav]]
 name = "Zespół"
