@@ -52,10 +52,10 @@ program_per_day:
         ### Main Stage sessions - Part 1 
           - number: 1
             slot: "9:00 - 10:00"
-            who: "Rejestracja"
+            who: "Rejestracja uczestników i networking przy kawie"
             title:  # null
             description: >
-              Przyjdź i zarejestruj się, uniknij kolejki i skorzystaj z nieformalnego networkingu przed wydarzeniem. 
+              Przyjdź i zarejestruj się, uniknij kolejki i skorzystaj z networkingu przed wydarzeniem. 
 
           - number: 5
             slot: "10:00 - 10:20"
@@ -95,7 +95,7 @@ program_per_day:
           - number: 20
             slot: "room split" 
             #room: Sala not used
-            title: Sala Ścieżki Twardej
+            title: "Ścieżka Twarda [sala VIII]"
             icon: gear.png
 
           - number: 22
@@ -167,7 +167,7 @@ program_per_day:
           - number: 30
             slot: "room split" 
             #room: Sala not used
-            title: Sala Ścieżki Miękkiej 
+            title: "Ścieżka Miękka [sala IX]"
             icon: brain.png
 
           - number: 31
