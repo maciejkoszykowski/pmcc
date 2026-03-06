@@ -126,15 +126,15 @@ name = "Galeria"
 url = "/galeria"
 weight = 27
 
-#[[menu.nav]] #call4papers
-#name = "Call for papers"
-#url = "#call4papers"
-#weight = 7
+[[menu.nav]] #call4papers
+name = "Call for papers"
+url = "#call4papers"
+weight = 7
 
-[[menu.nav]]
-name = "Prelegenci"
-url = "#Prelegenci"
-weight = 3
+#[[menu.nav]]
+#name = "Prelegenci"
+#url = "#Prelegenci"
+#weight = 3
 
 #[[menu.nav]]
 #name = "Prowadzący"
@@ -142,35 +142,35 @@ weight = 3
 #weight = 10
 
 
-[[menu.nav]]
-name = "Agenda"
-url = "#Agenda"
-weight = 5
+#[[menu.nav]]
+#name = "Agenda"
+#url = "#Agenda"
+#weight = 5
 
-[[menu.nav]]
-name = "Panel"
-url = "#Panel"
-weight = 6
+#[[menu.nav]]
+#name = "Panel"
+#url = "#Panel"
+#weight = 6
 
-[[menu.nav]]
-name = "Bilety"
-url = "#Bilety"
-weight = 28
+#[[menu.nav]]
+#name = "Bilety"
+#url = "#Bilety"
+#weight = 28
 
-[[menu.nav]]
-name = "Partnerzy"
-url = "#Partnerzy"
-weight = 18
+#[[menu.nav]]
+#name = "Partnerzy"
+#url = "#Partnerzy"
+#weight = 18
 
 [[menu.nav]]
 name = "Lokalizacja"
 url = "#Lokalizacja"
 weight = 7
 
-[[menu.nav]]
-name = "Zespół"
-url = "#Zespol"
-weight = 25
+#[[menu.nav]]
+#name = "Zespół"
+#url = "#Zespol"
+#weight = 25
 
 [[menu.nav]]
 name = "Regulamin"
@@ -181,6 +181,11 @@ weight = 28
 name = "2024"
 url = "https://pmcc.pmi.org.pl/2024"
 weight = 30
+
+[[menu.nav]]
+name = "2025"
+url = "https://pmcc.pmi.org.pl/2025"
+weight = 31
 
 # Footer Quick links Menu
 [[menu.quicklink]]
