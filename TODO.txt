@@ -1,0 +1,23 @@
+TODO:
+
+google tracking ID
+
+unhard code it
+
+# google analytics tracking id
+# googleAnalytics = "DIFFRENT" # NOT USED HARDCODED IN THEME ###
+
+
+tempo changes - this are not generic !!!!
+
+PMI_PC="Wydział Nauk Ekonomicznych i Zarządzania"
+PMI_PC_pl="UMK w Toruniu"
+PMI_PC_address_ul="ul. Gagarina 13a"
+PMI_PC_address_code="87-100 Toruń"
+PMI_PC_NIP= "   "
+
+
+
+---->>>> Polityka prywatności
+
+
