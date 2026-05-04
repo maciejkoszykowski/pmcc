@@ -1,4 +1,4 @@
-enable  : false
+enable  : true
 topTitle: PM Connect Conf
 title   : Bilety
 subtitle : >
@@ -8,74 +8,101 @@ subtitle : >
 
 item  :
   - name        : Early birds - Regular
-    price       : 199 PLN
+    price       : 349 PLN
     description :
     featurelist :
       - item: cena obowiązuje w terminie
-      - item: 14 lipca 2025 – 20 września 2025
+      - item: 01 sierpnia 2026 – 30 września 2026
       - item: " "
-      - item: udział we wszystkich prelekcjach podczas konferencji w dniu 25 października
+      - item: udział we wszystkich prelekcjach podczas konferencji w dniu 24 października
       - item: poczęstunek w trakcie przerw
       # - item: warsztat oddzielnie płatny 
     btnText     : Kup Bilet
-    btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2025/
+    btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2026/
 
   - name        : Normal Ticket - Regular 
-    price       : 249 PLN
+    price       : 449 PLN
     description :
     featurelist :
       - item: cena obowiązuje w terminie
-      - item: 21 września 2025 – 23 października 2025
+      - item: 01 października 2026 – 21 października 2026
       - item: " "
-      - item: udział we wszystkich prelekcjach podczas konferencji w dniu 25 października
+      - item: udział we wszystkich prelekcjach podczas konferencji w dniu 24 października
       - item: poczęstunek w trakcie przerw
       # - item: warsztat oddzielnie płatny 
     btnText     : Kup Bilet
-    btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2025/
+    btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2026/
     
   - name        : Late birds
-    price       : 349 PLN
+    price       : 599 PLN
     description : 
     featurelist :
       - item: cena obowiązuje w terminie 
-      - item: 24-25 października 2025
+      - item: 22-24 października 2025
       - item: " "
-      - item: udział we wszystkich prelekcjach podczas konferencji w dniu 25 października
+      - item: udział we wszystkich prelekcjach podczas konferencji w dniu 24 października
       - item: poczęstunek w trakcie przerw
       # - item: warsztat oddzielnie płatny 
     btnText     : Kup Bilet
-    btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2025/
+    btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2026/
 
   - name        : Early birds - Partner/PMI Member
-    price       : 149 PLN
+    price       : 299 PLN
     description : 
     featurelist :
       - item: cena obowiązuje w terminie 
-      - item: 14 lipca 2025 – 20 września 2025
+      - item: 01 sierpnia 2026 – 30 września 2026
       - item: " "
       - item: cena promocyjna wyłącznie 
       - item: dla czlonków PMI PC oraz dla pracowników, członków i partnerów wydarzania
-      - item: udział we wszystkich prelekcjach podczas konferencji w dniu 25 października
+      - item: udział we wszystkich prelekcjach podczas konferencji w dniu 24 października
       - item: poczęstunek w trakcie przerw
       # - item: warsztat oddzielnie płatny 
     btnText     : Kup Bilet
-    btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2025/
+    btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2026/
 
 
   - name        : Normal Discounted - Partner/PMI
+    price       : 399 PLN
+    description : 
+    featurelist :
+      - item: cena obowiązuje w terminie
+      - item: 01 października 2026 – 21 października 2026
+      - item: "  "
+      - item: cena promocyjna wyłącznie
+      - item: dla czlonków PMI PC oraz dla pracowników, członków i partnerów wydarzania
+      - item: udział we wszystkich prelekcjach podczas konferencji w dniu 24 października
+      - item: poczęstunek w trakcie przerw
+     #  - item: warsztat oddzielnie płatny 
+    btnText     : Kup Bilet
+    btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2026/
+
+  - name        : Blind Sale
     price       : 199 PLN
     description : 
     featurelist :
       - item: cena obowiązuje w terminie
-      - item: 21 września 2025 – 23 października 2025
+      - item: 04 maja 2026 – 04 czerwca 2026
       - item: "  "
-      - item: cena promocyjna wyłącznie
-      - item: dla czlonków PMI PC oraz dla pracowników, członków i partnerów wydarzania
-      - item: udział we wszystkich prelekcjach podczas konferencji w dniu 25 października
+      - item: cena promocyjna wyłącznie dla osób indywidualnych 
+      - item: brak opcji zakupu grupowego
+      - item: udział we wszystkich prelekcjach podczas konferencji w dniu 24 października
       - item: poczęstunek w trakcie przerw
      #  - item: warsztat oddzielnie płatny 
     btnText     : Kup Bilet
-    btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2025/
+    btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2026/
 
-
+  - name        : Summer Sale 
+    price       : 249 PLN
+    description : 
+    featurelist :
+      - item: cena obowiązuje w terminie
+      - item: 05 czerwca 2026 – 31 lipca 2026
+      - item: "  "
+      - item: cena promocyjna dla klientów indywidualnych i grup
+      - item: udział we wszystkich prelekcjach podczas konferencji w dniu 24 października
+      - item: poczęstunek w trakcie przerw
+     #  - item: warsztat oddzielnie płatny 
+    btnText     : Kup Bilet
+    btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2026/
 
