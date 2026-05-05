@@ -19,9 +19,9 @@ day1_date: " "
 day2_date: " " # not used in 2025
 
 
-button: false
+button: true
 btnText: "Kup Bilet"
 #btnText: "Zgłoś swój temat"
 
-btnURL: "https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2025/"
+btnURL: "https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2026/"
 #btnURL = "mailto:kujawsko-pomorskie@pmi.org.pl?subject=PMCC 2025 zgłoszenie prelekcji: temat wystąpienia&body=Imię i nazwisko: \nTytuł wystąpienia: \nKategoria: \n\nPrzesyłam rozszerzony abstrakt (do 4000 znaków): \n"
