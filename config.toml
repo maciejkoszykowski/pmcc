@@ -126,10 +126,10 @@ name = "Galeria"
 url = "/galeria"
 weight = 27
 
-[[menu.nav]] #call4papers
-name = "Call for papers"
-url = "#call4papers"
-weight = 7
+#[[menu.nav]] #call4papers
+#name = "Call for papers"
+#url = "#call4papers"
+#weight = 7
 
 #[[menu.nav]]
 #name = "Prelegenci"
