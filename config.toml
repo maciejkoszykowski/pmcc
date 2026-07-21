@@ -142,10 +142,10 @@ weight = 27
 #weight = 10
 
 
-#[[menu.nav]]
-#name = "Agenda"
-#url = "#Agenda"
-#weight = 5
+[[menu.nav]]
+name = "Agenda"
+url = "#Agenda"
+weight = 5
 
 #[[menu.nav]]
 #name = "Panel"
