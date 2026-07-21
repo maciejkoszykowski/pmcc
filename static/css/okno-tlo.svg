@@ -1,0 +1,106 @@
+<svg viewBox="0 0 425 443" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Background -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e0d39"/>
+      <stop offset="55%" stop-color="#170a2d"/>
+      <stop offset="100%" stop-color="#140528"/>
+    </linearGradient>
+
+
+    <!-- Light gradient -->
+    <linearGradient id="glowGrad" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" 
+            stop-color="#5F3CA9"
+            stop-opacity="0.6"/>
+
+      <stop offset="100%" 
+            stop-color="#231143"
+            stop-opacity="0"/>
+    </linearGradient>
+   <!-- Light gradient -->
+    <linearGradient id="glowGrad2" x1="100%" y1="0%" x2="0%" y2="0%">
+       <stop offset="0%"   stop-color="#e9d7ea"/>
+      <stop offset="20%" 
+            stop-color="#5F3CA9"/>
+      <stop offset="100%" 
+            stop-color="#341E66"/>
+            
+    </linearGradient>
+
+       <radialGradient id="glowGrad3" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+        gradientTransform="translate(410 221) scale(222 175)">
+      <stop offset="0%"   stop-color="#e9d7ea"/>
+      <stop offset="10%"  stop-color="#ddc0dd"/>
+      <stop offset="18%"  stop-color="#b28ec0"/>
+      <stop offset="30%"  stop-color="#7d549e"/>
+      <stop offset="45%"  stop-color="#4c2c78"/>
+      <stop offset="65%"  stop-color="#241247"/>
+      <stop offset="85%"  stop-color="#180b34"/>
+      <stop offset="100%" stop-color="#170a2d"/>
+    </radialGradient>
+
+    <!-- Blur filter -->
+    <filter id="edgeBlur">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+    
+    <!-- Blur filter -->
+    <filter id="edgeBlur2">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
+
+  </defs>
+
+
+  <!-- Background -->
+  <rect 
+      width="425" 
+      height="443"
+      fill="url(#bgGrad)"/>
+
+
+  <!-- Soft blurred edge 
+  <polygon
+      points="
+        425,80
+        425,363
+        120,443
+        120,0"
+      fill="url(#glowGrad)"
+      filter="url(#edgeBlur)"
+      opacity="0.9"/>-->
+
+ <!-- 3. Small window / glass reflection 
+ 390,130    ← top-right
+390,310    ← bottom-right
+300,340    ← bottom-left
+300,100    ← top-left
+ -->
+ <!-- Small window trapezoid TEST -->
+    <!-- Small trapezoid: LEFT SMALL, RIGHT BIG -->
+  <polygon
+      points="
+        425,80
+        425,363
+        330,295
+        330,170"
+        fill="url(#glowGrad3)"
+ filter="url(#edgeBlur2)"
+      opacity="0.4"/>
+  <!-- Main trapezoid -->
+  <polygon
+      points="
+        425,80
+        425,363
+        120,443
+        120,0"
+      fill="url(#glowGrad)"
+      filter="url(#edgeBlur)"
+      opacity="0.7"/>
+
+
+
+</svg>
