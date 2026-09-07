@@ -1,3 +1,6 @@
 CLAUDE.md
 .claude/
 .hugo_build.lock
+activity.log
+tmp/*
+!tmp/.gitkeep

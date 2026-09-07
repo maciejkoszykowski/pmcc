@@ -49,6 +49,7 @@ pmcc/
 ├── public/                   # not git versioned, only simple update notification page  
 ├── resources/                # not used, all in theme   
 ├── static/                   # Static assets (CSS, JS, images)
+├── sources_archive/          # Raw design assets (logos, photos, source files) kept for reference; not used directly by the Hugo build
 ├── themes/
 │   └── navigator-hugo/       # Theme folder (customized)
 └── README.md
@@ -63,10 +64,13 @@ pmcc/
 - [Install Hugo](https://gohugo.io/getting-started/install/)
 - Clone the repository:
   ```bash
-  git clone https://github.com/PMI-Polska/pmcc.git
+  git clone https://github.com/maciejkoszykowski/pmcc.git
   cd pmcc
+  git submodule update --init --recursive
   ```
 _Note: it is better to use git, and some IDE like VS code, but you can go the hard way._
+
+_The theme (`themes/navigator-hugo`) is a git submodule — the `git submodule update --init --recursive` step above is required, otherwise the theme folder is empty and `hugo server` fails._
 
 ### Run locally
 
