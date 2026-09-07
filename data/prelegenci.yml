@@ -1,144 +1,113 @@
-enable  : false
+enable  : true
 
 topTitle: PM Connect Conf
 title   : Prelegenci
 
 show_items: true
 
-message: 
-# >
-#       Sylwetki prelegentów będą sukcesywnie pojawiać się na stronie konferencji po ich wcześniejszym przedstawieniu w mediach społecznościowych.
-#       <br> Zachęcamy do obserwowania naszych kanałów na LinkedIn oraz Facebooku, gdzie na bieżąco publikujemy informacje o programie i prelegentach.  
-#        <br> Odnośniki do naszych mediów społecznościowych znajdą Państwo <a href="#Lokalizacja">na dole naszej strony.</a> 
+message: >
+       Sylwetki prelegentów będą sukcesywnie pojawiać się na stronie konferencji po ich wcześniejszym przedstawieniu w mediach społecznościowych.
+       <br> Zachęcamy do obserwowania naszych kanałów na LinkedIn oraz Facebooku, gdzie na bieżąco publikujemy informacje o programie i prelegentach.  
+        <br> Odnośniki do naszych mediów społecznościowych znajdą Państwo <a href="#Lokalizacja">na dole naszej strony.</a> 
 
 item    :
   - id : 1
-    image : images/prelegenci/radoslawk.png
-    title : Radosław Kita, AI Director w TVN Warner Bros. Discovery.
+    image : images/prelegenci/jakub_g.png
+    title : prof. Jakub Growiec
     description : >
-         Odpowiadał za stworzenie systemów korzystających z uczenia maszynowego oraz AI w 
-         Ringier Axel Springer Polska, Alior Banku, Allegro, Veon, Showmax i Adform. 
-    
-         Prowadzi zajęcia na studiach executive MBA i MBA prowadzonych na Akademii Leona Koźmińskiego oraz 
-         „MBA – Innowacje i Analiza Danych” prowadzonych na SWPS we współpracy z Woodbury School of Business w Utah Valley University (USA) 
-         oraz z Instytutem Podstaw Informatyki PAN.
+         Profesor ekonomii, Szkoła Główna Handlowa w Warszawie. Jego główne zainteresowania badawcze to wzrost gospodarczy, postęp technologiczny i ekonomia transformatywnej AI. Opublikował 35 artykułów naukowych w prestiżowych czasopismach międzynarodowych oraz monografię Accelerating Economic Growth: Lessons From 200 000 Years of Technological Progress and Human Development (Springer, 2022). Uważa, że transformatywna AI będzie źródłem ryzyka egzystencjalnego dla ludzkości.
 
-    linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2025-pmcc2025-pmconnectconf-activity-7351128567268704257-pU1i 
-
+    linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2026-pmcc2026-projectmanagement-activity-7483773758785306624-moJW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABsjpsBesX7_3-a3jKl9GtPbminHIt_Ff0
   - id : 5
-    image : images/prelegenci/janblew.png
-    title : Jan Blew
+    image : images/prelegenci/tomasz_z.png
+    title : dr Tomasz Żabiński
     description : >
-         Manager i researcher w zakresie innowacji, analityki biznesowej i facylitacji
-         zespołów z 25-letnim doświadczeniem w branży IT.
-         Prowadził projekty z zakresu analityki danych, e-commerce oraz integracji
-         technologicznych — w tym dla PwC, IBM, w zakresie retailu (Answear.com,
-         Bytom, House) oraz w ramach funduszy badawczych NCBiR (projekty
-         związane z AI). Współpracuje z Wrocławską Akademią Biznesu i zainicjował największą polską
-         społeczność na LinkedIn związanej z AI 
-         <a href="https://www.linkedin.com/groups/9810710/" target="_blank">“AI vista360 - obiektywnie o
-         AI”</a>.
-    linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2025-pmcc2025-pmconnectconf-activity-7353394558853906433-1TiZ
-
+         Doktor nauk technicznych w dyscyplinie automatyka i robotyka (AGH w Krakowie), przedsiębiorca i menedżer z ponad 20-letnim doświadczeniem na styku nauki, biznesu, technologii i innowacji. Doświadczenie zdobywał jako założyciel i współwłaściciel spółki technologicznej z obszaru IT i automatyki oraz członek zarządów lub prezes spółek różnej wielkości, np. Europa Systems. Posiada praktyczne doświadczenie właścicielskie w budowaniu i skalowaniu startupów technologicznych, pozyskiwaniu kapitału zewnętrznego oraz przeprowadzaniu procesów sprzedaży spółki (Exited Founder).
+         W środowisku korporacyjnym tworzył i rozwijał struktury Corporate Incubator, wspierając rozwój nowych przedsięwzięć technologicznych oraz wdrażanie innowacji w dużych organizacjach. Zarządzał zespołami badawczo-rozwojowymi i inżynierskimi pracującymi nad rozwiązaniami z zakresu automatyki, oprogramowania, sztucznej inteligencji i systemów wspierających cyfryzację procesów przemysłowych.
+          Obecnie kieruje Laboratorium Zastosowań Sztucznej Inteligencji i Robotów Humanoidalnych na Politechnice Rzeszowskiej oraz jest współwłaścicielem i prezesem spółki doradczo-technologicznej 4Anatropi. Autor i współautor ponad 70 publikacji naukowych, konsultant i doradca w projektach technologicznych i innowacyjnych. Jego zainteresowania koncentrują się wokół praktycznych zastosowań koncepcji Przemysłu 4.0, w tym sztucznej inteligencji, robotyki oraz cyfryzacji systemów produkcyjnych i logistycznych.
+    linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2026-pmcc2026-projectmanagement-activity-7484858385851486208-DVZe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABsjpsBesX7_3-a3jKl9GtPbminHIt_Ff0
 
   - id : 10
-    image : images/prelegenci/Aleksandra-Sylweter-Kanofocka.png
-    title : Aleksandra Sylweter-Kanofocka
+    image : images/prelegenci/lucyna_l.png
+    title : Lucyna Ławniczak
     description : >
-        Trenerka, mentorka oraz menedżerka projektów i programów z ponad 17-letnim doświadczeniem zawodowym. 
-        Prowadziła międzynarodowe, strategiczne projekty m.in. dla Komisji Europejskiej, Ministerstwa Środowiska.
-        Od 2011 roku zarządza projektami technologicznymi dla globalnych korporacji IT.
-        Jej osiągnięcia zostały docenione m.in. nagrodą Top Talent przez Kyndryl Global Project Management Profession.
-        Jest autorką bloga i serii inspiracyjno-edukacyjnej dla liderów „World of Projects”, 
-        a także współautorką książek „Pasja” i „Szansa”. Pasjonuje się górami i fotografią. 
-        Ekspertka współpracująca z PMI, IPMA i Uniwersytetem Ekonomicznym.
+        Ambasadorka zmiany wg Emerging Change, konsultant organizacyjny, executive coach, psycholog, trener, mentor Fundacji Firm Rodzinnych, właściciel Autonomia Consulting. Dzięki narzędziom Teorii Ograniczeń osiąga z klientami przełomowe rezultaty w krótkim czasie. Rozwiązania psychodynamiki systemów wg Analizy Transakcyjnej ułatwiają jej wprowadzanie zmian i budowanie kultury zaangażowania. Od ponad 30 lat inspiruje, szkoli, pomaga wykorzystywać talenty ludzi, potencjały organizacji.  Dzięki zwinnemu podejściu w prowadzeniu projektów usprawnieniowych modeluje większą elastyczność organizacji klienta.
 
-    linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2025-pmcc-ai-activity-7366033673093107713-XnoV
+    linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2026-pmcc2026-projectmanagement-activity-7485925418907316224-ivEU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABsjpsBesX7_3-a3jKl9GtPbminHIt_Ff0
 
 
 
   - id : 12
-    image : images/prelegenci/Katarzyna-Dyl.png
-    title : Katarzyna Dyl
+    image : images/prelegenci/lukasz_k.png
+    title : Łukasz Karwacki
     description : > 
-          Katarzyna pracuje z danymi od 2018 roku. Zdobywała doświadczenie w 5 różnych formach -  od korporacji, po start-upy i scale-upy - 
-          na stanowiskach takich jak Data Scientist, Machine Learning Engineer oraz Data Analyst. W 2023 roku objęła stanowisko Senior Data Scientist.
-          Od ponad trzech lat prowadzi działalność edukacyjną pod marką Crappy Data, gdzie uczy jak świadomie pracować z danymi, 
-          rozwijać kompetencje techniczne i budować karierę w tej branży. Wspiera również osoby początkujące jako mentorka.        
-    linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2025-pmcc2025-pmconnectconf-activity-7360910602577367041-OdVy
-
+          Pomaga liderom technologicznym, ekspertom i zarządom zamieniać złożone tematy w klarowną komunikację, która prowadzi do decyzji i realnego wpływu biznesowego. Pracuje na styku komunikacji, przywództwa i procesów decyzyjnych w momentach krytycznych decyzji, od prezentacji dla zarządów po wystąpienia konferencyjne i rozmowy strategiczne. Ma doświadczenie inżynierskie i ponad 20 lat doświadczenia w IT. Współpracował z ponad 70 mówcami przygotowującymi się do wystąpień TEDx, a jego podejście koncentruje się na clarity, executive presence i projektowaniu rozmów, które kończą się decyzjami.        
+    linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2026-pmcc2026-projectmanagement-activity-7487378898872160257-XPr9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABsjpsBesX7_3-a3jKl9GtPbminHIt_Ff0
   - id : 15
-    image : images/prelegenci/Marcin-Gora.png
-    title : Marcin Gora
-    description : >
-         Marcin to praktyk zarządzania projektami i programami z ponad 18-letnim doświadczeniem w implementacji systemów ERP 
-         oraz prowadzeniu międzynarodowych programów dla globalnych organizacji. Jego głównym celem jest skuteczne zarządzanie 
-         transformacjami organizacyjnymi i transferem wiedzy, z wykorzystaniem dostosowanych, hybrydowych podejść, które zapewniają sukces projektów.
-         Obecnie pracuje nad rozprawą doktorską na temat transferu wiedzy w projektach oraz tworzenia 
-         dedykowanych hybrydowych metodologii zarządzania projektami.        
-    linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2025-pmcc-ai-activity-7363448384743002113-9TBw
-
-  - id : 25
-    image : images/prelegenci/Krzysztof-Zaborowski.png
-    title : Krzysztof Zaborowski
-    description : >
-        Ekspert w budowaniu zwinnych systemów realizacji strategii; zarządzania zmianą, portfelami, programami, projektami, 
-        rozwojem produktów i profesjonalistów. Zbudował organizacje Enterprise PMO, 
-        które zapewniły skuteczną realizację celów strategicznych. 
-        Zarządzał portfelami setek komponentów w każdym obszarze działalności biznesowej i budżetami setek mEur, 
-        w środowisku międzynarodowym. Lider, mentor, coach, trener, juror PMO Global Awards, recenzent PMI PMO Practice Guide, wykładowca.
-    linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2025-pmcc2025-pmconnectconf-activity-7358353587971731456-KL6B
-
-  - id : 30
-    image : images/prelegenci/Mariusz-Kapusta.png
-    title : Mariusz Kapusta
-    description : >
-        Ekspert, praktyk i pasjonat zarządzania projektami. Jego ponad 20-letnie doświadczenie obejmuje prowadzenie międzynarodowych projektów IT 
-        oraz tworzenie i wdrażanie procesów zarządzania projektami w różnych branżach.
-        Jest uznanym mówcą i mentorem w dziedzinie przywództwa oraz narzędzi projektowych.
-        Prowadzi firmę doradczo-szkoleniową Leadership Center, a także największy w Polsce kanał na YouTube o zarządzaniu projektami – Zarządzanie Projektami – Mariusz Kapusta.
-        Twórca metody 12 pytań KISS PM®, autor książki „Zarządzanie projektami krok po kroku”.
-        Prywatnie pasjonat strzelectwa dynamicznego i intelektualnych wyzwań.        
-    linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2025-pmcc2025-pmconnectconf-activity-7355820631956799488-GVBy
-
-  - id : 35
-    image : images/prelegenci/Wojciech-Ozga.png
-    title : Wojciech Ożga
-    description : >
-        Wojciech to doświadczony praktyk i trener biznesu, od ponad 25 lat wspierający organizacje w efektywnym zarządzaniu projektami i procesami. Doradza firmom, prowadzi specjalistyczne szkolenia oraz wykłada na studiach MBA i podyplomowych. Zaufało mu już ponad 85 firm. Jest zwolennikiem pragmatycznego podejścia, rekomendując wdrażanie tylko tych metod, metodyk i narzędzi, które gwarantują realne rezultaty i skuteczne osiąganie celów biznesowych.
-    linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2025-pmcc-ai-activity-7371052261151690752-IUjM
-
-  - id : 40
-    image : images/prelegenci/Dorota-Mleczko.png
+    image : images/prelegenci/dorota_m.png
     title : Dorota Mleczko
     description : >
-        Dorota jest Konsultantką AI oraz założycielką Paloma's AI Academy, gdzie z pasją pomaga profesjonalistom zdobywać praktyczne umiejętności AI bez zbędnej technicznej złożoności. 
-        Przez 10 lat zdobywała doświadczenie w prowadzeniu projektów i zespołów, w tym 5 lat jako Agile Coach. Teraz łączy zwinne praktyki z możliwościami sztucznej inteligencji, co tworzy jej unikalne podejście do transformacji cyfrowej.
-    linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2025-pmcc-ai-activity-7368515549951086592-dDm-
+         Dorota jest Konsultantką AI oraz założycielką Paloma's AI Academy, gdzie z pasją pomaga profesjonalistom zdobywać praktyczne umiejętności AI bez zbędnej technicznej złożoności. 
+         Przez 10 lat zdobywała doświadczenie w prowadzeniu projektów i zespołów, w tym 5 lat jako Agile Coach. Teraz łączy zwinne praktyki z możliwościami sztucznej inteligencji, co tworzy jej unikalne podejście do transformacji cyfrowej.   
+    linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2026-pmcc2026-projectmanagement-activity-7488104776979836928-m52L?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABsjpsBesX7_3-a3jKl9GtPbminHIt_Ff0
 
-  - id : 45
-    image : images/prelegenci/Grzegorz-Sztandera.png
-    title : Grzegorz Sztandera
+  - id : 25
+    image : images/prelegenci/pawel_sz.png
+    title : dr Paweł Szczęsny
     description : >
-          Product Owner, który w sektorze finansowym prowadzi złożone projekty technologiczne na styku IT, biznesu i regulacji - zawsze koncentrując się na przejrzystości, 
-          zwinności i budowaniu mostów między zespołami. Stworzył od podstaw obszar kompetencji DevOps w jednej z polskich firm, 
-          zarządzając w oparciu o podejście people-first. W swojej pracy zawsze zadaje pytanie: „A co jeśli zrobimy to inaczej?”. 
-          Organizator i mówca TEDx, prelegent międzynarodowych konferencji IT, autor książek dla dzieci.
-    linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2025-pmcc-ai-activity-7373226573694603265-TEhG
+        Executive, founder i psycholog specjalizujący się w AI, syntetycznej kognicji i innowacjach opartych na danych. Ma wieloletnie doświadczenie w rolach liderskich na styku nauki, technologii i biznesu, obejmujące startupy AI, transformacje organizacji w kierunku AI-first, zarządzanie R&D oraz współpracę z sektorem farmaceutycznym i dużymi organizacjami. 
+        Obecnie rozwija przedsięwzięcia związane z psychologią AI i projektowaniem syntetycznych person wspierających analizę decyzji, komunikacji i ryzyka w organizacjach.
+    linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2026-pmcc2026-projectmanagement-activity-7492814577207009280-npNO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABsjpsBesX7_3-a3jKl9GtPbminHIt_Ff0
+  
+  - id : 30
+    image : images/prelegenci/lukasz_w.png
+    title : dr Łukasz Wojtkowski
+    description : >
+        Menedżer projektów, strateg i badacz z wieloletnim doświadczeniem na styku biznesu i technologii. 
+        Specjalizuje się w projektowaniu i wdrażaniu rozwiązań AI w procesy organizacji. Zajmuje się analizami z zakresu wyjaśniania relacji człowieka z systemami sztucznej inteligencji na poziomie sprawczości i unboxingu algorytmów. Współpracuje z instytucjami naukowymi i firmami technologicznymi, tworząc infrastruktury danych, modele predykcyjne i systemy XAI. 
+        Ma wieloletnie doświadczenie w zarządzaniu projektami b+r realizowanymi w Polsce, Portugalii, Anglii, Holandii i Belgii. Doradza organizacjom publicznym i biznesowym w zakresie strategii cyfrowych i wdrażania narzędzi AI. 
+        Prowadzi zajęcia i szkolenia z komunikacji, innowacji i nowych technologii, łącząc doświadczenie akademickie z praktyką projektową.  
+    linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2026-pmcc2026-projectmanagement-activity-7495353792578666497-QpbB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABsjpsBesX7_3-a3jKl9GtPbminHIt_Ff0
 
-  - id : 55
-    image : images/prelegenci/Pawel-Dudek.png
-    title : Paweł Dudek
+  - id : 35
+    image : images/prelegenci/katarzyna_m.png
+    title : Katarzyna Michno
     description : >
-          Paweł to ekspert w zarządzaniu zmianą i rozwoju biznesu, konsultant w Silfra Consulting i Gekko AdvisoryNow. 
-          W latach 2020–2024 Organizational Change Manager w międzynarodowych korporacjach biotechnologicznych, 
-          farmaceutycznych i technologicznych. Były prezes WARS S.A., wcześniej związany z Bird & Bird i Medicover. 
-          Wykładowca MBA w ALK i UW, certyfikowany instruktor Prosci®. Absolwent Harvard Business School, MIT Sloan i SGH.
-    linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2025-pmcc-ai-activity-7381230547496267776-gVds
+        Katarzyna Michno to Project Manager i analityk strategiczny z 19-letnim doświadczeniem w zarządzaniu portfelem projektów inwestycyjnych i badawczo-rozwojowych. Zrealizowała ponad 350 projektów o łącznej wartości ponad 800 mln PLN pozyskanego kapitału — dla polskich i międzynarodowych korporacji, jednostek sektora finansów publicznych oraz uczelni wyższych. Pełni funkcję zarządzającego 4Anatropi Sp. z o.o. — firmy doradczej specjalizującej się w strategii innowacji, finansowaniu B+R oraz wdrożeniach technologicznych w sektorach HiTech, robotyki, UAV, MedTech i cyfryzacji przemysłowej.
+        Absolwentka ekonomii z wyróżnieniem, stypendystka Ministra Nauki i Szkolnictwa Wyższego, MBA (ścieżka angielskojęzyczna). Posiada międzynarodowe certyfikaty z zarządzania projektami i finansami, a także wieloletnią praktykę w modelowaniu finansowym, wycenie spółek i strukturyzacji złożonych projektów innowacyjnych.
+        Od kilku lat koncentruje się na przecięciu zarządzania projektami i sztucznej inteligencji — prowadzi badania w ramach przygotowywanej pracy doktorskiej poświęconej modelowi AI-driven Project Management (ADPM), osadzonemu w paradygmacie human-autonomy teaming. Jej praca łączy perspektywę praktyka — koordynatora setek projektów — z ambicją zbudowania nowego standardu metodycznego dla hybrydowych zespołów człowiek–AI. Aktywnie uczestniczy w projektach konsorcyjnych Horizon Europe oraz aplikacjach w programie Ścieżka SMART / FENG.
+    linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2026-pmcc2026-projectmanagement-activity-7500789610705461248-jIKD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABsjpsBesX7_3-a3jKl9GtPbminHIt_Ff0
 
-  - id : 57
-    image : images/prelegenci/Marcin-Gaborski.png
-    title : Marcin Gaborski
-    description : >
-          Senior Group Lead w monday.com, odpowiedzialny za rozwój obszarów inżynierii i wykorzystanie sztucznej inteligencji w procesach tworzenia oprogramowania. Od ponad 17 lat w branży IT, zdobywał doświadczenie w Visa, Samsung, Opera i startupach technologicznych. Specjalizuje się w budowaniu zespołów inżynierskich, skalowaniu organizacji technologicznych i wykorzystywaniu sztucznej inteligencji w procesach tworzenia oprogramowania. Łączy świat technologii, produktu i ludzi, tworząc środowiska pracy sprzyjające współpracy, rozwojowi i powstawaniu innowacji.
-    linkedin_post: https://www.linkedin.com/in/marcin-gaborski-2b227611/
+  # - id : 40
+  #   image : images/prelegenci/izabela_l.png
+  #   title : Izabela Lipińska
+  #   description : >
+  #        Dorota 
+  #   linkedin_post: https://www.linkedin.com/company/pmipckuj-pom/posts/?feedView=all
+
+  # - id : 45
+  #   image : images/prelegenci/Grzegorz-Sztandera.png
+  #   title : Grzegorz Sztandera
+  #   description : >
+  #         Product Owner, który w sektorze finansowym prowadzi złożone projekty technologiczne na styku IT, biznesu i regulacji - zawsze koncentrując się na przejrzystości, 
+  #         zwinności i budowaniu mostów między zespołami. Stworzył od podstaw obszar kompetencji DevOps w jednej z polskich firm, 
+  #         zarządzając w oparciu o podejście people-first. W swojej pracy zawsze zadaje pytanie: „A co jeśli zrobimy to inaczej?”. 
+  #         Organizator i mówca TEDx, prelegent międzynarodowych konferencji IT, autor książek dla dzieci.
+  #   linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2025-pmcc-ai-activity-7373226573694603265-TEhG
+
+  # - id : 55
+  #   image : images/prelegenci/Pawel-Dudek.png
+  #   title : Paweł Dudek
+  #   description : >
+  #         Paweł to ekspert w zarządzaniu zmianą i rozwoju biznesu, konsultant w Silfra Consulting i Gekko AdvisoryNow. 
+  #         W latach 2020–2024 Organizational Change Manager w międzynarodowych korporacjach biotechnologicznych, 
+  #         farmaceutycznych i technologicznych. Były prezes WARS S.A., wcześniej związany z Bird & Bird i Medicover. 
+  #         Wykładowca MBA w ALK i UW, certyfikowany instruktor Prosci®. Absolwent Harvard Business School, MIT Sloan i SGH.
+  #   linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2025-pmcc-ai-activity-7381230547496267776-gVds
+
+  # - id : 57
+  #   image : images/prelegenci/Marcin-Gaborski.png
+  #   title : Marcin Gaborski
+  #   description : >
+  #         Senior Group Lead w monday.com, odpowiedzialny za rozwój obszarów inżynierii i wykorzystanie sztucznej inteligencji w procesach tworzenia oprogramowania. Od ponad 17 lat w branży IT, zdobywał doświadczenie w Visa, Samsung, Opera i startupach technologicznych. Specjalizuje się w budowaniu zespołów inżynierskich, skalowaniu organizacji technologicznych i wykorzystywaniu sztucznej inteligencji w procesach tworzenia oprogramowania. Łączy świat technologii, produktu i ludzi, tworząc środowiska pracy sprzyjające współpracy, rozwojowi i powstawaniu innowacji.
+  #   linkedin_post: https://www.linkedin.com/in/marcin-gaborski-2b227611/

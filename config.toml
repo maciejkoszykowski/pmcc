@@ -131,10 +131,10 @@ weight = 27
 #url = "#call4papers"
 #weight = 7
 
-#[[menu.nav]]
-#name = "Prelegenci"
-#url = "#Prelegenci"
-#weight = 3
+[[menu.nav]]
+name = "Prelegenci"
+url = "#Prelegenci"
+weight = 3
 
 #[[menu.nav]]
 #name = "Prowadzący"
@@ -157,10 +157,10 @@ name = "Bilety"
 url = "#Bilety"
 weight = 28
 
-#[[menu.nav]]
-#name = "Partnerzy"
-#url = "#Partnerzy"
-#weight = 18
+[[menu.nav]]
+name = "Partnerzy"
+url = "#Partnerzy"
+weight = 18
 
 [[menu.nav]]
 name = "Lokalizacja"
