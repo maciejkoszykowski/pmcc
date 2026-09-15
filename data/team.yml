@@ -1,4 +1,4 @@
-enable  : false
+enable  : true
 topTitle: PM Connect Conf
 title   : Zespół konferencji 
 # subtitle może być użyty w przyszłości jeśli do konferencji będzie rekrutacja 
@@ -41,14 +41,14 @@ rada:
   
   - image         : images/team/rada/piotr.png
     name          : Piotr Sobolewski
-    designation   : Wykładowca UMK
+    designation   : Przewodniczący Rady
     description   : >
       Z zarządzaniem projektami jest związany od ponad 20 lat. Prowadził projekty w sektorze elektrotechnicznym, automotive oraz IT. Od 2013 roku pracuje w firmie Atos, gdzie obecnie zarządza działem Program and Project Management. Wieloletnie doświadczenie z różnych branż łączy z przygotowaniem teoretycznym. Jest absolwentem studiów MBA oraz posiadaczem wielu certyfikatów m.in.: PMP®, Prince2, Prince2 Agile, Agile PM, MSP, ITIL. Od kilku lat swoją wiedzą i doświadczeniem dzieli się prowadząc szkolenia i wykłady z Zarządzania Projektami na UMK oraz WSB Merito.
     linkedInURL   : https://www.linkedin.com/in/piotrsobolewski/
 
   - image         : images/team/rada/jakub.png
     name          : Jakub Polaszek
-    designation   : Lider Społeczności PMI
+    designation   : Quality Manager
     description   : >
       Menadżer z ponad 24-letnim doświadczeniem w zarządzaniu projektami, programami oraz portfelami projektów. Posiada certyfikaty PMP®, PRINCE2®, MSP®, AgilePM®, Lean Six Sigma Yellow Belt, ITIL® oraz P3O®. Specjalizuje się w sektorach IT, ICT, bezpieczeństwa IT oraz rozwoju oprogramowania. Pełnił funkcje Wiceprezesa ds. Finansów oraz Członka Komisji Rewizyjnej w PMI Poland Chapter. Wykładał na podyplomowych studiach z Zaawansowanego Zarządzania Programami i Projektami na Wyższej Szkole Bankowej w Toruniu. Prowadził także warsztaty w ramach PMO Academy w Atos PGS. Jest recenzentem międzynarodowych standardów PMI oraz korektorem polskiego tłumaczenia Przewodnika PMBOK®. Obecnie prowadzi badania w ramach doktoratu wdrożeniowego na Uniwersytecie Mikołaja Kopernika w Toruniu, koncentrując się na zastosowaniu sztucznej inteligencji w prognozowaniu kluczowych wskaźników wydajności (KPI) projektów. Mentor i trener, pomagający kształtować przyszłych liderów zarządzania projektami.
     linkedInURL  : https://www.linkedin.com/in/polaszek/
@@ -69,10 +69,45 @@ rada:
               zarządzania projektami. Felietonista kwartalnika „Strefa PMI”.
     linkedInURL  : https://www.linkedin.com/in/jerzystawicki/
 
-member  : 
+  - image         : images/no_photo.jpg
+    name          : Jakub Szczepkowski
+    designation   : Rada Programowa
+    description   : >
+      Rada Programowa
+    noLink        : true
+
+  - image         : images/no_photo.jpg
+    name          : Wojtek Ożga
+    designation   : Rada Programowa
+    description   : >
+      Rada Programowa
+    noLink        : true
+
+  - image         : images/no_photo.jpg
+    name          : Wiktoria Kujawa-Kamińska
+    designation   : Rada Programowa
+    description   : >
+      Rada Programowa
+    noLink        : true
+
+  - image         : images/no_photo.jpg
+    name          : Irmina Marcinkiewicz
+    designation   : Rada Programowa
+    description   : >
+      Rada Programowa
+    noLink        : true
+
+  - image         : images/no_photo.jpg
+    name          : Przemek Kotecki
+    designation   : Rada Programowa
+    description   : >
+      Rada Programowa
+    noLink        : true
+
+member  :
   - image         : images/team/kamila.png
     name          : Kamila Kłosowska
-    designation   : Zespół ds. Marketingu
+    designation   : Leader ds. Marketingu
     description   : >
       Z światem zarządzania projektami zawodowo związana od 6 lat. Swoje doświadczenie buduje w Project Management Office, które zostało wyróżnione The most mature PMO 2018 Portfolio Experience, PMO Award. 
       Od roku rozwija się jako Project Managerka. Świetnie czuje się w obecnej roli, która pozwala jej na ciągłe doskonalenie. 
@@ -83,7 +118,7 @@ member  :
   
   - image         : images/team/mariusz.png
     name          : Mariusz Lewandowski
-    designation   : Zespół ds. Marketingu
+    designation   : Członek Zespołu ds. Marketingu
     description   : >
       Specjalista z zakresu digital marketingu. Wykładowca akademicki, szkoleniowiec, konsultant biznesowy. 
       Od kilku lat wspiera lokalne środowisko start-upowe, organizator cyklicznych spotkań networkingowdych dla marketerów i przedstawicieli MSP. 
@@ -95,7 +130,7 @@ member  :
 
   - image         : images/team/emilia.png
     name          : Emilia Kucharska
-    designation   : Koordynator ds. Relacji z Uczestnikami
+    designation   : Leader ds. Administracyjnych
     description   : >
       Wolontariuszka PMI PC Kujawsko-Pomorskie Branch od 2019 roku. 
       W latach 2020-2022 pełniła rolę Dyrektora Zarządzającego oddziałem. 
@@ -103,13 +138,12 @@ member  :
       Od 15 lat zawodowo związana z branżą IT, gdzie pracuje jako Project Manager. 
     linkedInURL  : https://www.linkedin.com/in/emilia-kucharska-34a7a398/
 
-  - image         : images/team/ania.png
-    name          : Ania Grodzicka 
-    designation   : Koordynator ds. Logistyki wydarzenia
+  - image         : images/no_photo.jpg
+    name          : Ola Krawczyk
+    designation   : Leader ds. Logistyki
     description   : >
-      Project Manager w Atos Poland, członek PMO i wolontariusz PMI. Stawiam na nieszablonowe myślenie i kreatywne podejście do zarządzania projektami.
-    linkedInURL   : https://www.linkedin.com/in/anna-grodzicka-171165244/
-
+      Leader ds. Logistyki
+    noLink        : true
 
   - image         : images/team/nina.png
     name          : Nina Żwak
@@ -127,7 +161,7 @@ member  :
 
   - image         : images/team/maciej_purpurowe.jpg
     name          : Maciej Koszykowski
-    designation   : Zespół ds. współpracy z partnerami
+    designation   : Sponsor Projektu PMI
     description   : >
       Specjalista w zarządzaniu międzynarodowymi projektami z wieloma zespołami. Ekspert w metodach tradycyjnych i zwinnych (agile), nowych technologiach, transformacji cyfrowej oraz IT service transition. Certyfikowany kierownik projektów (PgMP, PMP, PMI-RMP, PSM, AgilePM, PRINCE2, PRINCE2Agile, ITIL, MSP, M_o_R, SixSigma). Mentor, trener i lider społeczności PMI. Recenzent międzynarodowych standardów PMI, w tym PMBOK Guide i Standard for Program Management. Uczestnik merytoryczny projektów tłumaczenia PMBOKa, czy Kodeksu Etyki PMI na język polski. Były dyrektor PMI Kujawsko-Pomorskie i członek zarządu PMI Polska ds. Wolontariuszy. Obecnie doktorant w zakresie zastosowania sztucznej inteligencji w zarządzaniu projektami.
     linkedInURL   : https://www.linkedin.com/in/maciejkoszykowski/
@@ -135,7 +169,7 @@ member  :
   
   - image         : images/team/darek.png
     name          : Dariusz Ciechan
-    designation   : Zespół ds. współpracy z partnerami
+    designation   : Leader ds. współpracy z partnerami
     description   : >
       Zarządza, wprowadza i doskonali zarządzanie projektami oraz zarządzanie portfelami projektów w organizacjach. 
       Współpracuje z biznesem w celu rozwoju zarządzania projektami w ich organizacjach. 
@@ -146,7 +180,7 @@ member  :
 
   - image         : images/team/grzegorz.png
     name          : Grzegorz Wyrzykowski
-    designation   : Koordynator ds. technicznych
+    designation   : Sprawy techniczne SM
     description   : >
       Project Menager z 15-letnim doświadczaniem w branży IT. 
       Prowadzi projekty w branży e-government oraz e-commerce. 
@@ -159,16 +193,33 @@ member  :
 
   - image         : images/team/rafal.jpg
     name          : Rafał Młotek
-    designation   : Lider ds. finansów
+    designation   : Lider ds. Finansów (in memoriam)
     description   : >
+      Z ogromnym żalem żegnamy Rafała, który przez lata wspierał nasz zespół jako Lider ds. Finansów.
+      Dziękujemy Ci za wszystko, co dla nas zrobiłeś — na zawsze pozostaniesz w naszej pamięci.
+
       Kierownik Projektów z doświadczeniem w prowadzeniu projektów z zakresu Business Intelligence,
-      Platform Danych, Hurtowni Danych, Zarządzania Danymi oraz CRM. 
+      Platform Danych, Hurtowni Danych, Zarządzania Danymi oraz CRM.
       Certyfikowany w zakresie PMP, PRINCE2, AgilePM, ITIL oraz ISTQB.
-      Wspierał obszary biznesowe Sprzedaży, Marketingu, Kontrolingu oraz IT.  
-      Wykształcony w obszarze prawdopodobieństwa i statystyki. 
-      Posiada wieloletnie doświadczenie w zarządzaniu zespołami IT pracującymi w metodykach zwinnych.  
+      Wspierał obszary biznesowe Sprzedaży, Marketingu, Kontrolingu oraz IT.
+      Wykształcony w obszarze prawdopodobieństwa i statystyki.
+      Posiada wieloletnie doświadczenie w zarządzaniu zespołami IT pracującymi w metodykach zwinnych.
     linkedInURL   : https://www.linkedin.com/in/rafalmlotek/
-    noLink        : true 
+    noLink        : true
+
+  - image         : images/no_photo.jpg
+    name          : Paweł Andershon
+    designation   : Lider ds. Finansów
+    description   : >
+      Lider ds. Finansów
+    noLink        : true
+
+  - image         : images/no_photo.jpg
+    name          : Rafał Czyż
+    designation   : Oprawa fotograficzna
+    description   : >
+      Oprawa fotograficzna
+    noLink        : true
 
 
 titleKomitet: Komitet Sterujący
@@ -187,3 +238,10 @@ komitet:
     description   : >
       Specjalista w zarządzaniu międzynarodowymi projektami z wieloma zespołami. Ekspert w metodach tradycyjnych i zwinnych (agile), nowych technologiach, transformacji cyfrowej oraz IT service transition. Certyfikowany kierownik projektów (PgMP, PMP, PMI-RMP, PSM, AgilePM, PRINCE2, PRINCE2Agile, ITIL, MSP, M_o_R, SixSigma). Mentor, trener i lider społeczności PMI. Recenzent międzynarodowych standardów PMI, w tym PMBOK Guide i Standard for Program Management. Uczestnik merytoryczny projektów tłumaczenia PMBOKa, czy Kodeksu Etyki PMI na język polski. Były dyrektor PMI Kujawsko-Pomorskie i członek zarządu PMI Polska ds. Wolontariuszy. Obecnie doktorant w zakresie zastosowania sztucznej inteligencji w zarządzaniu projektami.
     linkedInURL   : https://www.linkedin.com/in/maciejkoszykowski/
+
+  - image         : images/team/rada/piotr.png
+    name          : Piotr Sobolewski
+    designation   : Przewodniczący Rady
+    description   : >
+      Z zarządzaniem projektami jest związany od ponad 20 lat. Prowadził projekty w sektorze elektrotechnicznym, automotive oraz IT. Od 2013 roku pracuje w firmie Atos, gdzie obecnie zarządza działem Program and Project Management. Wieloletnie doświadczenie z różnych branż łączy z przygotowaniem teoretycznym. Jest absolwentem studiów MBA oraz posiadaczem wielu certyfikatów m.in.: PMP®, Prince2, Prince2 Agile, Agile PM, MSP, ITIL. Od kilku lat swoją wiedzą i doświadczeniem dzieli się prowadząc szkolenia i wykłady z Zarządzania Projektami na UMK oraz WSB Merito.
+    linkedInURL   : https://www.linkedin.com/in/piotrsobolewski/
