@@ -167,10 +167,10 @@ name = "Lokalizacja"
 url = "#Lokalizacja"
 weight = 7
 
-#[[menu.nav]]
-#name = "Zespół"
-#url = "#Zespol"
-#weight = 25
+[[menu.nav]]
+name = "Zespół"
+url = "#Zespol"
+weight = 25
 
 [[menu.nav]]
 name = "Regulamin"
