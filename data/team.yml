@@ -31,26 +31,19 @@ pm:
 
 titleRada: Rada Programowa
 rada:
-  - image         : images/no_photo_kobieta.jpg
+  - image         : images/no_photo_kobieta_rada.jpg
     name          : Irmina Marcinkiewicz
     designation   : Rada Programowa
     description   : >
       Rada Programowa
-    noLink        : true
+    linkedInURL   : https://www.linkedin.com/in/irminamarcinkiewicz/
 
-  - image         : images/team/rada/jakub.png
-    name          : Jakub Polaszek
-    designation   : Quality Manager
-    description   : >
-      Menadżer z ponad 24-letnim doświadczeniem w zarządzaniu projektami, programami oraz portfelami projektów. Posiada certyfikaty PMP®, PRINCE2®, MSP®, AgilePM®, Lean Six Sigma Yellow Belt, ITIL® oraz P3O®. Specjalizuje się w sektorach IT, ICT, bezpieczeństwa IT oraz rozwoju oprogramowania. Pełnił funkcje Wiceprezesa ds. Finansów oraz Członka Komisji Rewizyjnej w PMI Poland Chapter. Wykładał na podyplomowych studiach z Zaawansowanego Zarządzania Programami i Projektami na Wyższej Szkole Bankowej w Toruniu. Prowadził także warsztaty w ramach PMO Academy w Atos PGS. Jest recenzentem międzynarodowych standardów PMI oraz korektorem polskiego tłumaczenia Przewodnika PMBOK®. Obecnie prowadzi badania w ramach doktoratu wdrożeniowego na Uniwersytecie Mikołaja Kopernika w Toruniu, koncentrując się na zastosowaniu sztucznej inteligencji w prognozowaniu kluczowych wskaźników wydajności (KPI) projektów. Mentor i trener, pomagający kształtować przyszłych liderów zarządzania projektami.
-    linkedInURL  : https://www.linkedin.com/in/polaszek/
-
-  - image         : images/no_photo.jpg
+  - image         : images/no_photo_rada.jpg
     name          : Jakub Szczepkowski
     designation   : Rada Programowa
     description   : >
       Doktor nauk o zarządzaniu i jakości, absolwent automatyki i robotyki, ekonomii oraz zarządzania projektami. Zawodowo związany z Uniwersytetem Mikołaja Kopernika w Toruniu, gdzie koordynuje Impact Hub i działania w zakresie strategii promocji międzynarodowej. Ekspert Polskiej Komisji Akredytacyjnej. Doświadczenie zdobywał także w organizacjach studenckich i doktoranckich na poziomie krajowym. Specjalizuje się w strategii, marketingu, rozwoju produktów i współpracy nauki z otoczeniem społeczno-gospodarczym. Wspiera organizacje i przedsiębiorstwa w budowaniu marki, komunikacji i rozwoju rynkowym.
-    noLink        : true
+    linkedInURL   : https://www.linkedin.com/in/jakub-szczepkowski/
 
   - image         : images/team/rada/jerzy.png
     name          : Jerzy Stawicki
@@ -76,27 +69,27 @@ rada:
       Od wielu lat kieruje realizowanymi z partnerami biznesowymi studiami podyplomowymi Business Controlling i Project Management. W swoich badaniach koncentruje się na analizie uwarunkowań i mechanizmów wdrażania strategii cyfrowych i zrównoważonych oraz ich wpływu na wyniki organizacji. Ekspertka w zakresie zintegrowanych systemów zarządzania, a także projektowania modeli pomiaru oraz raportowania finansowych  i niefinansowych generatorów efektywności biznesowej.
     linkedInURL   : https://www.linkedin.com/in/marlena-ciechan-kujawa/
 
-  - image         : images/no_photo.jpg
+  - image         : images/no_photo_rada.jpg
     name          : Przemek Kotecki
     designation   : Rada Programowa
     description   : >
       Rada Programowa
-    noLink        : true
+    linkedInURL   : https://www.linkedin.com/in/pkotecki/
 
-  - image         : images/no_photo_kobieta.jpg
+  - image         : images/no_photo_kobieta_rada.jpg
     name          : Wiktoria Kujawa-Kamińska
     designation   : Rada Programowa
     description   : >
       Psycholog, doktorantka w dziedzinie nauk społecznych. Wspiera osoby i zespoły w wypracowywaniu skutecznych sposobów radzenia sobie z wyzwaniami w życiu zawodowym i osobistym, prowadząc konsultacje indywidualne oraz warsztaty rozwojowe.
       Posiada doświadczenie w obszarze HR oraz w realizacji projektów badawczych. W swojej pracy łączy podejście naukowe z praktyką, koncentrując się na takich zagadnieniach jak efektywność pracy zdalnej, prokrastynacja, radzenie sobie ze stresem, podejmowanie decyzji oraz psychologiczne konsekwencje pandemii COVID-19.
-    noLink        : true
+    linkedInURL   : https://www.linkedin.com/in/wiktoria-kujawa-kami%C5%84ska-518bb0233/
 
-  - image         : images/no_photo.jpg
+  - image         : images/no_photo_rada.jpg
     name          : Wojtek Ożga
     designation   : Rada Programowa
     description   : >
       Doświadczony praktyk, konsultant i trener biznesu, od ponad 26 lat wspierający organizacje w efektywnym zarządzaniu projektami i procesami. Doradza firmom, prowadzi specjalistyczne szkolenia oraz wykłada na studiach MBA i podyplomowych. Zaufało mu już ponad 97 firm. Jest zwolennikiem pragmatycznego podejścia, rekomendując wdrażanie tylko tych metod, metodyk i narzędzi, które gwarantują realne rezultaty i skuteczne osiąganie celów biznesowych.
-    noLink        : true
+    linkedInURL   : https://www.linkedin.com/in/wojciech-ozga/
 
 member  :
   - image         : images/team/rafal.jpg
@@ -127,7 +120,7 @@ member  :
     designation   : Leader ds. Logistyki
     description   : >
       Leader ds. Logistyki
-    noLink        : true
+    linkedInURL   : https://www.linkedin.com/in/aleksandra-krawczyk-profile/
 
   - image         : images/team/emilia.png
     name          : Emilia Kucharska
