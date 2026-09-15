@@ -112,7 +112,7 @@ member  :
     designation   : Lider ds. Finansów
     description   : >
       Lider ds. Finansów
-    noLink        : true
+    linkedInURL   : https://www.linkedin.com/in/pawelandersohn/
 
   - image         : images/no_photo_kobieta.jpg
     name          : Aleksandra Krawczyk
