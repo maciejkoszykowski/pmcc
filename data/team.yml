@@ -40,7 +40,7 @@ rada:
 
   - image         : images/no_photo_rada.jpg
     name          : Jakub Szczepkowski
-    designation   : Rada Programowa
+    designation   : dr, Koordynator Impact Hub UMK
     description   : >
       Doktor nauk o zarządzaniu i jakości, absolwent automatyki i robotyki, ekonomii oraz zarządzania projektami. Zawodowo związany z Uniwersytetem Mikołaja Kopernika w Toruniu, gdzie koordynuje Impact Hub i działania w zakresie strategii promocji międzynarodowej. Ekspert Polskiej Komisji Akredytacyjnej. Doświadczenie zdobywał także w organizacjach studenckich i doktoranckich na poziomie krajowym. Specjalizuje się w strategii, marketingu, rozwoju produktów i współpracy nauki z otoczeniem społeczno-gospodarczym. Wspiera organizacje i przedsiębiorstwa w budowaniu marki, komunikacji i rozwoju rynkowym.
     linkedInURL   : https://www.linkedin.com/in/jakub-szczepkowski/
@@ -78,7 +78,7 @@ rada:
 
   - image         : images/no_photo_kobieta_rada.jpg
     name          : Wiktoria Kujawa-Kamińska
-    designation   : Rada Programowa
+    designation   : Psycholog, doktorantka
     description   : >
       Psycholog, doktorantka w dziedzinie nauk społecznych. Wspiera osoby i zespoły w wypracowywaniu skutecznych sposobów radzenia sobie z wyzwaniami w życiu zawodowym i osobistym, prowadząc konsultacje indywidualne oraz warsztaty rozwojowe.
       Posiada doświadczenie w obszarze HR oraz w realizacji projektów badawczych. W swojej pracy łączy podejście naukowe z praktyką, koncentrując się na takich zagadnieniach jak efektywność pracy zdalnej, prokrastynacja, radzenie sobie ze stresem, podejmowanie decyzji oraz psychologiczne konsekwencje pandemii COVID-19.
@@ -86,7 +86,7 @@ rada:
 
   - image         : images/no_photo_rada.jpg
     name          : Wojtek Ożga
-    designation   : Rada Programowa
+    designation   : Konsultant i Trener Biznesu
     description   : >
       Doświadczony praktyk, konsultant i trener biznesu, od ponad 26 lat wspierający organizacje w efektywnym zarządzaniu projektami i procesami. Doradza firmom, prowadzi specjalistyczne szkolenia oraz wykłada na studiach MBA i podyplomowych. Zaufało mu już ponad 97 firm. Jest zwolennikiem pragmatycznego podejścia, rekomendując wdrażanie tylko tych metod, metodyk i narzędzi, które gwarantują realne rezultaty i skuteczne osiąganie celów biznesowych.
     linkedInURL   : https://www.linkedin.com/in/wojciech-ozga/
@@ -200,7 +200,7 @@ member  :
       Oprawa fotograficzna
     noLink        : true
 
-  - image         : images/team/rada/jakub.png
+  - image         : images/no_photo.jpg
     name          : Jakub Polaszek
     designation   : Quality Manager
     description   : >
