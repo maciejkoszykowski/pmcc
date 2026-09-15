@@ -106,7 +106,6 @@ member  :
       Wykształcony w obszarze prawdopodobieństwa i statystyki.
       Posiada wieloletnie doświadczenie w zarządzaniu zespołami IT pracującymi w metodykach zwinnych.
     linkedInURL   : https://www.linkedin.com/in/rafalmlotek/
-    noLink        : true
 
   - image         : images/no_photo.jpg
     name          : Paweł Andershon
@@ -116,7 +115,7 @@ member  :
     noLink        : true
 
   - image         : images/no_photo_kobieta.jpg
-    name          : Ola Krawczyk
+    name          : Aleksandra Krawczyk
     designation   : Leader ds. Logistyki
     description   : >
       Leader ds. Logistyki
@@ -142,6 +141,7 @@ member  :
       na Uniwersytecie Mikołaja Kopernika w Toruniu. Posiada certyfikacje Prince2, Agile PM, P3O, Management 3.0.
       W PMI czerpie satysfakcję z możliwości rozwoju nowych kompetencji oraz współpracy z profesjonalistami.
     linkedInURL  : https://www.linkedin.com/in/kamila-k%C5%82osowska-10658b12b/
+    noLink        : true
 
   - image         : images/team/mariusz.png
     name          : Mariusz Lewandowski
@@ -154,6 +154,7 @@ member  :
       Na Instagramie popularyzuje wiedzę ze swoich obszarów jako @panodmarketingu.
     linkedInURL   : https://www.linkedin.com/in/panodmarketingu/
     instagramURL   : https://www.instagram.com/panodmarketingu/
+    noLink        : true
 
   - image         : images/team/nina.png
     name          : Nina Żwak
@@ -178,7 +179,7 @@ member  :
       Pasjonuje go podejście Flow Management, łączące Lean, Kanban, TOC oraz psychologię przepływu i motywacji.
       Dostarcza praktyczną wiedzę studentom studiów podyplomowych oraz słuchaczom Executive MBA na Uniwersytecie Mikołaja Kopernika, Uniwersytecie WSB, jak również uczestnikom seminariów i warsztatów. Jest oficjalnym recenzentem i współtwórcą międzynarodowych standardów PMI, a także menedżerem projektu i korektorem polskich tłumaczeń Przewodnika PMBOK®.
     linkedInURL   : https://www.linkedin.com/in/dariuszciechan/
-    noLink        : true
+
 
   - image         : images/team/grzegorz.png
     name          : Grzegorz Wyrzykowski
@@ -191,14 +192,14 @@ member  :
       W 2019 zakończył studia podyplomowe: Zarządzanie projektami “Project Management” na Wydziale Nauk Ekonomicznych i Zarządzania UMK w Toruniu.
       Zainteresowania:  www / WCAG, e-commerce, nieruchomości, akwarystyka.
     linkedInURL   : https://www.linkedin.com/in/grzegorz-wyrzykowski-3a8424107/
-    noLink        : true
+
 
   - image         : images/no_photo.jpg
     name          : Rafał Czyż
     designation   : Oprawa fotograficzna
     description   : >
       Oprawa fotograficzna
-    noLink        : true
+    linkedInURL  : https://www.linkedin.com/in/rafal-czyz/
 
   - image         : images/no_photo.jpg
     name          : Jakub Polaszek
@@ -220,7 +221,7 @@ komitet:
 
   - image         : images/team/rada/piotr.png
     name          : Piotr Sobolewski
-    designation   : Wykładowca UMK
+    designation   : Przewodniczący Komitetu
     description   : >
       Z zarządzaniem projektami jest związany od ponad 20 lat. Prowadził projekty w sektorze elektrotechnicznym, automotive oraz IT. Od 2013 roku pracuje w firmie Atos, gdzie obecnie zarządza działem Program and Project Management. Wieloletnie doświadczenie z różnych branż łączy z przygotowaniem teoretycznym. Jest absolwentem studiów MBA oraz posiadaczem wielu certyfikatów m.in.: PMP®, Prince2, Prince2 Agile, Agile PM, MSP, ITIL. Od kilku lat swoją wiedzą i doświadczeniem dzieli się prowadząc szkolenia i wykłady z Zarządzania Projektami na UMK oraz WSB Merito.
     linkedInURL   : https://www.linkedin.com/in/piotrsobolewski/
