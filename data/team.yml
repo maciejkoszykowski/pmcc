@@ -170,16 +170,12 @@ member  :
       Administracja programu Project Management UMK Online
     linkedInURL  : https://www.linkedin.com/in/barbara-polaszek-4b6529286/
 
-  - image         : images/team/darek.png
-    name          : Dariusz Ciechan
-    designation   : Leader ds. współpracy z partnerami
+  - image         : images/team/Rafal_C.png
+    name          : Rafał Czyż
+    designation   : Oprawa fotograficzna
     description   : >
-      Zarządza, wprowadza i doskonali zarządzanie projektami oraz zarządzanie portfelami projektów w organizacjach.
-      Współpracuje z biznesem w celu rozwoju zarządzania projektami w ich organizacjach.
-      Pasjonuje go podejście Flow Management, łączące Lean, Kanban, TOC oraz psychologię przepływu i motywacji.
-      Dostarcza praktyczną wiedzę studentom studiów podyplomowych oraz słuchaczom Executive MBA na Uniwersytecie Mikołaja Kopernika, Uniwersytecie WSB, jak również uczestnikom seminariów i warsztatów. Jest oficjalnym recenzentem i współtwórcą międzynarodowych standardów PMI, a także menedżerem projektu i korektorem polskich tłumaczeń Przewodnika PMBOK®.
-    linkedInURL   : https://www.linkedin.com/in/dariuszciechan/
-
+      Oprawa fotograficzna
+    linkedInURL  : https://www.linkedin.com/in/rafal-czyz/
 
   - image         : images/team/grzegorz.png
     name          : Grzegorz Wyrzykowski
@@ -193,13 +189,15 @@ member  :
       Zainteresowania:  www / WCAG, e-commerce, nieruchomości, akwarystyka.
     linkedInURL   : https://www.linkedin.com/in/grzegorz-wyrzykowski-3a8424107/
 
-
-  - image         : images/team/Rafal_C.png
-    name          : Rafał Czyż
-    designation   : Oprawa fotograficzna
+  - image         : images/team/darek.png
+    name          : Dariusz Ciechan
+    designation   : Leader ds. współpracy z partnerami
     description   : >
-      Oprawa fotograficzna
-    linkedInURL  : https://www.linkedin.com/in/rafal-czyz/
+      Zarządza, wprowadza i doskonali zarządzanie projektami oraz zarządzanie portfelami projektów w organizacjach.
+      Współpracuje z biznesem w celu rozwoju zarządzania projektami w ich organizacjach.
+      Pasjonuje go podejście Flow Management, łączące Lean, Kanban, TOC oraz psychologię przepływu i motywacji.
+      Dostarcza praktyczną wiedzę studentom studiów podyplomowych oraz słuchaczom Executive MBA na Uniwersytecie Mikołaja Kopernika, Uniwersytecie WSB, jak również uczestnikom seminariów i warsztatów. Jest oficjalnym recenzentem i współtwórcą międzynarodowych standardów PMI, a także menedżerem projektu i korektorem polskich tłumaczeń Przewodnika PMBOK®.
+    linkedInURL   : https://www.linkedin.com/in/dariuszciechan/
 
   - image         : images/team/JakubP.png
     name          : Jakub Polaszek
