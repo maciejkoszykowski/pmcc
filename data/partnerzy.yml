@@ -17,6 +17,8 @@ titleInstytucje : Patronat Instytucjonalny
 #   padding        : tylko na desktopie (loga na mobile są wycentrowane, tego nie dotyczy) - w px,
 #                     odsuwa logo od środka strony: dla loga z lewej kolumny dodaje padding z
 #                     prawej, dla loga z prawej kolumny dodaje padding z lewej
+#   margin_top_mobile : tylko na mobile - w px, dokłada dodatkowy odstęp PRZED danym logo (ponad
+#                     automatyczną przerwę 15vw między logotypami), gdyby automat nie wystarczył
 item   :
   - title     : Kopernik
     image     : images/partnerzy/kopernik.png
