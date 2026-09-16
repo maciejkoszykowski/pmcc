@@ -78,12 +78,12 @@ item    :
         Od kilku lat koncentruje się na przecięciu zarządzania projektami i sztucznej inteligencji — prowadzi badania w ramach przygotowywanej pracy doktorskiej poświęconej modelowi AI-driven Project Management (ADPM), osadzonemu w paradygmacie human-autonomy teaming. Jej praca łączy perspektywę praktyka — koordynatora setek projektów — z ambicją zbudowania nowego standardu metodycznego dla hybrydowych zespołów człowiek–AI. Aktywnie uczestniczy w projektach konsorcyjnych Horizon Europe oraz aplikacjach w programie Ścieżka SMART / FENG.
     linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2026-pmcc2026-projectmanagement-activity-7500789610705461248-jIKD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABsjpsBesX7_3-a3jKl9GtPbminHIt_Ff0
 
-  # - id : 40
-  #   image : images/prelegenci/izabela_l.png
-  #   title : Izabela Lipińska
-  #   description : >
-  #        Dorota 
-  #   linkedin_post: https://www.linkedin.com/company/pmipckuj-pom/posts/?feedView=all
+  - id : 40
+    image : images/prelegenci/izabela_l.png
+    title : Izabela Lipińska
+    description : >
+         Filozof, pedagog, psychoterapeuta. Badaczka w instytucie naukowym GAIA. Autorka koncepcji ontologicznej i strukturalnej adekwatności oraz hipotezy ontologicznego dysonansu jako źródła zaburzeń poznawczych i emocjonalnych w interakcjach z modelami językowymi. Kilkunastoletnie doświadczenie w konsultingu kariery, i ponad 5-letnie doświadczenie badawczo-biznesowe w obszarze AI. Twórczyni zgłoszonej do ochrony patentowej metody systemowej zapewniającej ontologiczną spójność interakcji człowiek-AI (status patent pending).
+    linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2026-pmcc2026-projectmanagement-activity-7502962679842746368-GjPc?utm_source=share&utm_medium=member_android&rcm=ACoAAB_xftYBOQSUGdIqWuygIiDqazCae9GstRo
 
   # - id : 45
   #   image : images/prelegenci/Grzegorz-Sztandera.png
