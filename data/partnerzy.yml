@@ -30,11 +30,12 @@ item   :
     image     : images/partnerzy/logo-sowa.png
     link      : https://sowaip.pl/
     width     : 280
+    margin_top_desktop : 45
 
   - title     : FlexiProject
     image     : images/partnerzy/logo-flexi.svg
     link      : https://flexi-project.com
-    width     : 280
+    width     : 320
     margin_top_mobile : 33
 
 
