@@ -6,12 +6,17 @@ title           : Partnerzy Konferencji
 titleHonorowi   : Patronat Honorowy
 titleInstytucje : Patronat Instytucjonalny
 
-# item: każde logo można skalibrować osobno, pola opcjonalne (jak nie podasz, brane są wartości
-# domyślne: height 180 / width auto na desktopie, height 160 / width auto na mobile):
+# item: każde logo można skalibrować osobno, pola opcjonalne:
 #   width          : szerokość na desktopie w px, np. 220
-#   height         : wysokość na desktopie w px (domyślnie 180)
-#   width_mobile   : szerokość na mobile w px
-#   height_mobile  : wysokość na mobile w px (domyślnie 160)
+#   height         : wysokość na desktopie w px
+#     - podasz tylko jedno z (width, height) -> drugi wymiar skaluje się proporcjonalnie
+#     - podasz oba -> oba ustawione na sztywno
+#     - nie podasz żadnego -> domyślnie height 180 (jak dotychczas)
+#   width_mobile   : jak wyżej, ale dla widoku mobilnego (domyślnie height 160)
+#   height_mobile  : jak wyżej
+#   padding        : tylko na desktopie (loga na mobile są wycentrowane, tego nie dotyczy) - w px,
+#                     odsuwa logo od środka strony: dla loga z lewej kolumny dodaje padding z
+#                     prawej, dla loga z prawej kolumny dodaje padding z lewej
 item   :
   - title     : Kopernik
     image     : images/partnerzy/kopernik.png
