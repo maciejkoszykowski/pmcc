@@ -20,10 +20,13 @@ item   :
   - title     : FlexiProject
     image     : images/partnerzy/logo-flexi.svg
     link      : https://flexi-project.com
+    width     : 280
 
   - title     : Sowa i Partnerzy
     image     : images/partnerzy/logo-sowa.png
     link      : https://sowaip.pl/
+    width     : 280
+
 
 # media  :
 #   - title : Strefa PMI
