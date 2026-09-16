@@ -19,6 +19,8 @@ titleInstytucje : Patronat Instytucjonalny
 #                     prawej, dla loga z prawej kolumny dodaje padding z lewej
 #   margin_top_mobile : tylko na mobile - w px, dokłada dodatkowy odstęp PRZED danym logo (ponad
 #                     automatyczną przerwę 15vw między logotypami), gdyby automat nie wystarczył
+#   margin_top_desktop : to samo co margin_top_mobile, ale tylko na desktopie - w px, dokłada
+#                     dodatkowy odstęp przed danym logo (działa dla pary logo i dla samotnego)
 item   :
   - title     : Kopernik
     image     : images/partnerzy/kopernik.png
@@ -33,6 +35,7 @@ item   :
     image     : images/partnerzy/logo-flexi.svg
     link      : https://flexi-project.com
     width     : 280
+    margin_top_mobile : 33
 
 
 
