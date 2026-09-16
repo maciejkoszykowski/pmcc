@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>PM Connect Conf</title>
+		<link>https://pmcc.pmi.org.pl/2025/</link>
+		<description>Recent content on PM Connect Conf</description>
+		<generator>Hugo</generator>
+		<language>pl</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 08 May 2025 12:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://pmcc.pmi.org.pl/2025/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Call for Papers</title>
+				<link>https://pmcc.pmi.org.pl/2025/call_for_papers/</link>
+				<pubDate>Thu, 08 May 2025 12:00:00 +0000</pubDate>
+				<guid>https://pmcc.pmi.org.pl/2025/call_for_papers/</guid>
+				<description>&lt;h2 id=&#34;zaproszenie-do-nadsyłania-abstraktów&#34;&gt;Zaproszenie do nadsyłania abstraktów&lt;/h2&gt;&#xA;&lt;p&gt;UMK WNEiZ w Toruniu oraz PMI Kujawsko-Pomorskie zapraszają praktyków oraz przedstawicieli świata nauki do nadsyłania rozszerzonych abstraktów na Konferencję PM Connect Conf 2025, która odbędzie się 25 października 2025 r.&lt;/p&gt;&#xA;&lt;h2 id=&#34;temat-przewodni-konferencji&#34;&gt;Temat przewodni konferencji&lt;/h2&gt;&#xA;&lt;p&gt;Celem tegorocznej edycji konferencji PMCC jest pogłębiona analiza dynamicznie rozwijającego się obszaru sztucznej inteligencji, który – w kontekście zarządzania projektami – coraz wyraźniej zmierza w stronę automatyzacji zadań realizowanych dotąd przez kierowników projektów i biura projektów. W efekcie tej transformacji rola Project Managera ulega przesunięciu z funkcji operacyjnej ku obszarom związanym z pracą z ludźmi, budowaniem relacji i tworzeniem wartości w zespołach. Hasło przewodnie drugiej edycji konferencji – „AI automatyzuje, PM humanizuje” – podkreśla równoległe znaczenie dwóch kluczowych wymiarów: technologicznego i humanistycznego.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Strona Główna</title>
+				<link>https://pmcc.pmi.org.pl/2025/about_conf/</link>
+				<pubDate>Mon, 02 Sep 2024 12:00:00 +0000</pubDate>
+				<guid>https://pmcc.pmi.org.pl/2025/about_conf/</guid>
+				<description>&lt;p&gt;PM CONNECT CONF to wyjątkowe wydarzenie, które w dynamiczny sposób łączy teorię z praktyką w dziedzinie zarządzania projektami. To również okazja do inspirującego networkingu w gronie profesjonalistów. Dzięki spotkaniu z ekspertami i liderami branży, uczestnicy będą mogli wymienić się doświadczeniami i nawiązać wartościowe kontakty, które przyczynią się do dalszego rozwoju ich kariery zawodowej. &lt;strong&gt;Dołącz do nas, jeśli chcesz czerpać inspirację, zyskać praktyczną wiedzę i poznać ludzi, którzy jak Ty, nieustannie chcą poszerzać swoje horyzonty!&lt;/strong&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
