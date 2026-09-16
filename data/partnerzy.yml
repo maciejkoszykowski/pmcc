@@ -11,6 +11,14 @@ item   :
     image     : images/partnerzy/kopernik.png
     link      : https://sklepkopernika.pl/
 
+  - title     : FlexiProject
+    image     : images/partnerzy/logo-flexi.svg
+    link      : https://flexi-project.com
+
+  - title     : Sowa i Partnerzy
+    image     : images/partnerzy/logo-sowa.png
+    link      : https://sowaip.pl/
+
 # media  :
 #   - title : Strefa PMI
 #     image : images/partnerzy/logo_strefa.png
