@@ -12,14 +12,14 @@ message: >
 
 item    :
   - id : 1
-    image : images/prelegenci/jakub_g.png
+    image : images/prelegenci/jakub_g.webp
     title : prof. Jakub Growiec
     description : >
          Profesor ekonomii, Szkoła Główna Handlowa w Warszawie. Jego główne zainteresowania badawcze to wzrost gospodarczy, postęp technologiczny i ekonomia transformatywnej AI. Opublikował 35 artykułów naukowych w prestiżowych czasopismach międzynarodowych oraz monografię Accelerating Economic Growth: Lessons From 200 000 Years of Technological Progress and Human Development (Springer, 2022). Uważa, że transformatywna AI będzie źródłem ryzyka egzystencjalnego dla ludzkości.
 
     linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2026-pmcc2026-projectmanagement-activity-7483773758785306624-moJW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABsjpsBesX7_3-a3jKl9GtPbminHIt_Ff0
   - id : 5
-    image : images/prelegenci/tomasz_z.png
+    image : images/prelegenci/tomasz_z.webp
     title : dr Tomasz Żabiński
     description : >
          Doktor nauk technicznych w dyscyplinie automatyka i robotyka (AGH w Krakowie), przedsiębiorca i menedżer z ponad 20-letnim doświadczeniem na styku nauki, biznesu, technologii i innowacji. Doświadczenie zdobywał jako założyciel i współwłaściciel spółki technologicznej z obszaru IT i automatyki oraz członek zarządów lub prezes spółek różnej wielkości, np. Europa Systems. Posiada praktyczne doświadczenie właścicielskie w budowaniu i skalowaniu startupów technologicznych, pozyskiwaniu kapitału zewnętrznego oraz przeprowadzaniu procesów sprzedaży spółki (Exited Founder).
@@ -28,7 +28,7 @@ item    :
     linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2026-pmcc2026-projectmanagement-activity-7484858385851486208-DVZe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABsjpsBesX7_3-a3jKl9GtPbminHIt_Ff0
 
   - id : 10
-    image : images/prelegenci/lucyna_l.png
+    image : images/prelegenci/lucyna_l.webp
     title : Lucyna Ławniczak
     description : >
         Ambasadorka zmiany wg Emerging Change, konsultant organizacyjny, executive coach, psycholog, trener, mentor Fundacji Firm Rodzinnych, właściciel Autonomia Consulting. Dzięki narzędziom Teorii Ograniczeń osiąga z klientami przełomowe rezultaty w krótkim czasie. Rozwiązania psychodynamiki systemów wg Analizy Transakcyjnej ułatwiają jej wprowadzanie zmian i budowanie kultury zaangażowania. Od ponad 30 lat inspiruje, szkoli, pomaga wykorzystywać talenty ludzi, potencjały organizacji.  Dzięki zwinnemu podejściu w prowadzeniu projektów usprawnieniowych modeluje większą elastyczność organizacji klienta.
@@ -38,13 +38,13 @@ item    :
 
 
   - id : 12
-    image : images/prelegenci/lukasz_k.png
+    image : images/prelegenci/lukasz_k.webp
     title : Łukasz Karwacki
     description : > 
           Pomaga liderom technologicznym, ekspertom i zarządom zamieniać złożone tematy w klarowną komunikację, która prowadzi do decyzji i realnego wpływu biznesowego. Pracuje na styku komunikacji, przywództwa i procesów decyzyjnych w momentach krytycznych decyzji, od prezentacji dla zarządów po wystąpienia konferencyjne i rozmowy strategiczne. Ma doświadczenie inżynierskie i ponad 20 lat doświadczenia w IT. Współpracował z ponad 70 mówcami przygotowującymi się do wystąpień TEDx, a jego podejście koncentruje się na clarity, executive presence i projektowaniu rozmów, które kończą się decyzjami.        
     linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2026-pmcc2026-projectmanagement-activity-7487378898872160257-XPr9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABsjpsBesX7_3-a3jKl9GtPbminHIt_Ff0
   - id : 15
-    image : images/prelegenci/dorota_m.png
+    image : images/prelegenci/dorota_m.webp
     title : Dorota Mleczko
     description : >
          Dorota jest Konsultantką AI oraz założycielką Paloma's AI Academy, gdzie z pasją pomaga profesjonalistom zdobywać praktyczne umiejętności AI bez zbędnej technicznej złożoności. 
@@ -52,7 +52,7 @@ item    :
     linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2026-pmcc2026-projectmanagement-activity-7488104776979836928-m52L?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABsjpsBesX7_3-a3jKl9GtPbminHIt_Ff0
 
   - id : 25
-    image : images/prelegenci/pawel_sz.png
+    image : images/prelegenci/pawel_sz.webp
     title : dr Paweł Szczęsny
     description : >
         Executive, founder i psycholog specjalizujący się w AI, syntetycznej kognicji i innowacjach opartych na danych. Ma wieloletnie doświadczenie w rolach liderskich na styku nauki, technologii i biznesu, obejmujące startupy AI, transformacje organizacji w kierunku AI-first, zarządzanie R&D oraz współpracę z sektorem farmaceutycznym i dużymi organizacjami. 
@@ -60,7 +60,7 @@ item    :
     linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2026-pmcc2026-projectmanagement-activity-7492814577207009280-npNO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABsjpsBesX7_3-a3jKl9GtPbminHIt_Ff0
   
   - id : 30
-    image : images/prelegenci/lukasz_w.png
+    image : images/prelegenci/lukasz_w.webp
     title : dr Łukasz Wojtkowski
     description : >
         Menedżer projektów, strateg i badacz z wieloletnim doświadczeniem na styku biznesu i technologii. 
@@ -70,7 +70,7 @@ item    :
     linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2026-pmcc2026-projectmanagement-activity-7495353792578666497-QpbB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABsjpsBesX7_3-a3jKl9GtPbminHIt_Ff0
 
   - id : 35
-    image : images/prelegenci/katarzyna_m.png
+    image : images/prelegenci/katarzyna_m.webp
     title : Katarzyna Michno
     description : >
         Katarzyna Michno to Project Manager i analityk strategiczny z 19-letnim doświadczeniem w zarządzaniu portfelem projektów inwestycyjnych i badawczo-rozwojowych. Zrealizowała ponad 350 projektów o łącznej wartości ponad 800 mln PLN pozyskanego kapitału — dla polskich i międzynarodowych korporacji, jednostek sektora finansów publicznych oraz uczelni wyższych. Pełni funkcję zarządzającego 4Anatropi Sp. z o.o. — firmy doradczej specjalizującej się w strategii innowacji, finansowaniu B+R oraz wdrożeniach technologicznych w sektorach HiTech, robotyki, UAV, MedTech i cyfryzacji przemysłowej.
@@ -79,7 +79,7 @@ item    :
     linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2026-pmcc2026-projectmanagement-activity-7500789610705461248-jIKD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABsjpsBesX7_3-a3jKl9GtPbminHIt_Ff0
 
   - id : 40
-    image : images/prelegenci/izabela_l.png
+    image : images/prelegenci/izabela_l.webp
     title : Izabela Lipińska
     description : >
          Filozof, pedagog, psychoterapeuta. Badaczka w instytucie naukowym GAIA. Autorka koncepcji ontologicznej i strukturalnej adekwatności oraz hipotezy ontologicznego dysonansu jako źródła zaburzeń poznawczych i emocjonalnych w interakcjach z modelami językowymi. Kilkunastoletnie doświadczenie w konsultingu kariery, i ponad 5-letnie doświadczenie badawczo-biznesowe w obszarze AI. Twórczyni zgłoszonej do ochrony patentowej metody systemowej zapewniającej ontologiczną spójność interakcji człowiek-AI (status patent pending).
