@@ -30,8 +30,9 @@ jeszcze do zrobienia, na później:
    opisowe - słabe pod SEO i pod czytniki ekranu (dostępność)
 5. languageCode w config.toml oznaczone przez Hugo jako przestarzałe - zamienić na locale
 6. sprawdzić resztę static/images/ (partnerzy, tło, inne) pod kątem dużych/nieskompresowanych plików
-7. obrazki bez loading="lazy" - na długiej stronie (prelegenci, zespół, galeria) to zauważalna
-   oszczędność przy pierwszym ładowaniu
+7. obrazki bez loading="lazy" - na długiej stronie to zauważalna oszczędność przy pierwszym
+   ładowaniu. Zrobione już dla zdjęć zespołu (pm/rada/koordynacja/komitet, 2026-09-17).
+   Zostaje: prelegenci, galeria, partnerzy
 8. Google Analytics zahardcodowany w motywie (patrz TODO wyżej) - utrudnia to też dodanie
    Consent Mode w przyszłości
 
