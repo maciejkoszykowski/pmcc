@@ -12,6 +12,15 @@ subtitle: "    "
 # gplusURL      : https://plus.google.com/
 # dribbbleURL   : https://dribbble.com/
 
+# dodatkowe puste linie w karcie osoby (żeby wyrównać wysokość kart w tym samym rzędzie) -
+# działa w każdej sekcji (pm/rada/member/komitet)
+# noLink        : true   -> dodaje 1 pustą linię
+# noLink-2line  : true   -> dodaje 2 puste linie, np. gdy obok w tym samym rzędzie ktoś ma
+#                           <br> w polu "name" i jego karta jest przez to wyższa o jedną linię
+#
+# <br> w polu "name" łamie imię/tytuł na kolejną linię, np.:
+# name: dr hab., prof UMK <br> Marlena Ciechan-Kujawa
+
 
 titleOrg: Organizacja wydarzenia
 
@@ -29,7 +38,7 @@ pm:
 titleRada: Rada Programowa
 rada:
   - image         : images/team/rada/marlena.png
-    name          : dr hab., prof UMK Marlena Ciechan-Kujawa
+    name          : dr hab., prof UMK <br> Marlena Ciechan-Kujawa
     designation   : Dziekan WNEiZ
     description   : >
       Profesor w Uniwersytecie Mikołaja Kopernika w Toruniu, Dziekan Wydziału Nauk Ekonomicznych i Zarządzania UMK.
@@ -51,6 +60,8 @@ rada:
               Prelegent na międzynarodowych i krajowych konferencjach dotyczących metod zwinnych (Agile) oraz
               zarządzania projektami. Felietonista kwartalnika „Strefa PMI”.
     linkedInURL  : https://www.linkedin.com/in/jerzystawicki/
+    noLink       : true
+
 
   - image         : images/team/rada/JakubSz.png
     name          : dr Jakub Szczepkowski
@@ -58,6 +69,7 @@ rada:
     description   : >
       Doktor nauk o zarządzaniu i jakości, absolwent automatyki i robotyki, ekonomii oraz zarządzania projektami. Zawodowo związany z Uniwersytetem Mikołaja Kopernika w Toruniu, gdzie koordynuje Impact Hub i działania w zakresie strategii promocji międzynarodowej. Ekspert Polskiej Komisji Akredytacyjnej. Doświadczenie zdobywał także w organizacjach studenckich i doktoranckich na poziomie krajowym. Specjalizuje się w strategii, marketingu, rozwoju produktów i współpracy nauki z otoczeniem społeczno-gospodarczym. Wspiera organizacje i przedsiębiorstwa w budowaniu marki, komunikacji i rozwoju rynkowym.
     linkedInURL   : https://www.linkedin.com/in/jakub-szczepkowski/
+    noLink        : true
 
   - image         : images/team/rada/WiktoriaK.png
     name          : Wiktoria Kujawa-Kamińska
@@ -66,6 +78,8 @@ rada:
       Psycholog, doktorantka w dziedzinie nauk społecznych. Wspiera osoby i zespoły w wypracowywaniu skutecznych sposobów radzenia sobie z wyzwaniami w życiu zawodowym i osobistym, prowadząc konsultacje indywidualne oraz warsztaty rozwojowe.
       Posiada doświadczenie w obszarze HR oraz w realizacji projektów badawczych. W swojej pracy łączy podejście naukowe z praktyką, koncentrując się na takich zagadnieniach jak efektywność pracy zdalnej, prokrastynacja, radzenie sobie ze stresem, podejmowanie decyzji oraz psychologiczne konsekwencje pandemii COVID-19.
     linkedInURL   : https://www.linkedin.com/in/wiktoria-kujawa-kami%C5%84ska-518bb0233/
+    noLink        : true
+    
 
   - image         : images/team/rada/PrzemysławK.png
     name          : Przemek Kotecki
