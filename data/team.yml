@@ -18,13 +18,10 @@ titleOrg: Organizacja wydarzenia
 pm:
   - image         : images/team/wiola.png
     name          : Wiola Borczyńska
-    designation   : Kierownik Projektu
+    designation   : Kierownik Projektu 
     description   : >
-        Wolontariuszka PMI PC Kujawsko - Pomorskie Branch od 2015 roku.
-        Doświadczony Team Manager z 11 letnim doświadczeniem w branży IT.
-        Obecnie pracuje na stanowisku Demand Manager w firmie Atos, zarzadzając grupą specjalistów.
-        Obecnie rozwija swoje kompetencje i doświadczenie w Zarządzaniu Projektami, z czym wiąże swoją przyszłą ścieżkę zawodową.
-        Absolwentka studiów podyplomowych na kierunku Zarządzania Projektami, posiadaczka certyfikatów PRINCE2®, AgilePM®, ITIL4®.
+        Doświadczony Team Manager, Demand Manager i Projekt Manager z wieloletnim doświadczeniem w branży IT. 
+        Absolwentka studiów podyplomowych na kierunku Zarządzanie Projektami. Posiadaczka certyfikatów PRINCE2, AgilePM, ITIL4
     linkedInURL   : https://www.linkedin.com/in/wiola-borczynska-41b781a1/
 
 
@@ -32,21 +29,15 @@ pm:
 titleRada: Rada Programowa
 rada:
   - image         : images/team/rada/IrminaM.png
-    name          : Irmina Marcinkiewicz
-    designation   : Rada Programowa
+    name          : dr hab., prof UMK Marlena Ciechan-Kujawa
+    designation   : Dziekan WNEiZ
     description   : >
-      Rada Programowa
-    linkedInURL   : https://www.linkedin.com/in/irminamarcinkiewicz/
-
-  - image         : images/team/rada/JakubSz.png
-    name          : Jakub Szczepkowski
-    designation   : dr, Koordynator Impact Hub UMK
-    description   : >
-      Doktor nauk o zarządzaniu i jakości, absolwent automatyki i robotyki, ekonomii oraz zarządzania projektami. Zawodowo związany z Uniwersytetem Mikołaja Kopernika w Toruniu, gdzie koordynuje Impact Hub i działania w zakresie strategii promocji międzynarodowej. Ekspert Polskiej Komisji Akredytacyjnej. Doświadczenie zdobywał także w organizacjach studenckich i doktoranckich na poziomie krajowym. Specjalizuje się w strategii, marketingu, rozwoju produktów i współpracy nauki z otoczeniem społeczno-gospodarczym. Wspiera organizacje i przedsiębiorstwa w budowaniu marki, komunikacji i rozwoju rynkowym.
-    linkedInURL   : https://www.linkedin.com/in/jakub-szczepkowski/
+      Profesor w Uniwersytecie Mikołaja Kopernika w Toruniu, Dziekan Wydziału Nauk Ekonomicznych i Zarządzania UMK.
+      Od wielu lat kieruje realizowanymi z partnerami biznesowymi studiami podyplomowymi Business Controlling i Project Management. W swoich badaniach koncentruje się na analizie uwarunkowań i mechanizmów wdrażania strategii cyfrowych i zrównoważonych oraz ich wpływu na wyniki organizacji. Ekspertka w zakresie zintegrowanych systemów zarządzania, a także projektowania modeli pomiaru oraz raportowania finansowych  i niefinansowych generatorów efektywności biznesowej.
+    linkedInURL   : https://www.linkedin.com/in/marlena-ciechan-kujawa/
 
   - image         : images/team/rada/jerzy.png
-    name          : Jerzy Stawicki
+    name          : dr Jerzy Stawicki
     designation   : Ekspert ZP i AI
     description   : >
               Konsultant i trener zarządzania projektami i portfelem projektów oraz metod zwinnych z 30-letnim
@@ -61,20 +52,12 @@ rada:
               zarządzania projektami. Felietonista kwartalnika „Strefa PMI”.
     linkedInURL  : https://www.linkedin.com/in/jerzystawicki/
 
-  - image         : images/team/rada/marlena.png
-    name          : Marlena Ciechan-Kujawa
-    designation   : prof. UMK, Dziekan WNEiZ
+  - image         : images/team/rada/JakubSz.png
+    name          : dr Jakub Szczepkowski
+    designation   : dr, Koordynator Impact Hub UMK
     description   : >
-      Profesor w Uniwersytecie Mikołaja Kopernika w Toruniu, Dziekan Wydziału Nauk Ekonomicznych i Zarządzania UMK.
-      Od wielu lat kieruje realizowanymi z partnerami biznesowymi studiami podyplomowymi Business Controlling i Project Management. W swoich badaniach koncentruje się na analizie uwarunkowań i mechanizmów wdrażania strategii cyfrowych i zrównoważonych oraz ich wpływu na wyniki organizacji. Ekspertka w zakresie zintegrowanych systemów zarządzania, a także projektowania modeli pomiaru oraz raportowania finansowych  i niefinansowych generatorów efektywności biznesowej.
-    linkedInURL   : https://www.linkedin.com/in/marlena-ciechan-kujawa/
-
-  - image         : images/team/rada/PrzemysławK.png
-    name          : Przemek Kotecki
-    designation   : Rada Programowa
-    description   : >
-      Rada Programowa
-    linkedInURL   : https://www.linkedin.com/in/pkotecki/
+      Doktor nauk o zarządzaniu i jakości, absolwent automatyki i robotyki, ekonomii oraz zarządzania projektami. Zawodowo związany z Uniwersytetem Mikołaja Kopernika w Toruniu, gdzie koordynuje Impact Hub i działania w zakresie strategii promocji międzynarodowej. Ekspert Polskiej Komisji Akredytacyjnej. Doświadczenie zdobywał także w organizacjach studenckich i doktoranckich na poziomie krajowym. Specjalizuje się w strategii, marketingu, rozwoju produktów i współpracy nauki z otoczeniem społeczno-gospodarczym. Wspiera organizacje i przedsiębiorstwa w budowaniu marki, komunikacji i rozwoju rynkowym.
+    linkedInURL   : https://www.linkedin.com/in/jakub-szczepkowski/
 
   - image         : images/team/rada/WiktoriaK.png
     name          : Wiktoria Kujawa-Kamińska
@@ -83,6 +66,21 @@ rada:
       Psycholog, doktorantka w dziedzinie nauk społecznych. Wspiera osoby i zespoły w wypracowywaniu skutecznych sposobów radzenia sobie z wyzwaniami w życiu zawodowym i osobistym, prowadząc konsultacje indywidualne oraz warsztaty rozwojowe.
       Posiada doświadczenie w obszarze HR oraz w realizacji projektów badawczych. W swojej pracy łączy podejście naukowe z praktyką, koncentrując się na takich zagadnieniach jak efektywność pracy zdalnej, prokrastynacja, radzenie sobie ze stresem, podejmowanie decyzji oraz psychologiczne konsekwencje pandemii COVID-19.
     linkedInURL   : https://www.linkedin.com/in/wiktoria-kujawa-kami%C5%84ska-518bb0233/
+
+  - image         : images/team/rada/PrzemysławK.png
+    name          : Przemek Kotecki
+    designation   : Director Transformation Office
+    description   : >
+      Lider i doradca w transformacji cyfrowej i biznesowej, zarządzaniu zmianą, wdrażaniu innowacji, zarządzaniu portfelem, fuzjach i przejęciach,
+       a także w rozwoju produktów i oprogramowania. Obszary działalności: e-commerce, finanse, technologie, energetyka.
+    linkedInURL   : https://www.linkedin.com/in/pkotecki/
+
+  - image         : images/team/rada/IrminaM.png
+    name          : Irmina Marcinkiewicz
+    designation   : Psycholog, PM, Ekspert Marketingu
+    description   : >
+      Humanistka w biznesie, ekspertka marketingu, project managerka, wykładowczyni i trenerka biznesu. Dyrektorka generalna agencji MSU Marketing Solution Unlimited oraz Neo Akademii Biznesu – firmy szkoleniowej w zakresie kompetencji zawodowych. Członkini rady redakcyjnej polskiego PMBOK (PMI) oraz Rady Interesariuszy Wydziału Humanistycznego UMK w Toruniu. Laureatka Menadżera Roku 2017 i Kobiety Biznesu 2016. Pasjonatka kognitywistyki, psycholożka i językoznawczyni. Współpracuje z Centrum Przedsiębiorczości Akademickiej. Certyfikowana w Design Thinking, TRIZ i Project Management.
+    linkedInURL   : https://www.linkedin.com/in/irminamarcinkiewicz/
 
   - image         : images/team/rada/WojciechO.png
     name          : Wojtek Ożga
