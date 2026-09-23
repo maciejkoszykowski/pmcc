@@ -89,7 +89,7 @@ program_per_day:
           - number: 20
             slot: "room split" 
             #room: Sala not used
-            title: "Ścieżka 'Organizacyjna'"
+            title: "Ścieżka Organizacyjna"
             icon: gear.png
 
           - number: 22
@@ -136,7 +136,7 @@ program_per_day:
           - number: 30
             slot: "room split" 
             #room: Sala not used
-            title: "Ścieżka 'Psychologia'"
+            title: "Ścieżka Psychologiczna"
             icon: brain.png
 
           - number: 31
