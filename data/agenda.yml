@@ -1,12 +1,12 @@
 enable  : true
-topTitle: PM Connect Conf 
+topTitle: PM Connect Conf
 title   : Agenda
 
 # this control which day to display
 days:
-  - day_date: "24 października 2026"  # the day one - keep consitent below with date field 
+  - day_date: "24 października 2026"  # the day one - keep consitent below with date field
     day_title: "Sobota"
-#  - day_date: 2025-11-11  # the day two 
+#  - day_date: 2025-11-11  # the day two
 #    day_title: "11"
 
 
@@ -18,45 +18,44 @@ program_per_day:
        - slot: "8:45 - 9:30"  # Registration #THIS IS ID to LINK sessions
        - slot: "9:30 - 9:45" # Openning
        - slot: "9:45 - 10:30" # Openning Keynote
-       - slot: "10:30 - 10:45" #### Rooms split
-       - slot: "room split" 
+       - slot: "10:30 - 10:55" # Wystapienie na sali glownej
+       - slot: "10:55 - 11:10" #### Rooms split
+       - slot: "room split"
          hide_timing: true
          hide_expand: true
          show_on_desktop: true
          show_on_mobile: true
          no_of_sessions: 2
-       - slot: "10:45 - 11:25" # Stream sessions 1
+       - slot: "11:10 - 11:50" # Stream sessions 1
          no_of_sessions: 2
-       - slot: "11:25 - 12:05" # Stream sessions 2
+       - slot: "11:50 - 12:30" # Stream sessions 2
          no_of_sessions: 2
-       - slot: "12:05 - 12:45" # Stream sessions 3 partners 
-         no_of_sessions: 2
-       - slot: "12:45 - 13:30" #### LUNCH
-       - slot: "room split" 
+       - slot: "12:30 - 13:30" #### LUNCH
+       - slot: "room split"
          hide_timing: true
          hide_expand: true
          show_on_desktop: true
          show_on_mobile: false
          no_of_sessions: 2
-       - slot: "13:30 - 14:10" # Stream sessions 4
+       - slot: "13:30 - 14:10" # Stream sessions 3
          no_of_sessions: 2
-       - slot: "14:10 - 14:50" # Stream sessions 5
+       - slot: "14:10 - 14:50" # Stream sessions 4
          no_of_sessions: 2
-       - slot: "14:50 - 15:15"  #### Coffe break 1 
-       - slot: "15:15 - 15:55" ## PANEL1
-       - slot: "15:55 - 16:35" ## PANEL 2
-       - slot: "16:35 - 17:15" ## key note
-       - slot: "17:15 - 17:30" # Conf Closure
+       - slot: "14:50 - 15:15"  #### Coffe break
+       - slot: "15:15 - 15:40" ## Wystapienie na sali glownej
+       - slot: "15:40 - 16:20" ## Sala glowna
+       - slot: "16:20 - 17:05" ## Closing key note
+       - slot: "17:05 - 17:20" # Conf Closure
          end: true
 
     sessions:
-        ### Main Stage sessions - Part 1 
+        ### Main Stage sessions - Part 1
           - number: 1
             slot: "8:45 - 9:30"
             who: "Rejestracja uczestników i networking przy kawie"
             title:  # null
             description: >
-              Przyjdź i zarejestruj się, uniknij kolejki i skorzystaj z networkingu przed wydarzeniem. 
+              Przyjdź i zarejestruj się, uniknij kolejki i skorzystaj z networkingu przed wydarzeniem.
 
           - number: 5
             slot: "9:30 - 9:45"
@@ -71,57 +70,73 @@ program_per_day:
             title: >
               Transformatywna AI: obietnica przyspieszenia wzrostu czy zagrożenie egzystencjalne dla ludzkości?
             description: >
-              Opis pojawi się wkrótce. Zachęcamy do śledzenia naszych mediów społecznościowych. 
+              Czy AI, która przewyższy ludzi we wszystkich ekonomicznie wartościowych zadaniach, przyniesie
+              bezprecedensowy dobrobyt czy koniec ludzkości? Jakub uporządkuje scenariusze rozwoju
+              transformatywnej AI i oceni ich skutki gospodarcze oraz ryzyka egzystencjalne. Pokaże, dlaczego
+              nawet mało prawdopodobne scenariusze katastroficzne uzasadniają poważne inwestycje w badania nad
+              bezpieczeństwem AI. Wykład otwierający, oparty na badaniach własnych.
+
+          - number: 12
+            slot: "10:30 - 10:55"
+            who: "mec. Tomasz Sowa"
+            title: "Temat w opracowaniu"
+            description: >
+              Temat został zatwierdzony, trwają prace nad doprecyzowaniem szczegółów. Zachęcamy do śledzenia
+              naszych mediów społecznościowych. Po publikacji zapowiedzi agenda zostanie zaktualizowana.
 
           - number: 15
-            slot: "10:30 - 10:45"
+            slot: "10:55 - 11:10"
             who: ""
             title: "Podział na sale – wybierz prelekcje dla siebie"
             description: >
-              Po rozpoczęciu konferencji uczestnicy będą mogli rozchodzić się na dwie sale według własnego wyboru, 
-              dostosowując udział do tematów, które najbardziej ich interesują. 
-              Wiemy, że wybór może być trudny, ale tematyka jest tak obszerna, że warto było uwzględnić różnorodne zagadnienia, 
-              aby każdy mógł znaleźć coś dla siebie. 
-              Niewątpliwie networking umożliwi wymianę informacji i ciekawe rozmowy. 
+              Po rozpoczęciu konferencji uczestnicy będą mogli rozchodzić się na dwie sale według własnego wyboru,
+              dostosowując udział do tematów, które najbardziej ich interesują.
+              Wiemy, że wybór może być trudny, ale tematyka jest tak obszerna, że warto było uwzględnić różnorodne zagadnienia,
+              aby każdy mógł znaleźć coś dla siebie.
+              Niewątpliwie networking umożliwi wymianę informacji i ciekawe rozmowy.
               Zachęcamy do rozmów o wystąpieniach – to świetna okazja do wymiany wrażeń i pogłębienia wiedzy.
 
-        ### Hard Sessions 
+        ### Hard Sessions
           - number: 20
-            slot: "room split" 
+            slot: "room split"
             #room: Sala not used
             title: "Ścieżka Organizacyjna"
             icon: gear.png
 
           - number: 22
-            slot: "10:45 - 11:25"
+            slot: "11:10 - 11:50"
             who: "Tomasz Żabiński"
-            title: "Efektywne, odpowiedzialne i bezpieczne wdrażanie AI i Physical AI w firmach produkcyjnych" 
+            title: "Efektywne, odpowiedzialne i bezpieczne wdrażanie AI i Physical AI w firmach produkcyjnych"
             description: >
-              Opis pojawi się wkrótce. Zachęcamy do śledzenia naszych mediów społecznościowych. 
+              Sztuczna inteligencja wchodzi do hal produkcyjnych w fizycznej postaci. Tomasz pokaże, jak wdrażać
+              AI i roboty humanoidalne w firmach produkcyjnych: które obszary automatyzować, jak pracować z
+              oporem zespołów i co mówią badania o zmianie stanowisk pracy. Poruszy też bezpieczeństwo techniczne
+              i psychologiczne, wymogi AI Act oraz źródła finansowania. Wyjdziesz z listą kwestii do
+              rozstrzygnięcia przed startem takiego projektu.
             icon: gear.png
 
           - number: 23
-            slot: "11:25 - 12:05"
+            slot: "11:50 - 12:30"
             who: "Dorota Mleczko"
             title: Rewolucja ról. Jak sztuczna inteligencja zmienia struktury zespołów projektowych i co to oznacza dla kierownika projektu
             description: >
-                Opis pojawi się wkrótce. Zachęcamy do śledzenia naszych mediów społecznościowych. 
-            icon: gear.png
-          
-          - number: 25
-            slot: "12:05 - 12:45"
-            who: Łukasz Karwacki 
-            title: "Od statusu do decyzji: jak PM staje się architektem decyzji w erze AI"
-            description: >
-              Opis pojawi się wkrótce. Zachęcamy do śledzenia naszych mediów społecznościowych. 
+              Programiści wspierani przez agentów AI dostarczają w dwa dni to, co planowano na sześć tygodni.
+              Dorota pokaże, co ta zmiana tempa robi z rolami Właściciela Produktu, Kierownika Projektu i
+              Kierownika Programu. Opiera się na obserwacjach z wdrożeń AI w europejskich organizacjach i
+              rozmowach z zespołami produktowymi. Dostaniesz argumenty, żeby przemyśleć strukturę zespołu,
+              którym zarządzasz.
             icon: gear.png
 
-          - number: 27
+          - number: 25
             slot: "13:30 - 14:10"
-            who: Do ogłoszenia, 
-            title: szczegóły zostaną udostępnione wkrótce.
+            who: Łukasz Karwacki
+            title: "Od statusu do decyzji: jak PM staje się architektem decyzji w erze AI"
             description: >
-              Opis pojawi się wkrótce. Zachęcamy do śledzenia naszych mediów społecznościowych. 
+              Organizacje mają więcej danych niż kiedykolwiek, a decyzje zapadają wolniej. Łukasz pokaże,
+              dlaczego spotkania projektowe kończą się synchronizacją statusu zamiast rozstrzygnięciem. Wyjaśni,
+              na czym polega decision architecture: porządkowanie opcji, pokazywanie konsekwencji i redukowanie
+              przeciążenia poznawczego interesariuszy. Punktem wyjścia są obserwacje z pracy z liderami
+              prezentującymi złożone tematy zarządom. Wyjdziesz z modelem myślenia do zastosowania następnego dnia.
             icon: gear.png
 
           - number: 28
@@ -129,46 +144,50 @@ program_per_day:
             who: "Katarzyna Michno"
             title: 'Nowa struktura projektu: jak agenci AI przejmują role w zespole - case study'
             description: >
-              Opis pojawi się wkrótce. Zachęcamy do śledzenia naszych mediów społecznościowych. 
+              Zespoły projektowe przestają być wyłącznie ludzkie. Katarzyna pokaże eksperymenty, w których agenci
+              AI przejmowali konkretne role: analityka, PMO, QA i wsparcia decyzyjnego. Każdy wariant
+              przeanalizuje pod kątem wpływu na przebieg projektu, jakość rezultatów i sposób podejmowania
+              decyzji. Wyjdziesz z konkretnym obrazem tego, co działa, a co się sypie w zespole hybrydowym.
             icon: gear.png
 
-        ### Soft Sessions 
+        ### Soft Sessions
           - number: 30
-            slot: "room split" 
+            slot: "room split"
             #room: Sala not used
             title: "Ścieżka Psychologiczna"
             icon: brain.png
 
           - number: 31
-            slot: "10:45 - 11:25"
+            slot: "11:10 - 11:50"
             who: "Łukasz Wojtkowski"
             title: "UNBOX: od czarnej skrzynki do relacyjnej architektury decyzji"
             description: >
-                Opis pojawi się wkrótce. Zachęcamy do śledzenia naszych mediów społecznościowych.    
+              Projekt to sieć relacji między ludźmi, danymi, procedurami i interesariuszami. AI wchodzi w nią jako
+              aktywny uczestnik: przesuwa sprawczość i rozprasza odpowiedzialność. Łukasz przedstawi autorską
+              ramę UNBOX, która pomaga rozpoznać, gdzie decyzja naprawdę powstaje i kto może ją zatrzymać.
+              Wyjdziesz ze schematem do świadomego projektowania odpowiedzialności w projektach z AI.
             icon: brain.png
 
           - number: 32
-            slot: "11:25 - 12:05"
+            slot: "11:50 - 12:30"
             who: "Lucyna Ławniczak"
             title: "Bezpieczeństwo psychologiczne w erze AI: czego nie widzimy, a co nami zarządza"
             description: >
-             Opis pojawi się wkrótce. Zachęcamy do śledzenia naszych mediów społecznościowych. 
+              Organizacje kupują narzędzia AI, zespoły zgadzają się, że są dobre, i nikt ich nie wdraża. Lucyna
+              wyjaśni ten paradoks mechanizmem nierozpoznań z Analizy Transakcyjnej, czyli pomniejszania istotnych
+              faktów o sobie, innych i sytuacji. Pokaże, jak prowadzi on do rozmycia ról i odkładania decyzji.
+              Dostaniesz odpowiedź, dlaczego brak bezpieczeństwa psychologicznego blokuje wdrożenia.
             icon: brain.png
 
           - number: 38
-            slot: "12:05 - 12:45"
+            slot: "13:30 - 14:10"
             who: "Paweł Szczęsny"
             title: "AI czyli 'kto'? O ukrytych preferencjach systemów AI w kontekście zarządzania projektami "
             description: >
-               Opis pojawi się wkrótce. Zachęcamy do śledzenia naszych mediów społecznościowych. 
-            icon: brain.png
-
-          - number: 64
-            slot: "13:30 - 14:10"
-            who: "Izabela Lipińska"
-            title: "Cognitive deskilling w pracy PM-a"
-            description: >
-              Opis pojawi się wkrótce. Zachęcamy do śledzenia naszych mediów społecznościowych. 
+              Zakładamy, że AI to narzędzie bez własnego punktu widzenia. Paweł pokaże, że systemy AI mają ukryte
+              preferencje: domyślne założenia, wzorce interpretacji i określony stosunek do ryzyka. W projekcie
+              wpływa to na priorytety, ocenę sytuacji i rozumienie sukcesu. Zaczniesz patrzeć na AI jak na
+              aktywnego uczestnika środowiska projektowego.
             icon: brain.png
 
           - number: 65
@@ -176,56 +195,62 @@ program_per_day:
             who: "Arkadiusz Gut"
             title: "Czy LLM-y mają dialogiczne i empatyczne self? O granicach zastępowania ludzi sztucznymi agentami w kulturowo wrażliwych przedsięwzięciach grupowych"
             description: >
-             Opis pojawi się wkrótce. Zachęcamy do śledzenia naszych mediów społecznościowych. 
+              Czy sztuczny agent potrafi prowadzić wewnętrzny dialog i zajmować stanowisko wobec siebie oraz
+              innych? Arkadiusz oprze wystąpienie na badaniach prowadzonych w Polsce i w Chinach. Pokaże, jak
+              różne modele językowe imitują samorefleksję i grupowe odpowiedzi ludzi z odmiennych kultur, wzdłuż
+              osi Zachód-Wschód. Populację sztucznych agentów potraktuje przy tym jak grupę kulturową. Usłyszysz,
+              gdzie leżą granice zastępowania ludzi agentami w przedsięwzięciach wrażliwych kulturowo.
             icon: brain.png
 
         ### Main Stage sessions - Part Various
           - number: 110
-            slot: "12:45 - 13:30"
+            slot: "12:30 - 13:30"
             who: ""
-            title: > 
-                   Lunch z networkingiem <br><br> 
-                   Po przerwie podział na sale – wybierz prelekcje dla siebie 
+            title: >
+                   Lunch z networkingiem <br><br>
+                   Po przerwie podział na sale – wybierz prelekcje dla siebie
             description: >
               w przerwie warto porozmawiać z jeszcze niepoznaną osobą, przychodząc na konferencje chcemy poznawać wartościowych ludzi.
 
           - number: 120
             slot: "14:50 - 15:15"
-            who: 
-            title: > 
-              Wspólna przerwa kawowa z wszystkimi uczestnikami konferencji <br><br> 
-              Po przerwie wracamy na sale główną. 
+            who:
+            title: >
+              Wspólna przerwa kawowa z wszystkimi uczestnikami konferencji <br><br>
+              Po przerwie wracamy na sale główną.
             description: >
               w przerwie warto porozmawiać z jeszcze niepoznaną osobą, przychodząc na konferencje chcemy poznawać wartościowych ludzi.
 
          ### Main Stage sessions - Part 2 - Closing
 
           - number: 225
-            slot: "15:15 - 15:55"
+            slot: "15:15 - 15:40"
             who: " "
             title: "Pozycja zarezerwowana – szczegóły zostaną przekazane wkrótce."
             description: >
               Temat został zatwierdzony, trwają prace nad doprecyzowaniem szczegółów. Zachęcamy do śledzenia naszych mediów społecznościowych. Po publikacji zapowiedzi agenda zostanie zaktualizowana.
 
-          - number: 227
-            slot: "15:55 - 16:35"
-            who: " "
-            title: "Pozycja zarezerwowana – szczegóły zostaną przekazane wkrótce."
+          - number: 64
+            slot: "15:40 - 16:20"
+            who: "Izabela Lipińska"
+            title: "Cognitive deskilling w pracy PM-a"
             description: >
-              Temat został zatwierdzony, trwają prace nad doprecyzowaniem szczegółów. Zachęcamy do śledzenia naszych mediów społecznościowych. Po publikacji zapowiedzi agenda zostanie zaktualizowana.
-
+              Kierownik projektu pod presją coraz częściej oddaje analizę modelom językowym. Izabela pokaże dwa
+              skutki: ulgę poznawczą, którą mylimy z rzetelną wiedzą, oraz przeładowanie, przy którym praca
+              przyspiesza bez postępów. Oba prowadzą do cognitive deskillingu, czyli utraty kompetencji
+              poznawczych stanowiących o wartości PM-a. Poznasz konkretny scenariusz rozmowy z modelem i sposoby
+              pracy z tym ryzykiem.
 
           - number: 230
-            slot: "16:35 - 17:15"
-            who: "Closing Keynote: szczegóły zostaną przekazane wkrótce."
-            title: "Szczegóły punktu zostaną przedstawione wkrótce."
+            slot: "16:20 - 17:05"
+            who: "Closing Keynote: Piotr Wiśniewski"
+            title: "Temat w opracowaniu"
             description: >
               Temat został zatwierdzony, trwają prace nad doprecyzowaniem szczegółów. Zachęcamy do śledzenia naszych mediów społecznościowych. Po publikacji zapowiedzi agenda zostanie zaktualizowana.
 
-
           - number: 250
-            slot: "17:15 - 17:30"
+            slot: "17:05 - 17:20"
             who: "Zamknięcie konferencji"
-            title:   "prof. UMK Marlena Ciechan-Kujawa oraz Maciej Koszykowski"          
+            title:   "prof. UMK Marlena Ciechan-Kujawa oraz Maciej Koszykowski"
             description: >
               Oficjalne zakończenie konferencji.
