@@ -2,7 +2,7 @@ enable  : true
 topTitle: PM Connect Conf
 
 title           : Partnerzy Konferencji
-# titleMedia      : Patronat Medialny
+titleMedia      : Patronat Medialny
 titleHonorowi   : Patronat Honorowy
 titleInstytucje : Patronat Instytucjonalny
 
@@ -41,13 +41,13 @@ item   :
 
 
 
-# media  :
-#   - title : Strefa PMI
-#     image : images/partnerzy/logo_strefa.png
-#     category  : Partner Medialny 
-#     small_support: True
-#     image_small : images/partnerzy/logo_strefa_small.png
-#     link: https://strefapmi.pl/
+media  :
+   - title : Strefa PMI
+     image : images/partnerzy/logo_strefa.png
+     category  : Partner Medialny 
+     small_support: True
+     image_small : images/partnerzy/logo_strefa_small.png
+     link: https://strefapmi.pl/
 
 #   - title : Radio Gra
 #     image : images/partnerzy/radio_gra.png
