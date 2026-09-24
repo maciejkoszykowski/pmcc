@@ -1,1 +1,3 @@
-*zip
+# Zdjęcia galerii (thumbnails/, web/) są tylko lokalnie i na serwerze, nie w git
+*
+!.gitignore

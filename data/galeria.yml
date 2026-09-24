@@ -7,15 +7,15 @@ filtermenu :
   - name      : 2024
     category  : 2024
 
-  - name      : "2025 (już niedługo)"
-    category  : "2025 (już niedługo)"
+  - name      : 2025
+    category  : 2025
 
 
 item   :
   - title : 2024
-    image_count : 104  # number of file in the gallery folder
+    image_count : 105  # number of file in the gallery folder
     category  : 2024
 
   - title : 2025
-    image_count : 0 
+    image_count : 67 
     category  : 2025
