@@ -19,3 +19,11 @@ item   :
   - title : 2025
     image_count : 67 
     category  : 2025
+
+# pasek zdjęć na stronie głównej (pod hero): losowe zdjęcia ze wszystkich lat z `item`
+pasek:
+  enable    : true
+  topTitle  : PM Connect Conf
+  title     : Tak było w poprzednich latach
+  count     : 20   # ile zdjęć losować przy każdym wejściu na stronę
+  link_text : "Przejdź do Galerii →"
