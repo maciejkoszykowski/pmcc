@@ -3,6 +3,10 @@ title: "Strona Główna"
 description: "To jest opis strony głównej"
 date: 2024-09-02T12:00:00Z
 draft: false
+# tekst "O konferencji" wczytywany na stronę główną (data/opis_konfy.yml) — bez osobnej podstrony /about_conf/
+build:
+  render: never
+  list: never
 ---
 PM CONNECT CONF to wyjątkowe wydarzenie, które w dynamiczny sposób łączy teorię z praktyką w dziedzinie zarządzania projektami. To również okazja do inspirującego networkingu w gronie profesjonalistów. Dzięki spotkaniu z ekspertami i liderami branży uczestnicy mogą wymieniać się doświadczeniami oraz nawiązywać wartościowe kontakty wspierające dalszy rozwój zawodowy. **Dołącz do nas, jeśli chcesz czerpać inspirację, zdobywać praktyczną wiedzę i spotkać ludzi, którzy podobnie jak Ty poszukują nowych perspektyw w zarządzaniu projektami.**
 

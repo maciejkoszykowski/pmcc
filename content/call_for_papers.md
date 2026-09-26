@@ -1,7 +1,8 @@
 ---
 title: "Call for Papers"
 confTitle: "PM Connect Conf"
-description: "Zaproszenie do nadsyłania abstraktów"
+seo_title: "Call for Papers — PM Connect Conf 2026, Toruń"
+description: "Call for Papers PM Connect Conf 2026: tematy i ścieżki konferencji o zarządzaniu projektami w erze AI. 24 października 2026, Toruń."
 date: 2025-05-08T12:00:00Z
 draft: false
 ---

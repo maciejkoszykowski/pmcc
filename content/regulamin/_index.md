@@ -1,3 +1,8 @@
+---
+seo_title: "Regulamin udziału — PM Connect Conf 2026, Toruń"
+description: "Regulamin udziału uczestników konferencji PM Connect Conf 2026: organizator, rejestracja i zasady udziału. 24 października 2026, WNEiZ UMK w Toruniu."
+---
+
 ## **Regulamin**
 
 # **Konferencja PM CONNECT CONF**
