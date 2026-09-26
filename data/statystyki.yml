@@ -30,3 +30,59 @@ psi_url : "https://pmcc.pmi.org.pl/"
 # Bez klucza Google często odrzuca test (błąd 429).
 # Nowy klucz: console.cloud.google.com → PageSpeed Insights API → Dane logowania → Utwórz klucz API,
 # ograniczony do strony (Websites: pmcc.pmi.org.pl/*) i do PageSpeed Insights API.
+
+# Sekcja "Przydatne narzędzia" — darmowe narzędzia do samodzielnego sprawdzania strony.
+# W linku: {url} = adres strony (psi_url), {url_enc} = ten sam adres zakodowany, {host} = sama domena.
+# login: true = narzędzie wymaga zalogowania (np. konto Facebook/LinkedIn).
+tools:
+  - category : Szybkość
+    items:
+      - name : Google PageSpeed Insights
+        desc : "Ocena szybkości na telefonie i komputerze, z listą rzeczy do poprawy."
+        link : "https://pagespeed.web.dev/analysis?url={url_enc}"
+      - name : GTmetrix
+        desc : "Szybkość i to, co najdłużej się ładuje (wykres ładowania)."
+        link : "https://gtmetrix.com/"
+      - name : WebPageTest
+        desc : "Szczegółowy test szybkości z różnych miejsc na świecie."
+        link : "https://www.webpagetest.org/"
+  - category : SEO i Google
+    items:
+      - name : Google Search Console
+        desc : "Jak Google widzi stronę: frazy, pozycje, błędy indeksowania."
+        link : "https://search.google.com/search-console?resource_id={url_enc}"
+        login : true
+      - name : Test wyników z elementami rozszerzonymi (Google)
+        desc : "Czy Google widzi dane o wydarzeniu: datę, miejsce, bilety."
+        link : "https://search.google.com/test/rich-results?url={url_enc}"
+      - name : Schema Markup Validator
+        desc : "Sprawdza dane strukturalne (schema.org) na stronie."
+        link : "https://validator.schema.org/#url={url_enc}"
+      - name : Bing Webmaster Tools
+        desc : "To samo co Search Console, ale dla wyszukiwarki Bing."
+        link : "https://www.bing.com/webmasters"
+        login : true
+      - name : Seobility SEO Check
+        desc : "Szybki przegląd SEO jednej strony z listą problemów."
+        link : "https://www.seobility.net/en/seocheck/"
+  - category : Podgląd w social media
+    items:
+      - name : OpenGraph.xyz
+        desc : "Jak wygląda link do strony na Facebooku, LinkedIn, X i w komunikatorach."
+        link : "https://www.opengraph.xyz/url/{url_enc}"
+      - name : Facebook Sharing Debugger
+        desc : "Podgląd linku na Facebooku i odświeżenie go po zmianie obrazka lub opisu."
+        link : "https://developers.facebook.com/tools/debug/?q={url_enc}"
+        login : true
+      - name : LinkedIn Post Inspector
+        desc : "Podgląd linku na LinkedIn i odświeżenie go po zmianach."
+        link : "https://www.linkedin.com/post-inspector/inspect/{url_enc}"
+        login : true
+  - category : Dostępność i bezpieczeństwo
+    items:
+      - name : WAVE
+        desc : "Dostępność dla osób z niepełnosprawnościami: kontrast, opisy, nagłówki."
+        link : "https://wave.webaim.org/report#/{url}"
+      - name : SSL Labs
+        desc : "Czy certyfikat HTTPS jest poprawny i bezpieczny (test trwa ok. 1–2 min)."
+        link : "https://www.ssllabs.com/ssltest/analyze.html?d={host}"
