@@ -1,0 +1,16 @@
+# Mapa uczestników na ukrytej stronie /mapka (tylko dla organizatorów, bez linku w menu).
+# Mapa z Google My Maps. Odwiedzający ją widzą, ale nie mogą jej klikać ani przesuwać.
+enable    : true
+topTitle  : PM Connect Conf
+title     : Skąd przyjechali nasi uczestnicy
+# link "embed" z My Maps (Udostępnij → Umieść na mojej stronie), bez ll/z — dopisujemy je niżej
+map_url   : "https://www.google.com/maps/d/embed?mid=1dWOkW6gLaHMDpbS-1Hho6hapRIAomOs"
+# widok mapy: ll = środek (szerokość,długość), z = przybliżenie (większe = bliżej)
+desktop:
+  height : 450  # px
+  ll     : "52.75,19.0"
+  z      : 6
+mobile:           # telefon = do 767 px szerokości
+  height : 300  # px
+  ll     : "52.5,19.2"
+  z      : 5
