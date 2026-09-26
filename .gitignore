@@ -4,3 +4,6 @@ CLAUDE.md
 activity.log
 tmp/*
 !tmp/.gitkeep
+
+# klucz PageSpeed API dla /statystyki — wgrywany na serwer ręcznie
+static/psi-key.txt

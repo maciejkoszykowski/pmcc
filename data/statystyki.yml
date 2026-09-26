@@ -14,7 +14,11 @@ looker_height : 900  # px
 ga_url  : "https://analytics.google.com/"
 gsc_url : "https://search.google.com/search-console?resource_id=https%3A%2F%2Fpmcc.pmi.org.pl%2F"
 
-# Klucz API do testu szybkości (Google PageSpeed Insights). Bez klucza Google często odrzuca test (błąd 429).
-# Darmowy: console.cloud.google.com → włącz "PageSpeed Insights API" → Dane logowania → Utwórz klucz API.
-# Ogranicz klucz do strony (Odwołujący się HTTP: pmcc.pmi.org.pl/*) — wtedy może być jawny w kodzie strony.
-psi_key : ""
+# Adres testowany w PageSpeed (stały — `hugo server` podmienia adres strony na localhost, którego Google nie widzi)
+psi_url : "https://pmcc.pmi.org.pl/"
+
+# Klucz API do testu szybkości (Google PageSpeed Insights) jest w pliku static/psi-key.txt — poza gitem (.gitignore).
+# Strona czyta go przy teście z adresu /psi-key.txt. Na serwer wgrywa się go ręcznie, obok index.html.
+# Bez klucza Google często odrzuca test (błąd 429).
+# Nowy klucz: console.cloud.google.com → PageSpeed Insights API → Dane logowania → Utwórz klucz API,
+# ograniczony do strony (Websites: pmcc.pmi.org.pl/*) i do PageSpeed Insights API.
