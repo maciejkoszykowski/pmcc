@@ -1,0 +1,20 @@
+# Statystyki SEO na ukrytej stronie /statystyki (dla marketingu i PM-a, bez linku w menu).
+# Przegląd stron i test szybkości liczą się na żywo w przeglądarce, przy każdym wejściu.
+enable    : true
+topTitle  : PM Connect Conf
+title     : Statystyki SEO
+
+# Raport Looker Studio (Google Analytics + Search Console).
+# Link "embed": Looker Studio → Udostępnij → Umieść raport → Włącz umieszczanie → skopiuj adres URL.
+# Puste = zamiast raportu pokazuje się instrukcja i linki do GA i Search Console.
+looker_url    : ""
+looker_height : 900  # px
+
+# linki dla osób z dostępem do kont Google
+ga_url  : "https://analytics.google.com/"
+gsc_url : "https://search.google.com/search-console?resource_id=https%3A%2F%2Fpmcc.pmi.org.pl%2F"
+
+# Klucz API do testu szybkości (Google PageSpeed Insights). Bez klucza Google często odrzuca test (błąd 429).
+# Darmowy: console.cloud.google.com → włącz "PageSpeed Insights API" → Dane logowania → Utwórz klucz API.
+# Ogranicz klucz do strony (Odwołujący się HTTP: pmcc.pmi.org.pl/*) — wtedy może być jawny w kodzie strony.
+psi_key : ""

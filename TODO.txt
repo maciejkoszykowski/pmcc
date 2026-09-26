@@ -37,3 +37,6 @@ jeszcze do zrobienia, na później:
    Consent Mode w przyszłości
 
 
+9. Google Analytics (gtag G-Z75DKN4M2G) wstawiony DWA razy na każdej stronie: w partials/head.html
+   i w _default/baseof.html (także w mapka/list.html) - wejścia mogą się liczyć podwójnie,
+   statystyki w GA mogą być zawyżone. Zostawić jeden (w head.html). Zauważone 2026-09-26.
