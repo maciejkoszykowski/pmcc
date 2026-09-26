@@ -4,15 +4,23 @@ enable    : true
 topTitle  : PM Connect Conf
 title     : Statystyki SEO
 
-# Raport Looker Studio (Google Analytics + Search Console).
-# Link "embed": Looker Studio → Udostępnij → Umieść raport → Włącz umieszczanie → skopiuj adres URL.
-# Puste = zamiast raportu pokazuje się instrukcja i linki do GA i Search Console.
-looker_url    : ""
-looker_height : 900  # px
-
-# linki dla osób z dostępem do kont Google
-ga_url  : "https://analytics.google.com/"
-gsc_url : "https://search.google.com/search-console?resource_id=https%3A%2F%2Fpmcc.pmi.org.pl%2F"
+# Raporty Looker Studio — każdy w osobnej rozwijanej sekcji, w tej kolejności.
+# url = link "embed": Looker Studio → Plik → Umieść raport → Włącz umieszczanie → Adres URL do umieszczenia.
+# height = wysokość ramki w px (tyle, ile ma raport). Pusty url = zamiast raportu tylko opis i link do Google.
+# link = strona Google z pełnymi danymi (dla osób z dostępem do konta).
+reports:
+  - title  : Ruch na stronie (Google Analytics)
+    intro  : "Ile osób odwiedza stronę, skąd przychodzą, na jakich urządzeniach i które podstrony oglądają."
+    url    : "https://datastudio.google.com/embed/reporting/da21f18e-fb21-4f2f-ba05-f998b016d47c/page/kIV1C"
+    height : 2125
+    link_label : Google Analytics
+    link   : "https://analytics.google.com/"
+  - title  : Wyniki w Google (Search Console)
+    intro  : "Jak strona pojawia się w wyszukiwarce Google: wyświetlenia, kliknięcia, wpisywane frazy i średnia pozycja."
+    url    : "https://datastudio.google.com/embed/reporting/5c732ac4-701e-44df-8709-3519e8b42424/page/6zXD"
+    height : 1000
+    link_label : Google Search Console
+    link   : "https://search.google.com/search-console?resource_id=https%3A%2F%2Fpmcc.pmi.org.pl%2F"
 
 # Adres testowany w PageSpeed (stały — `hugo server` podmienia adres strony na localhost, którego Google nie widzi)
 psi_url : "https://pmcc.pmi.org.pl/"
