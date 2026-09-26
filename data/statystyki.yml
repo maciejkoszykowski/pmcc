@@ -22,6 +22,17 @@ reports:
     link_label : Google Search Console
     link   : "https://search.google.com/search-console?resource_id=https%3A%2F%2Fpmcc.pmi.org.pl%2F"
 
+# Strony spoza Hugo do tabeli "Przegląd stron" (strony Hugo dodają się same).
+# hidden: true = strona ma być ukryta przed Google — bez noindex tabela pokaże to na czerwono.
+# error: true = strona błędu (serwer zwraca ją z kodem 404, Google jej nie indeksuje).
+extra_pages:
+  - url    : /404.html
+    name   : Strona błędu 404
+    error  : true
+  - url    : /changelog.html
+    name   : Dziennik zmian (wgrywany ręcznie)
+    hidden : true
+
 # Adres testowany w PageSpeed (stały — `hugo server` podmienia adres strony na localhost, którego Google nie widzi)
 psi_url : "https://pmcc.pmi.org.pl/"
 
