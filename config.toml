@@ -41,6 +41,11 @@ enableRobotsTXT = true       # This generates robots.txt by Hugo. This file tell
 enableGitInfo = false        # in Hugo enables inclusion of Git commit metadata (like last modified date) for your content files during site generation.
 pygmentsCodeFences = true    # Might be useful so on. This enables syntax highlighting for code blocks fenced with triple backticks (```) using the Pygments highlighter in Hugo.
 
+# Minify: każdy build (hugo i hugo server) ściska HTML/CSS/JS/XML — mniejsze pliki i szybsze przetwarzanie
+# na telefonie (HTML strony głównej miał ~270 KB samych spacji). Bez flagi --minify w linii poleceń.
+[minify]
+  minifyOutput = true
+
 #In Hugo, the [markup] section configures how Markdown is processed.
 [markup]
   [markup.goldmark]
