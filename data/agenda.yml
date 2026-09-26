@@ -2,6 +2,11 @@ enable  : true
 topTitle: PM Connect Conf
 title   : Agenda
 
+# opisy ikonek przy wystąpieniach (alt) — czyta je Google i czytnik ekranu
+icon_alt:
+  gear.png  : "Ścieżka Organizacyjna"
+  brain.png : "Ścieżka Psychologiczna"
+
 # this control which day to display
 days:
   - day_date: "24 października 2026"  # the day one - keep consitent below with date field
