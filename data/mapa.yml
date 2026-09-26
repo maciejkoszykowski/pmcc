@@ -7,7 +7,7 @@ title     : Skąd przyjechali nasi uczestnicy
 map_url   : "https://www.google.com/maps/d/embed?mid=1dWOkW6gLaHMDpbS-1Hho6hapRIAomOs"
 # widok mapy: ll = środek (szerokość,długość), z = przybliżenie (większe = bliżej)
 desktop:
-  height : 450  # px
+  height : 520  # px
   ll     : "52.75,19.0"
   z      : 6
 mobile:           # telefon = do 767 px szerokości
