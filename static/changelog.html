@@ -1,0 +1,491 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>PMCC 2026 — dziennik zmian</title>
+<style>
+  :root {
+    --bg: #f7f6fb;
+    --surface: #ffffff;
+    --surface-2: #f0eef8;
+    --text: #1c1530;
+    --text-muted: #5f5877;
+    --border: #e3e0ec;
+    --blue: #0050aa;
+    --pink: #aa2896;
+    --gradient: linear-gradient(100deg, #0050aa, #aa2896);
+    --tag-visual-bg: #e8f0fc;
+    --tag-visual-text: #0050aa;
+    --tag-content-bg: #fbe9f4;
+    --tag-content-text: #aa2896;
+    --tag-seo-bg: #eaf6ee;
+    --tag-seo-text: #1f8a4c;
+    --tag-perf-bg: #fff3e0;
+    --tag-perf-text: #b3690a;
+  }
+
+  :root:not([data-theme="light"]) {
+    @media (prefers-color-scheme: dark) {
+      --bg: #140727;
+      --surface: #1d1136;
+      --surface-2: #241640;
+      --text: #f2effa;
+      --text-muted: #b3a8d0;
+      --border: #362a54;
+      --tag-visual-bg: #16294a;
+      --tag-visual-text: #7fb2ff;
+      --tag-content-bg: #401a34;
+      --tag-content-text: #f39fd4;
+      --tag-seo-bg: #123423;
+      --tag-seo-text: #6fd99a;
+      --tag-perf-bg: #3a2708;
+      --tag-perf-text: #f0b862;
+    }
+  }
+
+  :root[data-theme="dark"] {
+    --bg: #140727;
+    --surface: #1d1136;
+    --surface-2: #241640;
+    --text: #f2effa;
+    --text-muted: #b3a8d0;
+    --border: #362a54;
+    --tag-visual-bg: #16294a;
+    --tag-visual-text: #7fb2ff;
+    --tag-content-bg: #401a34;
+    --tag-content-text: #f39fd4;
+    --tag-seo-bg: #123423;
+    --tag-seo-text: #6fd99a;
+    --tag-perf-bg: #3a2708;
+    --tag-perf-text: #f0b862;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Karla', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    padding-inline: 24px;
+    padding-block: 48px;
+  }
+
+  h1, h2, .brand {
+    font-family: 'Sora', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  }
+
+  .page {
+    max-width: 720px;
+    margin-inline: auto;
+  }
+
+  header.top {
+    margin-bottom: 40px;
+  }
+
+  .eyebrow {
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    background: var(--gradient);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    margin-bottom: 10px;
+  }
+
+  h1 {
+    font-size: clamp(28px, 5vw, 38px);
+    font-weight: 700;
+    line-height: 1.15;
+    margin: 0 0 12px;
+    text-wrap: balance;
+  }
+
+  .lede {
+    color: var(--text-muted);
+    font-size: 16px;
+    line-height: 1.6;
+    max-width: 56ch;
+    margin: 0;
+  }
+
+  .meta-row {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    font-size: 13px;
+    color: var(--text-muted);
+  }
+
+  .meta-row strong {
+    color: var(--text);
+  }
+
+  .timeline {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 36px;
+  }
+
+  .entry {
+    position: relative;
+    padding-left: 28px;
+    border-left: 2px solid var(--border);
+  }
+
+  .entry::before {
+    content: "";
+    position: absolute;
+    left: -7px;
+    top: 4px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: var(--gradient);
+    border: 3px solid var(--bg);
+  }
+
+  .entry-date {
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--text-muted);
+    letter-spacing: 0.02em;
+    margin-bottom: 6px;
+  }
+
+  .entry-title {
+    font-family: 'Sora', sans-serif;
+    font-size: 19px;
+    font-weight: 600;
+    margin: 0 0 12px;
+  }
+
+  .items {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .item {
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 12px 14px;
+  }
+
+  .tag {
+    flex-shrink: 0;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    padding: 3px 8px;
+    border-radius: 6px;
+    margin-top: 1px;
+    white-space: nowrap;
+  }
+
+  .tag.visual { background: var(--tag-visual-bg); color: var(--tag-visual-text); }
+  .tag.content { background: var(--tag-content-bg); color: var(--tag-content-text); }
+  .tag.seo { background: var(--tag-seo-bg); color: var(--tag-seo-text); }
+  .tag.perf { background: var(--tag-perf-bg); color: var(--tag-perf-text); }
+
+  .item-text {
+    font-size: 14.5px;
+    line-height: 1.5;
+  }
+
+  .item-text b {
+    font-weight: 600;
+  }
+
+  footer.foot {
+    margin-top: 56px;
+    padding-top: 24px;
+    border-top: 1px solid var(--border);
+    font-size: 13px;
+    color: var(--text-muted);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .legend {
+    display: flex;
+    gap: 14px;
+    flex-wrap: wrap;
+    margin-top: 24px;
+    margin-bottom: 8px;
+    font-size: 12px;
+    color: var(--text-muted);
+  }
+
+  .legend span {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .legend i {
+    width: 9px;
+    height: 9px;
+    border-radius: 3px;
+    display: inline-block;
+  }
+
+  .legend .visual i { background: var(--tag-visual-text); }
+  .legend .content i { background: var(--tag-content-text); }
+  .legend .seo i { background: var(--tag-seo-text); }
+  .legend .perf i { background: var(--tag-perf-text); }
+
+  @media (max-width: 480px) {
+    .entry { padding-left: 20px; }
+    .item { flex-direction: column; gap: 6px; }
+  }
+</style>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700&family=Karla:wght@400;500;700&display=swap" rel="stylesheet">
+
+<div class="page">
+
+  <header class="top">
+    <span class="eyebrow">PM Connect Conf 2026</span>
+    <h1>Co zmieniło się na stronie konferencji</h1>
+    <p class="lede">Skrót prac nad stroną PMCC — od nowego wyglądu, przez zespół, agendę i partnerów, po widoczność w Google, szybkość, nową galerię i strony dla organizatorów. Dla zespołu organizacyjnego, żeby wszyscy widzieli to samo.</p>
+    <div class="meta-row">
+      <span>Okres: <strong>7–26 września 2026</strong></span>
+      <span>Strona: <strong>pmcc.pmi.org.pl</strong></span>
+    </div>
+  </header>
+
+  <div class="legend">
+    <span class="visual"><i></i>Wygląd</span>
+    <span class="content"><i></i>Treść / zespół</span>
+    <span class="seo"><i></i>Widoczność w sieci</span>
+    <span class="perf"><i></i>Szybkość</span>
+  </div>
+
+  <div class="timeline">
+
+    <div class="entry">
+      <div class="entry-date">26 września 2026</div>
+      <div class="entry-title">Lepsza widoczność w Google i szybsze ładowanie</div>
+      <div class="items">
+        <div class="item">
+          <span class="tag seo">SEO</span>
+          <span class="item-text">Obrazki mają prawdziwe opisy zamiast ogólnego „logo”: logotypy partnerów i organizatorów, zdjęcia zespołu i prelegentów, ikonki ścieżek w agendzie. Google i czytniki ekranu wiedzą, co przedstawiają.</span>
+        </div>
+        <div class="item">
+          <span class="tag seo">SEO</span>
+          <span class="item-text">Nowe tytuły i opisy w wynikach wyszukiwania dla podstron <b>Call for Papers</b>, <b>Galeria</b> i <b>Regulamin</b>. Pusta podstrona z tekstem zastępczym nie jest już publikowana.</span>
+        </div>
+        <div class="item">
+          <span class="tag seo">SEO</span>
+          <span class="item-text">Każda strona ma jeden główny nagłówek, tak jak lubi Google. Wygląd stron się nie zmienił.</span>
+        </div>
+        <div class="item">
+          <span class="tag seo">SEO</span>
+          <span class="item-text">Google Analytics jest wstawiony na każdej stronie tylko raz. Wcześniej wejścia mogły liczyć się podwójnie.</span>
+        </div>
+        <div class="item">
+          <span class="tag perf">Szybkość</span>
+          <span class="item-text">Strona pokazuje się od razu: zniknął ekran ładowania, a baner cookies nie czeka już na inne skrypty. Kod strony głównej jest prawie 3 razy mniejszy (422 KB → 146 KB).</span>
+        </div>
+        <div class="item">
+          <span class="tag perf">Szybkość</span>
+          <span class="item-text">Lżejsze grafiki i pliki: światełko w górnej sekcji 228 KB → 62 KB (na telefonie 35 KB), logo Kopernika 93 KB → 9 KB, ikonki agendy ok. 2 KB, plik z ikonkami 45 KB → 1,8 KB. Czcionki i dodatki ładują się bez wstrzymywania strony, a obrazki niżej na stronie dopiero przy przewijaniu.</span>
+        </div>
+        <div class="item">
+          <span class="tag perf">Szybkość</span>
+          <span class="item-text">Test szybkości Google (PageSpeed) na komputerze: <b>99 na 100</b>.</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="entry-date">26 września 2026</div>
+      <div class="entry-title">Strony tylko dla organizatorów</div>
+      <div class="items">
+        <div class="item">
+          <span class="tag content">Treść</span>
+          <span class="item-text"><b>Mapa uczestników</b> — miasta, z których przyjechali uczestnicy PMCC 2025. Strona nie ma linku w menu i nie pojawia się w Google; otwiera się tylko po wpisaniu adresu.</span>
+        </div>
+        <div class="item">
+          <span class="tag seo">SEO</span>
+          <span class="item-text"><b>Statystyki strony</b> dla marketingu: ocena SEO i wynik szybkości z Google, raporty ruchu (Google Analytics) i wyników wyszukiwania (Search Console), przegląd wszystkich podstron i lista darmowych narzędzi do sprawdzania strony. Też ukryta, dostępna tylko przez adres.</span>
+        </div>
+        <div class="item">
+          <span class="tag seo">SEO</span>
+          <span class="item-text">Ten dziennik zmian jest ukryty przed wyszukiwarkami i ma poprawne polskie znaki.</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="entry-date">24 września 2026</div>
+      <div class="entry-title">Nowa galeria i zdjęcia na stronie głównej</div>
+      <div class="items">
+        <div class="item">
+          <span class="tag visual">Wygląd</span>
+          <span class="item-text">Na stronie głównej, zaraz pod górną sekcją, pasek <b>„Tak było w poprzednich latach”</b>: 20 losowych zdjęć z poprzednich edycji, przy każdym wejściu inne. Pasek sam powoli się przesuwa, na telefonie przesuwa się go palcem, a kliknięcie powiększa zdjęcie.</span>
+        </div>
+        <div class="item">
+          <span class="tag content">Treść</span>
+          <span class="item-text">W galerii są zdjęcia z <b>PMCC 2025</b> (67 zdjęć) oraz jedno brakujące zdjęcie z 2024 — grupowe zdjęcie zespołu.</span>
+        </div>
+        <div class="item">
+          <span class="tag visual">Wygląd</span>
+          <span class="item-text">Galeria: większe miniatury (6 w rzędzie zamiast 12), działające przyciski lat i przycisk „Wszystkie”. Na start widać najnowszy rok.</span>
+        </div>
+        <div class="item">
+          <span class="tag visual">Wygląd</span>
+          <span class="item-text">Powiększone zdjęcie pokazuje „Zdjęcie 1 z 67” i przewija tylko zdjęcia z wybranego roku.</span>
+        </div>
+        <div class="item">
+          <span class="tag seo">SEO</span>
+          <span class="item-text">Każde zdjęcie w galerii ma opis, np. „PMCC 2024 – zdjęcie 12”, czytelny dla Google i czytników ekranu.</span>
+        </div>
+        <div class="item">
+          <span class="tag perf">Szybkość</span>
+          <span class="item-text">Miniatury w galerii ładują się dopiero przy przewijaniu.</span>
+        </div>
+        <div class="item">
+          <span class="tag perf">Szybkość</span>
+          <span class="item-text">Po każdej aktualizacji strony odwiedzający od razu widzą nowy wygląd i nowe funkcje — przeglądarka nie pokazuje już starej kopii zapamiętanej z poprzedniej wizyty.</span>
+        </div>
+        <div class="item">
+          <span class="tag content">Treść</span>
+          <span class="item-text">Dodawanie zdjęć z kolejnych edycji jest prostsze: skrypt sam przygotowuje zdjęcia i wpisuje ich liczbę do ustawień strony.</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="entry-date">23 września 2026</div>
+      <div class="entry-title">Nowa agenda i nowy partner medialny</div>
+      <div class="items">
+        <div class="item">
+          <span class="tag content">Treść</span>
+          <span class="item-text">Agenda przebudowana: <b>Izabela Lipińska</b> występuje na sali głównej, godziny wystąpień są nowe, a dzień kończy się o 17:20.</span>
+        </div>
+        <div class="item">
+          <span class="tag content">Treść</span>
+          <span class="item-text">10 wystąpień ma pełne opisy zamiast „Opis pojawi się wkrótce” — co prelegent pokaże i co uczestnik z tego wyniesie.</span>
+        </div>
+        <div class="item">
+          <span class="tag content">Treść</span>
+          <span class="item-text">Spójne nazwy ścieżek równoległych: <b>Ścieżka Organizacyjna</b> i <b>Ścieżka Psychologiczna</b>.</span>
+        </div>
+        <div class="item">
+          <span class="tag content">Treść</span>
+          <span class="item-text">Nowy partner medialny: <b>Strefa PMI</b>. Pojedyncze logo w swojej grupie stoi teraz na środku.</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="entry-date">18 września 2026</div>
+      <div class="entry-title">Porządki w sekcji zespołu</div>
+      <div class="items">
+        <div class="item">
+          <span class="tag content">Treść</span>
+          <span class="item-text">Rada Programowa ułożona według tytułów naukowych i stażu, a w ramach tej samej grupy alfabetycznie.</span>
+        </div>
+        <div class="item">
+          <span class="tag visual">Wygląd</span>
+          <span class="item-text">Karty osób w jednym rzędzie mają równą wysokość, a dłuższe nazwiska mogą przejść do drugiej linii bez rozjeżdżania układu.</span>
+        </div>
+        <div class="item">
+          <span class="tag perf">Szybkość</span>
+          <span class="item-text">Nowe zdjęcie <b>Barbary Polaszek</b> zmniejszone z 671 KB do 83 KB — tak samo jak zdjęcia reszty zespołu.</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="entry-date">17 września 2026</div>
+      <div class="entry-title">Widoczność w Google i social mediach, szybsze ładowanie</div>
+      <div class="items">
+        <div class="item">
+          <span class="tag seo">SEO</span>
+          <span class="item-text">Wklejenie linku do strony na Facebooku, LinkedInie czy w wiadomości pokazuje teraz ładną kartę z grafiką, tytułem i opisem — zamiast gołego adresu.</span>
+        </div>
+        <div class="item">
+          <span class="tag seo">SEO</span>
+          <span class="item-text">Google może teraz pokazać termin, miejsce i cenę biletu bezpośrednio w wynikach wyszukiwania, bez klikania w stronę.</span>
+        </div>
+        <div class="item">
+          <span class="tag seo">SEO</span>
+          <span class="item-text">Dodana ikona strony widoczna po dodaniu PMCC do ekranu głównego telefonu (iPhone).</span>
+        </div>
+        <div class="item">
+          <span class="tag perf">Szybkość</span>
+          <span class="item-text">Zdjęcia prelegentów i zespołu skompresowane — te same zdjęcia, ta sama jakość, ale pliki nawet 35 razy mniejsze.</span>
+        </div>
+        <div class="item">
+          <span class="tag perf">Szybkość</span>
+          <span class="item-text">Zdjęcia zespołu ładują się dopiero, gdy użytkownik do nich przewinie — strona startuje szybciej.</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="entry-date">15–16 września 2026</div>
+      <div class="entry-title">Zaktualizowany zespół, partnerzy i prelegenci</div>
+      <div class="items">
+        <div class="item">
+          <span class="tag content">Treść</span>
+          <span class="item-text">Pełna aktualizacja składu: Rada Programowa, Komitet Sterujący i zespół organizacyjny — nowe osoby, nowe role, zdjęcia i linki do LinkedIn.</span>
+        </div>
+        <div class="item">
+          <span class="tag content">Treść</span>
+          <span class="item-text">Pożegnanie Rafała Młotka — jego wpis pozostaje na stronie, z podziękowaniem za lata pracy dla zespołu.</span>
+        </div>
+        <div class="item">
+          <span class="tag content">Treść</span>
+          <span class="item-text">Nowi partnerzy konferencji: <b>FlexiProject</b> i <b>Sowa i Partnerzy</b>. Poprawione proporcje i rozmieszczenie logotypów partnerów.</span>
+        </div>
+        <div class="item">
+          <span class="tag content">Treść</span>
+          <span class="item-text">Nowa prelegentka: <b>Izabela Lipińska</b>.</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="entry-date">7 września 2026</div>
+      <div class="entry-title">Nowy wygląd strony głównej</div>
+      <div class="items">
+        <div class="item">
+          <span class="tag visual">Wygląd</span>
+          <span class="item-text">Górny pasek nawigacji ma teraz gradient (niebieski → różowy), ten sam co przycisk <b>„Kup Bilet”</b> — spójny z resztą strony.</span>
+        </div>
+        <div class="item">
+          <span class="tag visual">Wygląd</span>
+          <span class="item-text">Sekcja główna (hero) uproszczona: usunięte kolorowe tła pod nagłówkiem, dodane subtelne animowane światełko po prawej stronie.</span>
+        </div>
+        <div class="item">
+          <span class="tag visual">Wygląd</span>
+          <span class="item-text">Poprawki na telefonach: przycisk zakupu biletu przeniesiony tuż pod nagłówek, zegar odliczający do konferencji na czytelnym białym pasku, poprawiona ikona menu (hamburger).</span>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <footer class="foot">
+    <span>Przygotowane dla zespołu PMCC</span>
+    <span>Maciej Koszykowski</span>
+  </footer>
+
+</div>
