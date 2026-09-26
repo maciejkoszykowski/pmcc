@@ -26,7 +26,7 @@ zrobione już: OG/Twitter cards, canonical URL, schema.org Event JSON-LD, apple-
 kompresja zdjęć prelegentów (PNG->WebP)
 
 jeszcze do zrobienia, na później:
-4. alt="" w motywie jest wszędzie generyczne ("team people", "portfolio-image", "logo") zamiast
+4. [ZROBIONE 2026-09-26] alt="" w motywie jest wszędzie generyczne ("team people", "portfolio-image", "logo") zamiast
    opisowe - słabe pod SEO i pod czytniki ekranu (dostępność)
 5. languageCode w config.toml oznaczone przez Hugo jako przestarzałe - zamienić na locale
 6. sprawdzić resztę static/images/ (partnerzy, tło, inne) pod kątem dużych/nieskompresowanych plików
@@ -37,6 +37,36 @@ jeszcze do zrobienia, na później:
    Consent Mode w przyszłości
 
 
-9. Google Analytics (gtag G-Z75DKN4M2G) wstawiony DWA razy na każdej stronie: w partials/head.html
+9. [ZROBIONE 2026-09-26] Google Analytics (gtag G-Z75DKN4M2G) wstawiony DWA razy na każdej stronie: w partials/head.html
    i w _default/baseof.html (także w mapka/list.html) - wejścia mogą się liczyć podwójnie,
    statystyki w GA mogą być zawyżone. Zostawić jeden (w head.html). Zauważone 2026-09-26.
+
+PageSpeed Insights 2026-09-26 (pełny raport z kluczem API, strona główna)
+telefon: szybkość 65, dostępność 88, dobre praktyki 92, SEO 92 | komputer: 97 / 88 / 96 / 92
+
+0. [ZROBIONE 2026-09-26] Klucz PageSpeed: public/psi-key.txt jest na serwerze CELOWO — strona /statystyki
+   pobiera go przy teście szybkości. Klucz ograniczony (potwierdził Maciej): tylko pmcc.pmi.org.pl/*
+   i tylko PageSpeed Insights API.
+10. [ZROBIONE 2026-09-26] Baner cookies = największy element na telefonie (LCP 6,1 s). Czeka na jQuery, Bootstrap, slick,
+    lightbox i js.cookie z cdnjs. Sprawdzać cookie prostym JS w samym banerze (footer.html).
+11. [ZROBIONE 2026-09-26] Pliki blokujące wyświetlanie (~2,4 s): 6 plików CSS + czcionka Google przez @import w style.css.
+    Czcionkę podpiąć w <head> (preconnect + display=swap), CSS lightbox/slick ładować bez blokowania.
+12. [ZROBIONE 2026-09-26] swiatelko.webp 700x1310, 228 KB, wyświetlane max 260 px (telefon 100 px) - zmniejszyć (~520 px).
+13. [ZROBIONE 2026-09-26] Ikonki agendy gear.png/brain.png 1080x1080 (101 KB razem), wyświetlane 28 px - zmniejszyć do 56 px.
+    Loga partnerów (kopernik.png 93 KB) - zmniejszyć; loading="lazy" dla prelegentów, ikonek, partnerów
+    (patrz też 6 i 7).
+14. [ZROBIONE 2026-09-26] Google Analytics ładowany 2x (2 x 176 KB) - patrz 9.
+15. Dostępność: 37 linków bez nazwy - ikonki LinkedIn przy osobach, ikonki kontakt/lokalizacja
+    (telefon, mapa, Facebook, Instagram). Dodać aria-label, np. "LinkedIn – dr Jerzy Stawicki".
+16. Dostępność: za słaby kontrast - link #Lokalizacja (#007bff), "czytaj więcej" (#5c8bc5),
+    szary tekst akapitów (#848484), przycisk "Akceptuje" w banerze cookies (#007bff na #474747, 2.33).
+17. Dostępność: kolejność nagłówków - brak H1 na stronie głównej, H5 "Organizatorzy", H4/H5 w sekcjach,
+    H5 "Copyright" w stopce. Poprawić poziomy bez zmiany wyglądu.
+18. Dostępność: brak znacznika <main> wokół treści strony.
+19. SEO: "czytaj więcej" to linki javascript:void(0) - zamienić na <button> z tym samym wyglądem.
+20. Loga partnerów rozciągnięte (Kopernik, PSSI, Sowa) - zadane naraz width i height; zostawić jeden
+    wymiar, sprawdzić podgląd na komputerze i telefonie.
+21. Stopka: "Copyright 2024" - zmienić na 2026 (albo rok z automatu).
+22. Później: zdjęcia zespołu PNG ~100 KB x 21 (ok. 2 MB) -> WebP.
+23. [ZROBIONE 2026-09-26, usunięty] Preloader (różowy ekran do pełnego załadowania) - na razie zostaje; wrócić, jeśli po 10-11
+    szybkość na telefonie dalej słaba.
