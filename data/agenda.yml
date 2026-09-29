@@ -110,7 +110,7 @@ program_per_day:
 
           - number: 22
             slot: "11:10 - 11:50"
-            who: "Tomasz Żabiński"
+            who: "dr Tomasz Żabiński"
             title: "Efektywne, odpowiedzialne i bezpieczne wdrażanie AI i Physical AI w firmach produkcyjnych"
             description: >
               Sztuczna inteligencja wchodzi do hal produkcyjnych w fizycznej postaci. Tomasz pokaże, jak wdrażać
@@ -164,7 +164,7 @@ program_per_day:
 
           - number: 31
             slot: "11:10 - 11:50"
-            who: "Łukasz Wojtkowski"
+            who: "dr Łukasz Wojtkowski"
             title: "UNBOX: od czarnej skrzynki do relacyjnej architektury decyzji"
             description: >
               Projekt to sieć relacji między ludźmi, danymi, procedurami i interesariuszami. AI wchodzi w nią jako
@@ -186,7 +186,7 @@ program_per_day:
 
           - number: 38
             slot: "13:30 - 14:10"
-            who: "Paweł Szczęsny"
+            who: "dr Paweł Szczęsny"
             title: "AI czyli 'kto'? O ukrytych preferencjach systemów AI w kontekście zarządzania projektami "
             description: >
               Zakładamy, że AI to narzędzie bez własnego punktu widzenia. Paweł pokaże, że systemy AI mają ukryte
@@ -197,7 +197,7 @@ program_per_day:
 
           - number: 65
             slot: "14:10 - 14:50"
-            who: "Arkadiusz Gut"
+            who: "dr hab. Arkadiusz Gut"
             title: "Czy LLM-y mają dialogiczne i empatyczne self? O granicach zastępowania ludzi sztucznymi agentami w kulturowo wrażliwych przedsięwzięciach grupowych"
             description: >
               Czy sztuczny agent potrafi prowadzić wewnętrzny dialog i zajmować stanowisko wobec siebie oraz
@@ -248,10 +248,13 @@ program_per_day:
 
           - number: 230
             slot: "16:20 - 17:05"
-            who: "Closing Keynote: Piotr Wiśniewski"
-            title: "Temat w opracowaniu"
+            who: "Closing Keynote: dr Piotr Wiśniewski"
+            title: "Firma po przewrocie AI. Jak zmieni się praca ludzi, zarządzanie i mechanizm działania organizacji"
             description: >
-              Temat został zatwierdzony, trwają prace nad doprecyzowaniem szczegółów. Zachęcamy do śledzenia naszych mediów społecznościowych. Po publikacji zapowiedzi agenda zostanie zaktualizowana.
+              Jak zmienia się firma, gdy AI wchodzi w sam środek jej działania? Piotr pokaże to na przykładzie
+              transformacji DBR77, którą sam prowadzi. Opowie o nowych rolach, innym sposobie zarządzania
+              i zadaniach, które ludzie mogą oddać AI. Pokaże działające rozwiązania, konkretne doświadczenia
+              i koszty tej zmiany. Usłyszysz, jak człowiek i AI mogą tworzyć w organizacji jeden system pracy.
 
           - number: 250
             slot: "17:05 - 17:20"

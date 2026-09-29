@@ -18,6 +18,12 @@ item    :
          Profesor ekonomii, Szkoła Główna Handlowa w Warszawie. Jego główne zainteresowania badawcze to wzrost gospodarczy, postęp technologiczny i ekonomia transformatywnej AI. Opublikował 35 artykułów naukowych w prestiżowych czasopismach międzynarodowych oraz monografię Accelerating Economic Growth: Lessons From 200 000 Years of Technological Progress and Human Development (Springer, 2022). Uważa, że transformatywna AI będzie źródłem ryzyka egzystencjalnego dla ludzkości.
 
     linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2026-pmcc2026-projectmanagement-activity-7483773758785306624-moJW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABsjpsBesX7_3-a3jKl9GtPbminHIt_Ff0
+  - id : 3
+    image : images/prelegenci/piotr_w.webp
+    title : dr Piotr Wiśniewski
+    description : >
+         Przedsiębiorca, menedżer przemysłowy oraz founder i CEO DBR77. Wcześniej zarządzał globalną firmą automotive Maflow oraz pełnił funkcję Managing Directora w Grupie Boryszew. Ma ponad 20 lat doświadczenia w zarządzaniu i transformacji przedsiębiorstw produkcyjnych, a także ponad 100 zrealizowanych projektów transformacyjnych i efektywnościowych. Absolwent programu General Management Program w Harvard Business School, autor książki „Digital Pathfinder” oraz wykładowca programów MBA i Executive Education. Dziś rozwija rozwiązania wykorzystujące AI, IoT i cyfrowe bliźniaki do zmiany sposobu działania zakładów produkcyjnych i całych organizacji.
+    linkedin_post: https://www.linkedin.com/company/pmipckuj-pom/posts/?feedView=all
   - id : 5
     image : images/prelegenci/tomasz_z.webp
     title : dr Tomasz Żabiński
@@ -84,6 +90,12 @@ item    :
     description : >
          Filozof, pedagog, psychoterapeuta. Badaczka w instytucie naukowym GAIA. Autorka koncepcji ontologicznej i strukturalnej adekwatności oraz hipotezy ontologicznego dysonansu jako źródła zaburzeń poznawczych i emocjonalnych w interakcjach z modelami językowymi. Kilkunastoletnie doświadczenie w konsultingu kariery, i ponad 5-letnie doświadczenie badawczo-biznesowe w obszarze AI. Twórczyni zgłoszonej do ochrony patentowej metody systemowej zapewniającej ontologiczną spójność interakcji człowiek-AI (status patent pending).
     linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2026-pmcc2026-projectmanagement-activity-7502962679842746368-GjPc?utm_source=share&utm_medium=member_android&rcm=ACoAAB_xftYBOQSUGdIqWuygIiDqazCae9GstRo
+  - id : 45
+    image : images/prelegenci/arkadiusz_g.webp
+    title : dr hab. Arkadiusz Gut
+    description : >
+         Profesor na Uniwersytecie Mikołaja Kopernika w Toruniu, kierownik Katedry Kognitywistyki oraz prezes Polskiego Towarzystwa Kognitywistycznego. Doktor psychologii (UW) i filozofii (KUL), stypendysta m.in. Fundacji Fulbrighta oraz visiting professor m.in. na Harvard University i CUNY. Kierownik Intermind Lab oraz badacz z wieloletnim doświadczeniem w prowadzeniu międzynarodowych projektów (USA, Chiny, Europa) z zakresu poznania społecznego, teorii umysłu, sztucznej inteligencji i uwarunkowań kulturowych.
+    linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2026-pmcc2026-projectmanagement-activity-7510584151226486784-EBQN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABsjpsBesX7_3-a3jKl9GtPbminHIt_Ff0
 
   # - id : 45
   #   image : images/prelegenci/Grzegorz-Sztandera.png
