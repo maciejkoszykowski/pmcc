@@ -7,6 +7,33 @@ icon_alt:
   gear.png  : "Ścieżka Organizacyjna"
   brain.png : "Ścieżka Psychologiczna"
 
+# punkty PDU (PMI Talent Triangle) — tabelka nad agendą, wzór: webinary na projectmanagement.com
+# podział kategorii (zatwierdzony 2026-09-30):
+#   Business Acumen: Growiec, Sowa, Wiśniewski, Żabiński
+#   Ways of Working: Mleczko, Karwacki, Michno, pozycja zarezerwowana (15:05)
+#   Power Skills:    Wojtkowski, Ławniczak, Szczęsny, Gut, Lipińska
+# wartości w krokach co 0,25; suma dla każdej ścieżki = 5,5 (330 min wystąpień)
+pdu:
+  intro: "Udział w konferencji daje <b>5,5 PDU</b> do odnowienia certyfikatów PMI."
+  columns:
+    - name : "Ways of Working"
+      icon : ways-of-working.png
+      color: "#DAF5FA"
+    - name : "Power Skills"
+      icon : power-skills.png
+      color: "#FFE7DB"
+    - name : "Business Acumen"
+      icon : business-acumen.png
+      color: "#E5DCF2"
+    - name : "Razem"
+      icon : total.png
+      color: "#EEEEEE"
+  rows:
+    - label : "Ścieżka Organizacyjna"
+      values: ["2,5", "0,5", "2,5", "5,5"]
+    - label : "Ścieżka Psychologiczna"
+      values: ["0,25", "3,25", "2,0", "5,5"]
+
 # this control which day to display
 days:
   - day_date: "24 października 2026"  # the day one - keep consitent below with date field
