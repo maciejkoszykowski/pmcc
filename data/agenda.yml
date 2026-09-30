@@ -35,22 +35,22 @@ program_per_day:
          no_of_sessions: 2
        - slot: "11:50 - 12:30" # Stream sessions 2
          no_of_sessions: 2
-       - slot: "12:30 - 13:30" #### LUNCH
+       - slot: "12:30 - 13:20" #### LUNCH
        - slot: "room split"
          hide_timing: true
          hide_expand: true
          show_on_desktop: true
          show_on_mobile: false
          no_of_sessions: 2
-       - slot: "13:30 - 14:10" # Stream sessions 3
+       - slot: "13:20 - 14:00" # Stream sessions 3
          no_of_sessions: 2
-       - slot: "14:10 - 14:50" # Stream sessions 4
+       - slot: "14:00 - 14:40" # Stream sessions 4
          no_of_sessions: 2
-       - slot: "14:50 - 15:15"  #### Coffe break
-       - slot: "15:15 - 15:40" ## Wystapienie na sali glownej
-       - slot: "15:40 - 16:20" ## Sala glowna
-       - slot: "16:20 - 17:05" ## Closing key note
-       - slot: "17:05 - 17:20" # Conf Closure
+       - slot: "14:40 - 15:05"  #### Coffe break
+       - slot: "15:05 - 15:30" ## Wystapienie na sali glownej
+       - slot: "15:30 - 16:00" ## Sala glowna
+       - slot: "16:00 - 16:45" ## Closing key note
+       - slot: "16:45 - 17:00" # Conf Closure
          end: true
 
     sessions:
@@ -84,10 +84,13 @@ program_per_day:
           - number: 12
             slot: "10:30 - 10:55"
             who: "mec. Tomasz Sowa"
-            title: "Temat w opracowaniu"
+            title: "AI, szkoda, odpowiedzialność. Nowy reżim odpowiedzialności za produkt oczami zespołu projektowego"
             description: >
-              Temat został zatwierdzony, trwają prace nad doprecyzowaniem szczegółów. Zachęcamy do śledzenia
-              naszych mediów społecznościowych. Po publikacji zapowiedzi agenda zostanie zaktualizowana.
+              Od 9 grudnia 2026 oprogramowanie i systemy AI stają się „produktem” w rozumieniu prawa. Tomasz
+              pokaże tę zmianę oczami zespołu projektowego, na podstawie nowej dyrektywy PLD (2024/2853).
+              Wyjaśni, kto w łańcuchu odpowiada za szkodę, za co i od kiedy. Powie też, co zespół powinien
+              dokumentować już dziś i jak długo to przechowywać. Usłyszysz konkretne zasady, które powinien znać
+              każdy lider i Project Manager pracujący z oprogramowaniem.
 
           - number: 15
             slot: "10:55 - 11:10"
@@ -133,7 +136,7 @@ program_per_day:
             icon: gear.png
 
           - number: 25
-            slot: "13:30 - 14:10"
+            slot: "13:20 - 14:00"
             who: Łukasz Karwacki
             title: "Od statusu do decyzji: jak PM staje się architektem decyzji w erze AI"
             description: >
@@ -145,7 +148,7 @@ program_per_day:
             icon: gear.png
 
           - number: 28
-            slot: "14:10 - 14:50"
+            slot: "14:00 - 14:40"
             who: "Katarzyna Michno"
             title: 'Nowa struktura projektu: jak agenci AI przejmują role w zespole - case study'
             description: >
@@ -185,7 +188,7 @@ program_per_day:
             icon: brain.png
 
           - number: 38
-            slot: "13:30 - 14:10"
+            slot: "13:20 - 14:00"
             who: "dr Paweł Szczęsny"
             title: "AI czyli 'kto'? O ukrytych preferencjach systemów AI w kontekście zarządzania projektami "
             description: >
@@ -196,7 +199,7 @@ program_per_day:
             icon: brain.png
 
           - number: 65
-            slot: "14:10 - 14:50"
+            slot: "14:00 - 14:40"
             who: "dr hab. Arkadiusz Gut"
             title: "Czy LLM-y mają dialogiczne i empatyczne self? O granicach zastępowania ludzi sztucznymi agentami w kulturowo wrażliwych przedsięwzięciach grupowych"
             description: >
@@ -209,7 +212,7 @@ program_per_day:
 
         ### Main Stage sessions - Part Various
           - number: 110
-            slot: "12:30 - 13:30"
+            slot: "12:30 - 13:20"
             who: ""
             title: >
                    Lunch z networkingiem <br><br>
@@ -218,7 +221,7 @@ program_per_day:
               w przerwie warto porozmawiać z jeszcze niepoznaną osobą, przychodząc na konferencje chcemy poznawać wartościowych ludzi.
 
           - number: 120
-            slot: "14:50 - 15:15"
+            slot: "14:40 - 15:05"
             who:
             title: >
               Wspólna przerwa kawowa z wszystkimi uczestnikami konferencji <br><br>
@@ -229,14 +232,14 @@ program_per_day:
          ### Main Stage sessions - Part 2 - Closing
 
           - number: 225
-            slot: "15:15 - 15:40"
+            slot: "15:05 - 15:30"
             who: " "
             title: "Pozycja zarezerwowana – szczegóły zostaną przekazane wkrótce."
             description: >
               Temat został zatwierdzony, trwają prace nad doprecyzowaniem szczegółów. Zachęcamy do śledzenia naszych mediów społecznościowych. Po publikacji zapowiedzi agenda zostanie zaktualizowana.
 
           - number: 64
-            slot: "15:40 - 16:20"
+            slot: "15:30 - 16:00"
             who: "Izabela Lipińska"
             title: "Cognitive deskilling w pracy PM-a"
             description: >
@@ -247,7 +250,7 @@ program_per_day:
               pracy z tym ryzykiem.
 
           - number: 230
-            slot: "16:20 - 17:05"
+            slot: "16:00 - 16:45"
             who: "Closing Keynote: dr Piotr Wiśniewski"
             title: "Firma po przewrocie AI. Jak zmieni się praca ludzi, zarządzanie i mechanizm działania organizacji"
             description: >
@@ -257,7 +260,7 @@ program_per_day:
               i koszty tej zmiany. Usłyszysz, jak człowiek i AI mogą tworzyć w organizacji jeden system pracy.
 
           - number: 250
-            slot: "17:05 - 17:20"
+            slot: "16:45 - 17:00"
             who: "Zamknięcie konferencji"
             title:   "prof. UMK Marlena Ciechan-Kujawa oraz Maciej Koszykowski"
             description: >
