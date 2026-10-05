@@ -35,7 +35,8 @@ item   :
   - title     : FlexiProject
     image     : images/partnerzy/logo-flexi.svg
     link      : https://flexi-project.com
-    width     : 320
+    width     : 370   # 320 logo + 50 padding (padding wlicza się w szerokość)
+    padding   : 50
     margin_top_mobile : 33
 
   - title     : Com@Com
@@ -57,10 +58,10 @@ media  :
      link: https://bydgoszcz.tvp.pl/
 
    - title : Polskie Radio PiK
-     image : images/partnerzy/radio_pik.png
+     image : images/partnerzy/radio_pik.svg
      category  : Partner Medialny
      small_support: True
-     image_small : images/partnerzy/radio_pik.png
+     image_small : images/partnerzy/radio_pik.svg
      link: https://www.radiopik.pl/
 
    - title : TV Toruń
