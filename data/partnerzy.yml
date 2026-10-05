@@ -38,6 +38,13 @@ item   :
     width     : 320
     margin_top_mobile : 33
 
+  - title     : Com@Com
+    image     : images/partnerzy/comacom.png
+    link      : https://www.comacom.pl/
+    width     : 320
+    margin_top_desktop : 20
+    margin_top_mobile : 20
+
 
 
 
