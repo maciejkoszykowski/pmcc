@@ -42,6 +42,27 @@ item   :
 
 
 media  :
+   - title : TVP3 Bydgoszcz
+     image : images/partnerzy/tvp3_bydgoszcz.png
+     category  : Partner Medialny
+     small_support: True
+     image_small : images/partnerzy/tvp3_bydgoszcz.png
+     link: https://bydgoszcz.tvp.pl/
+
+   - title : Polskie Radio PiK
+     image : images/partnerzy/radio_pik.png
+     category  : Partner Medialny
+     small_support: True
+     image_small : images/partnerzy/radio_pik.png
+     link: https://www.radiopik.pl/
+
+   - title : TV Toruń
+     image : images/partnerzy/tv_torun.png
+     category  : Partner Medialny
+     small_support: True
+     image_small : images/partnerzy/tv_torun.png
+     link: https://tvtorun.net/
+
    - title : Strefa PMI
      image : images/partnerzy/logo_strefa.png
      category  : Partner Medialny 
