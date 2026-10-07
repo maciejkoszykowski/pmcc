@@ -10,9 +10,10 @@ icon_alt:
 # punkty PDU (PMI Talent Triangle) — tabelka nad agendą, wzór: webinary na projectmanagement.com
 # podział kategorii (zatwierdzony 2026-09-30):
 #   Business Acumen: Growiec, Sowa, Wiśniewski, Żabiński
-#   Ways of Working: Mleczko, Karwacki, Michno, pozycja zarezerwowana (15:05)
+#   Ways of Working: Mleczko, Karwacki, Michno, Wrzosek
 #   Power Skills:    Wojtkowski, Ławniczak, Szczęsny, Gut, Lipińska
-# wartości w krokach co 0,25; suma dla każdej ścieżki = 5,5 (330 min wystąpień)
+# PDU na wystąpienie: 45 min = 0,75; 40 min = 0,75; 30 min = 0,5; 25 min = 0,25 (jak we wnioskach do PMI)
+# suma dla każdej ścieżki = 5,5 (330 min wystąpień); wnioski: tmp/PDU/PMCC2026 - wnioski PDU.md
 pdu:
   intro: "Udział w konferencji daje <b>5,5 PDU</b> do odnowienia certyfikatów PMI."
   columns:
@@ -32,7 +33,7 @@ pdu:
     - label : "Ścieżka Organizacyjna"
       values: ["2,5", "0,5", "2,5", "5,5"]
     - label : "Ścieżka Psychologiczna"
-      values: ["0,25", "3,25", "2,0", "5,5"]
+      values: ["0,25", "3,5", "1,75", "5,5"]
 
 # this control which day to display
 days:
