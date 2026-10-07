@@ -260,10 +260,15 @@ program_per_day:
 
           - number: 225
             slot: "15:05 - 15:30"
-            who: " "
-            title: "Pozycja zarezerwowana – szczegóły zostaną przekazane wkrótce."
+            who: "Dominik Wrzosek"
+            title: "Transformacja zarządzania projektami IT w erze AI - gdzie przenosi się ciężar projektu"
             description: >
-              Temat został zatwierdzony, trwają prace nad doprecyzowaniem szczegółów. Zachęcamy do śledzenia naszych mediów społecznościowych. Po publikacji zapowiedzi agenda zostanie zaktualizowana.
+              Co dzieje się z projektem IT, gdy AI przejmuje część pracy zespołu? Dominik pokaże to
+              na przykładzie FlexiProject, producenta oprogramowania PPM, który wdrożył AI we własnej
+              organizacji. AI zmieniła pisanie kodu, analizę i testowanie, a zespół musiał wypracować
+              nowe nawyki. Rozwiązanie jednego wąskiego gardła od razu odsłaniało kolejne, w miejscach,
+              o których wcześniej nikt nie myślał. Usłyszysz o całej drodze wdrożenia i o wyzwaniach,
+              które wciąż stoją przed firmą.
 
           - number: 64
             slot: "15:30 - 16:00"
