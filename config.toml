@@ -141,10 +141,10 @@ name = "Prelegenci"
 url = "#Prelegenci"
 weight = 3
 
-#[[menu.nav]]
-#name = "Prowadzący"
-#url = "#Prowadzacy"
-#weight = 10
+[[menu.nav]]
+name = "Prowadzący"
+url = "#Prowadzacy"
+weight = 10
 
 
 [[menu.nav]]
