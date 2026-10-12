@@ -97,6 +97,21 @@ item    :
          Profesor na Uniwersytecie Mikołaja Kopernika w Toruniu, kierownik Katedry Kognitywistyki oraz prezes Polskiego Towarzystwa Kognitywistycznego. Doktor psychologii (UW) i filozofii (KUL), stypendysta m.in. Fundacji Fulbrighta oraz visiting professor m.in. na Harvard University i CUNY. Kierownik Intermind Lab oraz badacz z wieloletnim doświadczeniem w prowadzeniu międzynarodowych projektów (USA, Chiny, Europa) z zakresu poznania społecznego, teorii umysłu, sztucznej inteligencji i uwarunkowań kulturowych.
     linkedin_post: https://www.linkedin.com/posts/pmipckuj-pom_pmconnectconf2026-pmcc2026-projectmanagement-activity-7510584151226486784-EBQN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABsjpsBesX7_3-a3jKl9GtPbminHIt_Ff0
 
+  - id : 50
+    image : images/prelegenci/tomasz_s.webp
+    title : mec. Tomasz Sowa
+    description : >
+         Tomasz Sowa, LL.M., adwokat, założyciel kancelarii Sowa i Partnerzy – Adwokaci i Radcowie Prawni, ekspert z zakresu IT, AI, prawnej ochrony danych oraz rozwiązywania sporów. Pasjonat nowych technologii. Doradza w szeroko rozumianych sprawach związanych z branżą IT. Ukończył prawo na Uniwersytecie Jagiellońskim w Krakowie, uzyskał tytuł Master of Laws (LL.M.) na Uniwersytecie w Melbourne (Australia), którego wydział prawa zajmuje 8 pozycję na świecie (Times Higher Education World University Rankings by Subject, 2024). Jest arbitrem wpisanym na listę grona arbitrów Sądu Arbitrażowego przy Konfederacji Lewiatan rekomendowanych ds. rynku kreatywnego i kultury. Stały mediator przy Sądzie Okręgowym w Warszawie.
+    linkedin_post: https://www.linkedin.com/company/pmipckuj-pom/posts/?feedView=all
+
+  - id : 55
+    image : images/prelegenci/dominik_w.webp
+    title : Dominik Wrzosek
+    description : >
+         Prezes firmy FlexiProject, tworzącej system PPM do zarządzania projektami i portfelami projektów. Związany z firmą od samego początku jej istnienia. Bogate, praktyczne doświadczenie w zarządzaniu projektami zawdzięcza ponad 100 wdrożeniom FlexiProject w organizacjach o różnej skali i z różnych sektorów, gdzie miał styczność z wieloma Biurami Zarządzania Projektami, metodykami oraz kulturami pracy projektowej.
+         Odpowiada za kierunek rozwoju systemu FlexiProject, opierając decyzje na potrzebach rynku oraz obserwacji światowych trendów w zarządzaniu projektami. Jako absolwent Politechniki Warszawskiej, łączy techniczne podejście z wiedzą biznesową – dzięki temu FlexiProject rozwija się w ścisłym kontakcie z klientami i mocno odzwierciedla ich realne potrzeby.
+    linkedin_post: https://www.linkedin.com/company/pmipckuj-pom/posts/?feedView=all
+
   # - id : 45
   #   image : images/prelegenci/Grzegorz-Sztandera.png
   #   title : Grzegorz Sztandera

@@ -1,0 +1,34 @@
+enable  : true
+
+topTitle: PM Connect Conf
+title   : Networking
+
+item    :
+  - id : 1
+    image         : images/speakers/Net_Irmina.png
+    name          : Irmina Marcinkiewicz
+    linkedInURL   : https://www.linkedin.com/in/irminamarcinkiewicz/
+    designation   : Zespół networkingowy
+    description   : >
+      Humanistka w biznesie, ekspertka marketingu, project managerka, wykładowczyni i trenerka biznesu. Dyrektorka generalna agencji MSU Marketing Solution Unlimited oraz Neo Akademii Biznesu – firmy szkoleniowej w zakresie kompetencji zawodowych. Członkini rady redakcyjnej polskiego PMBOK (PMI) oraz Rady Interesariuszy Wydziału Humanistycznego UMK w Toruniu. Laureatka Menadżera Roku 2017 i Kobiety Biznesu 2016. Pasjonatka kognitywistyki, psycholożka i językoznawczyni. Współpracuje z Centrum Przedsiębiorczości Akademickiej. Certyfikowana w Design Thinking, TRIZ i Project Management.
+
+  - id : 2
+    image         : images/speakers/Net_Ola.png
+    name          : Aleksandra Krawczyk
+    linkedInURL   : https://www.linkedin.com/in/aleksandra-krawczyk-profile/
+    designation   : Zespół networkingowy
+    description   : >
+      Leader ds. Logistyki
+
+  - id : 3
+    image         : images/speakers/Net_Bartek.png
+    name          : Bartosz Bagniewski
+    linkedInURL   : https://www.linkedin.com/in/bartosz-bagniewski-90b85924a/
+    designation   : Zespół networkingowy
+    description   : >
+      Konferansjer, speaker i moderator paneli z 6-letnim doświadczeniem w prowadzeniu wydarzeń branżowych, samorządowych i komercyjnych.
+      Specjalizuje się w wydarzeniach o różnorodnej tematyce – od FinTechu i nowych technologii po marketing i PR.
+      Łączy kulturę słowa, dobre przygotowanie i profesjonalizm z naturalną swobodą sceniczną, elastycznością oraz umiejętnością improwizacji.
+      Z powodzeniem odnajduje się zarówno podczas formalnych uroczystości i konferencji eksperckich, jak i wydarzeń o bardziej kreatywnym i dynamicznym charakterze.
+      Wspiera organizatorów nie tylko na scenie, ale również na etapie przygotowania wydarzenia – od pracy nad scenariuszem po dopracowanie przebiegu poszczególnych części programu.
+      W swojej pracy stawia na autentyczność, kontakt z publicznością i nowoczesne podejście do prowadzenia wydarzeń, czerpiąc również z technik aktorskich i reżyserskich.
