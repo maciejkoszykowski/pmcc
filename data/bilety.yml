@@ -17,10 +17,11 @@ item  :
       - item: udział we wszystkich prelekcjach podczas konferencji w dniu 24 października
       - item: poczęstunek w trakcie przerw
       # - item: warsztat oddzielnie płatny 
+    disabled    : true
     btnText     : Kup Bilet
     btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2026/
 
-  - name        : Normal Ticket - Regular 
+  - name        : Normal Ticket - Regular
     price       : 449 PLN
     description :
     featurelist :
@@ -32,7 +33,7 @@ item  :
       # - item: warsztat oddzielnie płatny 
     btnText     : Kup Bilet
     btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2026/
-    
+
   - name        : Late birds
     price       : 599 PLN
     description : 
@@ -43,6 +44,22 @@ item  :
       - item: udział we wszystkich prelekcjach podczas konferencji w dniu 24 października
       - item: poczęstunek w trakcie przerw
       # - item: warsztat oddzielnie płatny 
+    btnText     : Kup Bilet
+    btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2026/
+
+  - name        : Blind Sale
+    price       : 199 PLN
+    description : 
+    featurelist :
+      - item: cena obowiązuje w terminie
+      - item: 04 maja 2026 – 04 czerwca 2026
+      - item: "  "
+      - item: cena promocyjna wyłącznie dla osób indywidualnych 
+      - item: brak opcji zakupu grupowego
+      - item: udział we wszystkich prelekcjach podczas konferencji w dniu 24 października
+      - item: poczęstunek w trakcie przerw
+     #  - item: warsztat oddzielnie płatny 
+    disabled    : true
     btnText     : Kup Bilet
     btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2026/
 
@@ -58,9 +75,9 @@ item  :
       - item: udział we wszystkich prelekcjach podczas konferencji w dniu 24 października
       - item: poczęstunek w trakcie przerw
       # - item: warsztat oddzielnie płatny 
+    disabled    : true
     btnText     : Kup Bilet
     btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2026/
-
 
   - name        : Normal Discounted - Partner/PMI
     price       : 399 PLN
@@ -71,21 +88,6 @@ item  :
       - item: "  "
       - item: cena promocyjna wyłącznie
       - item: dla czlonków PMI PC oraz dla pracowników, członków i partnerów wydarzania
-      - item: udział we wszystkich prelekcjach podczas konferencji w dniu 24 października
-      - item: poczęstunek w trakcie przerw
-     #  - item: warsztat oddzielnie płatny 
-    btnText     : Kup Bilet
-    btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2026/
-
-  - name        : Blind Sale
-    price       : 199 PLN
-    description : 
-    featurelist :
-      - item: cena obowiązuje w terminie
-      - item: 04 maja 2026 – 04 czerwca 2026
-      - item: "  "
-      - item: cena promocyjna wyłącznie dla osób indywidualnych 
-      - item: brak opcji zakupu grupowego
       - item: udział we wszystkich prelekcjach podczas konferencji w dniu 24 października
       - item: poczęstunek w trakcie przerw
      #  - item: warsztat oddzielnie płatny 
@@ -104,6 +106,6 @@ item  :
       - item: udział we wszystkich prelekcjach podczas konferencji w dniu 24 października
       - item: poczęstunek w trakcie przerw
      #  - item: warsztat oddzielnie płatny 
+    disabled    : true
     btnText     : Kup Bilet
     btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2026/
-

@@ -65,7 +65,7 @@ rada:
 
   - image         : images/team/rada/JakubSz.png
     name          : dr Jakub Szczepkowski
-    designation   : dr, Koordynator Impact Hub UMK
+    designation   : Koordynator Impact Hub UMK
     description   : >
       Doktor nauk o zarządzaniu i jakości, absolwent automatyki i robotyki, ekonomii oraz zarządzania projektami. Zawodowo związany z Uniwersytetem Mikołaja Kopernika w Toruniu, gdzie koordynuje Impact Hub i działania w zakresie strategii promocji międzynarodowej. Ekspert Polskiej Komisji Akredytacyjnej. Doświadczenie zdobywał także w organizacjach studenckich i doktoranckich na poziomie krajowym. Specjalizuje się w strategii, marketingu, rozwoju produktów i współpracy nauki z otoczeniem społeczno-gospodarczym. Wspiera organizacje i przedsiębiorstwa w budowaniu marki, komunikacji i rozwoju rynkowym.
     linkedInURL   : https://www.linkedin.com/in/jakub-szczepkowski/
@@ -134,7 +134,7 @@ member  :
 
   - image         : images/team/AleksandraK.png
     name          : Aleksandra Krawczyk
-    designation   : Leader ds. Logistyki
+    designation   : Lider ds. Logistyki
     description   : >
       Wolontariuszka PMI PC Kujawsko-Pomorskie Branch od 2014 roku. Początkowo zaangażowana w roli leadera do spraw marketingu i komunikacji, a następnie kierownika projektów współtworząc wiele wydarzeń, między innymi ogólnopolską inicjatywę PMI Women in Project Management.
       Zawodowo związana z branżą IT od ponad 11 lat. Kierowniczka projektów z doświadczeniem w prowadzeniu projektów end-to-end oraz zarządzaniu procesami biznesowymi.
@@ -144,7 +144,7 @@ member  :
 
   - image         : images/team/emilia.png
     name          : Emilia Kucharska
-    designation   : Leader ds. Administracyjnych
+    designation   : Lider ds. Administracyjnych
     description   : >
       Wolontariuszka PMI PC Kujawsko-Pomorskie Branch od 2019 roku.
       W latach 2020-2022 pełniła rolę Dyrektora Zarządzającego oddziałem.
@@ -154,7 +154,7 @@ member  :
 
   - image         : images/team/kamila.png
     name          : Kamila Kłosowska
-    designation   : Leader ds. Marketingu
+    designation   : Lider ds. Marketingu
     description   : >
       Z światem zarządzania projektami zawodowo związana od 6 lat. Swoje doświadczenie buduje w Project Management Office, które zostało wyróżnione The most mature PMO 2018 Portfolio Experience, PMO Award.
       Od roku rozwija się jako Project Managerka. Świetnie czuje się w obecnej roli, która pozwala jej na ciągłe doskonalenie.
@@ -218,7 +218,7 @@ member  :
 
   - image         : images/team/darek.png
     name          : Dariusz Ciechan
-    designation   : Leader ds. współpracy z partnerami
+    designation   : Lider ds. współpracy z partnerami
     description   : >
       Zarządza, wprowadza i doskonali zarządzanie projektami oraz zarządzanie portfelami projektów w organizacjach.
       Współpracuje z biznesem w celu rozwoju zarządzania projektami w ich organizacjach.
@@ -228,7 +228,7 @@ member  :
 
   - image         : images/team/JakubP.png
     name          : Jakub Polaszek
-    designation   : Quality Manager
+    designation   : Lider ds. zarządzania jakością
     description   : >
       Menadżer z ponad 24-letnim doświadczeniem w zarządzaniu projektami, programami oraz portfelami projektów. Posiada certyfikaty PMP®, PRINCE2®, MSP®, AgilePM®, Lean Six Sigma Yellow Belt, ITIL® oraz P3O®. Specjalizuje się w sektorach IT, ICT, bezpieczeństwa IT oraz rozwoju oprogramowania. Pełnił funkcje Wiceprezesa ds. Finansów oraz Członka Komisji Rewizyjnej w PMI Poland Chapter. Wykładał na podyplomowych studiach z Zaawansowanego Zarządzania Programami i Projektami na Wyższej Szkole Bankowej w Toruniu. Prowadził także warsztaty w ramach PMO Academy w Atos PGS. Jest recenzentem międzynarodowych standardów PMI oraz korektorem polskiego tłumaczenia Przewodnika PMBOK®. Obecnie prowadzi badania w ramach doktoratu wdrożeniowego na Uniwersytecie Mikołaja Kopernika w Toruniu, koncentrując się na zastosowaniu sztucznej inteligencji w prognozowaniu kluczowych wskaźników wydajności (KPI) projektów. Mentor i trener, pomagający kształtować przyszłych liderów zarządzania projektami.
     linkedInURL  : https://www.linkedin.com/in/polaszek/
@@ -237,8 +237,8 @@ member  :
 titleKomitet: Komitet Sterujący
 komitet:
   - image         : images/team/rada/marlena.png
-    name          : Marlena Ciechan-Kujawa
-    designation   : prof. UMK, Dziekan WNEiZ
+    name          : dr hab., prof UMK <br> Marlena Ciechan-Kujawa
+    designation   : Dziekan WNEiZ
     description   : >
       Profesor w Uniwersytecie Mikołaja Kopernika w Toruniu, Dziekan Wydziału Nauk Ekonomicznych i Zarządzania UMK.
       Od wielu lat kieruje realizowanymi z partnerami biznesowymi studiami podyplomowymi Business Controlling i Project Management. W swoich badaniach koncentruje się na analizie uwarunkowań i mechanizmów wdrażania strategii cyfrowych i zrównoważonych oraz ich wpływu na wyniki organizacji. Ekspertka w zakresie zintegrowanych systemów zarządzania, a także projektowania modeli pomiaru oraz raportowania finansowych  i niefinansowych generatorów efektywności biznesowej.
