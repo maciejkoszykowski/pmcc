@@ -12,10 +12,10 @@ icon_alt:
 #   Business Acumen: Growiec, Sowa, Wiśniewski, Żabiński
 #   Ways of Working: Mleczko, Karwacki, Michno, Wrzosek
 #   Power Skills:    Wojtkowski, Ławniczak, Szczęsny, Gut, Lipińska
-# PDU na wystąpienie: 45 min = 0,75; 40 min = 0,75; 30 min = 0,5; 25 min = 0,25 (jak we wnioskach do PMI)
-# suma dla każdej ścieżki = 5,5 (330 min wystąpień); wnioski: tmp/PDU/PMCC2026 - wnioski PDU.md
+# PDU na wystąpienie: 45 min = 0,75; 40 min = 0,75; 30 min = 0,5; 25 min = 0,5 (zatwierdzone w PMI)
+# suma dla każdej ścieżki = 6,0; źródło: eksport z PMI tmp/PDU/Courses_10_23_2026.xlsx
 pdu:
-  intro: "Udział w konferencji daje <b>5,5 PDU</b> do odnowienia certyfikatów PMI."
+  intro: "Udział w konferencji daje <b>6 PDU</b> do odnowienia certyfikatów PMI."
   columns:
     - name : "Ways of Working"
       icon : ways-of-working.png
@@ -31,9 +31,9 @@ pdu:
       color: "#EEEEEE"
   rows:
     - label : "Ścieżka Organizacyjna"
-      values: ["2,5", "0,5", "2,5", "5,5"]
+      values: ["2,75", "0,5", "2,75", "6"]
     - label : "Ścieżka Psychologiczna"
-      values: ["0,25", "3,5", "1,75", "5,5"]
+      values: ["0,5", "3,5", "2", "6"]
 
 # this control which day to display
 days:
@@ -88,10 +88,12 @@ program_per_day:
             who: "Rejestracja uczestników i networking przy kawie"
             title:  # null
             description: >
-              Przyjdź i zarejestruj się, uniknij kolejki i skorzystaj z networkingu przed wydarzeniem.
+              Przyjdź do Sali IV i zarejestruj się, uniknij kolejki i skorzystaj z networkingu przed wydarzeniem.
 
           - number: 5
             slot: "9:30 - 9:45"
+
+            room: "Sala IV"
             who: "Rozpoczęcie konferencji"
             title: "prof. UMK Marlena Ciechan-Kujawa oraz Maciej Koszykowski"
             description: >
@@ -99,6 +101,8 @@ program_per_day:
 
           - number: 10
             slot: "9:45 - 10:30"
+
+            room: "Sala IV"
             who: "Opening Keynote: prof. Jakub Growiec"
             title: >
               Transformatywna AI: obietnica przyspieszenia wzrostu czy zagrożenie egzystencjalne dla ludzkości?
@@ -108,9 +112,12 @@ program_per_day:
               transformatywnej AI i oceni ich skutki gospodarcze oraz ryzyka egzystencjalne. Pokaże, dlaczego
               nawet mało prawdopodobne scenariusze katastroficzne uzasadniają poważne inwestycje w badania nad
               bezpieczeństwem AI. Wykład otwierający, oparty na badaniach własnych.
+              <br>PDU Claim Code: 0389VSEX9K
 
           - number: 12
             slot: "10:30 - 10:55"
+
+            room: "Sala IV"
             who: "mec. Tomasz Sowa"
             title: "AI, szkoda, odpowiedzialność. Nowy reżim odpowiedzialności za produkt oczami zespołu projektowego"
             description: >
@@ -119,13 +126,15 @@ program_per_day:
               Wyjaśni, kto w łańcuchu odpowiada za szkodę, za co i od kiedy. Powie też, co zespół powinien
               dokumentować już dziś i jak długo to przechowywać. Usłyszysz konkretne zasady, które powinien znać
               każdy lider i Project Manager pracujący z oprogramowaniem.
+              <br>PDU Claim Code: 0389RE5NQH
 
           - number: 15
             slot: "10:55 - 11:10"
             who: ""
             title: "Podział na sale – wybierz prelekcje dla siebie"
             description: >
-              Po rozpoczęciu konferencji uczestnicy będą mogli rozchodzić się na dwie sale według własnego wyboru,
+              Po rozpoczęciu konferencji uczestnicy będą mogli rozchodzić się na dwie sale według własnego wyboru
+              (Ścieżka Organizacyjna – Sala IV, Ścieżka Psychologiczna – Sala III),
               dostosowując udział do tematów, które najbardziej ich interesują.
               Wiemy, że wybór może być trudny, ale tematyka jest tak obszerna, że warto było uwzględnić różnorodne zagadnienia,
               aby każdy mógł znaleźć coś dla siebie.
@@ -136,11 +145,13 @@ program_per_day:
           - number: 20
             slot: "room split"
             #room: Sala not used
-            title: "Ścieżka Organizacyjna"
+            title: "Ścieżka Organizacyjna – Sala IV"
             icon: gear.png
 
           - number: 22
             slot: "11:10 - 11:50"
+
+            room: "Sala IV"
             who: "dr Tomasz Żabiński"
             title: "Efektywne, odpowiedzialne i bezpieczne wdrażanie AI i Physical AI w firmach produkcyjnych"
             description: >
@@ -149,10 +160,13 @@ program_per_day:
               oporem zespołów i co mówią badania o zmianie stanowisk pracy. Poruszy też bezpieczeństwo techniczne
               i psychologiczne, wymogi AI Act oraz źródła finansowania. Wyjdziesz z listą kwestii do
               rozstrzygnięcia przed startem takiego projektu.
+              <br>PDU Claim Code: 0389XY0UZT
             icon: gear.png
 
           - number: 23
             slot: "11:50 - 12:30"
+
+            room: "Sala IV"
             who: "Dorota Mleczko"
             title: Rewolucja ról. Jak sztuczna inteligencja zmienia struktury zespołów projektowych i co to oznacza dla kierownika projektu
             description: >
@@ -161,10 +175,13 @@ program_per_day:
               Kierownika Programu. Opiera się na obserwacjach z wdrożeń AI w europejskich organizacjach i
               rozmowach z zespołami produktowymi. Dostaniesz argumenty, żeby przemyśleć strukturę zespołu,
               którym zarządzasz.
+              <br>PDU Claim Code: 0389Y7QAJ0
             icon: gear.png
 
           - number: 25
             slot: "13:20 - 14:00"
+
+            room: "Sala IV"
             who: Łukasz Karwacki
             title: "Od statusu do decyzji: jak PM staje się architektem decyzji w erze AI"
             description: >
@@ -173,10 +190,13 @@ program_per_day:
               na czym polega decision architecture: porządkowanie opcji, pokazywanie konsekwencji i redukowanie
               przeciążenia poznawczego interesariuszy. Punktem wyjścia są obserwacje z pracy z liderami
               prezentującymi złożone tematy zarządom. Wyjdziesz z modelem myślenia do zastosowania następnego dnia.
+              <br>PDU Claim Code: 0389OB6G7U
             icon: gear.png
 
           - number: 28
             slot: "14:00 - 14:40"
+
+            room: "Sala IV"
             who: "Katarzyna Michno"
             title: 'Nowa struktura projektu: jak agenci AI przejmują role w zespole - case study'
             description: >
@@ -184,17 +204,20 @@ program_per_day:
               AI przejmowali konkretne role: analityka, PMO, QA i wsparcia decyzyjnego. Każdy wariant
               przeanalizuje pod kątem wpływu na przebieg projektu, jakość rezultatów i sposób podejmowania
               decyzji. Wyjdziesz z konkretnym obrazem tego, co działa, a co się sypie w zespole hybrydowym.
+              <br>PDU Claim Code: 0389K2KNN9
             icon: gear.png
 
         ### Soft Sessions
           - number: 30
             slot: "room split"
             #room: Sala not used
-            title: "Ścieżka Psychologiczna"
+            title: "Ścieżka Psychologiczna – Sala III"
             icon: brain.png
 
           - number: 31
             slot: "11:10 - 11:50"
+
+            room: "Sala III"
             who: "dr Łukasz Wojtkowski"
             title: "UNBOX: od czarnej skrzynki do relacyjnej architektury decyzji"
             description: >
@@ -202,10 +225,13 @@ program_per_day:
               aktywny uczestnik: przesuwa sprawczość i rozprasza odpowiedzialność. Łukasz przedstawi autorską
               ramę UNBOX, która pomaga rozpoznać, gdzie decyzja naprawdę powstaje i kto może ją zatrzymać.
               Wyjdziesz ze schematem do świadomego projektowania odpowiedzialności w projektach z AI.
+              <br>PDU Claim Code: 0389ER6VLG
             icon: brain.png
 
           - number: 32
             slot: "11:50 - 12:30"
+
+            room: "Sala III"
             who: "Lucyna Ławniczak"
             title: "Bezpieczeństwo psychologiczne w erze AI: czego nie widzimy, a co nami zarządza"
             description: >
@@ -213,10 +239,13 @@ program_per_day:
               wyjaśni ten paradoks mechanizmem nierozpoznań z Analizy Transakcyjnej, czyli pomniejszania istotnych
               faktów o sobie, innych i sytuacji. Pokaże, jak prowadzi on do rozmycia ról i odkładania decyzji.
               Dostaniesz odpowiedź, dlaczego brak bezpieczeństwa psychologicznego blokuje wdrożenia.
+              <br>PDU Claim Code: 0389FDES2T
             icon: brain.png
 
           - number: 38
             slot: "13:20 - 14:00"
+
+            room: "Sala III"
             who: "dr Paweł Szczęsny"
             title: "AI czyli 'kto'? O ukrytych preferencjach systemów AI w kontekście zarządzania projektami "
             description: >
@@ -224,10 +253,13 @@ program_per_day:
               preferencje: domyślne założenia, wzorce interpretacji i określony stosunek do ryzyka. W projekcie
               wpływa to na priorytety, ocenę sytuacji i rozumienie sukcesu. Zaczniesz patrzeć na AI jak na
               aktywnego uczestnika środowiska projektowego.
+              <br>PDU Claim Code: 0389BJLWWR
             icon: brain.png
 
           - number: 65
             slot: "14:00 - 14:40"
+
+            room: "Sala III"
             who: "dr hab. Arkadiusz Gut"
             title: "Czy LLM-y mają dialogiczne i empatyczne self? O granicach zastępowania ludzi sztucznymi agentami w kulturowo wrażliwych przedsięwzięciach grupowych"
             description: >
@@ -236,6 +268,7 @@ program_per_day:
               różne modele językowe imitują samorefleksję i grupowe odpowiedzi ludzi z odmiennych kultur, wzdłuż
               osi Zachód-Wschód. Populację sztucznych agentów potraktuje przy tym jak grupę kulturową. Usłyszysz,
               gdzie leżą granice zastępowania ludzi agentami w przedsięwzięciach wrażliwych kulturowo.
+              <br>PDU Claim Code: 0389HZFGKF
             icon: brain.png
 
         ### Main Stage sessions - Part Various
@@ -253,7 +286,7 @@ program_per_day:
             who:
             title: >
               Wspólna przerwa kawowa z wszystkimi uczestnikami konferencji <br><br>
-              Po przerwie wracamy na sale główną.
+              Po przerwie wracamy na salę główną (Sala IV).
             description: >
               w przerwie warto porozmawiać z jeszcze niepoznaną osobą, przychodząc na konferencje chcemy poznawać wartościowych ludzi.
 
@@ -261,6 +294,8 @@ program_per_day:
 
           - number: 225
             slot: "15:05 - 15:30"
+
+            room: "Sala IV"
             who: "Dominik Wrzosek"
             title: "Transformacja zarządzania projektami IT w erze AI - gdzie przenosi się ciężar projektu"
             description: >
@@ -270,9 +305,12 @@ program_per_day:
               nowe nawyki. Rozwiązanie jednego wąskiego gardła od razu odsłaniało kolejne, w miejscach,
               o których wcześniej nikt nie myślał. Usłyszysz o całej drodze wdrożenia i o wyzwaniach,
               które wciąż stoją przed firmą.
+              <br>PDU Claim Code: 038917QUNW
 
           - number: 64
             slot: "15:30 - 16:00"
+
+            room: "Sala IV"
             who: "Izabela Lipińska"
             title: "Cognitive deskilling w pracy PM-a"
             description: >
@@ -281,9 +319,12 @@ program_per_day:
               przyspiesza bez postępów. Oba prowadzą do cognitive deskillingu, czyli utraty kompetencji
               poznawczych stanowiących o wartości PM-a. Poznasz konkretny scenariusz rozmowy z modelem i sposoby
               pracy z tym ryzykiem.
+              <br>PDU Claim Code: 0389OD4BZG
 
           - number: 230
             slot: "16:00 - 16:45"
+
+            room: "Sala IV"
             who: "Closing Keynote: dr Piotr Wiśniewski"
             title: "Firma po przewrocie AI. Jak zmieni się praca ludzi, zarządzanie i mechanizm działania organizacji"
             description: >
@@ -291,9 +332,12 @@ program_per_day:
               transformacji DBR77, którą sam prowadzi. Opowie o nowych rolach, innym sposobie zarządzania
               i zadaniach, które ludzie mogą oddać AI. Pokaże działające rozwiązania, konkretne doświadczenia
               i koszty tej zmiany. Usłyszysz, jak człowiek i AI mogą tworzyć w organizacji jeden system pracy.
+              <br>PDU Claim Code: 0389TDBMT5
 
           - number: 250
             slot: "16:45 - 17:00"
+
+            room: "Sala IV"
             who: "Zamknięcie konferencji"
             title:   "prof. UMK Marlena Ciechan-Kujawa oraz Maciej Koszykowski"
             description: >
