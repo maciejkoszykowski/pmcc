@@ -1,0 +1,34 @@
+<svg viewBox="0 0 425 443" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e0d39"/>
+      <stop offset="55%" stop-color="#170a2d"/>
+      <stop offset="100%" stop-color="#140528"/>
+    </linearGradient>
+
+    <radialGradient id="glowGrad" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+        gradientTransform="translate(400 221) scale(222 175)">
+      <stop offset="0%"   stop-color="#e9d7ea"/>
+      <stop offset="10%"  stop-color="#ddc0dd"/>
+      <stop offset="18%"  stop-color="#b28ec0"/>
+      <stop offset="30%"  stop-color="#7d549e"/>
+      <stop offset="45%"  stop-color="#4c2c78"/>
+      <stop offset="65%"  stop-color="#241247"/>
+      <stop offset="85%"  stop-color="#180b34"/>
+      <stop offset="100%" stop-color="#170a2d" stop-opacity="0"/>
+    </radialGradient>
+
+    <clipPath id="panelClip">
+      <rect x="0" y="0" width="362" height="443"/>
+    </clipPath>
+  </defs>
+
+  <!-- base background -->
+  <rect x="0" y="0" width="425" height="443" fill="url(#bgGrad)"/>
+
+  <!-- lit panel: soft glow spreading left from the fold, clipped so the
+       right-hand side (back of the fold) stays in plain shadow -->
+  <g clip-path="url(#panelClip)">
+    <rect x="0" y="0" width="425" height="443" fill="url(#glowGrad)"/>
+  </g>
+</svg>

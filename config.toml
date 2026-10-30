@@ -192,6 +192,11 @@ name = "2025"
 url = "https://pmcc.pmi.org.pl/2025/index.html"
 weight = 31
 
+[[menu.nav]]
+name = "2026"
+url = "https://pmcc.pmi.org.pl/2026/index.html"
+weight = 32
+
 # Footer Quick links Menu
 [[menu.quicklink]]
 name = "Polityka prywatności"

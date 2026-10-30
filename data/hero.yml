@@ -19,7 +19,7 @@ day1_date: " "
 day2_date: " " # not used in 2025
 
 
-button: true
+button: false # po konferencji 2026 sprzedaż zakończona
 btnText: "Kup Bilet"
 #btnText: "Zgłoś swój temat"
 

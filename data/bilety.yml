@@ -31,6 +31,7 @@ item  :
       - item: udział we wszystkich prelekcjach podczas konferencji w dniu 24 października
       - item: poczęstunek w trakcie przerw
       # - item: warsztat oddzielnie płatny 
+    disabled    : true
     btnText     : Kup Bilet
     btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2026/
 
@@ -44,6 +45,7 @@ item  :
       - item: udział we wszystkich prelekcjach podczas konferencji w dniu 24 października
       - item: poczęstunek w trakcie przerw
       # - item: warsztat oddzielnie płatny 
+    disabled    : true
     btnText     : Kup Bilet
     btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2026/
 
@@ -91,6 +93,7 @@ item  :
       - item: udział we wszystkich prelekcjach podczas konferencji w dniu 24 października
       - item: poczęstunek w trakcie przerw
      #  - item: warsztat oddzielnie płatny 
+    disabled    : true
     btnText     : Kup Bilet
     btnURL      : https://pmipolandchapter.ticketbutler.io/en/e/pm-connect-conf-pmcc-2026/
 

@@ -1,0 +1,69 @@
+/* Odchudzona wersja themefisher-font/style.css z motywu — tylko ikonki używane w szablonach.
+   Nadpisuje plik z motywu (Hugo: plik w projekcie wygrywa). Nowa ikonka tf-... w szablonie?
+   Dopisz tu jej regułę :before z pełnego pliku w themes/navigator-hugo/static/plugins/themefisher-font/style.css. */
+
+@font-face {
+  font-family: 'themefisher-font';
+  src:  url('fonts/themefisher-font.eot?ug5hnh');
+  src:  url('fonts/themefisher-font.eot?ug5hnh#iefix') format('embedded-opentype'),
+    url('fonts/themefisher-font.ttf?ug5hnh') format('truetype'),
+    url('fonts/themefisher-font.woff?ug5hnh') format('woff'),
+    url('fonts/themefisher-font.svg?ug5hnh#themefisher-font') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="tf-"], [class*=" tf-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'themefisher-font' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.tf-ion-android-checkbox-outline:before {
+  content: "\f373";
+}
+.tf-ion-android-pin:before {
+  content: "\f3a3";
+}
+.tf-ion-ios-contact:before {
+  content: "\f41a";
+}
+.tf-ion-ios-search-strong:before {
+  content: "\f4a4";
+}
+.tf-ion-ios-telephone:before {
+  content: "\f4b9";
+}
+.tf-ion-play:before {
+  content: "\f215";
+}
+.tf-ion-quote:before {
+  content: "\f347";
+}
+.tf-ion-social-dribbble:before {
+  content: "\f22d";
+}
+.tf-ion-social-facebook:before {
+  content: "\f231";
+}
+.tf-ion-social-google-outline:before {
+  content: "\f34e";
+}
+.tf-ion-social-instagram:before {
+  content: "\f351";
+}
+.tf-ion-social-linkedin:before {
+  content: "\f239";
+}
+.tf-ion-social-twitter:before {
+  content: "\f243";
+}
