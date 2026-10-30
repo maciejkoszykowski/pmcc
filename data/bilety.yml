@@ -1,4 +1,4 @@
-enable  : true
+enable  : false # ukryte po konferencji 2026
 topTitle: PM Connect Conf
 title   : Bilety
 subtitle : >

@@ -2,11 +2,17 @@ enable  : true # this is always on
 topTitle: PM Connect Conf 
 title   : Hero
 
-main_heading: "PM CONNECT CONF 2026"
-subheading: "Kolejny przewrót kopernikański <br> Organizacyjne i psychologiczne wyzwania zarządzania projektami w erze AI"
+main_heading: "PM CONNECT CONF 2027"
+subheading: "Zapraszamy na kolejną edycję konferencji"
 
-timer_conf_start_date: "2026-10-24T10:00:00"
-timer_conf_start_date_human: "24 października 2026"
+timer_conf_start_date: "2027-10-23T09:40:00" # godzina tylko dla licznika, na stronie jej nie podajemy
+timer_conf_start_date_human: "23 października 2027"
+
+# link pod licznikiem do archiwum poprzedniej edycji (lista - można dopisać kolejne lata)
+archive_txt: "Szukasz strony z poprzedniej edycji? Kliknij:"
+archive_links:
+  - name: "2026"
+    url : "https://pmcc.pmi.org.pl/2026/index.html"
 
 show_more_msg: false
 
@@ -19,7 +25,7 @@ day1_date: " "
 day2_date: " " # not used in 2025
 
 
-button: false # po konferencji 2026 sprzedaż zakończona
+button: false # po konferencji 2026 sprzedaż zakończona; włączyć na Blind Sale 2027
 btnText: "Kup Bilet"
 #btnText: "Zgłoś swój temat"
 

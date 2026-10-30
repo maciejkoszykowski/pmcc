@@ -88,7 +88,7 @@ expire_days = 2
 ###################
 # too static to be yaml ?
 [params.contact]
-enable = true
+enable = false # sekcja Lokalizacja ukryta po konferencji 2026 (miejsce 2027 nieznane)
 topTitle = "PM Connect Conf"
 title = "Miejsce konferencji"
 subtitle = " "
@@ -136,46 +136,46 @@ weight = 27
 #url = "#call4papers"
 #weight = 7
 
-[[menu.nav]]
-name = "Prelegenci"
-url = "#Prelegenci"
-weight = 3
+#[[menu.nav]]
+#name = "Prelegenci"
+#url = "#Prelegenci"
+#weight = 3
 
-[[menu.nav]]
-name = "Prowadzący"
-url = "#Prowadzacy"
-weight = 10
+#[[menu.nav]]
+#name = "Prowadzący"
+#url = "#Prowadzacy"
+#weight = 10
 
 
-[[menu.nav]]
-name = "Agenda"
-url = "#Agenda"
-weight = 5
+#[[menu.nav]]
+#name = "Agenda"
+#url = "#Agenda"
+#weight = 5
 
 #[[menu.nav]]
 #name = "Panel"
 #url = "#Panel"
 #weight = 6
 
-[[menu.nav]]
-name = "Bilety"
-url = "#Bilety"
-weight = 28
+#[[menu.nav]]
+#name = "Bilety"
+#url = "#Bilety"
+#weight = 28
 
-[[menu.nav]]
-name = "Partnerzy"
-url = "#Partnerzy"
-weight = 18
+#[[menu.nav]]
+#name = "Partnerzy"
+#url = "#Partnerzy"
+#weight = 18
 
-[[menu.nav]]
-name = "Lokalizacja"
-url = "#Lokalizacja"
-weight = 7
+#[[menu.nav]]
+#name = "Lokalizacja"
+#url = "#Lokalizacja"
+#weight = 7
 
-[[menu.nav]]
-name = "Zespół"
-url = "#Zespol"
-weight = 25
+#[[menu.nav]]
+#name = "Zespół"
+#url = "#Zespol"
+#weight = 25
 
 [[menu.nav]]
 name = "Regulamin"

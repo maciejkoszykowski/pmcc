@@ -8,12 +8,12 @@ build:
   render: never
   list: never
 ---
-PM CONNECT CONF to wyjątkowe wydarzenie, które w dynamiczny sposób łączy teorię z praktyką w dziedzinie zarządzania projektami. To również okazja do inspirującego networkingu w gronie profesjonalistów. Dzięki spotkaniu z ekspertami i liderami branży uczestnicy mogą wymieniać się doświadczeniami oraz nawiązywać wartościowe kontakty wspierające dalszy rozwój zawodowy. **Dołącz do nas, jeśli chcesz czerpać inspirację, zdobywać praktyczną wiedzę i spotkać ludzi, którzy podobnie jak Ty poszukują nowych perspektyw w zarządzaniu projektami.**
+PM CONNECT CONF to wydarzenie, które łączy teorię z praktyką zarządzania projektami. To także miejsce inspirującego networkingu w gronie profesjonalistów. Konferencję współtworzą kujawsko-pomorski oddział PMI Poland Chapter oraz Wydział Nauk Ekonomicznych i Zarządzania UMK w Toruniu.
 
-Opracowując **program PMCC 2026**, skoncentrowaliśmy się na jednej z najważniejszych zmian, jakie obecnie wpływają na zarządzanie projektami. Dynamiczny rozwój sztucznej inteligencji powoduje, że systemy AI przestają być wyłącznie narzędziami wspierającymi, a coraz częściej stają się aktywnymi uczestnikami procesów analitycznych i decyzyjnych. Zmiana ta skłania do ponownego przemyślenia roli lidera, znaczenia doświadczenia oraz granic odpowiedzialności w środowisku projektowym.
+**PMCC 2026 za nami!** 24 października 2026 roku w Toruniu spotkało się **ponad 160 osób**. Pod hasłem **„Kolejny przewrót kopernikański”** rozmawialiśmy o organizacyjnych i psychologicznych wyzwaniach zarządzania projektami w erze AI. Program miał dwie ścieżki: organizacyjną i psychologiczną. Złożyło się na niego 13 wystąpień, a uczestnicy mogli zdobyć 6 PDU. Dziękujemy prelegentom, partnerom, wolontariuszom i wszystkim uczestnikom!
 
-Tegoroczna edycja konferencji PM CONNECT CONF poświęcona jest funkcjonowaniu organizacji i zespołów projektowych w warunkach rosnącej autonomii technologii. Analizujemy zarówno organizacyjne, jak i psychologiczne konsekwencje współpracy człowieka z systemami AI, a także wpływ tej współpracy na proces podejmowania decyzji, budowanie autorytetu lidera oraz projektowanie odpowiedzialnych modeli zarządzania.
+Każda edycja to krok dalej. **W 2024 roku** zaczęliśmy od tematu „Zarządzanie projektami w dobie AI”: był dzień warsztatów i dzień konferencji. **W 2025 roku** pod hasłem „AI automatyzuje, PM humanizuje” postawiliśmy na człowieka. Program miał dwie ścieżki: „twardą” i „miękką”. **W 2026 roku** zapytaliśmy, jakie miejsce zostaje człowiekowi, gdy AI staje się uczestnikiem decyzji.
 
-Hasło **„Kopernikański przewrót w zarządzaniu projektami”** podkreśla skalę zachodzącej transformacji. Tak jak rewolucja kopernikańska zmieniła sposób postrzegania miejsca człowieka we wszechświecie, tak rozwój sztucznej inteligencji zmusza do ponownego zdefiniowania miejsca człowieka w procesach organizacyjnych i decyzyjnych. **Dlatego program konferencji został podzielony na dwie ścieżki: organizacyjną oraz psychologiczną.** Pozwalają one spojrzeć na wyzwania ery AI zarówno z perspektywy zarządzania projektami i struktur organizacyjnych, jak i funkcjonowania człowieka w środowisku hybrydowym człowiek–AI.
+**Zapraszamy już teraz na PM CONNECT CONF 2027, która odbędzie się 23 października 2027 roku.**
 
-**Zapraszamy do zapoznania się z Agendą wydarzenia.**
+Zdjęcia z poprzednich edycji znajdziesz w [Galerii](/galeria).

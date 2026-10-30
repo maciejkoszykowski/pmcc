@@ -23,6 +23,7 @@ item   :
 # pasek zdjęć na stronie głównej (pod hero): losowe zdjęcia ze wszystkich lat z `item`
 pasek:
   enable    : true
+  top       : true # true = niski pasek nad hero, bez nagłówka i linku; false = duży pasek pod hero
   topTitle  : PM Connect Conf
   title     : Tak było w poprzednich latach
   count     : 20   # ile zdjęć losować przy każdym wejściu na stronę
