@@ -10,6 +10,9 @@ filtermenu :
   - name      : 2025
     category  : 2025
 
+  - name      : 2026
+    category  : 2026
+
 
 item   :
   - title : 2024
@@ -19,6 +22,10 @@ item   :
   - title : 2025
     image_count : 76 
     category  : 2025
+
+  - title : 2026
+    image_count : 230
+    category  : 2026
 
 # pasek zdjęć na stronie głównej (pod hero): losowe zdjęcia ze wszystkich lat z `item`
 pasek:
